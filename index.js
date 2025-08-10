@@ -56,7 +56,8 @@ function generateCasePDF(caseObj, callback) {
   const outDir = path.join(__dirname, 'pdfs');
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 
-  const PYTHON_BIN = process.env.PYTHON_BIN || '/opt/py/bin/python'; // <— use venv Python
+  const PYTHON_BIN = process.env.PYTHON_BIN || '/opt/py/bin/python';
+  console.log('Using Python:', PYTHON_BIN); // <-- add this for sanity
 
   execFile(
     PYTHON_BIN,
