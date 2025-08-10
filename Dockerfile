@@ -25,15 +25,17 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm ci --omit=dev
 
-# ---- Python venv for reportlab (avoids PEP 668 issues) ----
+# Create venv to avoid PEP 668 issues
+RUN apt-get update && apt-get install -y python3 python3-venv python3-dev build-essential \
+    libfreetype6-dev libjpeg62-turbo-dev zlib1g-dev libffi-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create venv and install reportlab
 RUN python3 -m venv /opt/py \
  && /opt/py/bin/pip install --no-cache-dir --upgrade pip \
  && /opt/py/bin/pip install --no-cache-dir reportlab \
- && ln -s /opt/py/bin/python /usr/local/bin/python3 \
- && ln -s /opt/py/bin/pip /usr/local/bin/pip3
-# -----------------------------------------------------------
-
-RUN pip3 install --no-cache-dir reportlab
+ && ln -sf /opt/py/bin/python /usr/local/bin/python3 \
+ && ln -sf /opt/py/bin/pip /usr/local/bin/pip3
 
 # Copy the rest of your source
 COPY . .
