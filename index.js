@@ -8,7 +8,7 @@ const path = require('path');
 const { S3Client, PutObjectCommand } = require('@aws-sdk/client-s3');
 
 // If you deploy on Linux (VPS/Docker), make sure Chromium path is set:
-process.env.PUPPETEER_EXECUTABLE_PATH = process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/chromium';
+// process.env.PUPPETEER_EXECUTABLE_PATH = process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/chromium';
 
 // ===== S3 CONFIG (from .env) =====
 const s3 = new S3Client({
