@@ -1,9 +1,10 @@
-# Dockerfile
+# Lean base; puppeteer will download its own Chromium
 FROM node:20-bookworm-slim
 
-# Python (for reportlab) + runtime libs Chromium needs at runtime
+# Python + build deps + runtime libs for puppeteer/Chromium
 RUN apt-get update && apt-get install -y \
-  python3 python3-pip \
+  python3 python3-pip python3-dev build-essential \
+  libfreetype6-dev libjpeg62-turbo-dev zlib1g-dev libffi-dev \
   ca-certificates \
   fonts-liberation \
   libasound2 \
@@ -15,7 +16,7 @@ RUN apt-get update && apt-get install -y \
   libxtst6 xdg-utils \
   && rm -rf /var/lib/apt/lists/*
 
-# Let puppeteer download its own Chromium during npm install (default)
+# Let puppeteer download Chromium during npm install
 ENV PUPPETEER_SKIP_DOWNLOAD=false
 
 WORKDIR /app
@@ -30,7 +31,7 @@ RUN pip3 install --no-cache-dir reportlab
 # Copy the rest of your source
 COPY . .
 
-# Create persistent dirs (map via volumes in docker-compose)
+# Persisted dirs (mounted via docker-compose volumes)
 RUN mkdir -p /app/.wwebjs_auth /app/pdfs
 
 ENV NODE_ENV=production
