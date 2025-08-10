@@ -56,23 +56,25 @@ function generateCasePDF(caseObj, callback) {
   const outDir = path.join(__dirname, 'pdfs');
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 
+  const PYTHON_BIN = process.env.PYTHON_BIN || '/opt/py/bin/python'; // <— use venv Python
+
   execFile(
-    'python3',
+    PYTHON_BIN,
     [path.join(__dirname, 'case_pdf_generator.py'), tempJsonPath, '--out', outDir],
     (err, stdout, stderr) => {
       if (err) {
-        console.error('PDF generation error:', stderr);
+        console.error('PDF generation error:', stderr || err.message);
         return callback(err);
       }
       const generatedPath = (stdout || '').trim().split('\n').pop();
       if (!generatedPath || !fs.existsSync(generatedPath)) {
         return callback(new Error('PDF not generated'));
       }
-      // Optional: fs.unlinkSync(tempJsonPath);
       callback(null, generatedPath);
     }
   );
 }
+
 
 // ===== QUIZ FLOW =====
 async function startNextCase(client, forUserId = null) {
