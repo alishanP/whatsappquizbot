@@ -33,6 +33,8 @@ RUN python3 -m venv /opt/py \
  && ln -s /opt/py/bin/pip /usr/local/bin/pip3
 # -----------------------------------------------------------
 
+RUN pip3 install --no-cache-dir reportlab
+
 # Copy the rest of your source
 COPY . .
 
