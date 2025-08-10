@@ -11,7 +11,6 @@ services:
       - S3_BUCKET_NAME=${S3_BUCKET_NAME}
       - WHATSAPP_GROUP_ID=${WHATSAPP_GROUP_ID}
       - WHATSAPP_TARGET_USER=${WHATSAPP_TARGET_USER}
-      - PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
     volumes:
       - ./data/auth:/app/.wwebjs_auth     # persists WhatsApp session
       - ./data/pdfs:/app/pdfs             # optional: local copies of PDFs

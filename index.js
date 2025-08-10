@@ -6,6 +6,7 @@ const { execFile } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 const { S3Client, PutObjectCommand } = require('@aws-sdk/client-s3');
+const puppeteer = require('puppeteer');
 
 // If you deploy on Linux (VPS/Docker), make sure Chromium path is set:
 // process.env.PUPPETEER_EXECUTABLE_PATH = process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/chromium';
@@ -135,9 +136,12 @@ async function endQuiz(client) {
 // ===== WHATSAPP BOT =====
 const client = new Client({
   authStrategy: new LocalAuth({
-    // Persist session locally; mount this folder as a volume if using Docker
     dataPath: path.join(__dirname, '.wwebjs_auth'),
   }),
+  puppeteer: {
+    executablePath: puppeteer.executablePath(),   // <— use bundled Chromium
+    args: ['--no-sandbox', '--disable-setuid-sandbox'], // recommended in Docker
+  },
 });
 
 client.on('qr', qr => qrcode.generate(qr, { small: true }));
