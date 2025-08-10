@@ -1,0 +1,3432 @@
+[
+  {
+    "case_id": "refractive_case_1",
+    "topic": "General (Refractive)",
+    "case_data": {
+      "demographics": "27-year-old female",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_2",
+    "topic": "General (Refractive)",
+    "case_data": {
+      "demographics": "22-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_3",
+    "topic": "General (Refractive)",
+    "case_data": {
+      "demographics": "41-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_4",
+    "topic": "General (Refractive)",
+    "case_data": {
+      "demographics": "16-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_5",
+    "topic": "General (Refractive)",
+    "case_data": {
+      "demographics": "32-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_6",
+    "topic": "Optics (Refractive)",
+    "case_data": {
+      "demographics": "22-year-old female",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_7",
+    "topic": "Optics (Refractive)",
+    "case_data": {
+      "demographics": "56-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_8",
+    "topic": "Optics (Refractive)",
+    "case_data": {
+      "demographics": "41-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_9",
+    "topic": "Optics (Refractive)",
+    "case_data": {
+      "demographics": "32-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_10",
+    "topic": "Optics (Refractive)",
+    "case_data": {
+      "demographics": "24-year-old female",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_11",
+    "topic": "Dioptric Defects (Refractive)",
+    "case_data": {
+      "demographics": "53-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_12",
+    "topic": "Dioptric Defects (Refractive)",
+    "case_data": {
+      "demographics": "31-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_13",
+    "topic": "Dioptric Defects (Refractive)",
+    "case_data": {
+      "demographics": "28-year-old female",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_14",
+    "topic": "Dioptric Defects (Refractive)",
+    "case_data": {
+      "demographics": "53-year-old male",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_15",
+    "topic": "Dioptric Defects (Refractive)",
+    "case_data": {
+      "demographics": "31-year-old female",
+      "chief_complaint": "Blurred distance vision that improves with refraction; wants best optical solution.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.50 DS → 20/20, OS -1.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "Clear cornea and lens",
+        "fundus": "Normal OU"
+      },
+      "description": "Refractive error amenable to spectacle/CL correction; optical considerations discussed."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_16",
+    "topic": "Myopia (Refractive)",
+    "case_data": {
+      "demographics": "32-year-old female",
+      "chief_complaint": "Blurred distance vision in class and night driving; near is comfortable.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/50, OS 20/55 (sc)",
+        "subjective_refraction": "OD -2.00 DS → 20/20, OS -2.50 DS → 20/20",
+        "cover_test": "Ortho at distance and near",
+        "anterior_segment": "Clear cornea, normal lens",
+        "fundus": "Healthy disc and macula OU"
+      },
+      "description": "Myopia with good BCVA; symptoms consistent with uncorrected distance refractive error."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_17",
+    "topic": "Myopia (Refractive)",
+    "case_data": {
+      "demographics": "59-year-old male",
+      "chief_complaint": "Blurred distance vision in class and night driving; near is comfortable.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/45, OS 20/50 (sc)",
+        "subjective_refraction": "OD -2.25 DS → 20/20, OS -2.75 DS → 20/20",
+        "cover_test": "Ortho at distance and near",
+        "anterior_segment": "Clear cornea, normal lens",
+        "fundus": "Healthy disc and macula OU"
+      },
+      "description": "Myopia with good BCVA; symptoms consistent with uncorrected distance refractive error."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_18",
+    "topic": "Myopia (Refractive)",
+    "case_data": {
+      "demographics": "34-year-old male",
+      "chief_complaint": "Blurred distance vision in class and night driving; near is comfortable.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/45 (sc)",
+        "subjective_refraction": "OD -2.50 DS → 20/20, OS -3.00 DS → 20/20",
+        "cover_test": "Ortho at distance and near",
+        "anterior_segment": "Clear cornea, normal lens",
+        "fundus": "Healthy disc and macula OU"
+      },
+      "description": "Myopia with good BCVA; symptoms consistent with uncorrected distance refractive error."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_19",
+    "topic": "Myopia (Refractive)",
+    "case_data": {
+      "demographics": "43-year-old female",
+      "chief_complaint": "Blurred distance vision in class and night driving; near is comfortable.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/35, OS 20/60 (sc)",
+        "subjective_refraction": "OD -2.75 DS → 20/20, OS -3.25 DS → 20/20",
+        "cover_test": "Ortho at distance and near",
+        "anterior_segment": "Clear cornea, normal lens",
+        "fundus": "Healthy disc and macula OU"
+      },
+      "description": "Myopia with good BCVA; symptoms consistent with uncorrected distance refractive error."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_20",
+    "topic": "Myopia (Refractive)",
+    "case_data": {
+      "demographics": "37-year-old male",
+      "chief_complaint": "Blurred distance vision in class and night driving; near is comfortable.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/50, OS 20/55 (sc)",
+        "subjective_refraction": "OD -3.00 DS → 20/20, OS -3.50 DS → 20/20",
+        "cover_test": "Ortho at distance and near",
+        "anterior_segment": "Clear cornea, normal lens",
+        "fundus": "Healthy disc and macula OU"
+      },
+      "description": "Myopia with good BCVA; symptoms consistent with uncorrected distance refractive error."
+    },
+    "questions": [
+      {
+        "q": "Which correction most directly addresses the distance blur?",
+        "options": [
+          "Single-vision minus spectacles",
+          "Plus readers",
+          "Pinhole only",
+          "Cycloplegia drops"
+        ],
+        "answer": "Single-vision minus spectacles",
+        "explanation": "Minus lenses correct myopic defocus for distance."
+      },
+      {
+        "q": "What change most reduces night halos for myope with residual cyl?",
+        "options": [
+          "Add -0.25 cyl at correct axis",
+          "Increase sphere by -0.50D",
+          "Photochromic lenses",
+          "Lower vertex distance 5 mm"
+        ],
+        "answer": "Add -0.25 cyl at correct axis",
+        "explanation": "Fine-tuning residual cylinder improves night image quality."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_21",
+    "topic": "Hyperopia (Refractive)",
+    "case_data": {
+      "demographics": "47-year-old male",
+      "chief_complaint": "Eyestrain and frontal headaches after prolonged reading, worse late in the day.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/25, OS 20/25",
+        "subjective_refraction": "OD +0.75 DS → 20/20, OS +1.25 DS → 20/20 (near add +1.25)",
+        "cover_test": "2 exophoria at near",
+        "anterior_segment": "Normal; mild conjunctival injection after near work",
+        "fundus": "Normal OU"
+      },
+      "description": "Latent/manifest hyperopia producing near asthenopia; improved with plus at near."
+    },
+    "questions": [
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_22",
+    "topic": "Hyperopia (Refractive)",
+    "case_data": {
+      "demographics": "18-year-old male",
+      "chief_complaint": "Eyestrain and frontal headaches after prolonged reading, worse late in the day.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/25, OS 20/25",
+        "subjective_refraction": "OD +1.00 DS → 20/20, OS +1.50 DS → 20/20 (near add +1.25)",
+        "cover_test": "2 exophoria at near",
+        "anterior_segment": "Normal; mild conjunctival injection after near work",
+        "fundus": "Normal OU"
+      },
+      "description": "Latent/manifest hyperopia producing near asthenopia; improved with plus at near."
+    },
+    "questions": [
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_23",
+    "topic": "Hyperopia (Refractive)",
+    "case_data": {
+      "demographics": "47-year-old female",
+      "chief_complaint": "Eyestrain and frontal headaches after prolonged reading, worse late in the day.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/25, OS 20/25",
+        "subjective_refraction": "OD +1.25 DS → 20/20, OS +1.75 DS → 20/20 (near add +1.25)",
+        "cover_test": "2 exophoria at near",
+        "anterior_segment": "Normal; mild conjunctival injection after near work",
+        "fundus": "Normal OU"
+      },
+      "description": "Latent/manifest hyperopia producing near asthenopia; improved with plus at near."
+    },
+    "questions": [
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_24",
+    "topic": "Hyperopia (Refractive)",
+    "case_data": {
+      "demographics": "59-year-old female",
+      "chief_complaint": "Eyestrain and frontal headaches after prolonged reading, worse late in the day.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/25, OS 20/25",
+        "subjective_refraction": "OD +1.50 DS → 20/20, OS +1.00 DS → 20/20 (near add +1.25)",
+        "cover_test": "2 exophoria at near",
+        "anterior_segment": "Normal; mild conjunctival injection after near work",
+        "fundus": "Normal OU"
+      },
+      "description": "Latent/manifest hyperopia producing near asthenopia; improved with plus at near."
+    },
+    "questions": [
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_25",
+    "topic": "Hyperopia (Refractive)",
+    "case_data": {
+      "demographics": "26-year-old male",
+      "chief_complaint": "Eyestrain and frontal headaches after prolonged reading, worse late in the day.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/25, OS 20/25",
+        "subjective_refraction": "OD +0.75 DS → 20/20, OS +1.25 DS → 20/20 (near add +1.25)",
+        "cover_test": "2 exophoria at near",
+        "anterior_segment": "Normal; mild conjunctival injection after near work",
+        "fundus": "Normal OU"
+      },
+      "description": "Latent/manifest hyperopia producing near asthenopia; improved with plus at near."
+    },
+    "questions": [
+      {
+        "q": "Which symptom profile fits uncorrected hyperopia in young adult?",
+        "options": [
+          "Asthenopia after near work",
+          "Distance diplopia only",
+          "Color desaturation",
+          "Peripheral field constriction"
+        ],
+        "answer": "Asthenopia after near work",
+        "explanation": "Accommodative demand at near causes eyestrain in latent hyperopes."
+      },
+      {
+        "q": "Which test best reveals latent hyperopia?",
+        "options": [
+          "Cycloplegic refraction",
+          "Pinhole acuity",
+          "Amsler grid",
+          "Keratometry"
+        ],
+        "answer": "Cycloplegic refraction",
+        "explanation": "Cycloplegia relaxes accommodation to uncover latent hyperopia."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_26",
+    "topic": "Astigmatism (Refractive)",
+    "case_data": {
+      "demographics": "40-year-old male",
+      "chief_complaint": "Ghosting/doubling of letters at distance, especially at night.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.00 -1.25 x 180 → 20/20, OS -0.75 -1.25 x 175 → 20/20",
+        "cover_test": "Ortho distance/near",
+        "anterior_segment": "Clear cornea",
+        "fundus": "Normal OU"
+      },
+      "description": "Regular corneal astigmatism, fully correctable with cylindrical lenses."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_27",
+    "topic": "Astigmatism (Refractive)",
+    "case_data": {
+      "demographics": "43-year-old male",
+      "chief_complaint": "Ghosting/doubling of letters at distance, especially at night.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.00 -1.50 x 175 → 20/20, OS -0.75 -1.50 x 170 → 20/20",
+        "cover_test": "Ortho distance/near",
+        "anterior_segment": "Clear cornea",
+        "fundus": "Normal OU"
+      },
+      "description": "Regular corneal astigmatism, fully correctable with cylindrical lenses."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_28",
+    "topic": "Astigmatism (Refractive)",
+    "case_data": {
+      "demographics": "45-year-old female",
+      "chief_complaint": "Ghosting/doubling of letters at distance, especially at night.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.00 -1.75 x 170 → 20/20, OS -0.75 -1.00 x 165 → 20/20",
+        "cover_test": "Ortho distance/near",
+        "anterior_segment": "Clear cornea",
+        "fundus": "Normal OU"
+      },
+      "description": "Regular corneal astigmatism, fully correctable with cylindrical lenses."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_29",
+    "topic": "Astigmatism (Refractive)",
+    "case_data": {
+      "demographics": "30-year-old male",
+      "chief_complaint": "Ghosting/doubling of letters at distance, especially at night.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.00 -1.25 x 165 → 20/20, OS -0.75 -1.25 x 160 → 20/20",
+        "cover_test": "Ortho distance/near",
+        "anterior_segment": "Clear cornea",
+        "fundus": "Normal OU"
+      },
+      "description": "Regular corneal astigmatism, fully correctable with cylindrical lenses."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_30",
+    "topic": "Astigmatism (Refractive)",
+    "case_data": {
+      "demographics": "36-year-old male",
+      "chief_complaint": "Ghosting/doubling of letters at distance, especially at night.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/30 (sc)",
+        "subjective_refraction": "OD -1.00 -1.50 x 180 → 20/20, OS -0.75 -1.50 x 175 → 20/20",
+        "cover_test": "Ortho distance/near",
+        "anterior_segment": "Clear cornea",
+        "fundus": "Normal OU"
+      },
+      "description": "Regular corneal astigmatism, fully correctable with cylindrical lenses."
+    },
+    "questions": [
+      {
+        "q": "What prism is induced by temporal decentration of a minus lens?",
+        "options": [
+          "Base-in",
+          "Base-out",
+          "Base-up",
+          "None"
+        ],
+        "answer": "Base-in",
+        "explanation": "Minus lenses act like prisms with bases toward the edge; temporal decentration induces BI."
+      },
+      {
+        "q": "Rotating a -1.00 cyl lens 15° off-axis most likely causes:",
+        "options": [
+          "Oblique blur and decreased VA",
+          "No change in vision",
+          "Magnification only",
+          "Monocular diplopia"
+        ],
+        "answer": "Oblique blur and decreased VA",
+        "explanation": "Axis misalignment of cylinder degrades the retinal image."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_31",
+    "topic": "Surgery / Orthokeratology (Refractive)",
+    "case_data": {
+      "demographics": "35-year-old male",
+      "chief_complaint": "Interested in laser vision correction/Ortho-K to reduce dependence on glasses.",
+      "ocular_history": "Soft CL wearer; stable refraction for 2 years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/25",
+        "subjective_refraction": "OD -4.50 DS → 20/20, OS -4.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "TBUT mildly reduced; corneal topography regular",
+        "fundus": "Normal OU"
+      },
+      "description": "Candidate evaluation for refractive surgery/Ortho-K pending corneal stability and tear film."
+    },
+    "questions": [
+      {
+        "q": "Which is a relative contraindication to corneal refractive surgery?",
+        "options": [
+          "Progressive keratoconus",
+          "Stable -2.00D myopia",
+          "Age 30 with healthy corneas",
+          "Mild dry eye responsive to tears"
+        ],
+        "answer": "Progressive keratoconus",
+        "explanation": "Ectatic disorders are contraindications due to risk of worsening irregularity."
+      },
+      {
+        "q": "Primary mechanism of myopia reduction in orthokeratology is:",
+        "options": [
+          "Central epithelial thinning with mid-peripheral steepening",
+          "Lens-induced axial shortening",
+          "Stromal thickening centrally",
+          "Iridial reshaping"
+        ],
+        "answer": "Central epithelial thinning with mid-peripheral steepening",
+        "explanation": "OK redistributes epithelial thickness to flatten the center."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_32",
+    "topic": "Surgery / Orthokeratology (Refractive)",
+    "case_data": {
+      "demographics": "45-year-old male",
+      "chief_complaint": "Interested in laser vision correction/Ortho-K to reduce dependence on glasses.",
+      "ocular_history": "Soft CL wearer; stable refraction for 2 years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/25",
+        "subjective_refraction": "OD -4.50 DS → 20/20, OS -4.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "TBUT mildly reduced; corneal topography regular",
+        "fundus": "Normal OU"
+      },
+      "description": "Candidate evaluation for refractive surgery/Ortho-K pending corneal stability and tear film."
+    },
+    "questions": [
+      {
+        "q": "Which is a relative contraindication to corneal refractive surgery?",
+        "options": [
+          "Progressive keratoconus",
+          "Stable -2.00D myopia",
+          "Age 30 with healthy corneas",
+          "Mild dry eye responsive to tears"
+        ],
+        "answer": "Progressive keratoconus",
+        "explanation": "Ectatic disorders are contraindications due to risk of worsening irregularity."
+      },
+      {
+        "q": "Primary mechanism of myopia reduction in orthokeratology is:",
+        "options": [
+          "Central epithelial thinning with mid-peripheral steepening",
+          "Lens-induced axial shortening",
+          "Stromal thickening centrally",
+          "Iridial reshaping"
+        ],
+        "answer": "Central epithelial thinning with mid-peripheral steepening",
+        "explanation": "OK redistributes epithelial thickness to flatten the center."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_33",
+    "topic": "Surgery / Orthokeratology (Refractive)",
+    "case_data": {
+      "demographics": "21-year-old female",
+      "chief_complaint": "Interested in laser vision correction/Ortho-K to reduce dependence on glasses.",
+      "ocular_history": "Soft CL wearer; stable refraction for 2 years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/25",
+        "subjective_refraction": "OD -4.50 DS → 20/20, OS -4.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "TBUT mildly reduced; corneal topography regular",
+        "fundus": "Normal OU"
+      },
+      "description": "Candidate evaluation for refractive surgery/Ortho-K pending corneal stability and tear film."
+    },
+    "questions": [
+      {
+        "q": "Which is a relative contraindication to corneal refractive surgery?",
+        "options": [
+          "Progressive keratoconus",
+          "Stable -2.00D myopia",
+          "Age 30 with healthy corneas",
+          "Mild dry eye responsive to tears"
+        ],
+        "answer": "Progressive keratoconus",
+        "explanation": "Ectatic disorders are contraindications due to risk of worsening irregularity."
+      },
+      {
+        "q": "Primary mechanism of myopia reduction in orthokeratology is:",
+        "options": [
+          "Central epithelial thinning with mid-peripheral steepening",
+          "Lens-induced axial shortening",
+          "Stromal thickening centrally",
+          "Iridial reshaping"
+        ],
+        "answer": "Central epithelial thinning with mid-peripheral steepening",
+        "explanation": "OK redistributes epithelial thickness to flatten the center."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_34",
+    "topic": "Surgery / Orthokeratology (Refractive)",
+    "case_data": {
+      "demographics": "22-year-old male",
+      "chief_complaint": "Interested in laser vision correction/Ortho-K to reduce dependence on glasses.",
+      "ocular_history": "Soft CL wearer; stable refraction for 2 years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/25",
+        "subjective_refraction": "OD -4.50 DS → 20/20, OS -4.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "TBUT mildly reduced; corneal topography regular",
+        "fundus": "Normal OU"
+      },
+      "description": "Candidate evaluation for refractive surgery/Ortho-K pending corneal stability and tear film."
+    },
+    "questions": [
+      {
+        "q": "Which is a relative contraindication to corneal refractive surgery?",
+        "options": [
+          "Progressive keratoconus",
+          "Stable -2.00D myopia",
+          "Age 30 with healthy corneas",
+          "Mild dry eye responsive to tears"
+        ],
+        "answer": "Progressive keratoconus",
+        "explanation": "Ectatic disorders are contraindications due to risk of worsening irregularity."
+      },
+      {
+        "q": "Primary mechanism of myopia reduction in orthokeratology is:",
+        "options": [
+          "Central epithelial thinning with mid-peripheral steepening",
+          "Lens-induced axial shortening",
+          "Stromal thickening centrally",
+          "Iridial reshaping"
+        ],
+        "answer": "Central epithelial thinning with mid-peripheral steepening",
+        "explanation": "OK redistributes epithelial thickness to flatten the center."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_35",
+    "topic": "Surgery / Orthokeratology (Refractive)",
+    "case_data": {
+      "demographics": "17-year-old female",
+      "chief_complaint": "Interested in laser vision correction/Ortho-K to reduce dependence on glasses.",
+      "ocular_history": "Soft CL wearer; stable refraction for 2 years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/40, OS 20/25",
+        "subjective_refraction": "OD -4.50 DS → 20/20, OS -4.25 -0.50 x 180 → 20/20",
+        "cover_test": "Ortho",
+        "anterior_segment": "TBUT mildly reduced; corneal topography regular",
+        "fundus": "Normal OU"
+      },
+      "description": "Candidate evaluation for refractive surgery/Ortho-K pending corneal stability and tear film."
+    },
+    "questions": [
+      {
+        "q": "Which is a relative contraindication to corneal refractive surgery?",
+        "options": [
+          "Progressive keratoconus",
+          "Stable -2.00D myopia",
+          "Age 30 with healthy corneas",
+          "Mild dry eye responsive to tears"
+        ],
+        "answer": "Progressive keratoconus",
+        "explanation": "Ectatic disorders are contraindications due to risk of worsening irregularity."
+      },
+      {
+        "q": "Primary mechanism of myopia reduction in orthokeratology is:",
+        "options": [
+          "Central epithelial thinning with mid-peripheral steepening",
+          "Lens-induced axial shortening",
+          "Stromal thickening centrally",
+          "Iridial reshaping"
+        ],
+        "answer": "Central epithelial thinning with mid-peripheral steepening",
+        "explanation": "OK redistributes epithelial thickness to flatten the center."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_36",
+    "topic": "Keratoconus (Refractive)",
+    "case_data": {
+      "demographics": "28-year-old male",
+      "chief_complaint": "Progressive blur and ghosting despite updated glasses.",
+      "ocular_history": "No surgery; increasing astigmatism over several years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/80, OS 20/60 (sc)",
+        "subjective_refraction": "OD -3.00 -3.00 x 180 → 20/40, OS -2.50 -2.75 x 175 → 20/30 (variable)",
+        "cover_test": "Ortho",
+        "anterior_segment": "Fleischer ring faint inferiorly; possible Vogt striae",
+        "fundus": "Normal posterior pole OU"
+      },
+      "description": "Findings suggest early keratoconus; consider topography and RGP fitting."
+    },
+    "questions": [
+      {
+        "q": "Which topographic sign most suggests keratoconus?",
+        "options": [
+          "Inferior steepening with skewed radial axes",
+          "Uniform 43.00D K readings",
+          "Thick pachymetry > 600 μm",
+          "Central isoplanatism"
+        ],
+        "answer": "Inferior steepening with skewed radial axes",
+        "explanation": "Asymmetric inferior steepening and SRAX are classic."
+      },
+      {
+        "q": "First-line optical correction for mild keratoconus:",
+        "options": [
+          "Rigid gas permeable lens",
+          "High-plus spectacles",
+          "Bifocal soft lenses",
+          "Patching therapy"
+        ],
+        "answer": "Rigid gas permeable lens",
+        "explanation": "RGP masks irregular astigmatism and improves acuity."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_37",
+    "topic": "Keratoconus (Refractive)",
+    "case_data": {
+      "demographics": "32-year-old female",
+      "chief_complaint": "Progressive blur and ghosting despite updated glasses.",
+      "ocular_history": "No surgery; increasing astigmatism over several years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/80, OS 20/60 (sc)",
+        "subjective_refraction": "OD -3.00 -3.00 x 180 → 20/40, OS -2.50 -2.75 x 175 → 20/30 (variable)",
+        "cover_test": "Ortho",
+        "anterior_segment": "Fleischer ring faint inferiorly; possible Vogt striae",
+        "fundus": "Normal posterior pole OU"
+      },
+      "description": "Findings suggest early keratoconus; consider topography and RGP fitting."
+    },
+    "questions": [
+      {
+        "q": "Which topographic sign most suggests keratoconus?",
+        "options": [
+          "Inferior steepening with skewed radial axes",
+          "Uniform 43.00D K readings",
+          "Thick pachymetry > 600 μm",
+          "Central isoplanatism"
+        ],
+        "answer": "Inferior steepening with skewed radial axes",
+        "explanation": "Asymmetric inferior steepening and SRAX are classic."
+      },
+      {
+        "q": "First-line optical correction for mild keratoconus:",
+        "options": [
+          "Rigid gas permeable lens",
+          "High-plus spectacles",
+          "Bifocal soft lenses",
+          "Patching therapy"
+        ],
+        "answer": "Rigid gas permeable lens",
+        "explanation": "RGP masks irregular astigmatism and improves acuity."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_38",
+    "topic": "Keratoconus (Refractive)",
+    "case_data": {
+      "demographics": "26-year-old female",
+      "chief_complaint": "Progressive blur and ghosting despite updated glasses.",
+      "ocular_history": "No surgery; increasing astigmatism over several years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/80, OS 20/60 (sc)",
+        "subjective_refraction": "OD -3.00 -3.00 x 180 → 20/40, OS -2.50 -2.75 x 175 → 20/30 (variable)",
+        "cover_test": "Ortho",
+        "anterior_segment": "Fleischer ring faint inferiorly; possible Vogt striae",
+        "fundus": "Normal posterior pole OU"
+      },
+      "description": "Findings suggest early keratoconus; consider topography and RGP fitting."
+    },
+    "questions": [
+      {
+        "q": "Which topographic sign most suggests keratoconus?",
+        "options": [
+          "Inferior steepening with skewed radial axes",
+          "Uniform 43.00D K readings",
+          "Thick pachymetry > 600 μm",
+          "Central isoplanatism"
+        ],
+        "answer": "Inferior steepening with skewed radial axes",
+        "explanation": "Asymmetric inferior steepening and SRAX are classic."
+      },
+      {
+        "q": "First-line optical correction for mild keratoconus:",
+        "options": [
+          "Rigid gas permeable lens",
+          "High-plus spectacles",
+          "Bifocal soft lenses",
+          "Patching therapy"
+        ],
+        "answer": "Rigid gas permeable lens",
+        "explanation": "RGP masks irregular astigmatism and improves acuity."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_39",
+    "topic": "Keratoconus (Refractive)",
+    "case_data": {
+      "demographics": "30-year-old male",
+      "chief_complaint": "Progressive blur and ghosting despite updated glasses.",
+      "ocular_history": "No surgery; increasing astigmatism over several years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/80, OS 20/60 (sc)",
+        "subjective_refraction": "OD -3.00 -3.00 x 180 → 20/40, OS -2.50 -2.75 x 175 → 20/30 (variable)",
+        "cover_test": "Ortho",
+        "anterior_segment": "Fleischer ring faint inferiorly; possible Vogt striae",
+        "fundus": "Normal posterior pole OU"
+      },
+      "description": "Findings suggest early keratoconus; consider topography and RGP fitting."
+    },
+    "questions": [
+      {
+        "q": "Which topographic sign most suggests keratoconus?",
+        "options": [
+          "Inferior steepening with skewed radial axes",
+          "Uniform 43.00D K readings",
+          "Thick pachymetry > 600 μm",
+          "Central isoplanatism"
+        ],
+        "answer": "Inferior steepening with skewed radial axes",
+        "explanation": "Asymmetric inferior steepening and SRAX are classic."
+      },
+      {
+        "q": "First-line optical correction for mild keratoconus:",
+        "options": [
+          "Rigid gas permeable lens",
+          "High-plus spectacles",
+          "Bifocal soft lenses",
+          "Patching therapy"
+        ],
+        "answer": "Rigid gas permeable lens",
+        "explanation": "RGP masks irregular astigmatism and improves acuity."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_40",
+    "topic": "Keratoconus (Refractive)",
+    "case_data": {
+      "demographics": "42-year-old female",
+      "chief_complaint": "Progressive blur and ghosting despite updated glasses.",
+      "ocular_history": "No surgery; increasing astigmatism over several years.",
+      "medical_history": "Healthy; no systemic medications.",
+      "clinical_data": {
+        "presenting_va": "OD 20/80, OS 20/60 (sc)",
+        "subjective_refraction": "OD -3.00 -3.00 x 180 → 20/40, OS -2.50 -2.75 x 175 → 20/30 (variable)",
+        "cover_test": "Ortho",
+        "anterior_segment": "Fleischer ring faint inferiorly; possible Vogt striae",
+        "fundus": "Normal posterior pole OU"
+      },
+      "description": "Findings suggest early keratoconus; consider topography and RGP fitting."
+    },
+    "questions": [
+      {
+        "q": "Which topographic sign most suggests keratoconus?",
+        "options": [
+          "Inferior steepening with skewed radial axes",
+          "Uniform 43.00D K readings",
+          "Thick pachymetry > 600 μm",
+          "Central isoplanatism"
+        ],
+        "answer": "Inferior steepening with skewed radial axes",
+        "explanation": "Asymmetric inferior steepening and SRAX are classic."
+      },
+      {
+        "q": "First-line optical correction for mild keratoconus:",
+        "options": [
+          "Rigid gas permeable lens",
+          "High-plus spectacles",
+          "Bifocal soft lenses",
+          "Patching therapy"
+        ],
+        "answer": "Rigid gas permeable lens",
+        "explanation": "RGP masks irregular astigmatism and improves acuity."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_41",
+    "topic": "Low Vision (Refractive)",
+    "case_data": {
+      "demographics": "59-year-old male",
+      "chief_complaint": "Difficulty reading small print and recognizing faces despite glasses.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Type 2 diabetes x 8 years; hypertension controlled; no retinopathy previously noted.",
+      "clinical_data": {
+        "presenting_va": "OD 20/200, OS 20/160 (best correction)",
+        "subjective_refraction": "Limited improvement; trial frame +6.00D add for near",
+        "cover_test": "Ortho",
+        "anterior_segment": "Nuclear sclerosis 1+ OU",
+        "fundus": "RPE changes at macula OU"
+      },
+      "description": "Reduced acuity consistent with central macular changes; magnification aids indicated."
+    },
+    "questions": [
+      {
+        "q": "Which aid best improves reading for central vision loss with good periphery?",
+        "options": [
+          "High-add spectacle magnifier",
+          "Prism base-in",
+          "Minus lens for distance",
+          "Red-free filter only"
+        ],
+        "answer": "High-add spectacle magnifier",
+        "explanation": "Magnification compensates for central resolution loss."
+      },
+      {
+        "q": "Which logMAR acuity corresponds to ~20/200?",
+        "options": [
+          "1.0",
+          "0.7",
+          "0.3",
+          "1.3"
+        ],
+        "answer": "1.0",
+        "explanation": "logMAR 1.0 equals Snellen 20/200."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_42",
+    "topic": "Low Vision (Refractive)",
+    "case_data": {
+      "demographics": "25-year-old male",
+      "chief_complaint": "Difficulty reading small print and recognizing faces despite glasses.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Type 2 diabetes x 8 years; hypertension controlled; no retinopathy previously noted.",
+      "clinical_data": {
+        "presenting_va": "OD 20/200, OS 20/160 (best correction)",
+        "subjective_refraction": "Limited improvement; trial frame +6.00D add for near",
+        "cover_test": "Ortho",
+        "anterior_segment": "Nuclear sclerosis 1+ OU",
+        "fundus": "RPE changes at macula OU"
+      },
+      "description": "Reduced acuity consistent with central macular changes; magnification aids indicated."
+    },
+    "questions": [
+      {
+        "q": "Which aid best improves reading for central vision loss with good periphery?",
+        "options": [
+          "High-add spectacle magnifier",
+          "Prism base-in",
+          "Minus lens for distance",
+          "Red-free filter only"
+        ],
+        "answer": "High-add spectacle magnifier",
+        "explanation": "Magnification compensates for central resolution loss."
+      },
+      {
+        "q": "Which logMAR acuity corresponds to ~20/200?",
+        "options": [
+          "1.0",
+          "0.7",
+          "0.3",
+          "1.3"
+        ],
+        "answer": "1.0",
+        "explanation": "logMAR 1.0 equals Snellen 20/200."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_43",
+    "topic": "Low Vision (Refractive)",
+    "case_data": {
+      "demographics": "30-year-old male",
+      "chief_complaint": "Difficulty reading small print and recognizing faces despite glasses.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Type 2 diabetes x 8 years; hypertension controlled; no retinopathy previously noted.",
+      "clinical_data": {
+        "presenting_va": "OD 20/200, OS 20/160 (best correction)",
+        "subjective_refraction": "Limited improvement; trial frame +6.00D add for near",
+        "cover_test": "Ortho",
+        "anterior_segment": "Nuclear sclerosis 1+ OU",
+        "fundus": "RPE changes at macula OU"
+      },
+      "description": "Reduced acuity consistent with central macular changes; magnification aids indicated."
+    },
+    "questions": [
+      {
+        "q": "Which aid best improves reading for central vision loss with good periphery?",
+        "options": [
+          "High-add spectacle magnifier",
+          "Prism base-in",
+          "Minus lens for distance",
+          "Red-free filter only"
+        ],
+        "answer": "High-add spectacle magnifier",
+        "explanation": "Magnification compensates for central resolution loss."
+      },
+      {
+        "q": "Which logMAR acuity corresponds to ~20/200?",
+        "options": [
+          "1.0",
+          "0.7",
+          "0.3",
+          "1.3"
+        ],
+        "answer": "1.0",
+        "explanation": "logMAR 1.0 equals Snellen 20/200."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_44",
+    "topic": "Low Vision (Refractive)",
+    "case_data": {
+      "demographics": "22-year-old male",
+      "chief_complaint": "Difficulty reading small print and recognizing faces despite glasses.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Type 2 diabetes x 8 years; hypertension controlled; no retinopathy previously noted.",
+      "clinical_data": {
+        "presenting_va": "OD 20/200, OS 20/160 (best correction)",
+        "subjective_refraction": "Limited improvement; trial frame +6.00D add for near",
+        "cover_test": "Ortho",
+        "anterior_segment": "Nuclear sclerosis 1+ OU",
+        "fundus": "RPE changes at macula OU"
+      },
+      "description": "Reduced acuity consistent with central macular changes; magnification aids indicated."
+    },
+    "questions": [
+      {
+        "q": "Which aid best improves reading for central vision loss with good periphery?",
+        "options": [
+          "High-add spectacle magnifier",
+          "Prism base-in",
+          "Minus lens for distance",
+          "Red-free filter only"
+        ],
+        "answer": "High-add spectacle magnifier",
+        "explanation": "Magnification compensates for central resolution loss."
+      },
+      {
+        "q": "Which logMAR acuity corresponds to ~20/200?",
+        "options": [
+          "1.0",
+          "0.7",
+          "0.3",
+          "1.3"
+        ],
+        "answer": "1.0",
+        "explanation": "logMAR 1.0 equals Snellen 20/200."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex only for plus"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  },
+  {
+    "case_id": "refractive_case_45",
+    "topic": "Low Vision (Refractive)",
+    "case_data": {
+      "demographics": "19-year-old male",
+      "chief_complaint": "Difficulty reading small print and recognizing faces despite glasses.",
+      "ocular_history": "No ocular surgery or trauma.",
+      "medical_history": "Type 2 diabetes x 8 years; hypertension controlled; no retinopathy previously noted.",
+      "clinical_data": {
+        "presenting_va": "OD 20/200, OS 20/160 (best correction)",
+        "subjective_refraction": "Limited improvement; trial frame +6.00D add for near",
+        "cover_test": "Ortho",
+        "anterior_segment": "Nuclear sclerosis 1+ OU",
+        "fundus": "RPE changes at macula OU"
+      },
+      "description": "Reduced acuity consistent with central macular changes; magnification aids indicated."
+    },
+    "questions": [
+      {
+        "q": "Which aid best improves reading for central vision loss with good periphery?",
+        "options": [
+          "High-add spectacle magnifier",
+          "Prism base-in",
+          "Minus lens for distance",
+          "Red-free filter only"
+        ],
+        "answer": "High-add spectacle magnifier",
+        "explanation": "Magnification compensates for central resolution loss."
+      },
+      {
+        "q": "Which logMAR acuity corresponds to ~20/200?",
+        "options": [
+          "1.0",
+          "0.7",
+          "0.3",
+          "1.3"
+        ],
+        "answer": "1.0",
+        "explanation": "logMAR 1.0 equals Snellen 20/200."
+      },
+      {
+        "q": "Which test best validates the subjective refraction endpoint?",
+        "options": [
+          "Binocular balance / MPMVA",
+          "Confrontation fields",
+          "IOP by NCT",
+          "Ishihara plates"
+        ],
+        "answer": "Binocular balance / MPMVA",
+        "explanation": "Balances accommodation to refine the endpoint."
+      },
+      {
+        "q": "Which lens material reduces edge thickness in high minus Rx?",
+        "options": [
+          "High-index plastic",
+          "CR-39",
+          "Crown glass",
+          "Trivex (check edge thickness)"
+        ],
+        "answer": "High-index plastic",
+        "explanation": "Higher index reduces edge thickness in minus lenses."
+      },
+      {
+        "q": "Which complaint suggests residual uncorrected cylinder?",
+        "options": [
+          "Ghosting of letters at night",
+          "Photophobia only",
+          "Color confusion",
+          "Peripheral diplopia only"
+        ],
+        "answer": "Ghosting of letters at night",
+        "explanation": "Astigmatism commonly causes ghosting/shadowing."
+      }
+    ]
+  }
+]
