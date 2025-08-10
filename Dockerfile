@@ -1,9 +1,9 @@
-# Lean base; puppeteer will download its own Chromium
+# Dockerfile
 FROM node:20-bookworm-slim
 
-# Python + build deps + runtime libs for puppeteer/Chromium
+# System deps: Python + build tools + libs Puppeteer/Chromium needs
 RUN apt-get update && apt-get install -y \
-  python3 python3-pip python3-dev build-essential \
+  python3 python3-venv python3-dev build-essential \
   libfreetype6-dev libjpeg62-turbo-dev zlib1g-dev libffi-dev \
   ca-certificates \
   fonts-liberation \
@@ -16,7 +16,7 @@ RUN apt-get update && apt-get install -y \
   libxtst6 xdg-utils \
   && rm -rf /var/lib/apt/lists/*
 
-# Let puppeteer download Chromium during npm install
+# Let Puppeteer download Chromium during npm install
 ENV PUPPETEER_SKIP_DOWNLOAD=false
 
 WORKDIR /app
@@ -25,8 +25,13 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm ci --omit=dev
 
-# Python deps for PDF generation
-RUN pip3 install --no-cache-dir reportlab
+# ---- Python venv for reportlab (avoids PEP 668 issues) ----
+RUN python3 -m venv /opt/py \
+ && /opt/py/bin/pip install --no-cache-dir --upgrade pip \
+ && /opt/py/bin/pip install --no-cache-dir reportlab \
+ && ln -s /opt/py/bin/python /usr/local/bin/python3 \
+ && ln -s /opt/py/bin/pip /usr/local/bin/pip3
+# -----------------------------------------------------------
 
 # Copy the rest of your source
 COPY . .
