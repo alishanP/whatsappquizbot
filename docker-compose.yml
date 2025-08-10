@@ -1,0 +1,18 @@
+version: "3.9"
+services:
+  quizbot:
+    build: .
+    container_name: quizbot
+    restart: unless-stopped
+    environment:
+      - AWS_REGION=${AWS_REGION}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - S3_BUCKET_NAME=${S3_BUCKET_NAME}
+      - WHATSAPP_GROUP_ID=${WHATSAPP_GROUP_ID}
+      - WHATSAPP_TARGET_USER=${WHATSAPP_TARGET_USER}
+      - PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
+    volumes:
+      - ./data/auth:/app/.wwebjs_auth     # persists WhatsApp session
+      - ./data/pdfs:/app/pdfs             # optional: local copies of PDFs
+    tty: true
