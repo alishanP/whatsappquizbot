@@ -15,4 +15,5 @@ services:
     volumes:
       - ./data/auth:/app/.wwebjs_auth     # persists WhatsApp session
       - ./data/pdfs:/app/pdfs             # optional: local copies of PDFs
+      - ./data:/app/data
     tty: true

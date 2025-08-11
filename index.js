@@ -1,3 +1,4 @@
+// index.js
 require('dotenv').config();
 
 const { Client, LocalAuth } = require('whatsapp-web.js');
@@ -8,41 +9,74 @@ const path = require('path');
 const { S3Client, PutObjectCommand } = require('@aws-sdk/client-s3');
 const puppeteer = require('puppeteer');
 
-// If you deploy on Linux (VPS/Docker), make sure Chromium path is set:
-// process.env.PUPPETEER_EXECUTABLE_PATH = process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/chromium';
+// ===== ENV =====
+const GROUP_ID = process.env.WHATSAPP_GROUP_ID || '120363404016981513@g.us';
+const TARGET_USER = (process.env.WHATSAPP_TARGET_USER || '221487537590429@lid').toLowerCase();
 
-// ===== S3 CONFIG (from .env) =====
+const AWS_REGION = process.env.AWS_REGION || 'us-east-1';
+const S3_BUCKET_NAME = process.env.S3_BUCKET_NAME;
+const AWS_ACCESS_KEY_ID = process.env.AWS_ACCESS_KEY_ID;
+const AWS_SECRET_ACCESS_KEY = process.env.AWS_SECRET_ACCESS_KEY;
+
+// Optional: force a specific Python in Docker
+const PYTHON_BIN = process.env.PYTHON_BIN || '/opt/py/bin/python';
+
+// ===== AWS S3 =====
 const s3 = new S3Client({
-  region: process.env.AWS_REGION,
-  credentials: {
-    accessKeyId: process.env.AWS_ACCESS_KEY_ID,
-    secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
-  },
+  region: AWS_REGION,
+  credentials: { accessKeyId: AWS_ACCESS_KEY_ID, secretAccessKey: AWS_SECRET_ACCESS_KEY },
 });
 
 async function uploadToS3(filePath, keyName) {
   const fileContent = fs.readFileSync(filePath);
   await s3.send(new PutObjectCommand({
-    Bucket: process.env.S3_BUCKET_NAME,
+    Bucket: S3_BUCKET_NAME,
     Key: keyName,
     Body: fileContent,
     ContentType: 'application/pdf',
-    // If using CloudFront or public bucket policy, no ACL needed.
-    // If you want aggressive caching for static PDFs, uncomment:
-    // CacheControl: 'public, max-age=31536000, immutable',
+    // CacheControl: 'public, max-age=31536000, immutable', // optional
   }));
-  return `https://${process.env.S3_BUCKET_NAME}.s3.${process.env.AWS_REGION}.amazonaws.com/${keyName}`;
+  return `https://${S3_BUCKET_NAME}.s3.${AWS_REGION}.amazonaws.com/${keyName}`;
 }
 
-// ===== CONFIG =====
-const groupId = process.env.WHATSAPP_GROUP_ID || '120363404016981513@g.us';
-let restrictToUser = true;
-let targetUser = process.env.WHATSAPP_TARGET_USER || '221487537590429@lid';
+// ===== CASE DATA =====
+const ALL_CASES = require('./cases_big.json');
 
-// Load cases JSON (case_data + questions)
-const casesData = require('./cases_big.json'); // <- using big dataset
-let unusedCases = [...casesData];
-let usedCases = [];
+// ===== PERSISTED USED-CASE STORE =====
+const DATA_DIR = path.join(__dirname, 'data');
+const USED_PATH = path.join(DATA_DIR, 'used_cases.json');
+if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
+
+function loadUsedStore() {
+  try {
+    return JSON.parse(fs.readFileSync(USED_PATH, 'utf8'));
+  } catch {
+    return {}; // { [groupId]: { used: ["case_id", ...] } }
+  }
+}
+function saveUsedStore(store) {
+  fs.writeFileSync(USED_PATH, JSON.stringify(store, null, 2));
+}
+function getUsedSet(groupId) {
+  const store = loadUsedStore();
+  return new Set(store[groupId]?.used || []);
+}
+function markUsed(groupId, caseId) {
+  const store = loadUsedStore();
+  store[groupId] = store[groupId] || { used: [] };
+  if (!store[groupId].used.includes(caseId)) {
+    store[groupId].used.push(caseId);
+    saveUsedStore(store);
+  }
+}
+function clearUsed(groupId) {
+  const store = loadUsedStore();
+  store[groupId] = { used: [] };
+  saveUsedStore(store);
+}
+
+// ===== STATE =====
+let restrictToUser = !!TARGET_USER;
 let currentCase = null;
 let currentQuestionIndex = 0;
 let acceptingAnswers = false;
@@ -55,9 +89,6 @@ function generateCasePDF(caseObj, callback) {
 
   const outDir = path.join(__dirname, 'pdfs');
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
-
-  const PYTHON_BIN = process.env.PYTHON_BIN || '/opt/py/bin/python';
-  console.log('Using Python:', PYTHON_BIN); // <-- add this for sanity
 
   execFile(
     PYTHON_BIN,
@@ -76,64 +107,65 @@ function generateCasePDF(caseObj, callback) {
   );
 }
 
+// ===== PICK NEXT CASE (filters out persisted used IDs) =====
+function pickCaseForGroup(groupId) {
+  const used = getUsedSet(groupId);
+  const pool = ALL_CASES.filter(c => !used.has(c.case_id));
+  if (pool.length === 0) return null;
+  const idx = Math.floor(Math.random() * pool.length);
+  return pool[idx];
+}
 
 // ===== QUIZ FLOW =====
-async function startNextCase(client, forUserId = null) {
-  if (unusedCases.length === 0) {
-    return endQuiz(client);
+async function startNextCase(client, groupId, forUserId = null) {
+  const next = pickCaseForGroup(groupId);
+  if (!next) {
+    await client.sendMessage(groupId, '🎉 We’ve run through all available cases for this group!\nUse *!resetcases* to start over.');
+    return endQuiz(client, groupId);
   }
 
-  // Pick random case
-  const randomIndex = Math.floor(Math.random() * unusedCases.length);
-  currentCase = unusedCases.splice(randomIndex, 1)[0];
-  usedCases.push(currentCase);
+  currentCase = next;
   currentQuestionIndex = 0;
 
-  // Restrict answers if needed
-  if (forUserId) {
-    targetUser = forUserId;
-    restrictToUser = true;
-  } else {
-    restrictToUser = false;
-  }
+  restrictToUser = !!forUserId;
+  const answeringUser = forUserId ? ` (<@${forUserId}>)` : '';
 
-  // Generate PDF
   generateCasePDF(currentCase, async (err, pdfPath) => {
     if (err) {
-      await client.sendMessage(groupId, `⚠️ Could not generate case PDF.`);
-      return sendCurrentQuestion(client);
+      await client.sendMessage(groupId, `⚠️ Could not generate case PDF. Proceeding with questions.`);
+      return sendCurrentQuestion(client, groupId);
     }
 
     try {
       const pdfKey = `cases/${currentCase.case_id}.pdf`;
       const pdfUrl = await uploadToS3(pdfPath, pdfKey);
-      await client.sendMessage(groupId, `📄 *New Case:* ${currentCase.case_id}\nRead here: ${pdfUrl}`);
+      await client.sendMessage(groupId, `📄 *New Case:* ${currentCase.case_id}${answeringUser}\nRead here: ${pdfUrl}`);
+      // Mark as used after posting
+      markUsed(groupId, currentCase.case_id);
     } catch (e) {
       console.error('S3 upload error:', e);
       await client.sendMessage(groupId, `⚠️ Could not upload PDF to S3.`);
     }
 
-    sendCurrentQuestion(client);
+    sendCurrentQuestion(client, groupId);
   });
 }
 
-async function sendCurrentQuestion(client) {
+async function sendCurrentQuestion(client, groupId) {
   const q = currentCase.questions[currentQuestionIndex];
-  const message = `*Q${currentQuestionIndex + 1}:*\n${q.q}\n\n` +
+  const message =
+    `*Q${currentQuestionIndex + 1}:*\n${q.q}\n\n` +
     q.options.map((c, i) => `${String.fromCharCode(65 + i)}) ${c}`).join('\n');
-
   await client.sendMessage(groupId, message);
   acceptingAnswers = true;
 }
 
-async function endQuiz(client) {
-  let leaderboard = "🏆 *Final Scores:*\n";
-  Object.entries(scores)
-    .sort((a, b) => b[1] - a[1])
-    .forEach(([name, score], i) => {
-      leaderboard += `${i + 1}. ${name} - ${score} points\n`;
-    });
-  await client.sendMessage(groupId, leaderboard || "No scores to show.");
+async function endQuiz(client, groupId) {
+  let leaderboard = "🏆 *Scores so far:*\n";
+  const entries = Object.entries(scores).sort((a, b) => b[1] - a[1]);
+  if (entries.length === 0) leaderboard += "No scores yet.";
+  else entries.forEach(([name, score], i) => (leaderboard += `${i + 1}. ${name} - ${score}\n`));
+  await client.sendMessage(groupId, leaderboard);
 }
 
 // ===== WHATSAPP BOT =====
@@ -142,8 +174,8 @@ const client = new Client({
     dataPath: path.join(__dirname, '.wwebjs_auth'),
   }),
   puppeteer: {
-    executablePath: puppeteer.executablePath(),   // <— use bundled Chromium
-    args: ['--no-sandbox', '--disable-setuid-sandbox'], // recommended in Docker
+    executablePath: puppeteer.executablePath(), // bundled Chromium
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
   },
 });
 
@@ -151,23 +183,36 @@ client.on('qr', qr => qrcode.generate(qr, { small: true }));
 
 client.on('ready', async () => {
   console.log('✅ Bot is ready!');
-  await startNextCase(client, targetUser);
+  await startNextCase(client, GROUP_ID, TARGET_USER);
 });
 
 client.on('message', async msg => {
-  if (msg.from !== groupId) return;
+  if (msg.from !== GROUP_ID) return;
+
+  const body = (msg.body || '').trim();
+
+  // Admin commands
+  if (body.toLowerCase() === '!resetcases') {
+    clearUsed(GROUP_ID);
+    await msg.reply('🔁 Case history cleared for this group. Starting fresh…');
+    return startNextCase(client, GROUP_ID, TARGET_USER);
+  }
+  if (body.toLowerCase() === '!nextcase') {
+    await msg.reply('⏭️ Skipping to next case…');
+    return startNextCase(client, GROUP_ID, TARGET_USER);
+  }
+
+  // Regular answer handling
   if (!acceptingAnswers) return;
 
-  // Restriction check
+  // Restrict to target user (optional)
   if (restrictToUser) {
     const senderId = (msg.author || '').toLowerCase();
-    if (senderId !== targetUser.toLowerCase()) {
-      return;
-    }
+    if (senderId !== TARGET_USER) return;
   }
 
   const q = currentCase.questions[currentQuestionIndex];
-  const userAnswer = msg.body.trim().toLowerCase();
+  const userAnswer = body.toLowerCase();
   const normalizedCorrect = q.answer.trim().toLowerCase();
 
   let chosenText = '';
@@ -178,23 +223,22 @@ client.on('message', async msg => {
     chosenText = userAnswer;
   }
 
-  const sender = msg._data?.notifyName || msg.author || 'User';
+  const senderName = msg._data?.notifyName || msg.author || 'User';
 
   if (chosenText === normalizedCorrect) {
-    scores[sender] = (scores[sender] || 0) + 1;
-    await msg.reply(`✅ Correct, ${sender}!\n\n💡 ${q.explanation}`);
+    scores[senderName] = (scores[senderName] || 0) + 1;
+    await msg.reply(`✅ Correct, ${senderName}!\n\n💡 ${q.explanation}`);
   } else {
-    await msg.reply(`❌ Incorrect ${sender}, Correct Answer: ${q.answer}.\n\n💡 ${q.explanation}`);
+    await msg.reply(`❌ Incorrect, ${senderName}. Correct answer: ${q.answer}.\n\n💡 ${q.explanation}`);
   }
 
   acceptingAnswers = false;
 
-  // Next question or next case
   if (currentQuestionIndex < currentCase.questions.length - 1) {
     currentQuestionIndex++;
-    setTimeout(() => sendCurrentQuestion(client), 3000);
+    setTimeout(() => sendCurrentQuestion(client, GROUP_ID), 2500);
   } else {
-    setTimeout(() => startNextCase(client, targetUser), 3000);
+    setTimeout(() => startNextCase(client, GROUP_ID, TARGET_USER), 2500);
   }
 });
 
