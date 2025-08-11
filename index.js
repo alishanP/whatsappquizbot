@@ -167,7 +167,6 @@ async function startNextCase(client, groupId, forUserId = null) {
   currentQuestionIndex = 0;
 
   restrictToUser = !!forUserId;
-  const answeringUserTag = forUserId ? ` (<@${forUserId}>)` : '';
 
   generateCasePDF(currentCase, async (err, pdfPath) => {
     if (err) {
@@ -178,7 +177,7 @@ async function startNextCase(client, groupId, forUserId = null) {
     try {
       const pdfKey = `cases/${currentCase.case_id}.pdf`;
       const pdfUrl = await uploadToS3(pdfPath, pdfKey);
-      await client.sendMessage(groupId, `📄 *New Case:* ${currentCase.case_id} ${answeringUserTag}\nRead here: ${pdfUrl}`);
+      await client.sendMessage(groupId, `📄 *New Case:* ${currentCase.case_id}\nRead here: ${pdfUrl}`);
       markUsed(groupId, currentCase.case_id);
     } catch (e) {
       console.error('S3 upload error:', e);
@@ -202,15 +201,15 @@ async function endOfCase(client, groupId, userId) {
   // bump daily case counter + user's lifetime case count
   incrementDailyCases(groupId);
   bumpUserCaseCount(groupId, userId);
-  const stats = getDailyStats(groupId);
-  const sc = getUserScore(groupId, userId);
-  await client.sendMessage(
-    groupId,
-    `📦 *Case complete!*\n` +
-    `• Cases done *today*: ${stats.today}\n` +
-    `• Cases done *lifetime*: ${stats.lifetime}\n` +
-    `• Your running score: *${sc.correct}/${sc.total}* (${sc.total ? Math.round((sc.correct/sc.total)*100) : 0}%)`
-  );
+  // const stats = getDailyStats(groupId);
+  // const sc = getUserScore(groupId, userId);
+  // await client.sendMessage(
+  //   groupId,
+  //   `📦 *Case complete!*\n` +
+  //   `• Cases done *today*: ${stats.today}\n` +
+  //   `• Cases done *lifetime*: ${stats.lifetime}\n` +
+  //   `• Your running score: *${sc.correct}/${sc.total}* (${sc.total ? Math.round((sc.correct/sc.total)*100) : 0}%)`
+  // );
   // move on
   setTimeout(() => startNextCase(client, groupId, TARGET_USER), 2500);
 }
@@ -287,9 +286,9 @@ client.on('message', async msg => {
 
   if (chosenText === normalizedCorrect) {
     sc.correct = (sc.correct || 0) + 1;
-    await msg.reply(`✅ Correct!\n\n💡 ${q.explanation}\n\n📊 Score: *${sc.correct}/${sc.total}*`);
+    await msg.reply(`✅ Correct!\n\n💡 ${q.explanation}`);
   } else {
-    await msg.reply(`❌ Incorrect. Correct answer: ${q.answer}.\n\n💡 ${q.explanation}\n\n📊 Score: *${sc.correct}/${sc.total}*`);
+    await msg.reply(`❌ Incorrect. Correct answer: ${q.answer}.\n\n💡 ${q.explanation}`);
   }
   setUserScore(GROUP_ID, userId, sc);
 
