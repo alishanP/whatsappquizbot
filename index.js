@@ -201,15 +201,14 @@ async function endOfCase(client, groupId, userId) {
   // bump daily case counter + user's lifetime case count
   incrementDailyCases(groupId);
   bumpUserCaseCount(groupId, userId);
-  // const stats = getDailyStats(groupId);
-  // const sc = getUserScore(groupId, userId);
-  // await client.sendMessage(
-  //   groupId,
-  //   `📦 *Case complete!*\n` +
-  //   `• Cases done *today*: ${stats.today}\n` +
-  //   `• Cases done *lifetime*: ${stats.lifetime}\n` +
-  //   `• Your running score: *${sc.correct}/${sc.total}* (${sc.total ? Math.round((sc.correct/sc.total)*100) : 0}%)`
-  // );
+  const stats = getDailyStats(groupId);
+  const sc = getUserScore(groupId, userId);
+  await client.sendMessage(
+    groupId,
+    `📦 *Case complete!*\n` +
+    `• Cases done *today*: ${stats.today}\n` +
+    `• Cases done *lifetime*: ${stats.lifetime}\n`
+  );
   // move on
   setTimeout(() => startNextCase(client, groupId, TARGET_USER), 2500);
 }
