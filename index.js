@@ -34,7 +34,6 @@ async function uploadToS3(filePath, keyName) {
     Key: keyName,
     Body: fileContent,
     ContentType: 'application/pdf',
-    // CacheControl: 'public, max-age=31536000, immutable', // optional
   }));
   return `https://${S3_BUCKET_NAME}.s3.${AWS_REGION}.amazonaws.com/${keyName}`;
 }
@@ -42,37 +41,78 @@ async function uploadToS3(filePath, keyName) {
 // ===== CASE DATA =====
 const ALL_CASES = require('./cases_big.json');
 
-// ===== PERSISTED USED-CASE STORE =====
+// ===== PERSISTED STORES =====
 const DATA_DIR = path.join(__dirname, 'data');
-const USED_PATH = path.join(DATA_DIR, 'used_cases.json');
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 
-function loadUsedStore() {
-  try {
-    return JSON.parse(fs.readFileSync(USED_PATH, 'utf8'));
-  } catch {
-    return {}; // { [groupId]: { used: ["case_id", ...] } }
-  }
-}
-function saveUsedStore(store) {
-  fs.writeFileSync(USED_PATH, JSON.stringify(store, null, 2));
-}
+const USED_PATH = path.join(DATA_DIR, 'used_cases.json');                // { [groupId]: { used: [] } }
+const SCORE_PATH = path.join(DATA_DIR, 'scores.json');                   // { [groupId]: { [userId]: { correct, total, lifetimeCases } } }
+const DAILY_PATH = path.join(DATA_DIR, 'daily_cases.json');              // { [groupId]: { [YYYY-MM-DD]: number, lifetime: number } }
+
+function loadJson(p) { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return {}; } }
+function saveJson(p, obj) { fs.writeFileSync(p, JSON.stringify(obj, null, 2)); }
+
+// ---- used cases
 function getUsedSet(groupId) {
-  const store = loadUsedStore();
+  const store = loadJson(USED_PATH);
   return new Set(store[groupId]?.used || []);
 }
 function markUsed(groupId, caseId) {
-  const store = loadUsedStore();
+  const store = loadJson(USED_PATH);
   store[groupId] = store[groupId] || { used: [] };
   if (!store[groupId].used.includes(caseId)) {
     store[groupId].used.push(caseId);
-    saveUsedStore(store);
+    saveJson(USED_PATH, store);
   }
 }
 function clearUsed(groupId) {
-  const store = loadUsedStore();
+  const store = loadJson(USED_PATH);
   store[groupId] = { used: [] };
-  saveUsedStore(store);
+  saveJson(USED_PATH, store);
+}
+
+// ---- scores per user (persisted)
+function getUserScore(groupId, userId) {
+  const s = loadJson(SCORE_PATH);
+  s[groupId] = s[groupId] || {};
+  s[groupId][userId] = s[groupId][userId] || { correct: 0, total: 0, lifetimeCases: 0 };
+  return s[groupId][userId];
+}
+function setUserScore(groupId, userId, val) {
+  const s = loadJson(SCORE_PATH);
+  s[groupId] = s[groupId] || {};
+  s[groupId][userId] = val;
+  saveJson(SCORE_PATH, s);
+}
+function bumpUserCaseCount(groupId, userId) {
+  const sc = getUserScore(groupId, userId);
+  sc.lifetimeCases = (sc.lifetimeCases || 0) + 1;
+  setUserScore(groupId, userId, sc);
+}
+
+// ---- cases per day (persisted)
+function todayStamp() {
+  const now = new Date();
+  const yyyy = now.getUTCFullYear();
+  const mm = String(now.getUTCMonth() + 1).padStart(2, '0');
+  const dd = String(now.getUTCDate()).padStart(2, '0');
+  return `${yyyy}-${mm}-${dd}`; // UTC date bucket
+}
+function incrementDailyCases(groupId) {
+  const d = loadJson(DAILY_PATH);
+  d[groupId] = d[groupId] || { lifetime: 0 };
+  const key = todayStamp();
+  d[groupId][key] = (d[groupId][key] || 0) + 1;
+  d[groupId].lifetime = (d[groupId].lifetime || 0) + 1;
+  saveJson(DAILY_PATH, d);
+}
+function getDailyStats(groupId) {
+  const d = loadJson(DAILY_PATH);
+  const key = todayStamp();
+  return {
+    today: d[groupId]?.[key] || 0,
+    lifetime: d[groupId]?.lifetime || 0,
+  };
 }
 
 // ===== STATE =====
@@ -80,7 +120,6 @@ let restrictToUser = !!TARGET_USER;
 let currentCase = null;
 let currentQuestionIndex = 0;
 let acceptingAnswers = false;
-let scores = {};
 
 // ===== PDF GENERATION =====
 function generateCasePDF(caseObj, callback) {
@@ -121,14 +160,14 @@ async function startNextCase(client, groupId, forUserId = null) {
   const next = pickCaseForGroup(groupId);
   if (!next) {
     await client.sendMessage(groupId, '🎉 We’ve run through all available cases for this group!\nUse *!resetcases* to start over.');
-    return endQuiz(client, groupId);
+    return;
   }
 
   currentCase = next;
   currentQuestionIndex = 0;
 
   restrictToUser = !!forUserId;
-  const answeringUser = forUserId ? ` (<@${forUserId}>)` : '';
+  const answeringUserTag = forUserId ? ` (<@${forUserId}>)` : '';
 
   generateCasePDF(currentCase, async (err, pdfPath) => {
     if (err) {
@@ -139,8 +178,7 @@ async function startNextCase(client, groupId, forUserId = null) {
     try {
       const pdfKey = `cases/${currentCase.case_id}.pdf`;
       const pdfUrl = await uploadToS3(pdfPath, pdfKey);
-      await client.sendMessage(groupId, `📄 *New Case:* ${currentCase.case_id}${answeringUser}\nRead here: ${pdfUrl}`);
-      // Mark as used after posting
+      await client.sendMessage(groupId, `📄 *New Case:* ${currentCase.case_id} ${answeringUserTag}\nRead here: ${pdfUrl}`);
       markUsed(groupId, currentCase.case_id);
     } catch (e) {
       console.error('S3 upload error:', e);
@@ -160,23 +198,32 @@ async function sendCurrentQuestion(client, groupId) {
   acceptingAnswers = true;
 }
 
+async function endOfCase(client, groupId, userId) {
+  // bump daily case counter + user's lifetime case count
+  incrementDailyCases(groupId);
+  bumpUserCaseCount(groupId, userId);
+  const stats = getDailyStats(groupId);
+  const sc = getUserScore(groupId, userId);
+  await client.sendMessage(
+    groupId,
+    `📦 *Case complete!*\n` +
+    `• Cases done *today*: ${stats.today}\n` +
+    `• Cases done *lifetime*: ${stats.lifetime}\n` +
+    `• Your running score: *${sc.correct}/${sc.total}* (${sc.total ? Math.round((sc.correct/sc.total)*100) : 0}%)`
+  );
+  // move on
+  setTimeout(() => startNextCase(client, groupId, TARGET_USER), 2500);
+}
+
 async function endQuiz(client, groupId) {
-  let leaderboard = "🏆 *Scores so far:*\n";
-  const entries = Object.entries(scores).sort((a, b) => b[1] - a[1]);
-  if (entries.length === 0) leaderboard += "No scores yet.";
-  else entries.forEach(([name, score], i) => (leaderboard += `${i + 1}. ${name} - ${score}\n`));
-  await client.sendMessage(groupId, leaderboard);
+  const stats = getDailyStats(groupId);
+  await client.sendMessage(groupId, `🏁 Quiz ended.\nCases today: ${stats.today} • Lifetime: ${stats.lifetime}`);
 }
 
 // ===== WHATSAPP BOT =====
 const client = new Client({
-  authStrategy: new LocalAuth({
-    dataPath: path.join(__dirname, '.wwebjs_auth'),
-  }),
-  puppeteer: {
-    executablePath: puppeteer.executablePath(), // bundled Chromium
-    args: ['--no-sandbox', '--disable-setuid-sandbox'],
-  },
+  authStrategy: new LocalAuth({ dataPath: path.join(__dirname, '.wwebjs_auth') }),
+  puppeteer: { executablePath: puppeteer.executablePath(), args: ['--no-sandbox', '--disable-setuid-sandbox'] },
 });
 
 client.on('qr', qr => qrcode.generate(qr, { small: true }));
@@ -191,7 +238,7 @@ client.on('message', async msg => {
 
   const body = (msg.body || '').trim();
 
-  // Admin commands
+  // Admin/utility commands
   if (body.toLowerCase() === '!resetcases') {
     clearUsed(GROUP_ID);
     await msg.reply('🔁 Case history cleared for this group. Starting fresh…');
@@ -201,11 +248,20 @@ client.on('message', async msg => {
     await msg.reply('⏭️ Skipping to next case…');
     return startNextCase(client, GROUP_ID, TARGET_USER);
   }
+  if (body.toLowerCase() === '!score') {
+    const sc = getUserScore(GROUP_ID, TARGET_USER);
+    const stats = getDailyStats(GROUP_ID);
+    return msg.reply(
+      `📊 *Your Score*: ${sc.correct}/${sc.total} (${sc.total ? Math.round((sc.correct/sc.total)*100) : 0}%)\n` +
+      `📦 *Cases today*: ${stats.today} | *Lifetime*: ${stats.lifetime}\n` +
+      `🗂 *Your lifetime cases*: ${sc.lifetimeCases || 0}`
+    );
+  }
 
-  // Regular answer handling
+  // Answer handling
   if (!acceptingAnswers) return;
 
-  // Restrict to target user (optional)
+  // Restrict to target user if configured
   if (restrictToUser) {
     const senderId = (msg.author || '').toLowerCase();
     if (senderId !== TARGET_USER) return;
@@ -223,22 +279,29 @@ client.on('message', async msg => {
     chosenText = userAnswer;
   }
 
-  const senderName = msg._data?.notifyName || msg.author || 'User';
+  const userId = TARGET_USER; // single-user mode
+  const sc = getUserScore(GROUP_ID, userId);
+
+  // bump total answered
+  sc.total = (sc.total || 0) + 1;
 
   if (chosenText === normalizedCorrect) {
-    scores[senderName] = (scores[senderName] || 0) + 1;
-    await msg.reply(`✅ Correct, ${senderName}!\n\n💡 ${q.explanation}`);
+    sc.correct = (sc.correct || 0) + 1;
+    await msg.reply(`✅ Correct!\n\n💡 ${q.explanation}\n\n📊 Score: *${sc.correct}/${sc.total}*`);
   } else {
-    await msg.reply(`❌ Incorrect, ${senderName}. Correct answer: ${q.answer}.\n\n💡 ${q.explanation}`);
+    await msg.reply(`❌ Incorrect. Correct answer: ${q.answer}.\n\n💡 ${q.explanation}\n\n📊 Score: *${sc.correct}/${sc.total}*`);
   }
+  setUserScore(GROUP_ID, userId, sc);
 
   acceptingAnswers = false;
 
+  // Move to next question / end of case
   if (currentQuestionIndex < currentCase.questions.length - 1) {
     currentQuestionIndex++;
     setTimeout(() => sendCurrentQuestion(client, GROUP_ID), 2500);
   } else {
-    setTimeout(() => startNextCase(client, GROUP_ID, TARGET_USER), 2500);
+    // finished a case
+    await endOfCase(client, GROUP_ID, userId);
   }
 });
 
