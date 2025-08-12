@@ -1,0 +1,361 @@
+{
+  "case_id": "rrVibTDyYGOHLjb11515",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "20-year-old white male; unemployed"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "declining vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago; diagnosed with progressive retinal condition at age 11"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: carrier of retinal disease"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "psoriasis"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "triamcinolone acetonide cream, multivitamin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU; jerky movements OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "constriction in all quadrants OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 17 mmHg, OS: 16 mmHg @ 10:10 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "124/79 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "77 bpm, regular"
+      },
+      {
+        "label": "Threshold visual fields:",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: worsening distance vision",
+      "Location: OD, OS",
+      "Severity: severe",
+      "Nature of onset: gradual",
+      "Duration: 10 years",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at night and in dim lighting conditions",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: bumps into things a lot",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: psoriasis",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -3.50 -0.50 x 025; VA distance: 20/60 (PH 20/30)",
+      "OS: -4.00 -0.50 x 150; VA distance: 20/60 (PH 20/40)",
+      "OD: -4.25 -0.50 x 025; VA distance: 20/30",
+      "OS: -4.75 -0.50 x 150; VA distance: 20/40",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: confluent atrophy in all quadrants",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: confluent atrophy in all quadrants",
+      "OD: see image 3",
+      "OS: see image 4"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_YEEAMVVZFAQLHOY11580.PNG",
+      "AnsweredCases/images/KI_AQZRQLAPLGHMDTI11581.PNG",
+      "AnsweredCases/images/KI_LAINEQTBISWQBQL11582.PNG",
+      "AnsweredCases/images/KI_LJYPOOODSJBWKOR11583.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Based on the examination and visual field findings, what is the BEST diagnosis for this patient’s retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gyrate atrophy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Myopic degeneration",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Choroideremia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ocular albinism",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "X-linked retinitis pigmentosa",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Differential diagnosis for choroideremia includes those disorders in which nyctalopia, restricted peripheral vision, and decreased central visual acuity occur. The retinal conditions that may commonly be confused with choroideremia include retinitis pigmentosa, ocular albinism, gyrate atrophy, and myopic retinal degeneration. Retinitis pigmentosa (RP) • Clinical findings typically include pale optic disc, attenuated retinal arterioles, typical bone-spicule-like pigmentation, and posterior subcapsular cataracts • X-linked RP may show an appearance of prominent choroidal vessels that is similar to choroideremia; however, patients with x-linked RP typically have a reduction in central visual acuity much earlier in life Ocular albinism • Distinguishable clinical findings commonly include decreased vision, nystagmus, and iris transillumination defects • Absence of nyctalopia • Normal electroretinographic amplitudes Myopic retinal degeneration • May mimic choroideremia, however, myopic degeneration is usually not as diffuse as the lesions of choroideremia • Patients suffering from myopic retinal degeneration do not typically complain of night blindness Gyrate atrophy • Clinical presentation may resemble choroideremia, but it is typically a much milder course • Inheritance pattern is autosomal recessive • The atrophic borders appear well-defined and scalloped • Associated with hyperornithinemia"
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following ocular findings MOST commonly occurs in conjunction with this diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myopia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Nystagmus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Optic nerve pallor",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Posterior subcapsular cataracts",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Attenuated retinal vessels",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Iris transillumination defects",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "One of the most common ocular findings associated with choroideremia is myopia. In contrast to retinitis pigmentosa, patients with choroideremia do not typically develop waxy optic nerve pallor, attenuation of the retinal vessels, or posterior subcapsular cataracts. Patients diagnosed with tyrosinase negative ocular albinism commonly present with iris transillumination defects, which are not associated with choroideremia. Systemic associations that may be correlated with choroideremia include mental deficiency, acrokeratosis, anhidrosis, skeletal deformities, obesity, congenital deafness, hypopituitarism, distal motor neuropathies, and dental deformities."
+    },
+    {
+      "number": 3,
+      "stem": "What is the inheritance pattern of this patient’s retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "X-linked dominant",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "X-linked recessive",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Autosomal dominant",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Autosomal recessive",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Choroideremia is described as an x-linked recessive disorder that is caused by mutations in the CHM gene that encodes for the Rab escort protein 1 (REP1). This type of inheritance pattern means that traits of this disease are not clinically manifested when there is a normal copy of the gene. Therefore, all traits associated with x-linked recessive disorders are fully evident in males because they only possess one copy of the chromosome which carries the abnormal gene (and not a normal copy to compensate for the mutated copy). For this reason, women are typically only carriers of these types of diseases and are rarely affected by x-linked recessive disorders unless they have 2 copies of the mutated allele (this would only occur if the mother is a carrier and father is positive for the disease). X-linked recessive disorders have the following characteristic patterns. • There is no father to son transmission • There is father to daughter transmission; all daughters will be carriers • There is mother to daughter transmission so that one half of the daughters will be carriers • There is mother to son transmission so that one half of her sons will be positive for the condition • These hold true if only 1 parent is positive for the mutation"
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following BEST describes the visual prognosis for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Visual acuity will likely continue to gradually decline at a slow rate throughout the patient's life",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Visual acuity will likely remain stable until later in life when it is expected to become significantly affected",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Visual acuity is likely to rapidly decline from this point forward in the patient's life",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Visual acuity will likely remain stable throughout the patient's life and is not expected to become significantly affected",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Although the progression of this condition is highly variable, visual acuity in patients diagnosed with choroideremia is often not notably affected until the 6th or 7th decade of life, or in some cases, even later. It is likely that patients will have some mild loss of acuity due to the appearance of pigmentary changes in the macular region and mild degenerative maculopathy; however, central visual acuity often remains favorable until later in life. Constriction of the visual fields that occurs earlier in life accounts for the majority of the patient's symptoms, and typically progresses at a much faster rate."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following represents the MOST common initial symptom in patients afflicted with this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased visual acuity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ocular pain",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nyctalopia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Diplopia",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Photophobia",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Loss of peripheral vision",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Flashes and floaters",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The most common entering complaint in patients with early signs of choroideremia is nyctalopia, or night blindness. This typically occurs in patients in the first decade of life and is usually the cause of further investigation that leads to the diagnosis of choroideremia. Restriction of peripheral vision usually occurs shortly thereafter, and continues to progress throughout the patient's life. As previously mentioned, central visual acuity typically remains favorable until around the 6th decade of life, at which point it rapidly begins to degenerate as well."
+    },
+    {
+      "number": 6,
+      "stem": "Which of the following BEST describes the MOST common results of an electroretinogram (ERG) and electro-oculogram (EOG) in a patient diagnosed with this retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal ERG and normal EOG",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Abnormal ERG and normal EOG",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Abnormal ERG and abnormal EOG",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Normal ERG and abnormal EOG",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Both the electroretinogram and electro-oculogram typically show marked impairment in patients with choroideremia. Electroretinogram • Initially, the result is rarely normal in amplitude (or occasionally shows only mild impairment) in the very early stages of choroideremia • Once fundus changes become significantly apparent, the ERG result is usually notably affected • Often shows markedly reduced isolated rod responses • Prolongation of rod b-wave implicit times • Initially, isolated cone responses are usually either normal or moderately reduced, with delayed b-wave implicit times • There is wide variability in these results Electro-oculogram • Markedly abnormal in males • Usually normal in female carriers, but may vary • Ratio of light-peak to dark-trough may be abnormal in about 1/4 of carriers"
+    }
+  ]
+}

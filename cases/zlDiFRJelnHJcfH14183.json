@@ -1,0 +1,333 @@
+{
+  "case_id": "zlDiFRJelnHJcfH14183",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "72-year-old Asian female; magazine editor"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "red eye"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; unremarkable, wears glasses for distance only"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: glaucoma"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypertension"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "lisinopril"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: Behcet disease"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 16 mmHg @ 2:35 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "121/80 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "74 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: redness, irritation, tearing, and light sensitivity",
+      "Location: OS",
+      "Severity: moderate",
+      "Nature of onset: acute",
+      "Duration: 2 days",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: the patient reports having a fever, headache, and general malaise last week",
+      "Accompanying signs/symptoms: skin lesions on left side of the face; blurred vision",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: painful skin lesions on left side of face and nose",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -1.75 -0.50 x 123; VA distance: 20/20",
+      "OS: -2.25 DS; VA distance: 20/30",
+      "lids/lashes/adnexa: unremarkable OD, vesicles on upper eyelid OS",
+      "conjunctiva: nasal pinguecula OD, conjunctival follicles, 2+ injection, nasal pinguecula OS",
+      "cornea: clear OD, see image 1 OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: 1+ nuclear sclerosis OD, OS",
+      "vitreous: PVD OD, OS",
+      "C/D: 0.10 H/0.10 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: inferior/temporal cobblestone degeneration",
+      "C/D: 0.15 H/0.15 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: inferior/temporal cobblestone degeneration"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_GAUBVTAFQGYMTXP14248.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the BEST diagnosis of the patient's anterior segment condition of the left eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acanthamoeba keratitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Superior limbic keratoconjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex keratoconjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Epidemic keratoconjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Herpes zoster ophthalmicus",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Vernal keratoconjunctivitis",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Herpes zoster ophthalmicus (HZO), commonly known as shingles, is caused by the varicella-zoster virus (VZV) which has reactivated from its dormant status in the dorsal ganglion cells of the central nervous system. HZO is characterized by the presence of a unilateral painful skin rash along one or more dermatomes of the trigeminal nerve shared by the eye and ocular adnexa. This viral infection most commonly occurs in older adults, but can present at any age. Initially, patients with shingles may experience flu-like symptoms including a fever, malaise, and headache, followed by tingling, itching, or sensitivity along the affected dermatome. A rash will then develop in this area, typically followed by lesions that eventually blister over; however, lesions do not appear in all cases. Shingles cannot be contracted by one person from another; although, if a person has never been infected with chickenpox, it is possible to contract chickenpox from a person that has an active case of shingles. When vesicles are present at the tip or side of the nose (Hutchinson sign), this indicates nasociliary involvement, which increases the likelihood of ocular complications. The acute form of corneal involvement in HZO is characterized by the appearance of dendritic lesions that stain with both sodium fluorescein and Rose Bengal; however, dendrites caused by VZV have tapered ends and thus lack the terminal end bulbs that one generally observes with HSV. Some studies report that VZV dendrites stain poorly with sodium fluorescein when compared to the lesions caused by HSV. Literature also states that the lesions observed in HZO are more infiltrative, while those observed in HSV are more ulcerative. Almost all individuals have come into contact with the Herpes simplex virus type 1 (which causes infections above the waist). After the first infection, the virus lays dormant in the trigeminal ganglion until it becomes reactivated under certain conditions, such as physical or emotional stress, or excess exposure to ultraviolet light. Patients with this condition will typically present with a unilateral follicular conjunctivitis, lymphadenopathy on the same side as the infection, tearing, ocular irritation, photophobia, blurry vision, decreased corneal sensation, and crops of skin vesicles in the periocular area. Viral particles may shed into the eye, causing keratitis. Corneal involvement may appear as epithelial opacification that evolves into the formation of a dendrite. HSV dendrites will have terminal end bulbs that will stain with Rose Bengal, while the main portion of the dendrite will stain with sodium fluorescein. Acanthamoeba keratitis is a fairly rare phenomenon that typically occurs with contact lens abuse or ocular trauma, with concurrent exposure to contaminated water. It may also occur in patients who clean their contact lenses with water or unpreserved contact lens solution. An early sign of the condition includes epithelial mottling, making it very hard to distinguish from Herpes simplex. A detailed case history is helpful in the diagnosis of this pathogen. Characteristic signs of this infection are a corneal ring infiltrate (which occurs later in the course of the condition) and severe pain that is highly out of proportion to the ocular signs. The prognosis for this infection improves if it is diagnosed and treated early. Acanthamoeba is very aggressive and difficult to treat in the later stages, and it carries a high risk of blindness. Treatment includes the use of topical agents such as Neosporin (bacitracin, neomycin, and polymyxin B) and Brolene (dibrompropamidine isethionate) used in conjunction with one another. Due to the high potential of blindness and difficulty associated with managing this condition, it is best to refer the patient to a corneal specialist if suspected. Epidemic keratoconjunctivitis (EKC) is a very common and contagious infection of viral etiology. EKC is caused by the adenovirus (of which there are many different strains), with serotypes 8 and 19 most commonly found in infections involving the eyes. EKC is said to follow the \"rule of 8s” because serotype 8 is the type most frequently isolated. Additionally, on the 8th day the patient will often show diffuse superficial punctate keratitis (SPK), followed 8 days later (16 days from inoculation) by the formation of subepithelial infiltrates (SEIs). Once SEIs are present, the patient is no longer considered contagious. Signs of EKC include follicular conjunctivitis, positive lymphadenopathy, and mild lid edema. Small subconjunctival hemorrhages, pseudo-membranes, and iritis may also be present. Treatment for this condition is generally palliative and consists of ocular lubrication, topical vasoconstrictors, cool or warm compresses, topical NSAIDs, and sunglasses. Some clinicians use a Betadine® (5%) off-label treatment in office, which seems to work rather well if performed in the early days of the infection. The use of steroids in these cases is still controversial because EKC and Herpes simplex virus (HSV) can initially present similarly, and steroid use on HSV can lead to worsening of the infection and corneal damage. Topical steroids are very effective if the patient suffers from SEIs that are visually debilitating, but be sure to taper the steroid use in these patients when discontinuing. Superior limbic keratoconjunctivitis (SLK) is believed to occur as a result of mechanical trauma during blinking from abnormal forces between tight upper lids and/or loose, redundant conjunctival tissue. This is likely precipitated by a deficiency of the tear film, which results in decreased ability of the upper eyelid to move freely over the conjunctiva. This leads to increased movement of the bulbar conjunctiva, causing subsequent disruption of normal epithelial development and damage of both the bulbar and tarsal conjunctiva from continued mechanical trauma. Vernal keratoconjunctivitis (VKC) is a severe form of allergic conjunctivitis and is generally observed in young male patients who suffer from some form of atopy (i.e. eczema, asthma, or hay fever). Patients will often complain of severe itching as their main symptom. Signs of VKC include cobblestone papillae of the upper lid, lid swelling, and ropy discharge that is worse in the morning. Corneal defects (usually superiorly) known as keratitis of Togby may also be present. Occasionally, patients will develop a shield ulcer and Tranta dots, which are calcified eosinophils observed circumlimbally that often result in a foreign body sensation."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following represents the MOST effective treatment of the patient’s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prenisolone acetate ophthalmic drops 1 gtt q.i.d. OS",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "In-office Betadine 5% ophthalmic solution treatment OS",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tobramycin ophthalmic ung q.h.s. OS",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Oral acyclovir 800 mg p.o. 5 times per day",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Topical trifluridine ophthalmic drops 1 gtt q.2.h. OS",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Neosporin® and Brolene® ophthalmic preparations OS",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Oral acyclovir (800 mg p.o. 5x per day for 7 to 10 days) is the standard treatment for patients with HZO. Alternatively, famciclovir or valacyclovir can also be used. Patients who exhibit interstitial keratitis or associated uveitis should be treated with topical steroids (e.g. prednisolone acetate). For episodes of scleritis, retinitis, choroiditis, and optic neuritis, systemic steroids should be strongly considered. For cases of elevated IOP due to herpes trabeculitis, topical steroids should be utilized, along with aqueous suppressants (e.g. timolol, brimonidine, dorzolamide, or acetazolamide). Some patients experience severe pain associated with VZV and pain should be treated with narcotics if warranted. Neuropathic pain tends to respond well to amitriptyline 25 mg p.o. QHS and can decrease the incidence of postherpetic neuralgia. Capsaicin cream applied to the affected skin has been shown to be effective as well. Pregabalin 150 mg per day in divided doses may also alleviate pain due to acute herpetic neuralgia."
+    },
+    {
+      "number": 3,
+      "stem": "After the treatment regimen has been initiated, when should the patient return to your office for a follow-up visit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-2 weeks",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2-3 months",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-2 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-7 days",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "2-4 weeks",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Depending on the ocular findings and severity of the condition, patients should be checked within 1-7 days of the initiation of treatment to ensure that symptoms are improving, as well as the systemic and ocular signs. If there are no ocular sequelae present, and the patient suffers from systemic involvement only, the patient may follow up in anywhere between 1-4 weeks."
+    },
+    {
+      "number": 4,
+      "stem": "Which 2 of the following represent primary risk factors for developing this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "History of atopy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Poor contact lens hygiene",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "History of type II diabetes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Use of immunosuppressive medications",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "History of HIV",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Prior history of uveitis",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Aside from age, the immune system status plays a significant role in VZV as patients who are immunocompromised, or are treated with immunosuppressive agents, have a significantly increased risk for developing herpes zoster."
+    },
+    {
+      "number": 5,
+      "stem": "The patient's father suffers from Behcet disease. Which of the following is the MOST common ocular complication associated with this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ciliary process denervation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Keratoconus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Open-angle glaucoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Retinal pigmentary degeneration",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Corneal hypoesthesia",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Uveitis",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "Ocular conditions that may occur secondary to Behcet disease include uveitis, a mild hypopyon, vitritis, retinal edema, perivasculitis, papillitis, cystoid macular edema, retinal vein occlusions, retinal hemorrhages, papilledema, and optic atrophy. Secondary complications may also occur such as a cataract, vitreous hemorrhage, glaucoma, and retinal detachment. The most common ocular presentation of a patient with Behcet disease is bilateral, non-granulomatous uveitis."
+    }
+  ]
+}

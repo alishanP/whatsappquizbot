@@ -1,0 +1,339 @@
+{
+  "case_id": "vIsErmBdHxVZiFt10471",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "32-year-old Asian female; small business owner"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurry vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "eyes itch often; rubs them frequently"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago; wears monthly disposable soft contact lenses, reports compliance with cleaning regimen and replacement schedule, does not sleep in lenses"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: keratoconus"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "unknown OTC diet pills"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "nickel, NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: vitiligo"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual contact lens Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 10 exophoria, near: orthophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Keratometry",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": "*patient reported double vision and fluctuation in vision during OD refraction"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 14 mmHg @ 12:00 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "112/68 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "72 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: worsening vision and monocular diplopia",
+      "Location: OD",
+      "Severity: severe",
+      "Nature of onset: gradual",
+      "Duration: 2 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: was involved in a car accident 2 months ago; vision started changing shortly after",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD Coopervision Biofinity / -3.00 DS / 8.6 / 14.0; VA distance: 20/100 (PH 20/25)",
+      "OS Coopervision Biofinity / -3.25 DS / 8.6 / 14.0; VA distance: 20/20",
+      "OD: 43.50 @ 180 / 43.75 @ 090; no distortion of mires",
+      "OS: 43.75 @ 180 / 44.00 @ 075; no distortion of mires",
+      "OD: -2.50 -4.75 x 112; VA distance: 20/40",
+      "OS: -3.00 -0.50 x 170; VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: see image 1 OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.40 H/0.45 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.40 H/0.40 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_KCKLFWHBRKFUWCC10540.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the findings observed in image 1, what is the MOST appropriate diagnosis of the patient's right ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior cortical cataract",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lens dislocation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Posterior lenticonus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lens subluxation",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Traumatic cataract",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "A crystalline lens is considered to be subluxated when it is decentered from its normal position, but still remains within the lens space. A lens is considered dislocated (or luxated) in the event that it becomes completely displaced and lies outside of the hyaloid fossa, is free-floating in the vitreous, is in the anterior chamber, or lies directly on the retina. Ectopia lentis is another term for displacement of the crystalline lens from its normal position. Posterior lenticonus is a term reserved for a rare phenomenon in which the posterior aspect of the crystalline lens bulges backwards into the vitreous body, either due to ectasia or due to the absence of a lenticular capsule."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following systemic disorders is MOST frequently associated with the patient’s ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hallermann-Streiff syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lowe (oculocerebrorenal) syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Homocystinuria",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tubulointerstitial nephritis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Vogt-Koyanagi-Harada syndrome",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Whipple disease",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "There are several systemic conditions in which there exists a high potential for crystalline lens subluxation. These disorders include Marfan syndrome, homocystinuria, Weill-Marchesani syndrome, Ehlers-Danlos syndrome, Crouzon disease, and acquired syphilis, among others. Marfan syndrome is a disorder resulting in abnormal connective tissue. People with this condition frequently have lenses that bilaterally subluxate superiorly and temporally. However, because the lenses are usually still somewhat attached to the zonules, accommodation often remains partially intact. Marfan syndrome is the most common cause of heritable ectopia lentis, and ectopia lentis is the most frequent ocular manifestation of Marfan syndrome, occurring in approximately 75% of patients. People suffering from homocystinuria typically possess lenses that subluxate inferiorly and nasally, and they tend to have little to no accommodative capabilities. The enzyme, homocysteine, weakens the zonules supporting the crystalline lens. These patients, like those with Marfan syndrome, are also at a higher risk of developing a retinal detachment."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following ocular signs is typically observed in conjunction with the patient’s ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keratoconus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Iris coloboma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ectopic pupil",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Posterior subcapsular cataract",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Iridodonesis",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "Iridodonesis, as it applies to this case, is caused by ruptured or damaged zonules, leading to lenticular movement and subsequent quivering of the iris. Phacodonesis (movement or vibration of the lens) may also be observed in these patients. Retinal detachments are frequently observed in patients with Marfan syndrome, which has a high correlation with lens subluxation; however, this systemic condition is not present in this patient."
+    },
+    {
+      "number": 4,
+      "stem": "What is the MOST appropriate treatment of the patient's ocular condition at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patch the right eye",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lensectomy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vitrectomy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "An iris opaque contact lens with a decentered pupil",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "In the event of lens subluxation or dislocation, there is a risk for the development of secondary angle-closure glaucoma. If the lens becomes displaced anteriorly it can push the iris forward, potentially causing pupillary block. Typically, lens subluxation can be monitored and does not require surgical intervention unless the patient suffers from high astigmatism, significant monocular diplopia, glaucoma, inflammation (lens-induced uveitis), or corneal decompensation (if the lens dislocates into the anterior chamber and comes in contact with the corneal endothelium). In many cases, spectacles can neutralize the astigmatism induced by the displaced lens, but monocular diplopia may remain. Opaque iris contact lenses may be used to reduce the effects of either the phakic or aphakic visual axis. The more displaced the crystalline lens is, the more likely the aphakic visual pathway would provide the best corrected vision, as the periphery of the crystalline lens is usually very irregular. A prism ballast soft lens can be used with a decentered pupil to mask the phakic or aphakic visual pathway, while maximizing acuity and reducing diplopia. Some practitioners prescribe pilocarpine; however, this may inadvertently cause the lens to break loose from the zonules. Unless the patient's vision is at risk, most practitioners agree that it is initially best to choose a non-surgical approach to manage the patient's visual acuity."
+    },
+    {
+      "number": 5,
+      "stem": "What is the MOST common etiology of the patient’s ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An associated systemic condition",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trauma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Frequent eye rubbing",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Congenital",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Idiopathic",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "An associated ocular condition",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The most common cause of lens subluxation is trauma. If more than 25% of the zonular fibers become damaged, the lens will likely subluxate."
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "case_id": "RNKpTpIYCzuXZIv11917",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "69-year-old white female; retired"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "loss of vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 3 years ago; unremarkable, wears PALs full time"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: macular degeneration"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypertension, hypercholesterolemia, sleep apnea, type II diabetes, FBS: 126 mg/dL (this morning), HbA1c: 6.2% (6 weeks ago)"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "metformin, losartan, simvastatin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: type II diabetes, hypertension, hypercholesterolemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, superior restriction OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 16 mmHg, OS: 18 mmHg @ 12:15 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "117/76 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "66 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: sudden loss of superior portion of vision in the left eye",
+      "Location: OS",
+      "Severity: severe",
+      "Nature of onset: acute",
+      "Duration: 1 week",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: sleep apnea (wears CPAP)",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: +2.25 -1.25 x 070 add: +2.50; VA distance: 20/25, VA near: 20/25 @ 40 cm",
+      "OS: +2.00 -0.75 x 100 add: +2.50; VA distance: 20/25, VA near: 20/25 @ 40 cm",
+      "lids/lashes/adnexa: dermatochalasis OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: 1+ nuclear sclerosis OD, OS",
+      "vitreous: posterior vitreous detachment OD, OS",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_SBHHEJHUBTVMEIM11981.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the BEST diagnosis for the patient's left eye retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Branch retinal artery occlusion",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Central retinal artery occlusion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Branch retinal vein occlusion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cilioretinal artery occlusion",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Ocular ischemic syndrome",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "A patient with a branch retinal artery occlusion (BRAO) will typically present with the following ocular signs and symptoms: ° Sudden, profound, unilateral, painless sectoral visual field loss ° Visual acuity may be variable depending on central retinal involvement ° May have a history of transient visual loss (amaurosis fugax) ° Fundus examination reveals a zone of retinal whitening and superficial opacification along the distribution of the affected branch retinal artery ° Cloudy white retina is a result of associated edema • Corresponds to area of ischemia secondary to the arterial occlusion • Appearance is transient (resolves after a few days); may make diagnosis more difficult ° Narrowing of the arteries may be apparent along with sludging and segmentation of the blood column (box-carring) ° Emboli may be observed in the affected branch retinal artery ° Cotton-wool spots may also appear in the involved area A BRAO results from either embolic or thrombotic occlusion of a branch of the central retinal artery. There are 3 main varieties of emboli (these may be observed upon retinal evaluation): Cholesterol emboli ° Usually arising from the carotid arteries ° Bright reflective crystals are usually observed at a vessel bifurcation Platelet-fibrin emboli ° Associated with large vessel arteriosclerosis Calcific emboli ° Secondary to diseased cardiac valves Patients with a central retinal artery occlusion will also present with unilateral, acute, painless loss of vision; however it is typically more severe than what is observed with a BRAO (counting fingers to light perception in 94% of cases). Fundus evaluation of these patients will reveal superficial opacification or whitening of the retina throughout the entire posterior pole, with a \"cherry-red\" spot representing the center of the macula (may be subtle). This is because the intact choroid stands out below the thin foveola. In some cases, the macula may retain normal color (and central vision may be preserved) in those with a cilioretinal artery, which may still be able to supply blood to the papillomacular bundle despite a CRAO. A cilioretinal artery may be present in up to 20% of the population. It arises from the posterior ciliary circulation, but it supplies the macula and the papillomacular bundle. In cases wherein this artery becomes occluded, patients will typically present with acute, severe loss of central vision. Fundus examination will reveal an area of retinal cloudiness localized to the region typically supplied by the vessel. These types of arterial occlusions most commonly affect younger patients with associated systemic vasculitis. Branch retinal vein occlusions (BRVOs) vary in presentation based upon the amount of macular involvement. Cases in which macular drainage of blood occurs will present with sudden onset of blurred vision and metamorphopsia. If the macula is spared, patients will typically only complain of a relative visual field defect. Fundus evaluation will reveal dilation and tortuosity of the vein distal to the site of occlusion and attenuation proximally. The sector of the retina drained by the obstructed vein will show flame-shaped and dot-blot hemorrhages, retinal edema, and occasional cotton-wool spots. Patients with ocular ischemic syndrome (OIS) will typically report decreased vision with associated periorbital or ocular pain, and a history of transient monocular vision loss (amaurosis fugax). OIS is usually unilateral and most commonly affects men aged 50 to 80 years of age. Retinal examination will reveal dilated and irregular retinal veins and narrowed arterioles. Associated observations include mid-peripheral retinal hemorrhages, iris neovascularization, and posterior segment neovascularization. There may also be concurrent episcleral injection, corneal edema, anterior uveitis, neovascular glaucoma, iris atrophy, cotton-wool spots, spontaneous central retinal artery pulsations, and/or retinal microaneurysms."
+    },
+    {
+      "number": 2,
+      "stem": "Which 2 of the following statements are TRUE in regard to retinal occlusive disease? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "The most common retinal arterial occlusion involves the central retinal artery",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Temporal retinal arteries are most frequently involved in branch occlusions",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Nasal retinal arteries are most frequently involved in branch occlusions",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The most common retinal arterial occlusion involves the cilioretinal artery",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "The most common retinal arterial occlusion involves a branch retinal artery",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "• The overall incidence of central retinal artery and branch retinal artery occlusions is unknown; however, investigators have found that they occur more frequently in older males (the male to female ratio is 2:1), with most patients presenting with this condition in their early seventh decade of life • 90% of patients have an associated underlying disease, and most cases of retinal artery occlusion are unilateral but may affect both eyes in 1-2% of patients • Of all retinal artery occlusions 57-60% involve the central retinal artery, 35-38% involve a branch retinal artery, and 5% involve the cilioretinal artery • In branch retinal artery occlusions, 90% of the cases involve the temporal retinal artery"
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following observations would you MOST likely expect to see if fluorescein angiography was performed on this patient’s left eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delayed venous filling, capillary non-perfusion, and microvascular abnormalities in the involved area of the retina",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Delay in the appearance of fluorescein in the both the retinal and choroidal circulation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Delay in the appearance of fluorescein in the choroidal circulation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Delayed arterial filling and hypofluorescence of the involved area of the retina",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Complete lack of filling of the involved vessel and associated area of the retina",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "The diagnosis of a branch retinal artery occlusion (BRAO) can generally be established without fluorescein angiography (FA) on the basis of clinical findings alone; however, an FA may be helpful in the first few hours after an occlusion has occurred, before retinal edema becomes particularly marked. ° In patients undergoing FA, studies will show a delay in the arterial filling phase, with hypofluorescence of the involved area of retina due to blockage of the background choroidal fluorescence by retinal edema ° A central retinal artery occlusion will have this appearance throughout the entire retina, with additional late staining of the optic nerve head ° If the ophthalmic artery is affected, choroidal filling will be absent ° Complete lack of filling of an occluded retinal artery is very rare and occurs in less than 2% of patients"
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following should be included in your patient education for this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The peripheral vision loss in your left eye will likely continue to worsen over time",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The peripheral vision loss that you are experiencing in your left eye will be permanent",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The peripheral vision loss in your left eye is acute and will return once your condition resolves",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The peripheral vision loss in your left eye is not related to this acute retinal vascular condition",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "• Visual loss associated with a retinal artery occlusion typically occurs after 90 minutes of ischemia and results in permanent, irreversible damage ° A branch retinal artery occlusion (BRAO) typically manifests a visual field defect that corresponds to the area of the retina supplied by the occluded artery and will remain even after the retinal findings resolve • BRAOs may also affect central visual acuity if the macular area is affected, but in these cases, patients commonly regain some central vision after resolution, as compared to patients with a central retinal artery occlusion (CRAO) ° 70% of eyes with a CRAO have final vision of 20/400 or worse, while 90% of eyes with BRAO retain 20/40 vision or better • It is important to discuss the visual prognosis with your patient so that she is aware of the permanent effects that the artery occlusion will have on her vision"
+    },
+    {
+      "number": 5,
+      "stem": "What is the BEST treatment for this patient’s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intravenous acetazolamide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "No treatment is necessary; follow up with the patient in 3 months",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Anterior chamber paracentesis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pan-retinal laser photocoagulation",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Ocular massage",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cases of a retinal artery occlusion are considered an ocular emergency because they cause permanent, irreversible vision loss if retinal circulation is not restored prior to the development of an infarction (usually within 90 to 120 minutes after the occlusive event). Studies have shown that no treatment modality has been proven effective in the treatment of retinal artery occlusions (BRAO or CRAO); however, there are anecdotal reports of visual improvement with the following procedures: ° Immediate ocular massage; with fundus contact lens or digital pressure ° Anterior chamber paracentesis ° Acetazolamide (either oral or intravenous) to decrease intraocular pressure ° Hyperventilation into a paper bag ° Induction of respiratory acidosis leading to vasodilation Several days have passed since the onset of symptoms of the retinal arterial occlusion in this particular patient; therefore, the irreversible retinal damage has already occurred and the above options are impractical. Besides referral for treatment of the underlying condition, this patient should initially be checked on every 3 to 6 months to monitor for resolution (ocular neovascularization after BRAO is unlikely)."
+    }
+  ]
+}

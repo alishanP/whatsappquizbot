@@ -1,0 +1,293 @@
+{
+  "case_id": "hJqfPxFLmsaCnxy11084",
+  "total_questions": 4,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "16-year-old Hispanic male; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "watery eye"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: chronic iritis"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "cystic acne"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none; previous Accutane® use"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "erythromycin"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: pancreatitis, ulcerative colitis"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 13 mmHg, OS: 14 mmHg @ 9:12 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "101/73 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "67 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: eye waters and tears run down his cheek",
+      "Location: OS",
+      "Severity: mild",
+      "Nature of onset: unsure",
+      "Duration: since he can remember",
+      "Frequency: occurs several times a day",
+      "Exacerbations/remissions: worse with near work or looking at the board in class, but also often occurs spontaneously",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: acne",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/20; VA near: 20/20 @ 40 cm",
+      "OS: VA distance: 20/20; VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: see images 1 & 2 OD, see images 3 & 4 OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.20 H/ 0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.25 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_OUOHEDJYEBBOHLP11152.PNG",
+      "AnsweredCases/images/KI_JGMEIHCELHSXLQZ11153.PNG",
+      "AnsweredCases/images/KI_AICTWTAEFGWJBKU11154.PNG",
+      "AnsweredCases/images/KI_YDPIOVLOKLCTNST11155.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of the patient's left eye anterior segment condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Canaliculitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Punctal obstruction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Centurion syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Punctal stenosis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Punctal atresia",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Punctal atresia is a condition in which there is a congenital absence of the punctal opening. If the upper eyelid is affected, the patient will likely be asymptomatic; however, lower lid involvement typically causes epiphora. Punctal stenosis is a narrowing of the puncta that usually occurs secondary to idiopathic causes, use of pharmacological agents, or previous eyelid infections. Patients with canaliculitis typically report excessive tearing unilaterally, along with mucopurulent discharge. Canaliculitis is caused by inflammation of the canaliculus (usually as a result of infection), which results in swelling of the canaliculus and thick concretions that may be expressed from the punctum when pressure is applied. Centurion syndrome occurs as a result of a prominent nasal bridge, causing poor apposition of the medial aspect of the eyelid (including the puncta) with the globe. This condition causes epiphora and is typically observed during childhood/adolescence."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate treatment to help resolve this patient's chief complaint of epiphora?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nasolacrimal probing and irrigation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cannulation with placement of silicone tubes",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "A canaliculotomy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Blepharoplasty to reposition the puncta against the globe",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Topical corticosteroids",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Topical antibiotics",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Patients with symptomatic congenital punctal atresia typically benefit from cannulation with the placement of a silicone tube for several months. In the event that a canaliculus is not present or cannot be located, a conjunctival-lacrimal sac tube may be required. Probing and irrigation is performed when a nasolacrimal duct obstruction is suspected. A saline-filled syringe is inserted into the lower punctum following the instillation of a topical anesthetic. If a hard stop is experienced (the syringe hits the medial wall of the lacrimal sac), or if the injected saline is either tasted by the patient or flows through the nose, there is no obstruction. If saline is not observed or tasted by the patient, a total obstruction of the nasolacrimal duct is suspected. In the latter case, the sac will become extended due to the influx of saline, and there will be regurgitation through the upper punctum. If a soft stop is experienced (the syringe is not in the lacrimal sac) the lacrimal sac will not extend and the injected saline will either reflux through the lower punctum (which is indicative of a lower canalicular obstruction), or it will flow through the upper punctum. If the saline is observed exiting from the upper punctum, there is likely an obstruction of the common canaliculus. Patients who suffer from punctal stenosis may benefit from punctal dilation, a one-snip ampullotomy (small vertical incision of the ampulla), a two-snip procedure (vertical and horizontal incisions to create a larger opening), a laser punctoplasty, or the insertion of canalized plugs. Canaliculitis may be treated with topical antibiotics, but the infection often persists and commonly requires a canaliculotomy."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST common etiology of the patient's anterior segment condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congenital",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Cicatricial",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Developmental",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Involutional",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Secondary to chronic rubbing/manipulation",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Secondary to multiple eyelid infections",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Punctal atresia is most commonly a congenital phenomenon. Some research suggests that this condition has an autosomal dominant pattern; therefore, it is likely that one of the parents of the affected child will also have punctal atresia."
+    },
+    {
+      "number": 4,
+      "stem": "The patient stated that he previously took Accutane® for his cystic acne. Which of the following is the MOST common side effect associated with Accutane® use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corneal whorl-like deposits",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Optic atrophy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A red-orange tinge to urine, sweat, and tears",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Elevated intraocular pressure",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Increased sun sensitivity",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Accutane® is a very potent anti-acne medication with many potential side effects. Ocular complications include but are not limited to: dry eyes, a myopic shift, blurred vision, and a potential decrease in night vision. Some studies have also demonstrated an earlier incidence of cataracts in patients who took Accutane®. Very rare ocular effects include increased intracranial pressure causing papilledema, corneal deposits, and color vision disturbances. Side effects associated with Accutane® use should subside with discontinuation of the medication. Other systemic side effects of Accutane® include: inflammatory bowel disease, birth defects, increased sun sensitivity, liver damage, depression, suicide, bone or muscle pain, changes in hearing, headaches, and severely dry skin."
+    }
+  ]
+}

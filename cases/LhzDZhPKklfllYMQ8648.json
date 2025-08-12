@@ -1,0 +1,363 @@
+{
+  "case_id": "LhzDZhPKklfllYMQ8648",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "76-year-old Asian female; retired"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "cataract surgery OU 2 years ago; YAG capsulotomy OD 2 weeks ago"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: cataracts, father: primary open angle glaucoma"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypothyroid, hypertension"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "levothyroxine, atenolol"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "penicillin"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 16 mmHg, OS: 16 mmHg @ 9:15 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "116/72 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "62 bpm, regular"
+      },
+      {
+        "label": "Amsler grid",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurry vision in the right eye at all distances",
+      "Location: OD",
+      "Severity: severe",
+      "Nature of onset: acute",
+      "Duration: 5 days",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: +0.50 -0.75 x 165 add: +2.50; VA distance: 20/150 (PHNI)",
+      "OS: +0.25 -1.00 x 070 add: +2.50; VA distance: 20/30",
+      "lids/lashes/adnexa: dermatochalasis OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: 1+ guttata OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: PCIOL, centered with open posterior capsule OD, PCIOL, centered with 2+ posterior capsular opacification OS",
+      "vitreous: syneresis OD, OS",
+      "C/D: 0.40 H/0.40 V",
+      "macula: see image 1",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.40 H/0.40 V",
+      "macula: see image 2",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "OD: central metamorphopsia",
+      "OS: (-) metamorphopsia, (-) scotomas"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_ZECLXONYZPRQUPMD8716.PNG",
+      "AnsweredCases/images/KI_MUNAJNQLHTNKHFJD8717.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the BEST diagnosis for the patient's right eye retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Irvine-Gass syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cystoid macular edema",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Central serous retinopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Epiretinal membrane with vitreomacular traction",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Choroidal neovascular membrane",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Cystoid macular edema (CME) is a common, non-specific retinal condition in which fluid accumulates in the outer plexiform and inner nuclear layers of the retina, forming several fluid-filled cystic spaces in the region of the macula. On slit lamp examination, the most common clinical signs of CME are retinal thickening, resulting in the loss of foveal depression, and blunting of the foveal light reflex. Other clinical observations may include a yellow-colored appearance of the perifoveal area, small splinter hemorrhages, the presence of an epiretinal membrane, and/or optic nerve head swelling. Close examination may reveal small intraretinal cystoid spaces in the macular area, but these may be difficult to discern. A loss of definition of the choroidal vascular pattern underlying the macula is another common observation associated with CME. The classic symptoms of CME are complaints of impaired vision, positive central scotoma, metamorphopsia, low-grade ocular hyperemia, photophobia, and reduced contrast sensitivity. A hyperopic shift in refractive error may also be observed. There are many systemic, retinal, and post-surgical causes that may produce an occurrence of CME. These include (but are not limited to) diabetic retinopathy, retinal vein occlusions, hypertensive retinopathy, uveitis, retinitis pigmentosa, use of certain topical drops (epinephrine, dipivefrin, and prostaglandin analogs), retinal vasculitis (from Eales disease, Behcet syndrome, sarcoidosis, multiple sclerosis, cytomegalovirus retinitis), retinal telangiectasias (Coat disease), age-related macular degeneration (dry or exudative), intraocular tumors, collagen vascular disease, choroidal neovascular membranes, etc. One of the most common etiologies of CME is post-operative, following any ocular surgery such as laser photocoagulation, cryotherapy, penetrating keratoplasty, scleral buckling, glaucoma filtration surgery, cataract surgery (Irvine-Gass syndrome), and YAG laser capsulotomy (as in the case of this particular patient). It has been found that the risk of CME may be reduced if the YAG capsulotomy is postponed for at least 6 months following cataract surgery. Optical coherence tomography (OCT) is an extremely useful supplemental tool in the detection of CME. OCT imaging demonstrates a collection of hyporeflective cystic spaces that can be observed in the outer nuclear layer of the central macula and may reveal the amount of retinal thickening and subsequent loss of foveal contour (as observed in image 1). Not only does the OCT aid in diagnosis of CME, it also proves to be very helpful in assessing response to treatment, monitoring the possible development of lamellar macular hole formation, and evaluating the presence of vitreoretinal traction. The advancement of OCT technology has proven that it is as effective as fluorescein angiography in detecting the presence of CME. The right eye OCT (image 1) does not demonstrate any observable epiretinal membrane that could be causing vitreomacular traction, although epiretinal membranes may occasionally cause CME by disrupting perifoveal capillaries, resulting in leakage of fluid. Irvine-Gass syndrome is the term that identifies CME formation following cataract surgery, which characteristically presents in a peak period of 6 weeks to 3 months postoperatively. It typically occurs when there has been some type of surgical complication such as posterior capsule rupture, vitreous loss, anterior chamber or secondary IOL implantation, concurrent diabetes, or a history of CME in the fellow eye (although it can occur in uncomplicated cases as well). Central serous retinopathy will show a full-thickness elevation of the sensory retina from the RPE layer. A choroidal neovascular membrane will present as an area of hyper-reflectivity that is observed subfoveally with OCT imaging."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following macular conditions may form if this patient’s ocular condition remains unresolved?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lamellar macular hole",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Geographic atrophy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Choroidal neovascular membrane",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Full thickness macular hole",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "In chronic long standing CME, the small fluid filled cystic spaces may fuse to form larger foveal cysts. These larger cavities can continue to coalesce and eventually progress to the formation of a lamellar macular hole. Patients with lamellar macular holes have poorer visual acuity and a worse prognosis, as lamellar holes are notorious for causing irreversible damage to central vision. It is for this reason that a proper diagnosis in a timely manner is essential so that an appropriate treatment plan and follow-up may be implemented to prevent this complication from occurring."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following BEST describes the classic fluorescein angiography pattern typically observed in patients with this retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Small hyperfluorescent spots in the early phase with \"flower-petal\" pattern of hyperfluorescence in the late stage",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Single early spot of hyperfluorescence with expansion up and out in a smoke-stack appearance",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Single early spot of hypofluorescence with expansion up and out in a smoke-stack appearance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "No visible abnormal leakage of dye, hyperfluorescence, or hypofluorescence will be observed",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Small hypofluorescent spots in the early phase with \"flower-petal\" pattern of hypofluorescence in the late stage",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "A well delineated area of lacy hyperfluorescence in the early phase with prominent leakage in the late phase",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Studies have shown that clinical examination alone may allow for up to 5-10% of CME cases to go undiagnosed. Fluorescein angiography (FA) and optical coherence tomography (OCT) are highly valuable for identifying patients with CME, especially in cases where the diagnosis is uncertain. In patients with CME, the early arteriovenous phase of FA will show capillary dilation and leakage of fluid that will cause small hyperfluorescent spots to become visible. In the later phase of FA, fluorescein dye is allowed to accumulate within the microcystic spaces in the outer plexiform layer of the retina. This results in the classic perifoveal \"petaloid\" or \"spoke-wheel\" staining pattern. Optic nerve head leakage may also be observed in some cases of CME, most commonly in association with Irvine-Gass syndrome. In severe cases of CME, the outer cystoid spaces may show a \"honeycomb\" appearance, which is due to larger fused cystoid spaces that commonly extend outside the perifoveal region. A classic choroidal neovascular membrane (CNVM) will show a clearly visible and well-demarcated \"lacy\" hyperfluorescence in the early phase of angiography, with an increasing amount of leakage in the late phase. In contrast, the smoke-stack appearance on fluorescein angiography occurs in central serous retinopathy."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following hereditary retinal diseases is MOST commonly associated with this patient’s diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Juvenile Best disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Adult vitelliform dystrophy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Leber congenital amaurosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stargardt disease",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Retinitis pigmentosa",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "CME may develop in patients with a history of any form of retinitis pigmentosa (RP), which can result in a variable degree of visual acuity loss. The etiology of CME in these patients is unclear; however, some studies have shown that eyes of patients diagnosed with RP may have compromised inner and outer blood-retinal barriers, which could lead to leakage of fluid within the retina. These cases tend to respond best to treatment with systemic carbonic anhydrase inhibitors, with little evidence suggesting that NSAIDs or corticosteroids are effective with this form of CME. The only other method of treatment that may provide improvement in signs and symptoms of RP patients with CME is grid laser photocoagulation."
+    },
+    {
+      "number": 5,
+      "stem": "What is the BEST initial treatment for the patient's right eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refer for vitrectomy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "No treatment is necessary, monitor the condition only at this time",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Indomethacin 25 mg p.o. t.i.d.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer for Avastin® injection",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Acetazolamide 500 mg p.o. q.d.",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Refer for laser photocoagulation",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "1 gtt ketorolac OD q.i.d. and 1 gtt prednisolone acetate OD q.i.d.",
+          "correct": true
+        }
+      ],
+      "answer": "G",
+      "explanation": "There are several different therapeutic treatment options available for patients presenting with CME. In some cases, the treatment will depend on the etiology of the condition, which will be described in further detail below. For this patient, CME developed secondary to a YAG posterior capsulotomy following cataract surgery. In post-surgical CME, the most common therapies are topical or periocular corticosteroids, topical non-steroidal anti-inflammatory (NSAID) drops, and oral carbonic anhydrase inhibitors (CAIs), which may be used in various combinations. A stepwise treatment approach is commonly implemented in which topical corticosteroids and topical NSAIDs are usually tried first. If there has not been an improvement in visual acuity, OCT, or angiographic findings after a period of 4-6 weeks, periocular corticosteroids or systemic CAIs should be considered. Occasionally, some patients will need prolonged treatment for several months if they show signs of recurrence after tapering the prescribed medications. For cases in which retinal vascular disease can be considered the culprit (diabetes, vein occlusions, etc.), laser photocoagulation may be the most appropriate initial treatment. For example, in a patient with diabetic retinopathy, focal laser photocoagulation of microaneurysms has shown to be an effective treatment; however, if the amount of leakage observed on fluorescein angiography is more diffuse in nature, grid pattern laser coagulation may be the more suitable treatment. As described previously, patients with retinitis pigmentosa tend to respond best to treatment with oral CAIs. Drug-induced cystoid macular edema may be reversible after the offending medication is stopped, without the need for any further treatment. Patients with CME that has developed as a result of intraocular inflammation from such conditions as uveitis, choroiditis, toxoplasmosis, etc., are typically treated with steroids and immunosuppressive agents that are aimed at reducing and controlling the inflammatory process. It is also important to note that close to 70% of post-cataract CME cases (Irvine-Gass syndrome) resolve spontaneously within a period of 6 months. Treatment in these patients is only necessary if there is decreased vision and the patient is symptomatic."
+    },
+    {
+      "number": 6,
+      "stem": "If one of your paraoptometrics breaches a patient's confidentiality, who would be considered liable for a malpractice action in a court of law?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both the optometrist and the paraoptometric",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The paraoptometric",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No one; this is not considered a malpractice claim",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The optometrist",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "According to the American Optometric Association (AOA), this scenario can be considered the basis for a malpractice claim against the optometrist. There is a court created legal doctrine known as respondeat superior, which literally means \"let the master answer.\" This essentially means that the employer will have to answer for the actions of an employee. Therefore, in this case, the optometrist can be directly sued in court by the patient for breaching the patient's confidentiality, even though an employee of the optometrist made the disclosure, not the optometrist himself/herself. In addition to this type of lawsuit, the patient could also simultaneously file a complaint with the Office of Civil Rights, which is a subset of the United States Department of Health and Human Services, for a violation of the Health Insurance Portability and Accountability Act of 1996 (HIPAA). In these cases, HIPAA does not allow private lawsuits by patients under HIPAA itself; however, the federal government may pursue a claim against the optometrist's office for a violation reported by a patient. Similarly, some states can also take action against an optometrist personally for professional misconduct. It is extremely important to never treat a breach of patient confidentiality lightly, and if it does occur, it is recommended to get immediate legal counsel."
+    }
+  ]
+}

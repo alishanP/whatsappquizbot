@@ -1,0 +1,302 @@
+{
+  "case_id": "mdpDvLqLuIruZTjyye80",
+  "total_questions": 4,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "32-year-old white male; air traffic controller"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 6 months ago; no vision correction; corneal scar OD due to previous injury"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: glaucoma"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "anxiety disorder"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Xanax®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hyperthyroid, father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 13 mmHg, OS: 13 mmHg @ 10:15 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "121/82 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "82 bpm, regular"
+      },
+      {
+        "label": "Optical coherence tomography (OCT)",
+        "value": ""
+      },
+      {
+        "label": "Amsler grid",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: sudden decrease in vision",
+      "Location: OD",
+      "Severity: moderate",
+      "Nature of onset: acute",
+      "Duration: 2 days",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: difficulty sleeping",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: anxiety",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: nervous",
+      "Affect: appropriate",
+      "OD: VA distance: 20/40 (PHNI)",
+      "OS: VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: small round scar OD, clear OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable",
+      "OD: see image 3",
+      "OS: see image 4",
+      "OD: central metamorphopsia, see image 5",
+      "OS: normal, see image 6"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_BYCSNPSSHDZZCFFD1401.JPG",
+      "AnsweredCases/images/KI_ZYEQVNIXNMLITELU1402.JPG",
+      "AnsweredCases/images/KI_DGQGPGNVVBRAONHB1403.JPG",
+      "AnsweredCases/images/KI_EWQQXWTVTQMHYQAB1404.JPG",
+      "AnsweredCases/images/KI_MTKYZPQVKNNPRUAZ1405.JPG",
+      "AnsweredCases/images/KI_MWSLOURCJYTXPHDX2749.GIF"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the examination findings, what is the MOST likely diagnosis of the patient's right eye fundus condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Full-thickness macular hole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Macular degeneration",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bull's eye maculopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Central serous retinopathy",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Central serous chorioretinopathy (CSR) occurs as a result of leakage of fluid from the choriocapillaris into the subretinal area, causing a serous detachment of the neurosensory retina in the region of the macula. There is typically an associated loss of the foveal reflex, a hyperopic shift, a potential relative scotoma, and central metamorphopsia. Fluorescein angiography will reveal hyperfluorescence that appears like a “smoke stack.” Evaluation of the posterior pole will display a blister-like elevation of the neurosensory retina. This condition is most prevalent in patients with high levels of anxiety and stress, those with a type \"A\" personality traits (particularly middle-aged males), patients taking systemic steroids, those with hypertension, and those with systemic lupus erythematosus. Macular degeneration may cause central metamorphopsia and scotomas on Amsler grid testing; however, the fundus images of this patient do not display any signs of drusen, which are characteristic of macular degeneration. This condition is also not typically observed at this age, nor will one generally display a neurosensory detachment on OCT. A full thickness macular hole will cause an absolute scotoma as opposed to a relative scotoma. Visual acuity will generally be much worse than 20/40. OCT imaging would also reveal a complete retinal defect. The fundus would display a dark red spot in the area of the macula, potentially along with yellow precipitates in the RPE. Bull's eye maculopathy is typically observed in patients with chloroquine or hydroxychloroquine use, which is common in the treatment of malaria, systemic lupus erythematosus, and rheumatoid arthritis. Similar retinal findings can also occur in patients with AMD, Stargardt disease, and cone dystrophy. A paracentral scotoma may be present in addition to RPE atrophy in a characteristic ring pattern surrounding the fovea (this occurs in more advanced forms of the condition). Visual acuity is variable in these patients."
+    },
+    {
+      "number": 2,
+      "stem": "What gender and age group are MOST characteristically affected by this retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Males and females are equally affected; ages 40-60",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Males; ages 10-30",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Females; ages 20-40",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Males; ages 30-50",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Females; ages 50-80",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Males; ages 60-80",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "CSR is more commonly observed in middle-aged males who are under high stress, high anxiety, or who possess type A personality traits."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST appropriate treatment for the patient's fundus condition at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UV protection and AREDS II vitamins",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Discontinue the patient's oral medication",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Refer patient for a vitrectomy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer for photodynamic therapy",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "No treatment is necessary at this time",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Refer patient for laser photocoagulation",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Intervention is rarely ever required, as CSR tends to spontaneously regress without treatment within a period of approximately 6 months. Should the patient experience poor visual acuity levels for longer than 4 months, or if the patient wishes to hasten the recovery period (especially for occupational reasons), photocoagulation may be performed to the area of RPE leakage, provided that the area of leakage is not within the foveal avascular zone. Photodynamic therapy (PDT) is another treatment that can be considered in chronic cases of CSR. PDT causes endothelial damage and vascular hypoperfusion to inhibit the choroidal hyperpermeability seen in CSR; however, it does not come without risks."
+    },
+    {
+      "number": 4,
+      "stem": "When should the patient return for a follow-up visit at your office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 week",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "After the retinal specialist releases care back to you",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "6 months",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "1 month",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The patient should be monitored monthly. Again, intervention is rarely required in these cases, as most patients with CSR will experience resolution within approximately 6 months; however, it is important to monitor closely until the condition is stable."
+    }
+  ]
+}

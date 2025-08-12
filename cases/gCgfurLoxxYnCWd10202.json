@@ -1,0 +1,329 @@
+{
+  "case_id": "gCgfurLoxxYnCWd10202",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "39-year-old Asian male; housekeeper"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "occasional itching in inner corners of the eyes"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago; wears single vision distance glasses"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: strabismus"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypercholesterolemia"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "lovastatin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "cephalosporins"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 4 exophoria, near: 4 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 10 mmHg, OS: 10 mmHg @ 4:35 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "120/79 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "74 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: decreased distance vision with current glasses",
+      "Location: OD, OS",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 1 year",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at night",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -1.50 -1.00 x 170; VA distance: 20/25",
+      "OS: -2.00 -0.50 x 020; VA distance: 20/25",
+      "OD: -1.75 -1.00 x 173; VA distance: 20/20",
+      "OS: -2.25 -0.75 x 012; VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: 1+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_SJRVYUSVKTZTROE10268.PNG",
+      "AnsweredCases/images/KI_DHDPVXRFONWIBTK10269.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of the patient's fundus condition observed in images 1 and 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myopic degeneration",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Myelinated nerve fiber layer",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Optic nerve drusen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vitritis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Cotton wool spots",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Axons of the nerve fiber layer generally become myelinated just after they pass posteriorly through the lamina cribrosa. Occasionally, oligodendrocytes will enter the eye during embryogenesis causing myelination of the nerve fiber layer. This will appear as a whitened nerve fiber layer with feathery margins that usually extends from the optic disc. In general, axons within the retina should not be myelinated. In most cases, individuals that display this condition are asymptomatic; however, depending on the extent of the retinal involvement and the location, an associated visual field defect may be present. Drusen of the optic nerve is generally bilateral, however, it may present unilaterally. Early in life, the drusen may be located deep beneath the surface of the optic disc, causing the appearance of pseudopapilledema, except that the disc should not appear hyperemic and surface vessels should remain visible. As time passes, the drusen may become more prominent, move towards the surface of the disc, and become exposed, causing the margins of the nerve to appear irregular. The drusen will stay confined to the nerve area. Drusen of the optic nerve may also cause a visual field defect. A diagnosis of vitritis is incorrect because the areas of concern are localized to the retinal tissue and the vitreous remains uninvolved. Ischemic events typically involve superficial hemorrhages of the retina, retinal edema, cotton wool spots, and potential optic disc swelling. In these cases, the patient's visual acuity is often poor, although it may be unaffected depending on the severity of the ischemia."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following ocular conditions is MOST frequently associated with the retinal findings observed in images 1 and 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Macular edema",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glaucoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Branch retinal vein occlusion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Myopia",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Serous retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Posterior subcapsular cataracts",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Myelination of the nerve fiber layer can be associated with amblyopia, strabismus, nystagmus, optic neuritis, neovascularization of the retina, and myopia. Ellis et al. observed that 83% of eyes with myelinated nerve fibers also possessed more than 6 diopters of myopia. Whether myopia causes myelination of nerve fibers or vice-versa remains to be determined. It has been postulated that myelination may cause a blurring of vision, which acts as a stimulant to axial growth, resulting in the development of myopia. Conversely, axial elongation is related to a delay in the formation of the lamina cribrosa. The lamina cribrosa is thought to act as a barrier against myelination, and if scleral formation is abnormal, this could potentially lead to myelinated nerve fibers."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST appropriate treatment for the patient's retinal condition at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Order a B-scan ultrasound",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Refer for a Kenalog® injection",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Refer for a biopsy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Order complete blood panel",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Monitor annually",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Refer for fluorescein angiography",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Myelination of the nerve fiber layer is a congenital and non-progressive condition and, as such, is not expected to change. The condition requires observation, but no active intervention is necessary."
+    },
+    {
+      "number": 4,
+      "stem": "While performing binocular indirect ophthalmoscopy (BIO), you notice a dark shadow at the inferior edge of your condensing lens. Which of the following is the MOST likely cause of the shadow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient's pupil is too large",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The condensing lens is above the common visual axis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The doctor is accommodating",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The condensing lens is below the common visual axis",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "The patient is accommodating",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "When performing BIO it is important that the beam of light is centered in the condensing lens and is directed towards the center of the pupil regardless of where the patient is asked to direct his or her gaze. If the condensing lens is not centered or not aligned with the common visual axis, or if the lens is located too close to the patient's eye, an optimal image will not be achieved. Tilting of the lens will also adversely affect the image quality."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following BEST reflects an optometrist's duty to promote patient welfare?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Purchasing an intense pulsed light (IPL) device to help increase office profits",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Having boxes of contact lenses in stock to ensure that patients will not order contact lenses online",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Purchasing an OCT (optical coherence tomography) device to allow for better detection of glaucoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Having contact lens trials available for purchase to ensure that patients do not go without clear vision if they run out of contacts",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "An important part of an optometrist's role in promoting ocular health is to ensure that he or she keeps up to date with important technological advancements and current treatment options, thereby ensuring continued competence. Decisions regarding purchase of diagnostic equipment should be based on optimizing patient welfare rather than financial gain. Two statements taken from the optometric oath reflect this principle: \"I will strive continuously to broaden my knowledge and skills so that my patients may benefit from all new and efficacious means to enhance the care of human vision.\" \"I will place the treatment of those who seek my care above personal gain and strive to see that none shall lack for proper care.\""
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "case_id": "XGVfAnFZtYUfupBVAh84",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "7-year-old Asian female; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: strabismus"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "multivitamins"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 2 exophoria, near: 2 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Oculomotor system",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Accommodative system",
+        "value": ""
+      },
+      {
+        "label": "Vergence system",
+        "value": ""
+      },
+      {
+        "label": "Sensory system",
+        "value": ""
+      },
+      {
+        "label": "DEM test (percentile rank):",
+        "value": "50% horizontal, 60% vertical, 55% ratio, 99% errors"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 15 mmHg @ 1:15 pm by iCare tonometer"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: vision becomes blurry during periods of prolonged near work",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 1 year",
+      "Frequency: daily",
+      "Exacerbations/remissions: worse at the end of the day; improves with rest",
+      "Relationship to activity or function: occurs after 20 minutes of reading (or other near work)",
+      "Accompanying signs/symptoms: fatigue, eyestrain",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20, near: 20/20 @ 40 cm",
+      "OS: distance: 20/20, near: 20/20 @ 40 cm",
+      "Pursuits: normal",
+      "Saccades: normal",
+      "Fixations: normal",
+      "OD: +0.25 -0.25 x 005; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: plano -0.25 x 180; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "Amplitudes: OD: 5 D, OS: 5 D, OU: 6 D",
+      "Facility (+/- 2.00): OD: 5 cycles/minute, OS: 5 cycles/minute, OU: 4 cycles/minute",
+      "NRA/PRA: +1.50 / -0.50",
+      "Monocular estimation method (MEM): OD: +1.00, OS: +1.00",
+      "NPC: 3 cm",
+      "Vergences: NFV @ far: x/6/3, NFV @ near: 11/22/14; PFV @ far: 11/19/11, PFV @ near: 18/22/19",
+      "Facility: 8 base-out/8 base-in: 9 cycles/minute @ 40 cm",
+      "Worth 4 dot: far: no suppression, near: no suppression",
+      "Stereopsis: 25\"",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: epicapsular stars OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_GVLQNTANECNEPDJJ7451.JPG",
+      "AnsweredCases/images/KI_AIMVHWCMZOTNYSGP7452.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Based on the examination findings, what is the MOST likely cause of the patient's symptoms associated with prolonged near work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Convergence excess",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Accommodative insufficiency",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Convergence insufficiency",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Accommodative excess",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Divergence excess",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Accommodative insufficiency is the most common accommodative disorder; it is characterized by decreased amplitudes of accommodation, a lag of accommodation on MEM, and poor monocular accommodative facility (with minus-powered lenses being more difficult to clear). One may also potentially note decreased binocular accommodative facility (again, with minus lenses being more difficult) and a reduced positive relative accommodation (PRA) finding. Symptoms include difficulty concentrating when reading, blurred vision, and eye strain with near tasks. Characteristic exam findings for convergence insufficiency (CI) include the following: low exophoria (or orthophoria) at distance with a greater degree of exophoria at near (greater than 6 prism diopters between the distance and near phorias), an exo fixation disparity at near, a low AC/A ratio (measures the convergence induced by accommodation per unit of accommodation), a receded near point of convergence, reduced negative relative accommodation findings, decreased vergence facility (with a greater degree of fusion difficulty on base-out prism), and a decreased positive fusional vergence at near. Common symptoms include horizontal diplopia, general asthenopia, blur, fatigue with reading, lack of comprehension that worsens with time, the feeling that words \"move\" around on the page, and a pulling sensation of the eyes. All symptoms appear worse at the end of the day and increase in severity with prolonged near work. Among the vergence deficiencies, CI is the most common. Divergence excess is characterized by a higher degree of exophoria (or intermittent exotropia) at distance than at near (roughly a 10 prism diopter difference), a high AC/A ratio, decreased distance positive fusional vergence, and potentially poor second degree fusion at distance. Symptoms include covering or squinting an eye in bright light, and possibly asthenopia. Some patients experience suppression; therefore, in these cases, patients will likely be asymptomatic. Exam findings for patients with convergence excess include the following: low esophoria (or ortho) at distance and a greater degree of esophoria at near (greater than 6 prism diopters between the distance and near phorias), an eso fixation disparity at near, decreased negative fusional vergence at near, and decreased vergence facility (with base-in prism being more difficult). The clinician might also observe a lag of accommodation, decreased positive relative accommodation values, and poor binocular accommodative facility (with minus-powered lenses proving more difficult to clear). Symptoms typically include blurred vision, intermittent diplopia, headaches with reading, the feeling that words \"move\" around on the page when reading, and difficulty concentrating during near activities. Patients with accommodative excess will display a lead on MEM (monocular estimation method). This condition is observed when the patient's accommodative response exceeds that of the stimulus. Patients who possess a lead on MEM will need minus lenses to neutralize the reflex. The clinician may also note decreased monocular and binocular accommodative facility (plus-powered lenses being more difficult) and a reduced negative relative accommodation value. Symptoms often include fluctuating visual acuity and general asthenopia."
+    },
+    {
+      "number": 2,
+      "stem": "According to Hofstetter's formula, given this patient's age, what would her expected minimum monocular amplitude of accommodation be via the push-up method (rounded to the nearest whole dioptric value)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8 D",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "15 D",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "11 D",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "10 D",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "13 D",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "According to Hofstetter's formula, the minimum monocular push-up amplitude of accommodation for a patient can be calculated as such: minimum amplitude of accommodation in diopters = 15 - 1/4 (patient's age) For this case, D = 15 - 1.75 = 13.25 D; rounding down to the nearest diopter would be 13.00 D. You can also calculate the average expected accommodative amplitude with the following formula: average amplitude of accommodation in diopters = 18.5 - 1/3 (patient's age)"
+    },
+    {
+      "number": 3,
+      "stem": "Which 2 of the following vision therapy techniques should be prescribed in order to help relieve this patient's symptoms? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Monocular push-ups",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Binocular pencil push-ups",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Monocular lens clearing and sorting",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Brock string",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Percon saccades",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Vectograms",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Pencil saccades",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Monocular push-ups and monocular lens clearing and sorting are two techniques used to help improve accommodative amplitudes. For patients with accommodative insufficiency, the clinician will use minus-powered lenses to train the patient. Pencil saccades and Percon saccades are used to improve saccadic eye movements. Percon saccades are specifically used to help improve fine saccadic accuracy and speed, while pencil saccades focus on patient awareness of saccadic eye movements and gross saccadic accuracy. Pencil push-ups, the barrel card, and the Brock string are methods used to initially demonstrate and help a patient ascertain an awareness of what it \"feels like\" to diverge/converge, as well as to promote and train voluntary convergence. Vectograms, the aperture rule, Life Saver free-space fusion cards, eccentric circles free-space fusion cards, and computer orthoptics are higher level vision therapy procedures that serve to promote both positive and negative fusional ranges, depending on which area is deficient."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following monocular estimation method (MEM) findings is ALWAYS considered abnormal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Any lag",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Any lead",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "+0.25",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "+0.50",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Plano",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "MEM is a technique used to determine how the patient's accommodative system responds when performing a near task. MEM is performed in normal room illumination at the patient's working distance with the patient's habitual prescription in place. The patient is asked to read age-appropriate material attached to the retinoscope while the clinician uses the retinoscope to determine how much of an accommodative lag (\"with\" motion) or lead (\"against\" motion) is present. The magnitude of the lead or lag is quantified by quickly placing the appropriate loose lens in front of the patient's eye in an attempt to neutralize the reflex. The lenses must be removed quickly to ensure that the patient does not accommodate through the introduced lens. \"With\" motion is neutralized with plus-powered lenses and \"against\" motion is neutralized with minus-powered lenses. MEM findings of greater than +0.75 are considered abnormal; this represents a significant lag of the accommodative system. Any lead is considered abnormal."
+    },
+    {
+      "number": 5,
+      "stem": "If the patient’s parents decided not to have the patient undergo vision therapy, which of the following alternative options would BEST help relieve her symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There are no other options available to this patient",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prescribe glasses with base-in prism for use with prolonged near work",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prescribe +1.00 DS OU glasses for use with prolonged near work",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Prescribe -1.00 DS OU glasses for distance use",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Prescribe glasses with base-out prism for use with prolonged near work",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Prescribe patching of each eye for 2 hours a day with 30 minutes of near activities",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Accommodative insufficiency is best treated with either vision therapy (which serves to improve and train the appropriate accommodative response), or by prescribing plus-powered lenses for reading to help relax accommodation (which decreases the demand on the accommodative system). This patient does not have a vergence problem and therefore would not benefit from prism. Also, the patient's distance prescription is essentially plano and thus does not require a distance prescription either. The patient is not amblyopic and hence does not require the implementation of a patching regimen."
+    }
+  ]
+}

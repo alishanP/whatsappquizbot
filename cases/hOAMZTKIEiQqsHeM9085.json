@@ -1,0 +1,333 @@
+{
+  "case_id": "hOAMZTKIEiQqsHeM9085",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "34-year-old white female; artist"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "bulging eyes"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; unremarkable"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: retinal detachment"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "last physical exam 2 weeks ago; see table 1 for laboratory test results"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypertension, hypercholesterolemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 17 mmHg, OS: 17 mmHg @ 10:30 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "122/82 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "82 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: has been told by family and friends recently that her eyes appear as though they are bulging out",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 1 year",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: dry eyes",
+      "Constitutional/general health: weight loss, hair loss",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: less frequent menstruation",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/20",
+      "OS: VA distance: 20/20",
+      "OD: +0.25 -0.50 x 175; VA distance: 20/20",
+      "OS: +0.50 DS; VA distance: 20/20",
+      "lids/lashes/adnexa: see image 1 OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.35 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_VPPWHOKCBYWTGCMK9150.PNG",
+      "AnsweredCases/images/KI_UIPPTFPAXRZXVXDK9151.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Considering the patient's examination findings and laboratory results, which of the following represents the MOST SPECIFIC diagnosis for the patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypothyroidism",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thyrotoxicosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Graves disease",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Hyperthyroidism",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Hashimoto thyroiditis",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "When the thyroid gland is functioning properly, it releases thyroid hormones (T3 and T4) and is involved in a feedback loop with the pituitary gland. The pituitary senses the amount of thyroid hormone circulating in the bloodstream (produced by the thyroid gland) and releases a messenger hormone known as \"thyroid-stimulating hormone\" (TSH) as needed. TSH then acts to stimulate the thyroid gland, causing it to release more thyroid hormones. When the thyroid gland does not produce enough thyroid hormones (for whatever reason), the pituitary detects the reduced level of circulating thyroid hormones and produces more TSH. The extra TSH triggers the thyroid to produce more T3 and T4 hormones in an effort to return the system to \"normal.\" Alternatively, if the thyroid gland is producing too much thyroid hormone, the pituitary senses this and will slow or shut down production of TSH in an effort to slow down the thyroid gland's production of hormones. Therefore, in general, lower TSH = overactive thyroid / hyperthyroidism, and higher TSH = underactive thyroid / hypothyroidism. In the case of this particular patient, she shows a decrease in thyroid-stimulating hormone (TSH) and increased levels of T4 and T3 (thyroid hormones), indicating a diagnosis of hyperthyroidism. The term thyrotoxicosis refers to the symptomatic and biochemical effects that result from significantly elevated circulating thyroid hormones. In these cases, it does not matter what the cause of the excess hormone is; it could be due to an overactive thyroid (hyperthyroidism), thyroid cancer, pituitary adenoma, drugs, presence of iodide, etc. In contrast, hyperthyroidism (which is a type of thyrotoxicosis) implies that the thyroid gland itself is the cause of the excess thyroid hormone in the bloodstream. Hyperthyroidism has been shown to cause approximately 85-90% of all thyrotoxicosis. Almost all hyperthyroidism is caused by Graves disease. Graves disease is an autoimmune disorder that is characterized by the presence of antibodies, known as thyroid-stimulating immunoglobulins (TSIs), which are a trigger for developing hyperthyroidism. These TSIs bind to and activate TSH receptors present on the thyroid gland, thereby mimicking the effect of TSH. This leads to subsequent enlargement of the thyroid gland (diffuse goiter) and increased synthesis and release of thyroid hormones (T3 and T4). As described above, because the levels of thyroid hormones in the bloodstream are elevated, the pituitary gland will slow or shut down production of TSH. The patient in this case shows a detectable amount of TSI, indicating the presence of these antibodies; this finding helps to confirm the diagnosis of Graves disease. Therefore, the most specific diagnosis in this case is Graves disease, which is causing hyperthyroidism. Hashimoto disease is another autoimmune condition in which hypothyroidism typically occurs; however, as thyroid cells are destroyed in these patients, stored supplies of thyroid hormones may be rapidly released, triggering transient periods of hyperthyroidism. Diagnosis of Hashimoto disease is made by detection of elevated levels of anti-thyroid peroxidase (anti-TPO) antibodies in the blood."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following is the MOST significant risk factor for developing ocular manifestations once a patient is diagnosed with this systemic condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gender",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diet",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Smoking",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Age",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Race",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Once a patient is diagnosed with Graves disease, the most significant clinical risk factor for developing thyroid eye disease is smoking. Studies have shown that the more cigarettes a patient smokes per day, the greater the chance of subsequent ocular complications. Conversely, giving up smoking has been shown to decrease the risk. All patients with thyroid eye disease must be explicitly told of the dangers of continued tobacco use. It is important that this conversation is clearly documented in the patient's medical record. Women are also approximately five times more likely to be afflicted with Graves disease and the associated thyroid eye disease than men. Other studies of thyroid eye disease have also shown that the use of radioactive iodine as a treatment for hyperthyroidism has been linked to worsening of ocular manifestations."
+    },
+    {
+      "number": 3,
+      "stem": "When evaluating the possible presence of orbital proptosis with a Hertel exophthalmometer, what is considered the upper limit of normal for Caucasians and African Americans, respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "22 mm in Caucasians; 24 mm in African Americans",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "18 mm in Caucasians; 20 mm in African Americans",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "16 mm in Caucasians; 18 mm in African Americans",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "20 mm in Caucasians; 22 mm in African Americans",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Exophthalmometry is a technique used to measure the amount of anterior projection (prominence) of the eye from the lateral orbital rim to the corneal apex. A Hertel exophthalmometer is the most commonly used tool to obtain this reading. It consists of a horizontal calibrated bar with moveable carriers on each side that consist of a mirror and a notch. The mirrors are placed at a 45-degree angle so that they are able to reflect both the scale reading and the apex of the cornea. In order to obtain the most accurate measurement, the notches of the side carriers of the exophthalmometer are placed on the lateral orbital rim of each eye with the width (or base) setting as narrow as is comfortable for the patient. The examiner then asks the patient to fixate on a point on the examiner's forehead and the measurement (in millimeters) is read off of the scale that is superimposed on the mirrors by alternately viewing with the right and left eyes. Subsequent measurements should be completed with the same base measurements that were used in the initial evaluation in order to accurately determine any progression or regression of the ocular protrusion. This measurement is extremely helpful in patients with thyroid eye disease, tumors of the orbit, etc."
+    },
+    {
+      "number": 4,
+      "stem": "Considering the patient’s diagnosis, extraocular motility deficits typically occur following a specific pattern. What is the order of these motility defects from the most COMMON to the most INFREQUENT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elevation → abduction → depression → adduction",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Depression → adduction → elevation → abduction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Elevation → adduction → depression → abduction",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Depression → abduction → elevation → adduction",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "The pathogenesis of thyroid eye disease involves an autoimmune reaction in which a humoral agent (known as an IgG antibody) produces changes in organ-specific tissues. This reaction leads to inflammation of the extraocular muscles (dysthyroid myopathy) by pleomorphic cellular infiltration, increased secretion of glycosaminoglycans, and imbibition of water. Subsequent enlargement of the extraocular muscles ensues, which can lead to compression of the optic nerve. These muscles have been shown to increase in size up to eight times their normal volume. Eventually, degeneration of the extraocular muscles will cause fibrosis of the tissue, exerting a tethering effect on the involved muscle; restrictive myopathy and diplopia will commonly follow. Approximately 30-50% of patients with thyroid eye disease will develop these changes, leading to ophthalmoplegia; this condition can be transient or sometimes permanent. It very commonly follows a pattern of involvement in which the inferior rectus is first affected, followed by the medial rectus, superior rectus, and lastly, the lateral rectus. For this reason, one will frequently observe an extraocular motility defect in elevation first due to the fibrotic contracture of the inferior rectus muscle that can simulate the appearance of a superior rectus palsy. A defect in abduction is the next most commonly observed restriction due to fibrosis of the medial rectus (this may mimic a sixth nerve palsy). Because the superior rectus is usually the next muscle affected, this will lead to a defect in depression, followed by an adduction deficit due to contracture of the lateral rectus. It is important to note that isolated enlargement of the lateral rectus muscle in thyroid eye disease is highly atypical and requires further testing. Also, if strabismus surgery is indicated, keep in mind that a rectus muscle should only be recessed, never resected."
+    },
+    {
+      "number": 5,
+      "stem": "In cases where surgical intervention is indicated for patients with this condition, a stepwise approach is implemented. Which procedure is MOST commonly executed first to allow for the most predictable results?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tarsorrhaphy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Eyelid surgery",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Orbital decompression",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Strabismus surgery",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Unpredictable results may occur in patients who undergo ocular surgery for thyroid eye disease if a stepwise approach is not adhered to. Surgical management should begin with orbital decompression as the first line of treatment, followed by strabismus surgery (if diplopia is present), then eyelid surgery (if needed). The rationale for this surgical sequence is that orbital decompression surgery may cause a significant change in the appearance of eyelid position and extraocular motility. In addition, extraocular muscle surgery is likely to influence eyelid position. Therefore, proptosis should be addressed first, then the presence of strabismus, and lastly, lid retraction."
+    },
+    {
+      "number": 6,
+      "stem": "If a blood test fails to detect the disease that it was designed to detect in a patient who actually has the disease, this is known as what type of error?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Type II error",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Type IV error",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Type III error",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "In statistics, a Type I error is known as the incorrect rejection of a null hypothesis that is actually true, while a Type II error is the failure to reject a null hypothesis that is truly false. In other words, a type I error is a false positive and a type II error is a false negative. Usually, a type I error will lead one to conclude that a relationship exists when it actually does not. An example of this is that a patient is thought to have a disease when they really don't. On the other hand, a type II error typically leads one to believe that a relationship does not exist, when in actuality it does (as in this question)."
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "case_id": "eNEoDLSOttZdYZog8019",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "42-year-old Hispanic female; cosmetologist"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; unremarkable"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: blepharoplasty"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "borderline hypertension"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "oral contraceptives"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "pollen and ragweed, NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: cardiovascular disease"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 8 exophoria, near: 4 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Pupillary distance:",
+        "value": "distance: 61 mm, near: 58 mm"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 12 mmHg, OS: 11 mmHg @ 10:00 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "120/80 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "70 bpm, regular"
+      },
+      {
+        "label": "Additional info:",
+        "value": "see image 1 for frames chosen for new glasses; A= 50 mm, B= 43 mm, ED= 51 mm, DBL= 18 mm, temple length= 132 mm"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurry vision at near",
+      "Location: OD, OS",
+      "Severity: mild-moderate",
+      "Nature of onset: gradual",
+      "Duration: 6 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse in dim illumination",
+      "Relationship to activity or function: notices difficulty when working in close proximity to clients",
+      "Accompanying signs/symptoms: eyestrain and fatigue",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/25, VA near: 20/40 @ 40 cm",
+      "OS: VA distance: 20/25, VA near: 20/40 @ 40 cm",
+      "OD: +1.00 -0.25 x 115 add: +1.00; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: +1.25 -1.00 x 110 add: +1.00; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.15 H/0.15 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: cobblestone degeneration temporal",
+      "C/D: 0.15 H/0.15 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_POKSNEMWKESTIYDE8086.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "This patient wishes to order bifocals instead of PALs to correct her vision. Given her pupillary distance, what is the MOST appropriate segment inset for each lens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.5 mm",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "2.0 mm",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1.0 mm",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.5 mm",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "2.5 mm",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "3.0 mm",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "The segment inset, or the seg inset, is determined by subtracting the patient's near pupillary distance (PD) from the distance PD and dividing the difference by two. The bifocal add segments are decentered nasally from the major reference point of the lens because the eyes converge when performing near visual tasks. For this ase, the seg inset = (61 - 58)/2 = 1.5 mm."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate minimum blank size that should be used for this patient's spectacle lenses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "56 mm",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "55 mm",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "58 mm",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "59 mm",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "54 mm",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "57 mm",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The minimum blank size (MBS) is the smallest diameter lens that can be used to engineer a person's ophthalmic prescription. The minimum blank size is important to consider because using a larger than necessary blank size may affect the cosmesis of the lenses for hyperopes and some presbyopes. For plus powered prescriptions, using a larger blank size increases the resultant overall center thickness of the lenses. To calculate the ideal blank size, subtract the patient's distance PD from the PD of the frame, then add the difference to the A measurement or the ED measurement of the frame (whichever is larger). The frame PD can be calculated by adding the A measurement to the DBL measurement of the frame. The A measurement is defined as the widest horizontal measurement of the eye size; this generally includes 1 mm for the bevel. The DBL, or the distance between lenses (commonly referred to as the bridge), is measured as the smallest horizontal separation between the nasal aspects of the frame. The ED, or the effective diameter of a frame, is determined by doubling the longest radius taken from the geometric center of the frame. For this patient, the MBS is calculated as follows: (50 + 18) - 61 = 7. MBS = 7 + 51 = 58 mm. In general, it is best to attempt to select a frame PD that closely matches the patient's PD, thereby ensuring minimal decentration, which results in optimal lens edge thickness."
+    },
+    {
+      "number": 3,
+      "stem": "Before the patient picks up her new glasses, you decide to verify the prescription; however, your lensometer is broken, so you must use hand neutralization. Which of the following lens combinations would CORRECTLY neutralize the prescription of the left lens (minus cylinder format)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "-1.25 DS lens with spectacle lens oriented at 110 degrees; -0.25 DS lens with spectacle oriented at 20 degrees",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "-1.00 DS lens with spectacle lens oriented at 110 degrees; +1.25 DS lens with spectacle lens oriented at 20 degrees",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "+0.25 DS lens with spectacle lens oriented at 110 degrees; +1.25 DS lens with spectacle lens oriented at 20 degrees",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "-0.25 DS lens with spectacle lens oriented at 110 degrees; -1.25 DS lens with spectacle lens oriented at 20 degrees",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "+1.25 DS lens with spectacle lens oriented at 110 degrees; -1.00 DS lens with spectacle lens oriented at 20 degrees",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "+1.25 DS lens with spectacle lens oriented at 110 degrees; +0.25 DS lens with spectacle lens oriented at 20 degrees",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "When hand neutralizing a lens, one must first determine if the lens is spherical or possesses astigmatism. This is easily done by holding the lens up and looking through the lens at some type of vertical line. Rotate the lens and observe whether or not the line viewed through the lens appears to \"break\" relative to the line that is not viewed through the lens. If a break is observed, the lens has astigmatism. Now, in order to determine the principal meridians of the lens, line the frame up in an orientation in which the lines outside the lens match the line inside the lens (all lines are completely straight and in line with each other). If when rotating the lens, the line appears to break in the same direction of the rotation (\"with break\"), this is the minus cylinder axis. The other principal meridian of the lens is located 90 degrees away and should exhibit \"against break\" motion when all lines are aligned and rotation of the frame occurs. Neutralize each meridian separately by moving the frame back and forth horizontally; if the line through the lens moves in the same direction (\"with movement”), neutralize with plus lenses until no movement is observed. If the line through the lens moves in the opposite direction (“against movement”), neutralize with minus lenses until no movement is observed. Once each meridian is neutralized separately, place the powers on an optical cross. It is imperative to change the signs of the powers, as the true power of the unknown lens will be opposite those of the neutralizing lenses. The minus cylinder axis should be the meridian with the least minus power (or most plus power). The power of the lens can then be written in minus cylinder form. The axis can be determined by placing the lens against a protractor with the temporal and the nasal aspect of the frame aligned with the 180 and zero marks for the left eye, with the temples facing towards you (the 180 should always be located to the left for each eye and gradually decrease to zero while moving to the right). The location on the lens with the meridian that displayed \"with\" motion will be the minus cylinder axis."
+    },
+    {
+      "number": 4,
+      "stem": "This patient brought in her husband's prescription sunglasses and wishes to know if they are polarized. Which of the following methods is a quick way to determine if the sunglasses are polarized?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Place the sunglasses next to a known polarized pair and compare the darkness of the lenses, if they appear the same his sunglasses are polarized",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Place the sunglasses in front of a known polarized pair in the same orientation; if the light is completed blocked his sunglasses are polarized",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Place the sunglasses in front of a liquid crystal display and rotate the lenses, if at some orientation the screen appears to “blacken out” his sunglasses are polarized",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Place the sunglasses in front of a projector, if the resultant image appears elongated vertically his sunglasses are polarized",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Polarized lenses are generally constructed with a vertically-oriented filter, allowing only light parallel to this orientation to pass through the lens, while blocking the transmission of horizontally-positioned light rays. Liquid crystal displays (LCDs) are commonly used for cell phones, watches, computer monitors, and televisions. LCDs also utilize polarizing filters to achieve their images. When placing a polarized ophthalmic lens in front of an LCD screen and rotating the lens, the display on the screen when viewed through the lens will darken or completely blacken out when the polarizing axes are perpendicular to one another. Alternatively, placing two pairs of polarized sunglasses perpendicular relative to each other should result in a complete blockage of light through the two lenses. If one of the pairs of glasses is not polarized, the image viewed through the lenses will appear darker than either lens alone, but will remain the same regardless of which way the lenses are tilted."
+    },
+    {
+      "number": 5,
+      "stem": "Your optician is trying to insert lenses into a frame made of polycarbonate and therefore cannot use heat. Which of the following techniques offers the easiest method of lens insertion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Insert the nasal edge first, followed by the temporal edge of the lens from the back of the frame",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Insert the temporal edge of the lens first, followed by the nasal aspect from the back of the frame",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Insert the nasal edge first, followed by the temporal edge of the lens from the front of the frame",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Insert the temporal edge of the lens first, followed by the nasal aspect from the front of the frame",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Although there are many ways of inserting ophthalmic lenses into a frame, the most commonly used method is to insert the temporal aspect of the lens first, followed by snapping the nasal edge into place from the front of the frame. Most frame materials can be heated, which allows for ease of insertion, but this must be done with caution. Most opticians and clinicians prefer to use a hot air warmer rather than glass beads or sand, allowing for better control of heat distribution and minimizing frame and lens damage. If using sand or glass beads, it is best to use a lower heat setting. Some opticians add baby powder to glass beads to help keep the beads from sticking to the frame, which may cause small bubble-like indentations. Remember that dark-colored frames tend to heat more quickly than light-colored ones. Frames fabricated from polyamide, copolyamide, carbon fiber, carbon fiber graphite, or polycarbonate should not be heated."
+    }
+  ]
+}

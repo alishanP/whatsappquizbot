@@ -1,0 +1,377 @@
+{
+  "case_id": "RcqJOhGgkbicYGXK7953",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "12-year-old white male; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "worsening vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: blepharoplasty OU"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "Gilbert syndrome"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: COPD"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "1+ RAPD OS"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 10 exophoria, near: 10 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 13 mmHg, OS: 14 mmHg @ 12:02 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "102/72 mmHg, right arm, sitting"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurred vision",
+      "Location: OS",
+      "Severity: severe",
+      "Nature of onset: gradual",
+      "Duration: 1 year",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: occasional abdominal pain and diarrhea",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/25, near: 20/25 @ 40 cm",
+      "OS: distance: 20/400; PHNI, near: 20/400 @ 40 cm",
+      "OD: +1.25 -0.25 x 030; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: +1.50 -1.00 x 180; VA distance: 20/400, VA near: 20/400 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.15 H/0.15 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: see image 1"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_CALWAQIQPEFPWTOW8018.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of this patient’s retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Presumed ocular histoplasmosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Retinoblastoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Toxocariasis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Toxoplasmosis",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Toxocariasis is a condition that is caused by the parasite Toxocara canis. This intestinal roundworm is commonly found in dogs and can be present in the feces of infected canines. Toxocariasis occurs in humans via contact with contaminated soil or food. Once Toxocara ova are ingested, they can transform into larvae, which may then travel to the rest of the body and cause damage to various organs such as the eyes, liver, brain, lungs and skin. Once the larvae perish, the body may mount an inflammatory reaction to the remnants of their carcasses. Clinical infections can have several different presentations. Ocular infections may display uveitis with exudative material covering the pars plana and peripheral retina. Some patients may possess a central or peripheral retinal granuloma without an associated inflammatory reaction. Granulomas will appear white or yellow and can span up to four disc diameters in width. Retinal folds emanating from the lesion are typical, as are surrounding RPE abnormalities. If the lesion is located more anteriorly, it is common to observe vitreous traction bands that run from the granuloma to the posterior pole (as apparent in this case). Some patients may benefit from steroid treatments, or surgery may be required in the event of patients presenting with a retinal detachment. Severe cases may even possibly require enucleation. Toxoplasmosis is caused by the protozoa Toxoplasma gondii. T. gondii is commonly associated with improper handling of raw meat or cat fecal matter; however, it rarely leads to illness in healthy individuals. For this reason, it is important that pregnant mothers do not handle feline fecal matter, as an infection in the mother can potentially harm the unborn fetus. Toxoplasmosis can result in blindness if enough retinal damage occurs. Clinically, old lesions will appear as circular areas of chorioretinal atrophy surrounded by areas of pigmentation. Generally, the areas of atrophy are stable; however, bradyzoite cysts may eventually rupture and release tachyzoites, which cause damage to adjacent healthy retinal tissue. In cases of active retinitis, patients may report floaters, blurry vision, and photophobia, and they will not typically experience any pain. In Instances where there is active retinal toxoplasmosis, one should be able to observe a yellow-white lesion that is usually located next to an old chorioretinal scar. There is generally an associated vitritis that may have spillover into the anterior chamber. Immunocompromised persons may suffer from encephalitis and chorioretinitis (among other problems); however, these patients may not display vitritis, as the deeper retinal tissues are more commonly involved. Presumed ocular histoplasmosis is caused by the organism Histoplasma capsulatum, which typically enters the body via inhalation into the lungs. This condition is most prominent in the Ohio-Mississippi River valley region, along with the southern United States. Retinitis associated with this pathogen typically causes a triad of ocular findings: 1- histo spots, which appear as small (roughly 1 mm in size), roundish, multi-focal retinal lesions; 2- peripapillary atrophy; and 3- a choroidal neovascular membrane in the macular region. Two of the three aforementioned findings must be present in order to make a diagnosis of presumed ocular histoplasmosis. Patients suffering from histoplasmosis will never manifest a vitritis. Retinoblastoma is the most frequently occurring intraocular tumor in children. Most cases tend to be sporadic, but occasionally the malignancy may be familial in origin. This condition typically presents unilaterally; however, 30% of the time it may be observed bilaterally. Patients will often present with leukocoria and strabismus. Clinically, a white retinal lesion of varying size will be present. Iris neovascularization is also observed in approximately 20% of cases. Due to the high mortality rate associated with this tumor, early detection and prompt treatment are vital."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following laboratory tests would be the MOST useful in helping to confirm this patient’s diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serum anti-Toxoplasma antibody titer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "FTA-ABS testing",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "HLA-B27 testing",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Flourescein angiography",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "B-scan ultrasonography",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Toxocara ELISA testing",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "ELISA testing will allow for the detection of serum Toxocara canis antibodies. However, it is important to note that a positive titer does not reflect an absolute diagnosis of toxocariasis. The results of the lab work, in addition to the pertinent fundus findings, must be taken into consideration prior to reaching a conclusion of toxocariasis. FTA-ABS testing is useful when an infection caused by syphilis is suspected. Serum anti-Toxoplasma antibody titers may be valuable for confirming the presence of Toxoplasmosis. However, when testing for Toxoplasmosis, a negative titer does not enable the clinician to completely rule out Toxoplasmosis as a possible diagnosis. Although ultrasonography will help to discern the amount of elevation and the amount of internal reflectivity of the retinal mass, it is not useful in determining the exact etiology of the lesion in this case. Fluorescein angiography is useful for the detection of neovascularization, areas of ischemia, or areas of vascular leakage, but this test is not diagnostic for Toxocariasis."
+    },
+    {
+      "number": 3,
+      "stem": "What type of organism is the causative agent for this patient’s suspected retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oncotic cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bacterium",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Virus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Protozoan",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Nematode",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Fungus",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Toxocara canis is a parasitic nematode that causes toxocariasis. Toxoplasmosis is caused by Toxoplasma gondii, a parasitic protozoan. Presumed ocular histoplasmosis results from an infection by the fungus Histoplasma capsulatum."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following treatments would be the MOST appropriate for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chemotherapy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thiabendazole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prednisone",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Trimethoprim & sulfamethoxazole",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Pyrimethamine & sulfadiazine",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Most of the intraocular inflammation associated with toxocariasis occurs after death of the toxocara larva and results from the eye reacting immunologically to antigens released from the dead/dying organism (not to the actual organism itself). Because of this reaction, corticosteroids are the most appropriate management of ocular toxocariasis. Ocular toxocariasis is not associated with visceral larva migrans (VLM), which is the severe systemic infection form of toxocariasis; therefore, thiabendazole is not indicated for the treatment of ocular toxocariasis. Again, the organism is generally dead by the time ocular changes are noted, and the secondary inflammation is responsible for the ocular signs and symptoms. Pyrimethamine and sulfadiazine are part of the \"classic therapy\" for toxoplasmosis (not toxocariasis), along with corticosteroids. Not everyone with toxoplasmosis will need to be treated, as it is typically a self-limiting infection in immunocompetent individuals. Trimethoprim and sulfamethoxazole are antibiotics that are frequently used to treat bacterial infections. Chemotherapy would be a treatment option if the patient's diagnosis was retinoblastoma."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following ocular signs is MOST commonly observed in a patient with Gilbert syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A shallow anterior chamber",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Corneal guttata",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Optic nerve pallor",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Yellowing of the sclera",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Sloughing of iris pigment",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Subluxation of the crystalline lens",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "A relative afferent pupillary defect",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Gilbert syndrome is an inherited autosomal recessive condition that is characterized by bouts of elevated levels of bilirubin in the blood (hyperbilirubinemia) due to improper metabolism within the liver. Bilirubin, which has a yellowish-orange tint, is produced when red blood cells are broken down. This substance is excreted from the body only after it undergoes a chemical reaction in the liver, converting it from the toxic form of bilirubin (unconjugated bilirubin) to an innocuous form called conjugated bilirubin. People with Gilbert syndrome have a buildup of the unconjugated form of bilirubin in their blood, and although the levels rarely increase to the point in which yellowing of the skin and eyes (jaundice) occurs, it is possible. People with this condition may also experience abdominal pain and nausea. Approximately 30% of patients with Gilbert syndrome have no signs or symptoms of the condition and diagnosis is discovered only when routine blood tests reveal elevated levels of unconjugated bilirubin. If a person does become symptomatic during bouts of hyperbilirubinemia, these episodes are generally mild and typically occur when the body is under additional stress; dehydration, fasting, illness, vigorous exercise, menstruation, or lack of sleep. This condition does not require treatment."
+    },
+    {
+      "number": 6,
+      "stem": "Which 3 of the following are thought to be risk factors for chronic obstructive pulmonary disease (COPD)? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha-1 antitrypsin deficiency",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Overexposure to lead",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decreased angiotensin converting enzyme (ACE) levels",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Overexposure to a decreased partial pressure of oxygen",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Low birth weight",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "An increased production of surfactant",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Frequent childhood infections",
+          "correct": true
+        }
+      ],
+      "answer": "G",
+      "explanation": "COPD is an irreversible, progressive narrowing of the pulmonary airways which eventually leads to fibrosis and destruction of alveolar tissue. Symptoms include a cough (with or without sputum), shortness of breath that worsens with activity, wheezing, fatigue, and difficulty catching one's breath. The biggest risk factor for the development of COPD is smoking cigarettes. Other risk factors include: a low birth weight, age, a dusty work environment, decreased levels of alpha-1 antitrypsin, damp housing quarters, a diet that is low in fish, fruits and antioxidants, frequent childhood infections, and exposure to environmental pollution. It is also purported that a history of atopy and a hyper-responsive airway (the Dutch hypothesis), as well as persistent bronchopulmonary infections (the British hypothesis) may also increase the risk for COPD. There exists much debate surrounding COPD and its relationship to asthma. Currently it is believed that both conditions lie along opposite ends of a spectrum. While both conditions cause limited airflow, the mechanisms and the permanence of the destruction differs. With COPD, the instigator is typically cigarette smoke, which leads to the release of alveolar macrophages, neutrophils and CD8 T-cells. COPD typically affects the peripheral pulmonary pathways, eventually leading to parenchymal destruction, metaplasia of squamous cells, and mucous, causing irreversible airflow constriction. COPD does not respond well to steroid therapy. In contrast, asthma involves mast cells, eosinophils, macrophages, and CD4 T-cells that become activated by exposure to allergens. Asthma affects the proximal pulmonary pathways leading to bronchoconstriction, fragile epithelial tissue, and mucous metaplasia, causing reversible airflow constriction that responds well to steroid therapy. In the event of severe asthma, there is more overlap between the two conditions, since neutrophils, macrophages, CD4, and CD8 T-cells are involved, which lead to airflow limitations of both proximal and peripheral airways. Severe asthma responds mildly to steroid therapy."
+    }
+  ]
+}

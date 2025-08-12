@@ -1,0 +1,333 @@
+{
+  "case_id": "OwZdwauIaQVxBlL14511",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "32-year-old white male; fisherman/hunter"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision and ocular discomfort"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "ACL repair surgery"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: ovarian cancer, father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 13 mmHg @ 9:15 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "117/73 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "66 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurry vision, light sensitivity, and eye pain",
+      "Location: OD, OS",
+      "Severity: mild",
+      "Nature of onset: acute",
+      "Duration: 2 days",
+      "Frequency: constant",
+      "Exacerbations/remissions: had similar episode last month after hunting trip in Oregon; symptoms resolved on their own after a few days",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: floaters",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/40 (PH 20/30)",
+      "OS: distance: 20/40 (PH 20/30)",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: 1+ hyperemia OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: OD similar to OS, see image 1 OS",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: similar to image 1",
+      "periphery: unremarkable",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: similar to image 1",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_ZWVIXCOLZJPNKRY14575.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Considering the patient’s history and examination findings, what is the MOST likely etiology of his ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Toxoplasmosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cat-scratch disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Syphilis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Lyme disease",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Lyme disease is a multi-system infection caused by a flagellated spirochete known as Borrelia burgdorferi. The organism is transmitted to humans via the bite of a hard-shelled tick (of the genus Ixodes) that has fed on an infected animal, particularly a deer or rodent. Lyme disease is the most common vector-borne disease in many areas, and it is most notably found in three geographic regions of the United States (the Northeast, upper Midwest, and Northwest). Over 75% of Lyme disease cases occur during the summer months, with a bimodal age distribution that peaks in children between the ages of 5 and 14, and adults aged 30 to 59. Most patients presenting with this condition will have a history that includes activity in wooded areas that are known for ticks (camping, hunting, hiking, etc.) and can recall the incident of a tick bite; however, ticks can be very small, and a bite may not be remembered by a victim. The clinical signs and symptoms of Lyme disease occur in 3 stages following the infectious event. Early signs include a pathognomonic skin rash (typically within 3 to 30 days), which presents as a localized bull's eye or annular expanding skin lesion known as erythema chronicum migrans. However, as many as 18% of patients may present without this type of skin lesion, making the diagnosis more difficult to ascertain. Ocular manifestations during this stage typically include mild and transient symptoms of photophobia and/or conjunctivitis. Stage 2 of the disease typically follows weeks to months after stage 1, if left untreated. During this time, neurologic, cardiac, and arthritic manifestations typically occur. These include such complications as cranial nerve palsies, meningitis, headaches, neuritis, myocarditis, and cardiac conduction defects. Significant ophthalmic signs usually first appear during this time period (late stage 2 or early stage 3), which may include episcleritis, keratitis, iritis, intermediate or posterior uveitis, pars planitis, vitritis, chorioretinitis, exudative retinal detachment, cystoid macular edema, retinal pigment epithelial detachment, branch retinal artery occlusion, retinal vasculitis, etc. Of these, keratitis, vitritis, and pars planitis are the most common. Blurred vision secondary to papilledema, optic atrophy, and/or optic neuritis may also occur. These findings may present either unilaterally or bilaterally. The late stage of Lyme disease most commonly includes chronic Lyme arthritis of large joints; however, polyneuropathy and encephalopathy (with neuropsychiatric disease) may also occur."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following organisms is responsible for the suspected infection of this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Toxoplasma gondii",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Treponema pallidum",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mycobacterium tuberculosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bartonella henselae",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Borrelia burgdorferi",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The organism responsible for Lyme disease infection is Borrelia burgdorferi. It is a bacterial species of the spirochete class, which has a diderm (double-membrane envelope). B. burgdorferi may be considered gram-negative by default (only because safranin is the last dye used when performing a Gram stain), but technically, spirochetes are not classified as either gram-positive or gram-negative. Bartonella henselae is a proteobacterium that is the causative agent of cat-scratch disease (Bartonellosis). Toxoplasma gondii is an obligate intracellular parasitic protozoan that causes toxoplasmosis disease. Treponema pallidum is another spirochete bacterium (like Borrelia burgdorferi) that causes treponemal disease, most commonly syphilis. Mycobacterium tuberculosis is a pathogenic bacterial species that is responsible for most cases of tuberculosis infections."
+    },
+    {
+      "number": 3,
+      "stem": "Which 2 of the following lab tests should be completed in order to confirm your suspected diagnosis? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interferon-gamma release assay (IGRA)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Venereal disease research laboratory (VDRL)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Western blot",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Immunoglobulin G (IgG) testing",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Enzyme-linked immunosorbent assay (ELISA)",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Rapid plasma reagin (RPR)",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Tb skin test (TST)",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Patients who present with a known history of a tick bite and characteristic skin rash may be easily suspected to have Lyme disease; however, in some cases, these features may not be detected, and further laboratory testing must be completed. Lab tests are utilized to identify antibodies to the Borrelia burgdorferi bacteria in order to confirm a suspected diagnosis. These tests are most reliable a few weeks after the infectious incident has occurred, so that the body has had sufficient time to develop antibodies. The most commonly used tests for Lyme disease diagnosis include enzyme-linked immunosorbent assay (ELISA), Western blot, and polymerase chain reaction (PCR) tests. The Centers for Disease Control and Prevention (CDC) currently recommends a two-step process when testing for blood evidence of Lyme disease antibodies (both steps can be completed using the same blood sample). In most cases, an ELISA test is used first to detect any antibodies to B. burgdorferi. Because it may sometimes provide false-positive results, it is not used as the sole basis for diagnosis. If the ELISA results are positive, a Western blot test is usually performed to confirm the diagnosis. The Western blot test will detect antibodies to several proteins of the B. burgdorferi bacterium. However, if the ELISA test is negative, no further testing is completed. Polymerase chain reaction (PCR) is less commonly utilized, but also helps detect bacterial DNA in fluid that is drawn from an infected joint (it is not as effective if blood or urine are used). PCR is typically reserved for patients that may have chronic Lyme arthritis."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following represents the BEST treatment for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Treatment is not required; the condition will resolve on its own",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ciprofloxacin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Azithromycin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Doxycycline",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Prednisolone",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Pyrimethamine and sulfadiazine",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Isoniazid and rifapentine",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "In the early stages of Lyme disease, treatment should be initiated immediately upon diagnosis with oral antibiotics for a period of 2 to 3 weeks. The most commonly used antibiotics include doxycycline (100 mg b.i.d.), tetracycline (500 mg b.i.d.), or amoxicillin (500 mg t.i.d. or q.i.d.). Children, pregnant women, patients who cannot tolerate tetracyclines, or those allergic to penicillin should be given 500 mg of erythromycin q.i.d. Patients diagnosed in the later stages of the disease process may also be treated with oral antibiotics, but they usually require a longer treatment period (closer to 30 days of therapy). Patients with severe late stage disease complications, such as meningitis, carditis, or neurologic manifestations typically require parenteral treatment with intravenous ceftriaxone or penicillin G, or possibly even a combination of both in cases where patients do not respond quickly enough to monotherapy. No specific treatment regimen has been established for severe neuro-ophthalmic disease or posterior segment disease. Pyrimethamine and sulfadiazine are the preferred medications used in the treatment of toxoplasmosis. Isoniazid and rifapentine are a combination treatment used in the management of tuberculosis infections. Penicillin is used in the treatment of patients with syphilis."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following cranial nerve palsies is MOST commonly associated with the patient’s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cranial nerve VII palsy",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Cranial nerve IV palsy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cranial nerve V palsy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cranial nerve VI palsy",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Cranial nerve III palsy",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Bell's palsy (cranial nerve VII palsy) is the most commonly diagnosed cranial nerve abnormality associated with Lyme disease. Typically, patients suffering from Bell's palsy will require additional supportive therapy in order to prevent complications related to exposure keratitis. Other cranial nerve palsies may occur as a result of Lyme disease, but they are much less common."
+    }
+  ]
+}

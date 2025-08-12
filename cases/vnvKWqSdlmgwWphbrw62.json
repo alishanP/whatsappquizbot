@@ -1,0 +1,353 @@
+{
+  "case_id": "vnvKWqSdlmgwWphbrw62",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "52-year-old white male; bookkeeper"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "unhappy with new bifocal glasses"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 month ago; wears flat-top bifocals"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: cataract surgery, father: glaucoma"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypercholesterolemia"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "lovastatin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hypertension, father: diabetes"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": "polycarbonate, flat-top 28 bifocal"
+      },
+      {
+        "label": "Habitual spectacles with markings and frame measurements:",
+        "value": "see image 1"
+      },
+      {
+        "label": "External assessment:",
+        "value": "frame is noted to be properly aligned and adjusted"
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 4 exophoria, near: 4 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Keratometry",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Pupillary distance:",
+        "value": "61 mm"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 13 mmHg @ 10:55 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: experiencing double vision when reading with new glasses",
+      "Location: OU",
+      "Severity: moderate",
+      "Nature of onset: since he picked up his new glasses",
+      "Duration: 2 weeks",
+      "Frequency: constant when reading; no diplopia at distance",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: only occurs with new glasses; does not have double vision with old pair",
+      "Accompanying signs/symptoms: headaches",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -4.00 -1.50 x 090 add: +1.75; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: -7.50 DS add: +1.75; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OD: OD: 45.50 @ 175 / 43.75 @ 085; no distortion of mires",
+      "OS: 44.25 @ 180 / 44.00 @ 090; no distortion of mires",
+      "OD: -4.00 -1.50 x 090 add: +1.75; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: -7.50 DS add: +1.75; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: 1+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_ZUWYSRGGNPRYBQQWB419.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the examination findings what is the MOST likely cause of the patient's double vision at near?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anisometropia; causing a vertical diplopia when reading",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The patient's pupillary distance does not match that of the frame; causing horizontal diplopia when reading",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Unequal reading segment heights; causing vertical diplopia when reading",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Too much frame wrap; causing horizontal diplopia when reading",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Too much frame wrap; causing vertical diplopia when reading",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Anisometropia; causing a horizontal diplopia when reading",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "The lens material; causing chromatic aberration and diplopia when reading",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "When the patient looks down to read through the bifocal portion of his lenses, a vertical imbalance is created that is caused by his anisometropia, resulting in diplopia. This problem can be eliminated by prescribing slab-off prism. Slab-off prism is applied to the most minus or least plus spectacle lens. It is prescribed in this manner because minus lenses are thickest at the edges and slab-off prism is base-up; this helps to minimize the thickness difference between the edge and the center of the lens."
+    },
+    {
+      "number": 2,
+      "stem": "If the patient looks 7 mm below the optical centers of the lenses, how much prism is induced?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.25 prism diopters base up OD",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5.25 prism diopters base in OD",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2.45 prism diopters base down OS",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "3.50 prism diopters base up OD",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "2.45 prism diopters base out OS",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "1.40 prism diopters base out OS",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Use Prentice's rule to solve this problem: prism diopters (Pd) = d x F, where d = the distance from the optical center (in centimeters), and F = the power of the lens in the desired meridian (in diopters). Solving for the amount of prism on the right eye, Pd = 0.7(-4.00) = 2.8 base-down prism Solve for the left eye: Pd = 0.7(-7.50) = 5.25 base-down prism Subtract the two to determine the total prismatic effect experienced by the patient: 5.25 - 2.8 = 2.45 base-down prism In this case, the patient is looking through base-down prism in both eyes, which cancels some of the prismatic effect. Alternatively, you can omit one of the steps by initially determining the total power difference in the vertical meridian between the two lenses, which is 3.50 D (7.50 - 4.00 = 3.50). You can then multiply this power difference by the distance between the patient's line of sight and the optical centers, which is 7 mm in this question. Pd = 0.7(3.5) = 2.45 prism diopters base-down over the left eye Generally, vertical imbalances of smaller magnitudes do not pose too much of a problem for single vision lenses, as the patient can tilt his head to re-align the optical centers with his line of sight, thus eliminating any possible diplopia."
+    },
+    {
+      "number": 3,
+      "stem": "Which 3 of the following will help to eliminate the patient's complaint of double vision when reading? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prescribe slab-off prism",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Add base out prism to each eye",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prescribe 2 pairs of single vision glasses; one for distance and one for reading",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Prescribe reverse slab-off prism",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Add base in prism to each eye",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Select a frame with a larger A measurement",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Prescribe progressive addition lenses (PALs) in lieu of lined bifocals",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Because the patient is experiencing double vision with near activities, there are several options available to help eliminate this problem. Prescribing slab-off prism over the left eye, or reverse slab-off prism (base-down) over the right eye, will help to eliminate the vertical diplopia caused by his anisometropia. Another option to alleviate his issue is to prescribe single vision lenses. With separate single vision lenses for distance and near, the patient’s line of sight will match the optical centers of the lenses more appropriately, decreasing the possibility of a significant vertical imbalance. Alternatively, the patient may be fit with contact lenses. A pair of PALs will not solve this problem because the vertical imbalance will still be present as the patient looks down to read with these types of lenses. Adding base-out prism is not a good solution either, since the patient suffers from vertical (and not horizontal) diplopia. A larger frame will also not have an effect on improving his symptoms."
+    },
+    {
+      "number": 4,
+      "stem": "The patient wishes to know if he would be a good candidate for LASIK to correct his distance vision. Given the examination findings, what is his prognosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "He is not a candidate for LASIK because his prescription is outside the specified parameters for surgery",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "His diplopia would be eliminated with LASIK because it is caused by the anisometropia in his glasses",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "His diplopia would persist following LASIK, and he would still require glasses with prescribed prism to correct his imbalance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "He should not undergo LASIK as it will make his diplopia worse",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "This patient could undergo LASIK with no foreseeable complications given that his topographies and corneal thicknesses are normal. The diplopia experienced by the patient is solely attributable to the anisometropia present in his glasses, which causes a vertical imbalance when he reads. This problem would not persist following LASIK, as his anisometropia would be eliminated. The patient would; however, still need reading glasses to correct his near vision."
+    },
+    {
+      "number": 5,
+      "stem": "If the pantoscopic tilt of this patient's frame were to be increased, what would happen to the resultant prescription?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only minus power would induced",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Only astigmatism would be induced",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Plus power and astigmatism would be induced",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Minus power and astigmatism would be induced",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Only plus power would be induced",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Increasing the pantoscopic tilt of a pair of glasses will cause an increase in the sphere power. Bending the frame so that the optical center no longer passes through the center of rotation of the eye will also induce astigmatism. The induced astigmatism will have the same axis as the axis of rotation; therefore, increasing the face wrap will induce astigmatism with an axis of roughly 90 degrees. Increasing the pantoscopic tilt will induce astigmatism with an axis of roughly 180 degrees. The power of the induced astigmatism will have the same sign as the sphere. Therefore, if a +4.00 D lens has a 10-degree pantoscopic tilt, the induced cylinder will have a plus sign with an axis of 180 degrees."
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "case_id": "vSWXTXFteKgwESSI8290",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "68-year-old Asian female; psychologist"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; wears PALs full time"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: cataract surgery, paternal grandfather: primary open angle glaucoma"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hyperlipidemia; type II diabetes, FBS: 112 mg/dL (this morning), HbA1c: 7.2% (2 months ago)"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "lovastatin, metformin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: kidney disease, maternal grandfather: Alzheimer disease, maternal grandmother: breast cancer"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Keratometry",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 12 mmHg, OS: 11 mmHg @ 8:35 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "114/78 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "72 bpm, regular"
+      },
+      {
+        "label": "Optical coherence tomography (OCT)",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: decreased vision in left eye with current glasses",
+      "Location: OS",
+      "Severity: moderate",
+      "Nature of onset: acute",
+      "Duration: 2 weeks",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -0.75 -0.74 x 078 add: +2.25; VA distance: 20/25, VA near: 20/25 @ 40 cm",
+      "OS: -1.25 -0.25 x 154 add: +2.25; VA distance: 20/200 (PHNI), VA near: 20/200 @ 40 cm",
+      "OD: 42.25 @ 177 / 42.75 @ 087; no distortion of mires",
+      "OS: 43.25 @ 180 / 43.00 @ 090; no distortion of mires",
+      "OD: -1.00 -0.75 x 082 add: +2.50; VA distance: 20/25, VA near: 20/25 @ 40 cm",
+      "OS: -1.50 -0.25 x 093 add: +2.50; VA distance: 20/200, VA near: 20/200 @ 40 cm",
+      "lids/lashes/adnexa: dermatochalasis, 1+ MGD OD, OS",
+      "conjunctiva: mild conjunctivochalasis OD, OS",
+      "cornea: 2+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: 1+ nuclear sclerosis OD, OS",
+      "vitreous: posterior vitreous detachment OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable",
+      "OS: see images 3 & 4"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_KSLMAOUUKAQEHYWQ8365.PNG",
+      "AnsweredCases/images/KI_DFSNNSTBJOJATOZO8366.PNG",
+      "AnsweredCases/images/KI_KYIEORRVCFDLGHMB8367.PNG",
+      "AnsweredCases/images/KI_PZCRAYKMRBJLGRBA8368.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the examination findings, what is the MOST likely etiology of the patient's reduced visual acuity of the left eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central serous retinopathy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Solar retinopathy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Epiretinal membrane",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Clinically significant macular edema",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Cystoid macular edema",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Macular hole",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "Patients who develop a macular hole will typically report decreased central visual acuity with a scotoma or metamorphopsia noted on Amsler grid testing. Symptoms of flashes of light may also be experienced by the patient due to associated vitreoretinal traction. Patients generally do not report an improvement of visual acuity with refraction, especially in the event of a full-thickness macular hole. Idiopathic macular holes occur more commonly in women between 60-80 years of age. It is believed that the condition occurs due to traction on the macular region by the vitreous. According to the Gass classification system, there are several stages of idiopathic macular holes: Stage 1A (impending macular hole) is difficult to detect clinically. It is marked by an intraretinal cyst that may cause the appearance of a small yellow spot in the center of the fovea. This stage is best detected via OCT. Stage 1B (an occult hole) occurs secondary to an increase in traction on the macula, causing the appearance of a yellow ring along with a foveal detachment. Patients may note a mild decrease in visual acuity and/or metamorphopsia at this stage. 50% of stage 1 holes resolve spontaneously without treatment. Stage 2 holes are marked by small foveal defects measuring less than 400 um in diameter. Stage 3 holes display defects that are greater than 400 um with the posterior vitreous still attached. Stage 3 holes may be surrounded by a cuff of edema. Stage 4 holes possess macular defects larger than 400 um, along with a complete posterior vitreous detachment. Yellow deposits at the level of the RPE may be observed in the center of stage 4 holes. Visual acuity in patients with stage 3 and 4 holes is typically markedly diminished. This particular patient is suffering from a full-thickness macular hole. Cystoid macular edema is a condition that results in the formation of a small cyst due to buildup of fluid between the outer plexiform layer and the inner nuclear layer in the macular region. This condition commonly self-resolves within six months without intervention. If the patient is symptomatic, topical NSAIDs or steroids may be prescribed. If the CME is longstanding, the cysts may enlarge and coalesce, causing a lamellar macular hole. Central serous retinopathy (CSR) is more commonly observed in middle-aged males under high stress, with high anxiety levels, or with type A personalities. This condition causes fluid to leak from the choriocapillaris into the subretinal space, causing a serous detachment of the neurosensory retina. There is typically an associated loss of the foveal reflex, a hyperopic shift of the refractive error, a potential relative scotoma, and metamorphopsia. Patients do not usually report symptoms of floaters or flashes of light. In most cases, this condition resolves on its own with time; however, in recurrent or refractory cases, patients may require focal laser treatment. Clinically significant macular edema is defined as: an area of 1 disc diameter (DD) or larger of retinal thickening within 1 DD of the foveal center, OR exudates within 500 um of the center of the fovea along with adjacent retinal thickening, OR retinal edema within 500 um of the center of the fovea. None of these scenarios are present in this case. Solar retinopathy will initially present as a well-defined yellow or red area within the macular region with an associated decrease in visual acuity. The foveal changes result from damage to the RPE and photoreceptors caused by sun gazing. The patient's health history does not indicate a history of overexposure to the sun. Macular epiretinal membrane (ERM), also known as cellophane maculopathy (if the membrane is fine), or macular pucker (if the membrane is very thick and more visually debilitating) is a commonly observed finding in a clinical setting. Patients may be asymptomatic in some cases, or they may report decreased or distorted visual acuity, depending on the severity of the condition. ERMs are caused by a disruption of the internal limiting membrane (ILM), allowing for proliferation of glial cells onto the retinal surface, resulting in membrane formation. ERM development can be idiopathic in nature, or it can be instigated by a posterior vitreous detachment, uveitis, trauma, intraocular surgery or laser treatment, diabetic retinopathy, retinal breaks, or retinal vascular diseases. In early stages, the membrane will appear as a glistening, transparent tissue that may contract, causing a wrinkling of the underlying retina. As the membrane matures, it may opacify and contract further, causing metamorphopsia and reduced visual acuity. Many ERMs are idiopathic and they typically occur in individuals over the age of 50. This condition may be observed bilaterally in up to 20% of cases."
+    },
+    {
+      "number": 2,
+      "stem": "If you were to perform the Watzke-Allen test on the patient's left eye, which of the following results would you MOST likely expect the patient to report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient will be unable to perceive the light beam",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A broken, straight light beam",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "An intact, curved light beam",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A broken, curved light beam",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "An intact, straight light beam",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Watzke-Allen test is a quick way to help differentiate a pseudo-hole from a true macular hole. Utilizing the slit lamp and a 90 D lens, a narrow beam of light is focused onto the macula. The patient is asked to focus on the beam of light and note whether it is intact and straight, or distorted and/or broken. A patient with a true macular hole will remark that the beam appears broken. Patients with pseudo-holes and ERMs may report that the line is distorted, but it should remain intact."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST appropriate treatment of the patient's left eye condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Focal laser treatment",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Careful observation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vitrectomy with internal limiting membrane peel",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Topical NSAID drop",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Intravitreal ocriplasmin injection",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Anti-VEGF injection",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Topical corticosteroid drop",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Although stage 3 and 4 macular holes may spontaneously resolve, this is a very rare occurrence; therefore, patients with advanced macular holes may benefit from a pars plana vitrectomy with peeling of the ILM (internal limiting membrane). Long-acting gas is injected into the eye and the patient typically must undergo face-down positioning, permitting the gas bubble to tamponade the hole. However, more recently, some surgeons believe that if they can obtain a good gas fill, patients may not have to undergo face-down positioning as historically done (although this varies greatly surgeon to surgeon). Recent studies using thin gauge vitrectomy instruments have suggested that all patients with stage 2 holes or greater may benefit from a vitrectomy. Visual acuity can demonstrate improvement up to 12 months after the surgery date. Most surgeons agree that if the visual acuity is worse than 20/60, a vitrectomy is warranted."
+    },
+    {
+      "number": 4,
+      "stem": "Upon examination of the OCT images, which of the following BEST describes the retinal defects depicted in the left eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Full-thickness loss of neurosensory tissue within the fovea",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Cystic changes between the outer plexiform layer and inner nuclear layer",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A band of tissue overlying the internal limiting membrane",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Focal loss of retinal tissue with intact photoreceptor layer",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "A focal detachment of the sensory retina",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "The OCT images of the patient’s left eye depict full-thickness loss of the neurosensory tissue within the foveal area, with an intact RPE layer. The OCT is very useful in distinguishing between a true hole, a pseudohole, and a lamellar macular hole. The OCT image of a lamellar hole will usually display an intact photoreceptor layer, cystic spaces in close proximity to the fovea, an irregular foveal contour, and there will generally be an associated epiretinal membrane present. On the other hand, the OCT of a macular pseudo-hole will typically show very steep foveal contours, the central macular thickness will be normal or near-normal, there will be a lack of cystic spaces, the foveal defect will not be full-thickness, and there will also likely be an epiretinal membrane present. Cystoid macular edema will present as cystic changes in the outer plexiform and inner nuclear layers. An epiretinal membrane will appear as a hyper-reflective band directly above the internal limiting membrane. The OCT of central serous retinopathy will show a focal, smooth, sensory retinal detachment."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following serves as a protective factor against the development of this retinal condition in the fellow eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "White without pressure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "AREDS II ocular vitamins",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Posterior vitreous detachment",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Prophylactic use of topical corticosteroids",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "UV protection",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Prophylactic use of topical NSAIDs",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Because idiopathic macular holes are thought to occur secondary to tangential vitreoretinal traction, an eye with a complete posterior vitreous detachment (PVD) is at much less risk for the development of a macular hole. Some studies have shown that a patient with a macular hole in one eye possesses up to a 28% chance of the fellow eye developing a macular hole. Studies have also demonstrated that a person with a full thickness macular hole in one eye and an impending hole without a PVD in the fellow eye has a much higher risk of progressing to a stage 2 hole in the fellow eye (40-60%) vs. an eye with a PVD (1%)."
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "case_id": "pvgsNBWpfXfgOZf10064",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "22-year-old white female; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision and diplopia"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 8 months ago; mostly wears monthly disposable soft contact lenses; reports compliance with cleaning regimen and discarding lenses monthly; does not sleep in her lenses"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "paternal uncle: also had acute diplopia in one eye and then affected the other"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "scoliosis, hypertension"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "lisinopril"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "fluoroquinolones"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: prostate cancer"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 10 exophoria, near: 12 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Keratometry",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 14 mmHg @ 12:00 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "120/79 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "74 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurry and double vision",
+      "Location: OS",
+      "Severity: severe",
+      "Nature of onset: acute",
+      "Duration: 4 days",
+      "Frequency: constant",
+      "Exacerbations/remissions: blur and diplopia is worse when she covers her right eye; goes away when she covers her left eye",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -10.00 -0.75 x 080; distance VA: 20/25",
+      "OS: -9.50 -1.00 x 075; distance VA: 20/40 (PH 20/25)",
+      "OD: 45.00 @ 175 / 44.00 @ 085; no distortion of mires",
+      "OS: 45.50 @ 165 / 43.75 @ 075; no distortion of mires",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, see image 1 OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.30 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: superior lattice degeneration"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_KGWCWIFMYMKVBGT10134.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the patient’s chief complaint and clinical findings, which of the following systemic conditions is she MOST likely suffering from?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Multiple sclerosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acromegaly",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Osteogenesis imperfecta",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Marfan syndrome",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Homocystinuria",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "There are several conditions in which there exists a high potential for lens subluxation. These disorders include Marfan's syndrome, homocystinuria, Weill-Marchesani syndrome, Ehlers-Danlos syndrome, Crouzon disease, acquired syphilis, and aniridia, among others. Marfan's sydrome is caused by abnormal connective tissue. People with this condition frequently have crystalline lenses that bilaterally subluxate superiorly and temporally. However, because the lenses are usually still somewhat attached to the zonules, accommodation can remain partially intact. Marfan's syndrome is autosomal dominantly inherited and affects the heart, eyes, and skeletal system. Ocular manifestations include high myopia, lens subluxation, iridodonesis, phacodoneses, premature cataracts, glaucoma, and retinal detachments. It is not uncommon for patients with this condition to be put on high blood pressure medication to decrease strain on blood vessels due to their increased fragility. There are several systemic conditions in which there exists a high potential for crystalline lens subluxation. These disorders include Marfan syndrome, homocystinuria, Weill-Marchesani syndrome, Ehlers-Danlos syndrome, Crouzon disease, acquired syphilis, and aniridia, among others. Marfan syndrome is caused by abnormalities in connective tissue throughout the body. People with this condition frequently have crystalline lenses that bilaterally subluxate superiorly and temporally. However, because the lenses are usually still somewhat attached to the zonules, accommodation can remain partially intact. Marfan syndrome is autosomal dominantly inherited and affects the heart, eyes, and skeletal system. Ocular manifestations include high myopia, lens subluxation, iridodonesis, phacodonesis, premature cataracts, glaucoma, and retinal detachments. It is not uncommon for patients with this condition to be put on high blood pressure medication to decrease strain on blood vessels due to their increased fragility. People suffering from homocystinuria typically possess crystalline lenses that subluxate inferiorly and nasally, and they tend to have little to no accommodative capabilities when this occurs. In these patients, the amino acid homocysteine weakens the zonules that are important in supporting the crystalline lens. These patients, like those with Marfan syndrome, are also at a higher risk of developing a retinal detachment."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following complications is frequently associated with this patient’s suspected systemic condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paralysis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Aortic aneurysm",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Trisomy 21",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pituitary tumor",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Bone fractures",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Nerve demyelination",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Patients with Marfan syndrome are at risk of developing aortic aneurysms, aortic dissection (layers of the vessel wall separate), and malformations of the valves. Patients suffering from Marfan syndrome also commonly display the ocular complications outlined previously, as well as skeletal abnormalities such as scoliosis and atypical rib development, leading to a sunken or protruding breastbone. These patients are usually taller in stature and slender with elongated arms, fingers (arachnodactyly), legs, and toes. They also commonly have flat feet, highly arched palates, and increased joint laxity."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following results would you MOST likely expect if this patient's color vision was to be tested?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deuteranopia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tritanopia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Anomalous trichromacy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Protanopia",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Anomalous dichromacy",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Normal color vision",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "Patients with Marfan syndrome characteristically possess normal color vision unless a retinal defect is present."
+    },
+    {
+      "number": 4,
+      "stem": "You are asked to serve as a subject matter expert and give a testimonial during a trial involving vision loss due to a mismanaged corneal ulcer. Which of the following describes the MOST appropriate scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "As an optometrist providing an expert testimony, you are entitled to accept a fee",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "A fee may only be accepted if the judge rules in favor of the plaintiff",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "By law, practicing optometrists cannot give expert testimonies",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "As a clinician, you cannot accept a fee when asked to give an expert testimony",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "If asked to provide an expert testimony, it is important that the testimony be unbiased and based upon both clinical experience and scientific knowledge. It is not unethical to accept a fee as long as it is not contingent upon the outcome of the case."
+    },
+    {
+      "number": 5,
+      "stem": "The patient's mother is seen at your office and you fit her with monovision contact lenses. At her follow-up appointment she is belligerent and rude to your staff members. Which of the following is the MOST appropriate scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dismiss the patient from your office via a letter and also include an offer to see her for 30 days for emergency care only",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Refuse to see the patient on the grounds that she is in violation of your personal right to refuse service to any patient",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "File a police report against the patient so that you can refuse service to her in the future",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Politely ask the patient to leave and tell her she is no longer welcome at your office",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Once treatment is initiated, the optometrist cannot abandon a patient until either treatment is complete or the patient has had the opportunity to seek treatment from another provider. In this particular case, the patient is not undergoing treatment for a pathological condition; however, a patient cannot simply be informed that they are no longer permitted to return to your office."
+    }
+  ]
+}

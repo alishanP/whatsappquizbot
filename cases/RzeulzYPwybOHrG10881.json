@@ -1,0 +1,316 @@
+{
+  "case_id": "RzeulzYPwybOHrG10881",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "5-year-old white male; preschool student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "one pupil appears white"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable; born full term, normal developmental milestones"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "1+ APD OS"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "soft and equal OD, OS with digital pressure"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: the child's mother noticed that his left pupil looks white in recent photographs",
+      "Location: OS",
+      "Severity: moderate/severe",
+      "Nature of onset: patient's mother is unsure",
+      "Duration: first noticed last week",
+      "Frequency: only observed in photographs",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: age appropriate orientation to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/20",
+      "OS: VA distance: CF @ 5 feet (PHNI)",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.25 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: see image 2"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_JTYNCNHMZUAHSQE10944.PNG",
+      "AnsweredCases/images/KI_DWHQTGESAXRLFDV10945.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis for the patient's retinal condition observed in images 1 & 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retinopathy of prematurity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Choroideremia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Retinoblastoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Familial exudative vitreoretinopathy",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Eales disease",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Coats disease",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "A diagnosis of Coats disease may be made based on the presentation of several characteristics described below: • 75% of patients with Coats disease are male, and the vast majority of cases occur unilaterally • There is no genetic, familial, racial, or ethnic predisposition • Birth history, medical history, and family history are all typically negative • Coats disease most frequently presents in the first decade of life (around 5 years of age) with symptoms of vision loss in one eye (but it may occur in later childhood, and rarely in adults) • Characterized by idiopathic retinal telangiectasia, and significant subretinal or intraretinal exudation • Symptoms of Coats disease: º The most common presenting clinical signs are leukocoria and strabismus º Some patients may also present with decreased vision, pain, heterochromia (from iris neovascularization), and/or nystagmus • Clinical findings associated with Coats disease: º Anterior segment findings are usually normal, but it is possible to observe corneal edema, rubeosis iridis, or anterior chamber cholesterolosis º Posterior segment evaluation typically reveals one or more localized areas of retinal telangiectasia, most commonly noted in the inferior and temporal quadrants between the equator and ora serrata • There is usually a variable amount of surrounding retinal edema and lipid exudates both within and beneath the neurosensory retina • In some cases, lesions extend posterior to the equator towards the vascular arcades º Microaneurysms, focal areas of capillary non-perfusion, and light-bulb appearing dilations of retinal venules may also be observed in the retina º Areas of intraretinal and subretinal yellowish exudation eventually involve a large portion of the retina, affecting areas remote from the vascular abnormalities, with preferential involvement of the macula º Severe cases of Coats disease may result in a partial or total exudative retinal detachment, and/or glaucoma There are several distinguishing factors between Coats disease and the other differential diagnoses in this question: • Because this patient does not have a history of prematurity, a diagnosis of retinopathy of prematurity can be ruled-out • Eales disease will typically present in the third to fifth decades of life with bilateral signs of occlusive peripheral periphlebitis and neovascularization (and it is rarely observed in Caucasians) • Familial exudative vitreoretinopathy differs from Coats disease as this condition has a hereditary component, presents bilaterally, and commonly exhibits signs similar to ROP, in which there is fibrovascular proliferation that leads to vascular straightening and temporal dragging of the macula and optic disc The most common misdiagnosis of Coats disease is retinoblastoma because of a clinical presentation of leukocoria with a white lesion in the retina. However, patients with retinoblastoma usually present to a clinic by the age of 2, and retinal evaluation shows a more dome-shaped, homogenous white lesion that often extends into the vitreous cavity."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following BEST describes the pathogenesis of this retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Failure of vascularization of the retinal periphery causes fibrovascular proliferation and eventual retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Abnormal permeability of the retinal vascular endothelium causes breakdown of the blood-retinal barrier and leakage of lipid-rich exudates",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Malignant transformation of primitive retinal cells occurs before they undergo final differentiation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Peripheral retinal capillary non-perfusion leads to neovascularization, recurrent vitreous hemorrhaging, and tractional retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Progressive, diffuse atrophy of the choroid, retinal pigment epithelium, and retinal photoreceptor cells",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The exact etiology of Coats disease is unknown; however, investigators believe that the retinal manifestations associated with this condition are due to atypical permeability of the retinal vascular endothelium. This anomaly leads to a breakdown of the blood-retinal barrier and subsequent leakage of lipid-rich exudates, which can eventually progress to an exudative retinal detachment. The pathophysiology of other differential diagnoses of Coats disease are as follows: • Choroideremia: progressive, diffuse atrophy of the choroid, retinal pigment epithelium, and retinal photoreceptor cells • Retinopathy of Prematurity and Familial Exudative Vitreoretinopathy: failure of vascularization of the retinal periphery causes fibrovascular proliferation and possible eventual tractional retinal detachment • Eales Disease: peripheral retinal capillary non-perfusion leads to neovascularization, recurrent vitreous hemorrhaging, and possible tractional retinal detachment • Retinoblastoma: malignant transformation of primitive retinal cells occurs before they undergo final differentiation"
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following populations are MOST commonly affected by this retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patients with a family history of the disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Caucasians",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Females",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Asians",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Males",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Premature children",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Coats disease exhibits no genetic, familial, race, or ethnic predisposition. In addition, birth history, medical history, and family history are almost always negative for patients diagnosed with this condition. The only factor that has been correlated to Coat disease is male gender, as 75% of these patients are male."
+    },
+    {
+      "number": 4,
+      "stem": "What is the MOST preferred method of treatment for patients with moderate documented retinal changes associated with this diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Monitor the condition",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Enucleation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cryotherapy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vitreoretinal surgery",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Focal laser photocoagulation",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The primary goal of treatment in patients diagnosed with Coats disease is to eradicate the abnormal telangiectatic retinal blood vessels, which should in turn facilitate resolution of exudation, salvaging the globe and as much vision as possible. Focal laser photocoagulation is the preferred method of treatment in cases where there is documented progression of exudation. In most cases, more than one treatment session is typically necessary in order to obliterate all peripheral retinal telangiectasia, while also inducing resolution of remote exudation in the area of the macula. Photocoagulation has been shown to be most effective in eyes with no or minimal subretinal fluid. Other treatments of Coats disease include the following: • Observation: in patients showing only mild exudation with no significant changes and non-threatening disease ° Observation may also be the treatment of choice in those with a total retinal detachment and no hope of restoring vision (and with a comfortable eye) • Cryotherapy (with double freeze-thaw method): typically used in eyes with extensive exudation and shallow retinal detachment ° This treatment may cause a marked reaction, in which there is a possibility of increased leakage; therefore, laser photocoagulation is still the preferred option, if at all possible • Vitreoretinal surgery: considered in patients with total retinal detachment and poor visual prognosis ° Successful reattachment of the retina often prevents subsequent development of neovascular glaucoma • Enucleation: reserved for patients with painful eyes secondary to the development of glaucoma following a total retinal detachment Even after treatment has been completed, patients may continue to develop telangiectasia for up to 10 years after the initiation of therapy; therefore, close monitoring of these patients is mandatory."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following should be included in the patient education for this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is a possibility that this condition has metastasized to other areas of the body",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "This condition may be a precursor for an associated systemic disease and further blood testing should be completed",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "If left untreated, the patient may develop a painful secondary glaucoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "This condition has a hereditary component and may be passed down to future generations",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "It is very likely that the right eye will also develop this condition",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "• Coats disease is an idiopathic, non-hereditary disease ° It will not be passed down to future generations • The vast majority of patients have involvement of only one eye ° It is not likely that this patient will develop the condition in the fellow eye, especially since he does not show any signs of such development at this point • There are no associated systemic diseases that have been correlated to the presence of Coats disease ° Further systemic testing is not necessary in cases of Coats disease • If Coats disease is left untreated, end-stage complications of a total exudative retinal detachment and neovascular glaucoma may ensue, leading to a blind and painful eye ° In these situations, enucleation is frequently required"
+    }
+  ]
+}

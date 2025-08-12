@@ -1,0 +1,316 @@
+{
+  "case_id": "wpcFyWhIffXjmhmho100",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "52-year-old white male; accountant"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurry vision at near"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 3 years ago; wearing single vision distance glasses full time, lost single vision reading glasses"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: toxoplasmosis, father: glaucoma"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypercholesterolemia"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "lovastatin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hyperthyroid, depression, father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Keratometry",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 13 mmHg @ 11:55 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "112/80 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "76 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: difficulty with computer and reading with his current glasses",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 6 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: vision is better if he pushes reading material further away",
+      "Relationship to activity or function: had a separate pair of reading glasses that worked well but he lost them",
+      "Accompanying signs/symptoms: fatigue and headaches with prolonged near work",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: +4.25 DS; VA distance: 20/25, VA near: 20/60 @ 40 cm",
+      "OS: +5.00 -0.50 x 098; VA distance: 20/25, VA near: 20/60 @ 40 cm",
+      "OD: 45.00 @ 175 / 44.75 @ 085; no distortion of mires",
+      "OS: 44.35 @ 180 / 44.00 @ 090; no distortion of mires",
+      "OD: +4.75 -0.25 x 092 add: +1.75; VA near: 20/20, VA distance: 20/20 @ 40 cm",
+      "OS: +5.25 -0.25 x 096 add: +1.75; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: see image 1 OD, see image 2 OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: white without pressure temporally",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: white without pressure temporally"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_CCVIRRDVZYUDQPHJ7456.JPG",
+      "AnsweredCases/images/KI_DMKZZAKCDLYIZAJK7457.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given this patient's visual needs, you decide to fit him with progressive addition lenses (PALs). Which of the following represents the location in which the segment height should be measured?",
+      "options": [
+        {
+          "label": "A",
+          "text": "At the height of his lower pupil margin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2 mm above his lower eyelid margin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3 mm below the center of his pupil",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "At the height of his lower eyelid margin",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "At the center of his pupil",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Progressive addition lenses do not have a segment line like that of a flat-top bifocal lens; however, they still require proper measurements to denote where the graduated power change should begin. The segment height for PALs is measured from the center of the patient's pupil to the bottom of the deepest portion of the lens. Before taking this measurement, you must ensure that the frame is properly adjusted on the patient's face! In order to determine the proper height of a bifocal lens, most clinicians and opticians will adjust the frame and have the patient look over their shoulder (making sure that they are eye level with the patient). Using a dry-erase marker, the lens is dotted at the level of the patient's lower eyelid. This is the bifocal segment height (some clinicians add 0.5 mm to allow for a grooved frame). Trifocals are measured the same way as bifocals, except that the lens is dotted at the lower pupil margin (vs. the eyelid margin)."
+    },
+    {
+      "number": 2,
+      "stem": "The patient returns two weeks after receiving his glasses and complains that he has to tilt his chin down towards his chest in order to see distant objects clearly. How can you adjust his frame to help eliminate this problem?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decrease the pantoscopic tilt",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increase the face wrap/face form",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Push the nose pads closer together, pushing the frame up",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pull the nose pads further apart, dropping the frame down",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "In this case, the segment heights are too high, causing the patient to look through the powers intended for viewing intermediate objects. In order to lower the frame so he is looking through the distance powers of the lenses, you should push or spread the nose pads further apart. This will lower the lenses, hopefully centering the distance Rx in the center of the patient's pupil. If this adjustment does not help, or if there is too much discrepancy between the segment height and the patient's pupil, the lenses may have to be remade with the segment height at the proper location."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following lens options would you recommend for a patient who works on the computer for long periods of time and reports that overhead fluorescent lighting is very bothersome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A transition gray lens with a back surface anti-reflective coating",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A light rose tinted lens with an anti-reflective coating",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "A polarized gray lens with an anti-reflective coating",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A gray tinted lens with a mirrored front surface coating",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "An anti-reflective coating allows more light to pass through the lens rather than being reflected off the surface of the lens; this will help the patient with symptoms of glare and subsequent digital eye strain that are common when viewing screens. A light rose or pink tint will also permit more comfortable vision because it helps to offset effects of overhead fluorescent lighting. Individuals who work at computers for long periods of time can become prone to visual fatigue and are encouraged to take frequent breaks from the computer. Proper ergonomics and specifically designed computer glasses can also help to promote a more productive work environment."
+    },
+    {
+      "number": 4,
+      "stem": "The patient reports diplopia after 20 minutes of reading with his new glasses. You perform further binocular testing at near and decide to order a separate pair of single vision reading glasses made of high-index, aspheric lenses with 4 base-in prism. What is the BEST way to achieve 4 BI prism in these glasses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decenter the optical centers of the right and left lenses temporally",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decenter the optical centers of the right and left lenses nasally",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decenter only the optical center of the right lens temporally",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decenter only the optical center of the left lens nasally",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "The prescribed prism must be ground into the lenses",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Conventional lenses can be decentered so that the optical center of the lens does not correspond with the center of the patient's pupil in order to induce a desired amount of prism; however, for aspheric lenses, prism must be ground into the lens. Aspheric lenses have a base curve that progressively changes from the center of the lens to the edge, allowing for thinner, lighter lenses with less magnification (or minification) experienced by the patient. Plus-powered aspheric lenses are flatter, with front curves that flatten towards the lens edge, while minus-powered aspheric lenses are also flatter, but their front curves steepen towards the periphery. Because aspheric lenses are flatter and sit closer to the patient's eyes, some patients will notice an increase in glare; it is for this reason that it is important to recommend an anti-reflective coating on all aspheric lenses."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following terms represents the distortion that results from viewing a grid through a high plus-powered lens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pincushion distortion",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Barrel distortion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pear distortion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Star distortion",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Tree distortion",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Viewing a grid through a high plus-powered lens causes pincushion distortion because the edges of the grid are more magnified than the center. A high minus-power lens will cause the grid to distort in a barrel-like fashion because the center of the grid is more magnified than the edges."
+    }
+  ]
+}

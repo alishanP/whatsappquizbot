@@ -1,0 +1,337 @@
+{
+  "case_id": "MRowPbPTXxyvFOMs9152",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "31-year-old white male; financial advisor"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "severe headaches"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; wears single vision glasses full time"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: glaucoma suspect"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "seasonal allergies"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Claritin®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "sulfa-based medications"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypercholesterolemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 15mmmHg @ 8:10 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "112/68 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "76 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: extremely painful headaches",
+      "Location: right side of the head, behind the right eye",
+      "Severity: severe",
+      "Nature of onset: rapid",
+      "Duration: episodes last 30-45 minutes",
+      "Frequency: 2-3 attacks per day over the past week",
+      "Exacerbations/remissions: episodes occur around the same times every day; pain wakes him up at night",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: redness and tearing of his right eye during an attack",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: occasional runny nose and itchy throat",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: severe headaches",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -2.25 -0.25 x 087; VA distance: 20/20",
+      "OS: -2.50 DS: VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_WOLGUDNDNDHVKBON9216.PNG",
+      "AnsweredCases/images/KI_UMSFXYENIHJTMNWB9217.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely type of headache this patient is suffering from?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Migraine headache",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sinus headache",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cluster headache",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tension headache",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The most common clinical presentation of a patient with cluster headaches includes a complaint of extremely intense and severe unilateral pain, which occurs in the orbital, supraorbital, or temporal location. Typically, patients will describe the pain as the most intense pain that they have ever endured, with a \"feeling as though there is a red-hot poker being inserted into the eye\", or \"a spike penetrating into the top of the head, behind one eye.\" Researchers have suggested that cluster headaches may actually be the most painful condition known to medical science. The duration of each attack typically ranges from 15 minutes to 180 minutes, and attacks commonly occur several times per day. The intense pain that occurs with these headaches has the ability to wake a person from sleep. It is also interesting to note that cluster headaches tend to have a metronomic regularity, in which attacks commonly occur at a precise time of day, each day for several weeks. The onset of pain is rapid, and there are usually no associated preliminary signs that warn a patient of the arrival of the headache. However, there are several autonomic symptoms that can accompany the pain once it begins, including a mild ptosis, miosis, conjunctival injection, lacrimation, and rhinorrhea; all of these occur ipsilaterally. Cluster headaches tend to be episodic in nature; they may occur for a period of several weeks, followed by a headache-free period that may last weeks, months, or years. In a small percentage of cases, these headaches can be chronic, in which patients suffer from multiple occasions of headaches everyday for years without remission. In contrast, tension headaches are the most common type of headache, accounting for nearly 90% of cases. This type of pain is typically described as “the feeling of constant pressure” that occurs bilaterally. The pain is usually considered mild to moderate in nature, and commonly lasts 4-6 hours. This type of headache is typically brought on by stress, sleep deprivation, bad posture, hunger, and/or eyestrain. Migraine headaches are considered a chronic neurological disorder characterized by recurrent moderate to severe headaches that are often associated with other autonomic nervous system symptoms. A typical presentation of a patient suffering from a migraine headache will include unilateral pain that is pulsating in nature and lasts from 2-72 hours. Patients will typically experience associated symptoms of nausea, vomiting, photophobia, and phonophobia. Up to 30% of patients will perceive an aura immediately preceding the headache that typically involves transient visual disturbances, as well as sensory, language, or motor disruptions. Sinus headaches are commonly associated with a deep and constant pain in the location of the cheekbones, forehead, or bridge of the nose. Pain in these cases is usually associated with other sinus symptoms such as rhinorrhea, feeling of fullness in the ears, fever, facial swelling, and lacrimation. Although this patient does suffer from seasonal allergies, the presentation of his pain is not typical of a headache caused by sinus inflammation."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following BEST describes the pathophysiology of the pain and ocular symptoms produced by this type of headache?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inflammation of the paranasal sinuses",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Activation of the trigeminal nerve",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Neurotransmitter imbalance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fluctuation in circulating hormones",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Muscle tension and contracture around the head and neck",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Until recently, the exact mechanism responsible for triggering the pain associated with cluster headaches was poorly understood. Some researchers believed in a purely vascular theory, while others thought that cluster headaches were caused by a neurologic trigger. We now know that both systems are involved in the development of a cluster headache; therefore, a neurovascular origin appears to provide the most comprehensive explanation of the pathophysiology of pain in these patients. A neurovascular event, likely originating in the hypothalamus (for unknown reasons), causes the walls of the cavernous sinus to become inflamed, thereby triggering trigeminal nerve activation. The trigeminal nerve activation is the basis for the excruciating pain experienced in a cluster headache attack. The initial neurovascular event also involves the sphenopalatine ganglion, which is responsible for the associated autonomic symptoms such as tearing and rhinorrhea. Muscle tension and contracture in the region of the head and neck is the basis for pain in a tension headache, while the etiology of a sinus headache is related to inflammation of the paranasal sinuses. Migraine headaches are thought to be neurological in nature and can be triggered by several mechanisms such as hormonal changes or neurotransmitter imbalances."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following represents the MOST common first line of treatment in managing the pain associated with this type of headache?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ibuprofen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Amitriptyline",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Naproxen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Oxygen inhalation",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Exercise",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Aspirin",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Treatment with oxygen therapy has been proven to be an excellent and effective therapy for aborting the pain associated with a cluster headache attack. Typical dosing is 100% oxygen given via a facemask for 15 minutes at a rate of 7 to 15 liters per minute. It has been shown to be most successful if initiated when the pain is at maximal intensity, and is effective in relieving pain within 10-20 minutes in up to 60-80% of patients suffering from an attack. Oxygen is a very attractive therapy when compared to other medical options because it is safe and relatively easy to use. Oxygen can also be utilized as an adjunctive treatment to oral medications for both acute and prophylactic treatment of cluster headaches. The mechanism of action is thought to be related to oxygen's cerebral vasoconstrictive properties. Cluster headaches do not typically respond to over-the-counter headache-relief medications such as ibuprofen, naproxen, or acetaminophen. However, if medications are needed, triptans (sumatriptan and zolmitriptan) are often the most effective. These medications are classified as selective serotonin receptor agonists, which constrict the cranial blood vessels and reduce the activity of the trigeminal nerve. Sumatriptan appears to work best if injected subcutaneously during an acute cluster attack."
+    },
+    {
+      "number": 4,
+      "stem": "What neurological condition MOST commonly accompanies this patient’s diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bell’s palsy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Internuclear ophthalmoplegia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trochlear nerve palsy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Horner syndrome",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Amaurosis fugax",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Approximately 50-65% of patients with cluster headaches will develop Horner syndrome during an attack (ptosis and miosis). Occasionally, Horner syndrome may even become permanent after multiple cluster headache periods. Typically, in cases of cluster attacks with an associated Horner syndrome, there is an absence of facial anhidrosis, which implies that the Horner syndrome can be localized to a third-order neuron (post-ganglionic). It is likely that this is due to distention of the carotid artery wall that subsequently induces pressure, compressing the sympathetic plexus that lies within it. Most clinicians will agree that if Horner syndrome is present in a patient with headaches, imaging studies should be considered to eliminate other possible causes."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following statements should be included in your patient education for this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Relaxation, exercise, and lifestyle changes can be very effective in reducing the frequency and intensity of headaches",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "These headaches typically last for several weeks and are often followed by a headache-free interval that may last months to years",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Frequent hand washing, flu vaccines, and humidifiers can help reduce the risk of upper-respiratory infections that may trigger this type of headache",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Keeping a meal log may be helpful in identifying types of foods that may trigger the onset of headaches",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "A very common clinical presentation of a patient diagnosed with cluster headaches involves a period of intensely painful headaches that are episodic in nature and occur for several weeks, followed by a headache-free interval that may last weeks, months, or years. Occasionally, patients may experience chronic cluster headaches, characterized by an absence of remission for 1 year, or a short remission lasting less than 14 days (this is much less common). In regard to triggers of cluster attacks, studies have shown that alcohol frequently provokes an attack when the patient is in an active cluster phase; however, when patients are within a period of remission, alcohol will rarely precipitate an attack. Unlike migraine headaches, cluster attacks may be triggered by consumption of any type of alcoholic beverage (again, when the patient is in an active cluster phase); this may be due to the fact that alcohol can act as a vasodilator. Other medications such as nitroglycerin tablets also cause vasodilation and can induce cluster headache attacks in susceptible patients. In addition to vasodilation, nitroglycerin produces a transient, mild hypoxic state following its administration, which is another potential mechanism of triggering a painful attack. It has also been observed that food items and food additives do not appear to provoke a cluster headache (unlike migraines). Additionally, in contrast to tension headaches, stress, depression, and psychological factors seem to have minimal importance in the pathogenesis of pain in patients suffering from cluster headaches."
+    },
+    {
+      "number": 6,
+      "stem": "Aspirin should not be used in children for the treatment of flu-like symptoms, common colds, or chicken pox due to the risk of developing which of the following conditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raynaud syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pernicious anemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Reye syndrome",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Stevens-Johnson syndrome",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Reye syndrome is a potentially fatal condition that may strike swiftly and can attack without warning. All body organs are affected; however, the liver and the brain tend to suffer most seriously. Researchers have established a link between the use of aspirin and other salicylate medications and Reye syndrome. Reye syndrome is a two-phase illness that typically develops when a person is recovering from a viral infection (flu, or chicken pox). It is often misdiagnosed as encephalitis, meningitis, poisoning, sudden infant death syndrome, diabetes, or drug overdose. Damage to vital organs occurs due to abnormal accumulations of fat, along with a severe increase in pressure in the brain. Unless diagnosed and treated quickly and successfully, death commonly occurs within a few days. Raynaud syndrome is a vasospastic disorder that causes discoloration of the fingers and toes. It is commonly associated with connective tissue disorders such as systemic lupus erythematosus. Stevens-Johnson syndrome is thought to be a hypersensitivity reaction that affects the skin and mucous membranes, causing cell death and subsequent separation of the dermis and epidermis. It is also a life-threatening condition, in which the cause is most commonly attributed to the use of antibiotics and sulfa-based medications."
+    }
+  ]
+}

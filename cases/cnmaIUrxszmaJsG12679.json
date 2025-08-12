@@ -1,0 +1,331 @@
+{
+  "case_id": "cnmaIUrxszmaJsG12679",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "42-year-old white female; information technology consultant"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "red eye"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "LASIK 9 years ago; last eye exam 2 years ago; wears soft contact lenses due to myopic regression, not compliant with replacement schedule and occasionally sleeps in lenses"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: cataracts"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "multivitamins"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NDKA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: liver cirrhosis"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 14 mmHg @ 10:15 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "120/80 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: redness, irritation, excessive lacrimation, and photophobia",
+      "Location: OS",
+      "Severity: moderate",
+      "Nature of onset: acute",
+      "Duration: 6 weeks; woke up with red, painful eye and went to urgent care; was directed to the emergency room, but she never went (worried about cost); symptoms have been ongoing since then, but pain has been gradually improving",
+      "Frequency: constant",
+      "Exacerbations/remissions: has been slightly improving since onset",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: mildly blurred vision",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/40 (PH 20/20)",
+      "OS: VA distance: 20/100 (PH 20/30)",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, 2+ injection OS",
+      "cornea: clear OD, 1+ edema, fine keratic precipitates on endothelium, stromal neovascularization (see images 1 and 2) OS",
+      "anterior chamber: deep and quiet OD, 1+ cells and flare OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 3",
+      "macula: see image 3",
+      "posterior pole: see image 3",
+      "periphery: unremarkable",
+      "C/D: see image 4",
+      "macula: see image 4",
+      "posterior pole: see image 4",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_RTXWJUUPOTKYSHV12742.PNG",
+      "AnsweredCases/images/KI_RIBERHIQKWOCNOO12743.PNG",
+      "AnsweredCases/images/KI_OTLCVZYFQIUNQFT12744.PNG",
+      "AnsweredCases/images/KI_RLSLCADSEAQSNYB12745.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of the patient's anterior segment condition of the LEFT eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iritis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Contact lens associated red eye",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Interstitial keratitis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pterygium",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Neovascular glaucoma",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Interstitial keratitis is a non-ulcerating inflammation of the corneal stroma. Patients with active or acute interstitial keratitis will commonly present with red, painful eyes and will usually report excessive lacrimation and photophobia. The condition may be unilateral or bilateral depending on the etiology. Clinically, one will observe stromal neovascularization along with the presence of corneal edema. The condition is usually limited to the stroma and does not typically involve the corneal epithelium or the endothelium; however, in the acute phase, one may observe an anterior chamber reaction, fine keratic precipitates on the endothelium, and/or injection of the conjunctiva. Interstitial keratitis occurs secondary to an immune reaction caused by exposure to infectious agents or antigens that trigger the deployment of T-cells to the stroma. As the condition resolves, the stromal blood vessels will become non-perfused vascular channels that are often referred to as \"ghost vessels.\" A passive or non-acute interstitial keratitis will present with non-perfused stromal vessels, corneal scarring or haze, and thinning of the stroma. Neovascular glaucoma is caused by neovascularization of the iris, which proliferates and eventually blocks the trabecular meshwork, leading to a rise in the intraocular pressure. This patient's iris is clear and the intraocular pressure is normal. Iritis may present unilaterally or bilaterally, leading to a red, painful, and photophobic eye. The cornea may appear edematous and the patient may report decreased acuity; however, stromal vascularization rarely occurs with iritis alone. A contact lens that fits too tightly may cause conjunctival injection and corneal edema, and depending on the oxygen transmissibility of the lens, may also trigger neovascularization of the superficial cornea. This patient displays deep stromal neovascularization, which generally does not occur with mild contact lens overwear. Pterygia and pingueculae are both caused by excessive exposure to ultraviolet light or prolonged exposure to dry, dusty environments. The ocular surface reacts via proliferation of fibrovascular tissue onto the conjunctiva and, in the case of a pterygium, onto the cornea. Pterygia generally appear as elevated triangular growths (with their apexes pointing towards the pupil) and are more commonly found nasally than temporally. Although a pterygium is a vascular growth and can become inflamed and irritated, the blood vessels are superficial (rather than deep in the stroma as in this case)."
+    },
+    {
+      "number": 2,
+      "stem": "Although the patient denied any systemic medical history, what is the MOST likely etiology of this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congenital syphilis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cogan syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Leprosy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lyme disease",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The most common cause of interstitial keratitis is congenital syphilis. However, interstitial keratitis has many additional potential etiologies, which include (but are not limited to) herpes simplex, herpes zoster, Lyme disease, leprosy, acquired syphilis, tuberculosis, Epstein-Barr virus, and parasitic origins (such as microsporidia). Patients with interstitial keratitis caused by herpes simplex typically present with a unilateral reaction and report a red, photophobic, and painful eye (as in this case). Patients with congenital syphilis will typically develop this ocular sequela in the first or second decade of life. In these cases, the condition is typically bilateral, although one eye may be affected initially, and a year or more may elapse before the other displays any signs. Patients with congenital syphilis often possess a clinical triad known as the Hutchinson triad. This triad consists of interstitial keratitis, peg-shaped, widely spaced incisors, and deafness. Untreated or incompletely treated early congenital syphilis will progress to the classic manifestations of late congenital syphilis. A dilated fundus exam may also reveal optic atrophy and/or a “salt-and-pepper” chorioretinitis. Patients with leprosy will generally display a loss of the outer third of the eyebrow, loss of eyelashes, areas of dermal hypopigmentation, and thickened skin folds. Biomicroscopy may reveal segmented thickening of the corneal nerves, as if they appear like beads on a string. These patients are also likely to possess iris nodules. Patients with Cogan syndrome will typically display bilateral interstitial keratitis along with hearing loss, vertigo, and tinnitus. This syndrome is usually associated with some form of systemic vasculitis such as polyarteritis nodosa. A patient suffering from interstitial keratitis caused by Lyme disease may also experience symptoms of fatigue, headaches, and fever. A definitive diagnostic sign is a red rash with a bull's eye appearance around the site of infection called erythema migrans, which typically occurs 3-30 days post tick bite. This patient denies the presence of any skin rashes or other systemic symptoms."
+    },
+    {
+      "number": 3,
+      "stem": "Which 3 of the following represent the MOST appropriate treatment for the patient's anterior segment condition of the left eye? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valtrex 1 gram p.o. t.i.d.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Intravenous aqueous crystalline penicillin G q.4.h.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Homatropine 2% ophthalmic solution t.i.d.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pred Forte® 1% ophthalmic suspension q.2.h.",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Doxycycline 100 mg p.o. b.i.d.",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Zirgan® 0.15% ophthalmic gel 5x per day",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Ofloxacin 0.3% ophthalmic solution q.i.d.",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Treatment of acute interstitial keratitis consists of topical steroids prescribed every one to six hours depending on the severity of the inflammation. Patients who are photophobic or who exhibit an anterior chamber reaction also benefit from the use of topical cycloplegic agents. It is important to treat the underlying cause, which in this case is likely herpes simplex. With treatment, the prognosis is generally good; however, in some cases, there is extensive corneal scarring which can result in a significant reduction in visual acuity. Intravenous aqueous crystalline penicillin G is used in the treatment of syphilis and may also be used for patients with recurrent or recalcitrant cases of Lyme disease. Oral doxycycline is prescribed for early cases of Lyme disease."
+    },
+    {
+      "number": 4,
+      "stem": "After the initiation of treatment, when should the patient return for a follow-up visit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 months",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5 days",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1 month",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 day",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "2 weeks",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "During the acute phase of the condition, the patient should follow up every 3-7 days to ensure resolution of signs and improvement of symptoms. During this time, the topical steroids should be slowly tapered and intraocular pressure should be monitored in case of an IOP spike. Resolution of the inflammation may be a slow process, and in some cases may take up to two years to completely resolve."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following glaucoma medications can cause black/brown palpebral conjunctival deposits?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Timoptic®",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lumigan®",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pilocarpine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Brimonidine",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Epinephrine",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Rocklatan®",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Epinephrine is a type of topical anti-glaucoma medication whose mechanism of action is to decrease intraocular pressure by increasing both uveoscleral and trabecular meshwork outflow. This drug has many potential side effects and is not commonly used as a treatment today. Potential side effects include (but are not limited to) mydriasis, ocular irritation, hyperemia, follicular conjunctivitis, eyelid retraction, cystoid macular edema, and black adrenochrome deposits that typically present on the inferior palpebral conjunctiva and inferior fornix of the eye."
+    }
+  ]
+}

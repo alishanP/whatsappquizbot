@@ -1,0 +1,321 @@
+{
+  "case_id": "FtDuHLCQpPfeNIIB7535",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "31-year-old white male; architect"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurry vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; does not wear correction"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: herpes simplex keratitis"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypercholesterolemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: orthophoria, near: 4 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 12 mmHg, OS: 12 mmHg @ 12:15 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "118/79 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurred distance vision",
+      "Location: OD",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 1 year",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at night; better with squinting",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/30, VA near: 20/20 @ 40 cm",
+      "OS: VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OD: -0.75 -0.25 x 168; VA distance: 20/20",
+      "OS: +0.50 DS; VA near: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: see image 1 OD, see image 2 OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 3",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 4",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_OXTQIHOYHVPGFFVN7594.PNG",
+      "AnsweredCases/images/KI_XNTTPBOTJETPFMZS7595.PNG",
+      "AnsweredCases/images/KI_PUXKVNWRNRGBBRBZ7596.PNG",
+      "AnsweredCases/images/KI_IBZLPTWQHOJXGHAC7597.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis of the patient's peripheral corneal findings observed in images 1 and 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Axenfeld anomaly",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Peters anomaly",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Posterior embryotoxon",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Rieger anomaly",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Posterior embryotoxon presents as a prominent and anteriorly displaced Schwalbe line. This finding can be observed in up to 15% of normal patients (see image below). Axenfeld anomaly appears as peripheral iris strands attached to posterior embryotoxon. These patients possess a risk for glaucoma development. Rieger anomaly will present with the findings of Axenfeld anomaly along with iris thinning and corectopia (a displaced pupil). 50-60% of patients with this condition develop glaucoma. Peters anomaly is a very rare and typically bilateral condition. Patients display a central corneal opacity of varying density along with the adhesion of iris strands to the margins of the opacity. The lens may be displaced anteriorly creating a shallow anterior chamber. The lens may also be adhered to the corneal opacity. Glaucoma is present in 50% of patients who suffer from Peters anomaly."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate treatment for the patient's corneal findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lumigan® ophthalmic solution, 1 gtt q.h.s. OU",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "No treatment is necessary at this time",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pred Forte® ophthalmic suspension 1 gtt q.i.d. OU x 2 weeks",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer for laser peripheral iridotomy OU",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Muro 128® ophthalmic solution, 1 gtt q.h.s OU",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Posterior embryotoxon does not put this patient at risk for complications; therefore any intervention is unnecessary at this time."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following represents the MOST appropriate follow-up for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RTC 1 week for follow-up exam",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "RTC 2 months for follow-up exam",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "RTC 1 day for follow-up exam",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "RTC 1 month for follow-up exam",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "RTC 1 year for comprehensive exam",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Because posterior embryotoxon does not threaten visual or ocular health, and does not require treatment, the patient may be monitored annually with comprehensive eye exams."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following BEST describes this patient's refractive error?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amblyogenic",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Antimetropia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Aniseikonia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Simple astigmatism",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Antimetropia describes the condition in which one eye is myopic and the other is hyperopic. Aniseikonia refers to the condition in which there is a size difference of the perceived images between the two eyes. Symptoms of aniseikonia include: diplopia, diminished depth perception, photophobia, headaches, nausea, aching of the eyes, difficulty while reading, and vertigo. Clinically, patients with a spherical equivalent difference of 2 diopters or more between the eyes are likely to experience symptoms associated with aniseikonia. This patient’s refractive error is mild and not considered amblyogenic. Amblyogenic risk factors are defined as spherical refractive error ≥ +4.00 D or -6.00 D, astigmatic refractive error ≥ 2.50 D, anisometropic refractive error ≥ 1.50 D in regard to hyperopia and astigmatism, and ≥ 2 D of myopic anisometropia. Simple astigmatism occurs when one principal meridian is emmetropic while the other meridian possesses some degree of ametropia (either myopia or hyperopia)."
+    },
+    {
+      "number": 5,
+      "stem": "The ocular condition observed in images 1 and 2 is MOST frequently associated with individuals of what descent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is no racial predilection",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Caucasian",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "African-American",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hispanic",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "American-Indian",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Asian",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Researchers have yet to determine a gender or racial predilection for posterior embryotoxon."
+    }
+  ]
+}

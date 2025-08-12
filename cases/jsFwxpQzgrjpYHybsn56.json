@@ -1,0 +1,359 @@
+{
+  "case_id": "jsFwxpQzgrjpYHybsn56",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "10-year-old white male; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "red eyes"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam; saw pediatrician in the past for similar symptoms (was given drops- unknown)"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "Mother: glaucoma suspect"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "asthma"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "albuterol inhaler"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "sulfa-based medications, dust, pollen"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: type II diabetes; father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 11 mmHg, OS: 12 mmHg @ 1:32pm by non-contact tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: red, itchy, swollen eyes",
+      "Location: OD, OS",
+      "Severity: severe",
+      "Nature of onset: sudden",
+      "Duration: 5 days",
+      "Frequency: constant",
+      "Exacerbations/remissions: had similar episodes the past 2 summers",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: tearing and ropy discharge",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: frequent runny nose",
+      "Cardiovascular: denies",
+      "Pulmonary: occasional shortness of breath",
+      "Dermatological: itchy skin",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: 20/20",
+      "OS: 20/20",
+      "lids/lashes/adnexa: see image 1 OD, OS similar to OD",
+      "conjunctiva: 2+ injection, 1+ conjunctival chemosis OD, OS",
+      "cornea: see image 2 OD, OS similar to OD",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.30 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.25 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_UISHYOOEETISPCWXE369.JPG",
+      "AnsweredCases/images/KI_KOUFSPWFVYSHFQLT7373.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the above findings, what is the MOST likely diagnosis for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epidemic keratoconjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Keratoconjunctivitis sicca",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vernal keratoconjunctivitis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex keratitis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Superior limbic keratoconjunctivitis",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Vernal keratoconjunctivitis (VKC) is an ocular condition that most commonly affects young (school-aged) children and often presents with an increased frequency in males. This type of allergy usually develops after the age of 5 and typically lasts for approximately 4-10 years before the child eventually outgrows it. Symptoms of VKC predominantly spike in the spring and summer months. Additionally, the first episode of EKC that the patient experiences is often the worst, and each year when the condition flares up, the symptoms usually progressively lessen in severity until they eventually diminish. Patients with VKC tend to suffer tremendously when the condition is in the active phase. VKC is often observed in patients who are prone to atopy; therefore, they are also likely to suffer from eczema, asthma, and/or hay fever. Patients with active VKC typically report extremely itchy eyes, redness, and photophobia. Clinical signs commonly include cobblestone papillae of the upper eyelid, eyelid swelling, and ropy discharge that is worse in the morning. Corneal defects (usually found superiorly) known as keratitis of Togby may also be present. Occasionally, patients will develop a shield ulcer and Horner-Trantas dots (raised, white accumulations of calcified eosinophils at the limbus), which may lead to an associated foreign body sensation. Treatment includes mast cell stabilizers that are ideally initiated several weeks prior to the start of allergy season (and must be continued through the entire allergic period), pulse steroid therapy, cool compresses, and sunglasses to help alleviate ensuing photophobia."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following represents the MOST appropriate initial treatment option, given the above diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Natamycin suspension q.4h",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Zymaxid® solution q.i.d.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Erythromycin ointment b.i.d",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Viroptic® solution q.2h",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "FML® suspension q.i.d.",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Betadine ophthalmic prep solution in-office treatment",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Topical antihistamines and mast cell stabilizers are great options to consider in the treatment of patients with vernal keratoconjunctivitis. These topical medications can help to prevent or decrease the severity of future episodes. However, one drawback to this treatment option is that there can be a delay in the response to treatment; therefore, because the condition tends to be seasonal, mast cell stabilizers work more efficiently if started a few weeks prior to the exacerbation of symptoms. For this reason, most clinicians will initially also prescribe pulse steroid therapy in addition to a mast cell stabilizer to help alleviate acute symptoms, while also providing the patient long-term relief with the continued use of a mast cell stabilizer (once the steroids have been discontinued). Other treatment options include 2% cyclosporine for cases that display resistance to steroids, or supratarsal injection of a steroid for patients who do not respond to any of the above traditional treatments (this is rarely used)."
+    },
+    {
+      "number": 3,
+      "stem": "Given the above treatment, what MUST be included in your patient education?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcium-rich foods must be avoided while using the medication",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The medication will blur vision for approximately 30 minutes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The medication can darkening of the iris",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The medication must be shaken well just before each use",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "The medication must be kept in the refrigerator",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "The medication must be taken with food",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Because fluorometholone is a suspension, it is important that the patient shake the bottle several times just before use to ensure that the proper concentration of the active ingredient is expelled in the drop."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following ocular conditions MOST commonly occurs in association with the above diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lattice corneal dystrophy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Posterior polymorphous dystrophy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "High axial myopia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Limbal stem cell deficiency",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Keratoconus",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Glaucoma",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Patients who suffer from VKC also display an increased incidence of keratoconus. Research is currently underway to determine the etiology of this correlation. One theory suggests that constant eye-rubbing due to atopy may be a causative or contributing agent. Posterior polymorphous dystrophy is a corneal condition that presents with gray/white vesicles or rings within Descemet's membrane, often described as a \"railroad track\". The condition is generally bilateral, asymmetrical, and is very slowly progressive. Most patients are asymptomatic and do not require treatment. There is a small chance that these patients will develop glaucoma due to the formation of peripheral anterior synechia, which may block the trabecular meshwork. If severe corneal decompensation occurs (which is quite rare), the patient may require a corneal transplant. Lattice corneal dystrophy is an autosomal dominant corneal dystrophy (except for type III, which is autosomal recessive) with four sub-types that are categorized according to age of onset, systemic involvement, causative mutation, and appearance. Essentially, this condition presents with corneal opacifications that appear as thick or thin lines and dots (depending on the sub-type) and are a result of the deposition of amyloid. Limbal stem cell deficiency is characterized by a loss or deficiency of the stem cells in the limbus that are essential for the repopulation of the corneal epithelium and to the barrier function of the limbus. When these stem cells are deficient, the corneal epithelium is unable to properly repair and renew itself. In the absence of a healthy corneal epithelium, the conjunctiva will then proliferate over the cornea resulting in opacification and vascularization, which may subsequently lead to decreased visual acuity, pain, and photophobia."
+    },
+    {
+      "number": 5,
+      "stem": "Patients diagnosed with the above condition also frequently suffer from which of the following systemic conditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diabetes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Atopy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Systemic lupus erythematosus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rheumatoid arthritis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Sjogren syndrome",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Gastroesophageal reflux disease",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Atopy is linked with a genetic predisposition that causes an acute hypersensitive allergic reaction to common environmental agents such as pollen and dander. Patients with atopy commonly suffer from asthma, eczema, and hay fever."
+    },
+    {
+      "number": 6,
+      "stem": "You decide to evaluate if there is any lymph node involvement in this patient by examining the preauricular area. What would you expect to observe and feel when palpating these nodes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Visible, tender, palpable nodes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Non-visible, non-tender, palpable nodes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Non-visible, tender, palpable nodes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Visible, non-tender, palpable nodes",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Non-visible, non-tender, non-palpable nodes",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Vernal keratoconjunctivitis does not cause preauricular lymphadenopathy; therefore, you would not observe or feel swelling in the lymph nodes upon examination, and the patient would not report any feeling of tenderness in the area. Lymphadenopathy may occur in other types of conjunctivitis (typically viral etiologies) such as EKC, HSV, gonorrheal, chlamydial, Parinaud oculoglandular syndrome and Newcastle disease. It can also occur in severe bacterial processes such as preseptal cellulitis and hyperacute bacterial conjunctivitis. *Remember that the temporal area of the conjunctiva will drain into the preauricular nodes, and the nasal aspect of the conjunctiva will drain into the submandibular nodes. Preauricular nodes are located just in front of the ear, and submandibular nodes are located in the upper neck region just below the base of the mandible."
+    }
+  ]
+}

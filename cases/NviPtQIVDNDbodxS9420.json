@@ -1,0 +1,325 @@
+{
+  "case_id": "NviPtQIVDNDbodxS9420",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "21-year-old white female; college student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "problems with contact lenses"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; wears monthly planned replacement soft contact lenses, replaces every 4-6 weeks, sleeps in lenses once per month, uses multipurpose solution"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Zyrtec®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "seasonal allergies, NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual contact lens Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "Contact lens assessment",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 12 mmHg, OS: 13 mmHg @ 3:30 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "110/68 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: itchiness, irritation, and intermittent blurry vision with contact lens wear",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 2 weeks",
+      "Frequency: constant",
+      "Exacerbations/remissions: can only wear contacts for 3-4 hours, eyes feel better after removing lenses",
+      "Relationship to activity or function: when wearing contact lenses",
+      "Accompanying signs/symptoms: mild mucous discharge",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD CooperVision Biofinity / 14.0 / 8.6 / -4.00 DS; VA distance: 20/20-",
+      "OS CooperVision Biofinity / 14.0 / 8.6 / -4.50 DS; VA distance: 20/20-",
+      "OD: -4.25 DS; VA distance: 20/20",
+      "OS: -4.75 DS; VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: see image 1 OD, OS similar to OD",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "OD: good coverage and centration, excessive movement on blink, deposits on lens surface",
+      "OS: good coverage and centration, excessive movement on blink, deposits on lens surface",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_PZERQNQJFCUOMJFR9485.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the BEST diagnosis for the ocular condition observed in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacterial conjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vernal keratoconjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Perennial allergic conjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Giant papillary conjunctivitis",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Atopic conjunctivitis",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "A diagnosis of giant papillary conjunctivitis is characterized by the presence of large papillae (greater than 0.33 mm in size) located on the upper tarsal conjunctiva. GPC is typically associated with a history of contact lens wear, an ocular prosthesis, or corneal surgery with exposed sutures. Although it is most commonly found in patients who are soft contact lens wearers, it may also appear in patients wearing rigid gas permeable lenses (corneal or scleral), but it occurs much less frequently in these cases. Patients with this condition typically present with symptoms of contact lens intolerance, blurred vision, excessive lens movement with blinking, pruritus, and mucous production. Patients may also occasionally experience burning and stinging associated with contact lens wear. The general discomfort that develops in these patients usually occurs after ~2-3 years of previously tolerating contact lenses well. Close examination of the contacts usually reveals deposits of mucous, cellular debris, and microorganisms on the surface of the lenses, which appear to play a pathogenic role in the development of GPC."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following 2 types of hypersensitivity reactions does this diagnosis represent? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Type IV",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Type V",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Type III",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Giant papillary conjunctivitis (GPC) shows features of both a type IV delayed hypersensitivity reaction and an immediate type I, IgE mediated reaction. Patients with GPC typically have an increase in inflammatory cells in the epithelium and substantia propria of the conjunctiva that include lymphocytes, mast cells, eosinophils, basophils and plasma cells. These cells eventually release a variety of chemical inflammatory mediators that act locally in the tissue of the conjunctiva to cause vasodilation, edema, and increased production of mucous. Structural cells (epithelial cells and fibroblasts) are involved in both the inflammatory process and tissue remodeling, and eventually result in the formation of the giant papillae. Patients who develop GPC will also exhibit high levels of IgE in their tear film."
+    },
+    {
+      "number": 3,
+      "stem": "Which 2 of the following are the MOST widely accepted pathogenic mechanisms that result in the development of this patient’s ocular condition? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immune reaction to denatured protein deposits",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Immune response to protein breakdown from bacterial disintegration",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Direct exposure to environmental allergens (dust, grass, animal dander)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Seasonally related immune response to circulating aero-antigens",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Mechanical irritation of the superior tarsal conjunctiva",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The exact etiology of the development of GPC remains unclear; however, research has suggested that an immune response is responsible for the observed tissue changes. The controversy lies in the cause of the inflammatory response. Some investigators believe that the inflammation is elicited by an immune reaction to the patient's own tear proteins (from lacrimal fluid) that are presumably denatured by contact lens hygiene solutions. It is thought that these proteins become attached to the contact lens surface when in the eye, and act as antigens to which antibodies may then bind. Additionally, some researchers also believe that mechanical trauma induced by the edges of contact lenses when blinking causes irritation to the upper tarsal conjunctiva, and may also play a role in the development of GPC."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following describes the BEST topical medication regimen for the treatment of this patient’s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prednisolone acetate 1 gtt OU b.i.d. x 1 week",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "No topical ocular medication is necessary",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Moxifloxacin 1 gtt OU t.i.d. x 1 week",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ketorolac 1 gtt OU b.i.d. x 1 week",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Olopatadine 1 gtt OU b.i.d. x 2 weeks",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Discontinuation of contact lens wear should be the first line of treatment in patients with GPC, with or without the use of topical medications. When topical medications are deemed necessary, a mast cell stabilizer will typically improve symptoms without the need for further medical treatment. However, in cases where GPC is unusually severe, a short-term course of a low-dose topical steroid drop may be considered (loteprednol 0.2% to 0.5% q.i.d). The patient should follow-up in a period of 2-4 weeks for re-evaluation of signs and symptoms. At this time it may be necessary to continue with a mast-cell stabilizer chronically to prevent recurrence of symptoms and to maintain contact lens tolerance. Contact lenses may then be reintroduced once the patient's signs and symptoms have improved. In many cases, clinicians will also recommend daily disposable contact lens wear, or an adjustment to the patient's contact lens hygiene regimen (i.e. changing to a hydrogen peroxide based solution)."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following should be included in your patient education in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keeping a log of irritants that trigger your condition will be helpful in knowing what may exacerbate your symptoms",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Your contact lenses may need to be changed to a daily disposable modality to prevent the likelihood of recurrences",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Your condition will likely spontaneously resolve with time without any further symptoms or visual complications",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Your condition is contagious; therefore frequent hand washing and caution should be implemented when in contact with others",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "It is likely for your condition to recur around the same time every year, so initiating treatment before symptoms occur will be beneficial",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Patients diagnosed with GPC will typically benefit from changes to their current contact lens regimen. Initially, contact lenses should be discontinued until symptoms resolve, but in order to prevent recurrence, several modifications to lens design and solutions may be implemented (in addition to topical treatments). These include changing solution to a preservative-free or hydrogen peroxide based cleaning system, adding enzymatic cleaners, reducing contact lens wearing time, and more frequently replacing contact lenses (daily disposable lenses are the most preferred)."
+    }
+  ]
+}

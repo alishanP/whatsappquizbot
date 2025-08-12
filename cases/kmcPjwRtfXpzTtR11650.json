@@ -1,0 +1,323 @@
+{
+  "case_id": "kmcPjwRtfXpzTtR11650",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "16-year-old black female; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "patient was hit in the eye"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unknown (patient adopted)"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unknown"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "OD: 5 mm, minimal reaction to light; OS: 4 mm, reactive to light; (-) APD with reverse swinging flashlight test"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 18 mmHg OS: 14 mmHg @ 2:15 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "107/65 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "64 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: redness, irritation",
+      "Location: OD",
+      "Severity: moderate",
+      "Nature of onset: acute",
+      "Duration: 2 hours",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: was hit in the eye with racquetball in P.E. class",
+      "Accompanying signs/symptoms: blurred vision",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/30, near: 20/30 @ 40 cm",
+      "OS: distance: 20/20, near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: moderate erythema and edema of adnexa OD, unremarkable OS",
+      "conjunctiva: 1+ injection OD, normal OS",
+      "cornea: see image 1 OD, clear OS",
+      "anterior chamber: see image 1 OD, deep and quiet OS",
+      "iris: see image 1 OD, normal OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.30 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.30 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_ZGQHEHLSIUBYYEI11716.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the BEST diagnosis given this patient’s anterior segment findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iridodialysis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rubeosis iridis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypopyon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Micro-hyphema",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Hypotony",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Hyphema",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "Clinical signs associated with a diagnosis of hyphema include: • Blood in the anterior chamber that is observable by gross evaluation or biomicroscopy • Blood is layered or is in the process of layering in the anterior chamber • Microhyphema: if only free-floating red blood cells are seen in the anterior chamber; typically only observable on biomicroscopy • There may be additional observable signs of injury upon examination of the face and ocular adnexa • In severe cases, the anterior chamber may completely fill with blood • Known as an \"eight-ball\" or total hyphema • Most cases commonly result from blunt trauma to the orbit Clinical symptoms: • Orbital and/or periorbital pain • Decreased visual acuity • Affected pupil may be slowly reactive or nonreactive to light • No afferent pupillary defect (must use reverse swinging flashlight test) Demographics: • Male to female ratio is 3:1 • ~75% of patients who present with traumatic hyphema are less than 20 years old • ~60% of traumatic hyphema cases involve less than 1/3 of the anterior chamber • Up to 10% present as a total hyphema"
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following systemic conditions should be ruled-out in this patient because of a higher risk of recurrence and potential vision loss?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sarcoidosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diabetes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypertension",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hemolytic anemia",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Aplastic anemia",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Sickle cell disease",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "The prognosis for visual recovery following a hyphema is directly correlated to any associated damage of other ocular structures, potentially elevated intraocular pressure and the development of glaucoma, corneal blood staining, optic atrophy, and the occurrence of a secondary hemorrhage. The primary objective of treatments and therapy for these patients is the prevention of a secondary bleed, because complications such as glaucoma, corneal blood staining, and vision loss are more likely to occur with recurrent re-bleeding in the anterior chamber. Indications for surgical intervention are also more likely to arise in recurrent cases. Research has indicated that this risk appears to be the greatest in patients who are positive for sickle cell trait or disease. Therefore, an ocular examination in patients presenting with a hyphema should begin with a complete case history; including past medical and ocular history and current medications, in order to evaluate the risk of a re-bleed and identify conditions that may affect the long-term outcome. It is because of this that all African-American patients who present with a hyphema should be screened for sickle cell disease/trait. In addition to an increased risk of a secondary bleed with sickle cell disease/trait, these patients typically require much more aggressive treatment as compared to patients that do not possess this condition. Red blood cells can sickle in the anterior chamber, which may lead to subsequent blockage of the outflow of aqueous from the trabecular meshwork. This will cause an elevation in intraocular pressure that will lead to worsening of hypoxia and sickling, and may eventually result in refractory glaucoma. These patients are also at a higher risk of vaso-occlusive disease, and even mild increases in intraocular pressure can lead to permanent vision loss from optic atrophy; therefore, aggressive management of IOP should be implemented in these cases when necessary."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following should be included in the initial treatment and management of this patient’s ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patching of the eye",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gonioscopy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atropine 1% ophthalmic solution t.i.d.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ibuprofen p.r.n. for pain management",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Confinement to bed rest in supine position",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Treatment of the initial hemorrhage in a traumatic hyphema is as follows: • Complete medical and ocular history (including blood disorders) and medications used (aspirin, NSAIDs, warfarin, clopidogrel) • Complete ocular examination; it is most important to rule-out a ruptured globe • Record level of hyphema, evaluate for corneal blood staining, measure IOP, perform DFE (without scleral depression), check for crystalline lens dislocation • Consider a gentle ultrasound biometry if fundus view or anterior segment view is poor, or if an intraocular foreign body is suspected • Avoid gonioscopy for at least 7 days • Consider a CT scan of the orbits and brain if indicated (suspected orbital fracture, intraocular foreign body, or loss of consciousness) • African-American and Mediterranean patients should be screened for sickle cell disease or trait (Sickledex) • Consider hospitalization for noncompliant patients, patients with blood disease, associated severe ocular or orbital injuries, those with significant IOP elevation and sickle cell, and some children • Confine the patient to either bed rest with bathroom privileges or limited activity • The head of the bed should be elevated to allow blood to settle (~30 degrees) • Place a metal or clear plastic shield over the involved eye to be worn at all times • Do not patch the eye because this would prevent recognition of sudden vision loss in the event of a secondary bleed • Treat with atropine 1% solution b.i.d. to t.i.d. • Immobilization of the pupil in a dilated state may prevent further hemorrhaging and will aid in treating any possible associated uveitis • Discontinue and/or do not allow any aspirin-containing products or NSAIDs • Only mild analgesics may be considered (acetaminophen) • If there is any suggestion of iritis, evidence of lens capsule rupture, or protein in the anterior chamber, topical steroids may be indicated (prednisolone acetate 1% four to eight times per day) • Treat any elevation in IOP as necessary • Start with beta-blocker • Avoid prostaglandin analogs and miotics due to the possibility of increased inflammation • Brimonidine may affect iris vasculature and should be used cautiously • Dorzolamide and brinzolamide may reduce aqueous pH and induce sickling in patients with sickle cell disease • Surgical intervention should be considered in the following conditions • Corneal stromal blood staining • Significant visual deterioration (as this can lead to amblyopia in younger patients) • Hyphema that does not decrease to <50% within 8 days • Certain conditions of significantly elevated intraocular pressure"
+    },
+    {
+      "number": 4,
+      "stem": "When should you schedule a follow-up for this patient after your initial examination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 week",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1 day",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "10 days",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3 days",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "2 weeks",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Patients presenting with hyphema must be evaluated on a daily basis for the first 3 days in order to evaluate for the possible occurrence of a re-bleed. Vision should be recorded, along with the level of hyphema, corneal clarity, and other possible intraocular injuries as the blood clears (such as iridodialysis, subluxated lens, or cataract). Intraocular pressures should be measured if clinically indicated, or in high-risk patients such as those with sickle cell disease. During each visit, the patient should be instructed to return immediately in the case of a sudden increase in pain or decrease in vision. Future follow-up should be as follows: • If the patient was hospitalized, he/she should be evaluated 2-3 days after discharge • If not hospitalized, the patient should follow up after several days to 1 week following the initial daily follow-up period (depending on the severity of the condition) • All patients should be seen 4 weeks after for gonioscopy and a follow-up dilated fundus examination • After the condition has resolved, the patient should return for yearly comprehensive exams to monitor for the potential development of angle recession glaucoma • More frequent follow-up should occur if any complications arise"
+    },
+    {
+      "number": 5,
+      "stem": "Which 2 of the following instructions should be included in the patient education for this case? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yearly examinations are important in order to monitor for development of a retinal detachment, which may occur in the future as a result of this condition",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glasses or eye shields must be worn during the day and night for the next few weeks",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "It is normal for the condition and vision to continue to worsen before it improves",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Blood work should be completed ASAP by the patient’s primary care physician",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Strenuous physical activity should be avoided for a period of 1-3 weeks",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Education for patients with hyphema should include the following: • Patients should be instructed to immediately return to the office in the case of a sudden increase in pain, decrease in vision, or if more blood accumulates in the anterior chamber (as these may be symptoms of a re-bleed or secondary glaucoma) • Glasses or eye shields must be worn during the day, as well as at night • Must be polycarbonate or Trivex due to the potential for a re-bleed or further injury with even mild trauma • Patients must refrain from strenuous activities (including Valsalva maneuvers) • Some references recommend 1 week, others up to 3-4 weeks • This period of time should be extended if blood remains in the anterior chamber, or if a re-bleed occurs • Annual follow-up examinations are recommended due to the significantly increased potential of developing angle-recession glaucoma (not retinal detachment)"
+    }
+  ]
+}

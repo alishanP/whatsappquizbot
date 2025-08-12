@@ -1,0 +1,324 @@
+{
+  "case_id": "srDBqhdCepPIOvgO7742",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "53-year-old Asian female; model"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "ocular irritation"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; wears PALs full time"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "brother: glaucoma, father: glaucoma"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "asthma"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "albuterol inhaler"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "thimerosal"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: cardiovascular disease, father: unremarkable"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "Phenol red thread test:",
+        "value": "OD: 16 mm, OS: 15 mm (without anesthesia)"
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 17 mmHg, OS: 16 mmHg @ 8:25 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "102/72 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "62 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: eyes water excessively; often feels sandy/gritty sensation",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 3 months",
+      "Frequency: daily",
+      "Exacerbations/remissions: worse in the morning, notices improvement after she showers",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: blurred vision in the morning, mild redness",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: occasional shortness of breath",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -1.00 -0.25 x 162 add: +2.00; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: -2.25 -0.50 x 171 add: +2.00; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: normal OD, OS",
+      "conjunctiva: 1+ interpalpebral injection OD, OS",
+      "cornea: see image 1 OD, OS similar to OD",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: tr nuclear sclerosis OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable",
+      "C/D: see image 3",
+      "macula: see image 3",
+      "posterior pole: see image 3",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_RQPPDICNPRZXQMFQ7809.PNG",
+      "AnsweredCases/images/KI_OBEHJTXLONVMJSEO7810.PNG",
+      "AnsweredCases/images/KI_QQLWCSFFXVULONOC7811.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of the patient's corneal findings and cause of her chief complaint?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marginal keratitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sjogren syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thygeson superficial punctate keratitis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nocturnal lagophthalmos",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Nocturnal lagophthalmos is an inability of the eyelids to fully close while asleep, exposing areas of the cornea and conjunctiva. Lagophthalmos may occur due to a variety of reasons such as proptosis and tarsal/palpebral inadequacies; or the cause may be unknown. Patients with nocturnal lagophthalmos will often report ocular irritation, foreign body sensation, and ocular injection that is worse in the morning. The patient may also note that they have been told that they appear to sleep with their eyes open. Slit lamp examination will typically reveal a band of coalesced superficial punctate keratitis (that stains with sodium fluorescein) within the lower 1/3 of the cornea. Associated injection of the conjunctiva within the exposed areas is also common, and the conjunctiva may stain with Lissamine green. Close observation of the patient may reveal evidence of incomplete blinking. A similar presentation may be observed in patients with blepharitis and meibomian gland disease, which can cause keratitis along the region of eyelid margin (marginal keratitis) that is often believed to be from staphylococcus exotoxins. Researchers have noted that roughly 5% of the normal population may sleep with their eyes partially open, but most are not symptomatic because of Bell’s phenomenon. Bell's phenomenon is a protective mechanism in which the eyes roll upwards, causing the cornea to become covered by the superior lid, thus inhibiting epithelial desiccation caused by exposure. Sjogren syndrome is a condition in which the patient will experience dry eyes and a dry mouth, either from destruction of salivary and lacrimal glands, or from infiltration with lymphocytes. It is associated with autoimmune diseases of the rheumatic or collagen vascular variety. This patient's medical history does not lend itself to a diagnosis of Sjogren's syndrome, and she has normal tear production on evaluation. Thygeson superficial punctate keratitis (TSPK) represents a corneal epitheliopathy of unknown etiology that usually occurs in young adults; however, it can present at any age. There are five characteristics that are commonly observed in this condition: chronic disease with exacerbations and remissions, healing without scar formation, bilateral intraepithelial, slightly elevated corneal opacities, no response to antibiotic use, and symptomatic response to topical corticosteroids."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following tests may be performed to help confirm your suspected diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recline the patient, have her gently close her eyes, and observe eyelid position after several minutes",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Stain the cornea with Lissamine green",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The Jones I dye test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pull downward on the patient's lower lid while directing her gaze upwards, and evaluate for displacement of the conjunctiva",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "The Schirmer II test",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "To help confirm a diagnosis of nocturnal lagophthalmos, dim the room lights and recline the patient in the exam chair. The patient should then be instructed to gently close her eyes. After several minutes, eyelid position can be observed via a penlight. The Jones I test evaluates the integrity of the tear drainage system. Sodium fluorescein is placed into the patient's eyes, and after five minutes the patient is asked to blow her nose; the tissue is then evaluated for dye. Alternatively, a cotton-tipped applicator may be placed under the inferior turbinate and evaluated for the presence of fluorescein dye. If fluorescein is not observed, then there may be a blockage of the nasolacrimal drainage system. The Schirmer II test is performed in conjunction with anesthetic and measures the basal tear production. Prior to the test, anesthetic is instilled into the eye. After one minute, the tears and excess anesthetic are removed from the inferior cul-de-sac. A small strip of paper is then placed in the temporal region of the inferior cul-de-sac. The room illumination is dimmed and the patient is asked to blink normally. After five minutes, the length of the paper that is moist is measured. If greater than 5 mm of the paper is wet, the tear production is considered normal. The phenol red thread test also measures basal tear production. The phenol red thread test was already performed and deemed normal in this particular patient; therefore, conduction of the Schimer II test is superfluous."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST appropriate initial treatment for the patient's anterior segment condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prescribe a bland ophthalmic ointment q.h.s. OU",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Prescribe moxifloxacin q.i.d. OU x 7 days",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Refer for an injection of Botox®",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Prescribe Restasis® BID OU",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Refer for blepharoplasty",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Prescribe loteprednol q.i.d. OU x 7 days",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "The initial treatment of nocturnal lagophthalmos often involves the use of a bland ophthalmic ointment such as Lacri-Lube® to coat and protect the ocular surface at night. Because of their extreme viscosity, ointments result in a longer retention time, thereby offering more protection to the exposed corneal and conjunctival areas. Patients should also be educated on the potential drying effects of sleeping with a fan or air conditioning. Adding a humidifier for nighttime use may also prove beneficial to patients with this condition. If the patient reports that ophthalmic ointments result in too much discomfort, a thicker artificial tear such as Celluvisc® may be used as an alternative. It was previously recommended that patients tape their eyelids shut at night; however, many patients suffered from contact dermatitis or loss of eyelashes or eyebrows with removal of the tape. Newer products such as SleepTite/SleepRite are made specifically to hold the eyelids closed at night and have much less side effects. Additionally, sleep masks are also often utilized for these patients. Tranquileyes® is one option that offers comfortable sleep goggles which serve to mechanically keep lids closed and prevent corneal desiccation. Any concurrent eyelid disease such as meibomitis or blepharitis must be treated, as it will exacerbate symptomatology. These conditions can be treated via pharmaceutical therapy such as oral doxycycline or topical erythromycin. In the event that these treatment options do not provide relief, patients with severe symptoms and without a known cause of nocturnal lagophthalmos may benefit from the implantation of a weight into the superior tarsus; however, this treatment is very rarely used."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following is a common side effect of albuterol?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tardive dyskinesia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Depression",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tremors",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Bradycardia",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Glaucoma",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Albuterol is a short acting beta 2-agonist commonly used in the management of asthma. Albuterol administration (typically via inhalation) results in relaxation of bronchial smooth muscle, as well as the prevention of bronchoconstriction elements from mast cells. Common side effects include tremors, nausea, tachycardia, hypertension, and anxiety (among others)."
+    },
+    {
+      "number": 5,
+      "stem": "Thimerosal is a common allergen that has become more of a concern in recent years as it is found in many vaccines as a preservative. What component of thimerosal renders it toxic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Arsenic",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lead",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sulfur",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Titanium",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Mercury",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "Thimerosal is an organic compound that contains mercury. Thimerosal is used as a preservative because it is necessary to prevent bacterial growth so that the vaccination does not become contaminated (especially in multidose vials of vaccines). If injected, a contaminated vaccine can result in death. However, recent investigations have revealed that, even in very small quantities, mercury can be neurotoxic. This is especially true in young infants who require more vaccinations than were necessary in the past. As such, the FDA is attempting to limit, if not eliminate, the number of vaccines containing thimerosal. Thimerosal was also once utilized by many companies as a preservative in contact lens cleaning solutions. However, many patients were sensitive to this component and suffered allergic or toxic reactions to the solutions. It is now rarely, if at all, utilized by manufacturers of contact lens solutions. BAK, polyquad, and hydrogen peroxide are all good disinfectants currently used in contact lens cleaning solutions. People who suffer from allergies or have sensitive eyes are encouraged to use a hydrogen peroxide-based cleaning solution, as it does not contain any preservatives."
+    }
+  ]
+}

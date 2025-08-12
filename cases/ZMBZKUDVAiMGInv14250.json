@@ -1,0 +1,330 @@
+{
+  "case_id": "ZMBZKUDVAiMGInv14250",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "31-year-old white female; professional skydiver"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "problems with contact lenses"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago; wears soft monthly disposable contact lenses, compliant with cleaning and replacement regimen, sleeps in contacts a few times per month"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hepatitis C"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual contact lens Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 13 mmHg, OS: 12 mmHg @ 12:00 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "105/73 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "70 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: contact lenses are very uncomfortable; can only wear them for a few hours",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 2 months",
+      "Frequency: occurs every time she wears contacts",
+      "Exacerbations/remissions: worsens with increased contact lens wear time; improved when removes contacts",
+      "Relationship to activity or function: contact lens wear",
+      "Accompanying signs/symptoms: itchy eyes, ropy discharge, blurred vision",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD B+L Ultra / 8.5 / 14.2 / -3.50 DS; VA distance: 20/20",
+      "OS B+L Ultra / 8.5 / 14.2 / -3.50 DS; VA distance: 20/25",
+      "OD: -3.50 -0.25 x 170; VA distance: 20/20",
+      "OS: -4.25 -0.25 x 005; VA distance: 20/20",
+      "lids/lashes/adnexa: see images 1 & 2 OD, OS similar to OD",
+      "conjunctiva: 1+ injection OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.20 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.20 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_SEBVAMAOHQVRAHB14314.PNG",
+      "AnsweredCases/images/KI_VXHGPGFQUCLKVII14315.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis of the patient's anterior segment condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epidemic keratoconjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bacterial conjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vernal keratoconjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Giant papillary conjunctivitis",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Superior limbic keratoconjunctivitis",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Giant papillary conjunctivitis (GPC) related to contact lens wear will appear as large papillae on the superior palpebral conjunctiva with varying degrees of severity. Patients will frequently note ocular itching, particularly when they remove their contact lenses, stringy mucus that is worse in the morning, excessive movement of their contact lenses, and decreased contact lens tolerance. Clinical signs may also include contact lens deposits, mild conjunctival injection, and in long standing cases, possible upper eyelid ptosis. Patients may report symptoms that begin several months or years after wearing contact lenses. Superior limbic keratoconjunctivitis (SLK) is believed to occur as a result of mechanical trauma during blinking from abnormal forces between tight upper lids and/or loose, redundant conjunctival tissue. This is likely precipitated by a deficiency of the tear film, which results in decreased ability of the upper eyelid to move freely over the conjunctiva. This leads to increased movement of the bulbar conjunctiva, causing subsequent disruption of normal epithelial development and damage of both the bulbar and tarsal conjunctiva from continued mechanical trauma. Vernal keratoconjunctivitis (VKC) is a severe form of allergic conjunctivitis and is generally observed in young male patients who suffer from some form of atopy (i.e. eczema, asthma, or hay fever). Patients will often complain of severe itching as their main symptom. Signs of VKC include cobblestone papillae of the upper lid, lid swelling, and ropy discharge that is worse in the morning. Corneal defects (usually superiorly) known as keratitis of Togby may also be present. Occasionally, patients will develop a shield ulcer and Tranta dots, which are calcified eosinophils observed circumlimbally that often result in a foreign body sensation. Epidemic keratoconjunctivitis (EKC) is a very common and contagious infection of viral etiology. EKC is caused by the adenovirus; there are many different strains, but the two most common serotypes that cause ocular infections are types 8 and 19. EKC is said to follow the \"rule of 8s\" because type 8 is the serotype most frequently isolated. Additionally on the 8th day the patient typically presents with diffuse superficial punctate keratitis (SPK), followed 8 days later by the formation of subepithelial infiltrates (SEIs). Signs of EKC include follicular conjunctivitis, positive lymphadenopathy, and mild lid edema. Small subconjunctival hemorrhages, pseudo-membranes, and iritis may also be present. Bacterial conjunctivitis usually presents in one eye first with the other eye eventually becoming infected via self-inoculation. This condition is contagious and is easily spread to other individuals in office settings, child-care facilities, or other institutions due to a lack of proper hand washing. Bacterial conjunctivitis usually causes conjunctival injection and a mucopurulent discharge."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST likely etiology of the patient's ocular condition observed in Images 1 and 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mechanical trauma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Contact lens wear",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Idiopathic",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Unknown",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Viral pathogen",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Bacterial pathogen",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "GPC most often occurs secondary to contact lens wear (usually soft contact lenses that are worn on a frequent or extended wear basis). There also appears to be an association with allergies. Many patients with GPC will report a history of atopy. The cell-mediated response appears to be caused by chronic rubbing of the contact lens edge against the eyelid, along with surface protein build-up that eventually causes mast cell degranulation."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST appropriate treatment for the patient's ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oral antihistamine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Topical cyclosporine drops",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Topical antiviral drops",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Topical fluoroquinolone drops",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Preservative-free artificial tears",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Topical mast cell stabilizer and antihistamine drops",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "The treatment of GPC varies depending on the level of severity. In all cases, some type of topical antihistamine and mast cell stabilizer (such as Pataday® q.h.s., or Zaditor® b.i.d.) should be initiated. In the event of mild to moderate GPC, the patient may also be re-fit into a soft contact lens that is composed of a different material and/or is of a different brand. Additionally, the wear time of the contact lenses should be decreased. A new contact lens solution, such as one that is hydrogen peroxide-based, may be recommended to the patient as these systems are known to remove protein build-up better than other multipurpose solutions. The use of a weekly enzyme may also be advised. If the GPC is severe, contact lens wear may need to be discontinued until the signs and symptoms of the GPC resolve, at which point the patient may be re-fit into a daily disposable lens. Many practitioners, regardless of the amount of GPC present, advocate the discontinuation of contact lenses until signs/symptoms resolve, and advise re-fitting the patient into a daily disposable lens modality."
+    },
+    {
+      "number": 4,
+      "stem": "After the initiation of treatment, approximately when should the patient return to your office for a follow-up visit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 day",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2 weeks",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "2 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "6 months",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "7 weeks",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "1 year",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "After the initiation of treatment, the patient should return for a follow-up visit within two to four weeks to ensure that the GPC is resolving and symptoms are improving. Once the clinical signs/symptoms resolve, the patient may resume contact lens wear; preferably soft daily disposable contact lenses."
+    },
+    {
+      "number": 5,
+      "stem": "The FDA classification system groups hydrogel contact lens materials according to care system compatibility. Upon which of the following parameters is this system based?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Permeability and modulus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Wettability and lubricity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Water content and ionicity",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Transmissibility and center thickness",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The FDA contact lens grouping system is utilized internationally and classifies contact lenses according to water content and ionic charge. Similarly-classified polymers are used to investigate solution and care regimen compatibility. Ionic charge will affect solution compatibility and deposit formation. Water content will affect gas permeability, deposit formation, and lens fragility. Permeability, modulus, wettability, transmissibility, and center thickness (although all are important physical and chemical properties) are not used in the FDA classification groupings. Silicone and fluorine have tentatively been considered in the grouping of gas permeable materials."
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "case_id": "PnYmzBrDxbjlTyQ14316",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "62-year-old Hispanic female; teaching assistant"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 month ago at another office, wears single vision reading glasses only, new glasses are 2 weeks old; history of refractive surgery (unsure of procedure)"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: macular degeneration"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "rheumatoid arthritis"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Plaquenil® 200 mg b.i.d."
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "Demerol®"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hyperthyroidism, father: tuberculosis"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "New spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: orthophoria, near: 4 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 16 mmHg, OS: 18 mmHg @ 10:05 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": "deep and quiet OD, OS"
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "112/82 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "74 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurry vision at near with new glasses",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: noticed after picking up her new glasses",
+      "Duration: 2 weeks",
+      "Frequency: constant",
+      "Exacerbations/remissions: vision improves if she brings reading material closer",
+      "Relationship to activity or function: near vision tasks only",
+      "Accompanying signs/symptoms: eye strain and fatigue",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: joint pain and stiffness",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/20",
+      "OS: VA distance: 20/30",
+      "OD: +3.50 -0.25 x 133; VA near: 20/20 @ 33 cm",
+      "OS: +4.25 -0.50 x 062; VA near: 20/20 @ 33 cm",
+      "OD: +0.25 DS add: +2.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: +1.00 -0.50 x 060 add: +2.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: dermatochalasis OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: OD similar to OS, OS 8 small circular scars noted circumferentially in peripheral cornea (see images 1 & 2)",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: trace nuclear sclerosis OD, OS",
+      "vitreous: posterior vitreous detachment OD, OS",
+      "C/D: 0.40 H/0.40 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: see images 3 & 4",
+      "C/D: 0.40 H/0.40 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: similar to images 3 & 4"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_GWECKIPHDFIRBQX14383.PNG",
+      "AnsweredCases/images/KI_TDHRGLGSXBSZGLC14384.PNG",
+      "AnsweredCases/images/KI_MKVSUZOVGRDOTBL14385.PNG",
+      "AnsweredCases/images/KI_FNFFRAJTGXZWJCR14386.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given images 1 and 2, what is the MOST likely type of refractive surgery undergone by this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Photorefractive keratectomy (PRK)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Implantable collamer lens (ICL)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Laser-assisted in situ keratomileusis (LASIK)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Conductive keratoplasty (CK)",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Refractive lens exchange (RLE)",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Conductive keratoplasty (CK) is a type of refractive surgery that was previously performed on low hyperopes (+0.75 to +3.00 D with less than 0.75 D of astigmatism). In this procedure, a thin probe is inserted into the peripheral cornea at specified intervals which delivers radiofrequency energy, causing shrinkage of the surrounding collagen. The treatment can consist of 8 to 32 probe applications. The resulting circular ring of altered collagen causes a steepening of the central cornea and thus a decrease in the magnitude of hyperopia. The results of CK are often temporary and generally do not last more than a few years. In ICL (implantable collamer lens) surgery, a corrective lens is typically implanted behind the iris and in front of the lens without removal of the natural crystalline lens. A refractive lens exchange (RLE) involves the removal of the clear crystalline lens, which is then replaced with a corrective posterior chamber intraocular lens implant. Laser-assisted in situ keratomileusis (LASIK), laser-assisted epithelial keratomileusis (LASEK), and photorefractive keratectomy (PRK) are all refractive surgery procedures that use an excimer laser to ablate corneal tissue, subsequently leading to correction of the refractive error. These techniques differ in the way in which the deeper corneal tissue (stroma) is reached. LASIK involves the creation of a flap of corneal tissue. LASEK involves the removal of the corneal epithelium in a sheet that is then repositioned after ablation is complete. In PRK, the epithelium is completely removed and a bandage contact lens placed over the cornea following ablation to allow the epithelium to heal. The excimer laser used in these refractive procedures is meant to alter corneal stromal tissue, thus the need to expose this layer of the cornea."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following refractive errors is best suited for that specific type of surgery?",
+      "options": [
+        {
+          "label": "A",
+          "text": "+2.25 DS",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "-2.75 -1.25 x 090",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "-0.75 -0.75 x 180",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "-1.25 DS",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "+1.00 -1.00 x 180",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "+4.25 -0.75 x 180",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Because conductive keratoplasty results in a steepening of the cornea, it is best suited for low hyperopes (less than 3 diopters) with 0.75 diopters or less of astigmatism. CK is also a good option for presbyopes, particularly emmetropic presbyopes, who wish to undergo monovision correction. A good CK candidate should possess best corrected acuity that is 20/40 or better, a peripheral corneal thickness of 560 microns or greater, and a stable refractive error. It is imperative that the patient's corneal topography is devoid of any abnormalities such as pellucid marginal degeneration or keratoconus. Remember, CK is not widely used today by refractive surgeons."
+    },
+    {
+      "number": 3,
+      "stem": "How would you expect a patient's corneal topography to change after undergoing this type of refractive surgery?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central and mid-peripheral flattening",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Central flattening and mid-peripheral steepening",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The corneal topography is not expected to change",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Central and mid-peripheral steepening",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Central steepening and mid-peripheral flattening",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The application of heat during CK surgery causes shrinkage and contraction of the stromal collagen. Due to the nature in which CK is performed, the end result is steepening of the central cornea and flattening of the mid-peripheral corneal, with the flattest areas directly overlying the treatment spots."
+    },
+    {
+      "number": 4,
+      "stem": "What is the MOST likely cause of the patient's entering visual concern?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Undercorrection; causing an increased focal length and further working distance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Overcorrection; causing an increased focal length and further working distance",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Undercorrection; causing a reduced focal length and closer working distance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Overcorrection; causing a reduced focal length and closer working distance",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Overcorrection of a near reading power will result in a reduced focal length, causing the patient to have to bring reading material (or other near work) closer than desired in order to achieve a clear image. When a patient reports a decreased ability to read, or strain when reading, it is important to consider which specific near activities they wish to perform, and at which distances they wish to perform them. When increasing a patient's reading power, it is essential to educate the patient on the resulting decrease in the working distance. Trial framing the prescription at the patient's desired reading distance and then having the patient hold the reading card at an intermediate/computer range is a helpful way of demonstrating the reduction in working distance. Recommending a separate computer or near variable focus lens, or prescribing a progressive lens may help to alleviate this undesirable outcome if the patient has trouble with only one single vision prescription for all required near tasks."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following represents the MOST appropriate diagnosis of the patient's retinal findings observed in images 3 and 4?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reticular pigmentary degeneration",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Retinitis pigmentosa",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Plaquenil® retinopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lattice degeneration",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Honeycomb chorioretinal degeneration, also referred to as reticular pigmentary degeneration, is a benign finding commonly observed in elderly patients. This condition is characterized by peripheral retinal networks of perivascular pigmentation. Reticular pigmentary degeneration is most frequently observed along the nasal equator of the retina and it does not require intervention. Lattice degeneration is noted in roughly 8% of the population and tends to be observed more frequently in patients with myopia. This condition is typically bilateral and appears as well demarcated areas of retinal thinning. Commonly found within the thinned areas are patches of hypertrophic retinal pigment epithelium and small white branch-like lines. Lattice is most often located superotemporally. Small atrophic holes may also be present within the lattice. This patient's retinal findings are not typical of lattice degeneration. Chloroquine is an anti-malarial drug that is frequently prescribed to treat systemic autoimmune conditions such as rheumatoid arthritis. This medication binds to melanin and can accumulate in the retina, leading to macular mottling and retinal pigment epithelial disruptions. It may eventually progress to cause bone spicule formation, vascular attenuation, optic disc pallor, and atrophy. Symptoms can include visual field loss, decreased visual acuity, and impaired color vision. Hydroxychloroquine (Plaquenil®) poses less risk for retinal toxicity. With chloroquine use, risk for retinopathy increases with dosages greater than 3.5 mg/kg/d or a cumulative dose of greater than 460 g. For hydroxychloroquine, retinopathy can occur with 6.5 mg/kg/d or a cumulative dose of greater than 1000 g. When examining a patient who is being treated with chloroquine or hydroxychloroquine, be sure to pay close attention to the Amsler grid and color vision results (although recent literature has recommended macular OCT as the most sensitive test to assess retinal damage). This patient does not display any evidence of the macular involvement that is typically expected with toxic levels of Plaquenil® use. Patients with retinitis pigmentosa will typically report decreased night vision and diminished peripheral vision. Clinical signs include clumping of pigment in the retinal periphery with a “bone spicule” appearance. Areas of retinal pigment epithelium atrophy, vessel attenuation, and optic nerve pallor may also be observed. A posterior subcapsular cataract may be present in these patients as well. Additionally, patients may have a ring scotoma on visual field testing and will generally possess vitreous opacifications. This patient only demonstrates retinal pigmentation but lacks all other signs and symptoms generally associated with retinitis pigmentosa."
+    }
+  ]
+}

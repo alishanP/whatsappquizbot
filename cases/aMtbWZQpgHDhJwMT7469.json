@@ -1,0 +1,304 @@
+{
+  "case_id": "aMtbWZQpgHDhJwMT7469",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "52-year-old American Indian male; botanist"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "floaters"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 10 years ago; wears single vision distance glasses only, takes glasses off for reading"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: cataract surgery"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "shellfish, NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: Addison disease"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 12 mmHg, OS: 11 mmHg @ 12:00 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "113/74 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: new onset of floaters, no flashes of light",
+      "Location: OS",
+      "Severity: mild",
+      "Nature of onset: acute",
+      "Duration: 3 days",
+      "Frequency: intermittent",
+      "Exacerbations/remissions: more noticeable when looking up at the sky",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -2.00 -0.50 x 080; VA distance: 20/20",
+      "OS: -1.75 -1.00 x 100; VA distance: 20/20",
+      "lids/lashes/adnexa: 1+ MGD OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: 1+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: normal",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_AFVKMLMEEMZMVGLU7532.JPG",
+      "AnsweredCases/images/KI_LPMCTJVLSVQKXGDC7533.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of the patient's left eye retinal condition observed in image 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Choroidal nevus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "RPE hyperplasia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Retinoschisis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Congenital hypertrophy of the RPE",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Choroidal melanoma",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "A choroidal melanoma is the most common intraocular tumor encountered clinically. This condition often presents around the 6th decade of life and is more frequently observed in individuals with lighter skin pigmentation. Symptoms are variable, ranging from flashes of light, floaters, visual field disturbances, and blurry vision, to a total lack of symptomatology in some cases. Clinical findings include a large retinal mass that may appear brown, gray-green, or yellow (amelanotic). Most lesions will be elevated and dome- or mushroom-shaped. Generally, choroidal melanomas are limited to the subretinal space, but they may extend through Bruch's membrane. The lesion may have an associated serous retinal detachment, or it may present with a vitreous hemorrhage. Ultrasonography is valuable in detecting potential elevation and determining the thickness of the tumor. All pigmented lesions of the retina should be monitored for growth or change annually via dilated fundus examination and photo-documentation. Congenital hypertrophy of the RPE (CHRPE) is a typically benign, asymptomatic condition that appears as a flat, very dark retinal lesion of variable size. CHRPE represents a congenital hamartoma of the retinal pigment epithelium. Choroidal nevi can be observed in roughly 5% of individuals, and in contrast to choroidal melanomas, these are less common in light-skinned individuals. These lesions are likely present at birth, but they may grow and become more noticeable during the pre-pubescent years. Nevi should not change after puberty; therefore, any growth thereafter is very suspicious. Clinical signs include a gray-green or bluish, circular lesion with borders that are well-defined. Surface drusen may be present. Nevi that possess any or several of the following characteristics are suspicious for malignancy: the patient is symptomatic (i.e., they report metamorphopsia), the size is greater than 5 mm in diameter and/or the thickness is greater than 1 mm, lipofuscin is present on the surface of the lesion, the lesion is within 3 mm of the optic nerve, or there is an associated serous retinal detachment present. The greater the number of suspicious characteristics that are present, the higher the chances that the nevus is actually a melanoma. Retinoschisis occurs when the neurosensory retina becomes split into two layers. There are two forms: congenital and degenerative. The degenerative type of retinoschisis is observed in roughly 5% of the population over 20 years of age and is more commonly found in hyperopes. Patients with this condition are typically asymptomatic. Binocular indirect ophthalmoscopy of early schisis will reveal a dome-shaped area of elevated, slightly opacified retina (likely inferotemporally) that will remain stable with eye movements (unlike a retinal detachment). Retinoschisis will produce an associated absolute visual field defect, while a retinal detachment will produce a relative defect. RPE hyperplasia is generally the result of some sort of insult to the retina, such as lattice degeneration, a retinal tear, or an injury. RPE hyperplasia can occur at any location of the retina and will appear as black pigmented lesions of variable size that may have irregular but sharp, well-defined borders. RPE hyperplasia is typically an indication of stability."
+    },
+    {
+      "number": 2,
+      "stem": "This retinal condition is MOST commonly observed in patients of what ethnic background?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Caucasian",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "American Indian",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "African American",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hispanic",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Asian",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Individuals who possess lightly-pigmented skin or are of Caucasian descent have a higher likelihood of developing choroidal melanomas. Other risk factors include a positive family history, excessive UV exposure, and congenital oculodermal melanocytosis (nevus of Ota). There are two types of dendritic melanocytic cells that contribute to the formation of melanomas; spindle cells and epithelioid cells. Most lesions are of spindle cell etiology (45%) or are mixed cell melanomas (45%). Epithelioid cells comprise 5% of melanomas, and the remaining 5% of melanomas are classified as necrotic."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST appropriate treatment for the patient's left fundus condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prescribe polarized prescription sunglasses",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Monitor every 6 months for growth",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No treatment is necessary as the condition is benign",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer to a retinal oncologist",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "This patient must be referred for further evaluation, preferably to a retinal oncologist. Ancillary testing may include ultrasonography, fluorescein angiography, an MRI, color coded-Doppler imaging, full body scan, fine-needle aspiration biopsy, and blood work. These tests should accompany a complete medical exam to ensure that the choroidal melanoma did not metastasize from another origin (such as the lungs; or in women, the breast). Treatment varies depending on the size, extent, and location of the melanoma, along with other patient factors including age and overall health. Treatment is targeted at preventing metastasis. Treatment options include enucleation (especially for large tumors), transpupillary thermotherapy, local resection, stereotactic radiosurgery, and radiotherapy. In general, the 5-year survival rate for patients with a choroidal melanoma is roughly 80%. The 5-year mortality rate for patients with spindle cell tumors vs. epithelioid tumors is 10% and 42% respectively. The prognosis decreases for patients who exhibit metastasis and/or possess melanomas that are larger in size."
+    },
+    {
+      "number": 4,
+      "stem": "Considering this patient’s diagnosis, which of the following associated findings increases the likelihood of requiring some form of treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A lesion located more anteriorly than posteriorly",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lipofuscin on the surface of the lesion",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Sharply-demarcated lesion borders",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Drusen on the surface of the lesion",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Lipofuscin is produced by the accumulation of proteins, lipids, and small chromophores in RPE cells that is caused by a decreased ability of the cells to phagocytize photoreceptor outer segments. Lipofuscin deposition is associated with cell death on the lesion's surface, which denotes the presence of metabolic activity and growth. If present, this feature increases the chance that the lesion is a melanoma, and the likelihood that treatment will be necessary. Overlying drusen is a common finding and does not necessarily pose a greater risk to the patient's overall outcome or need for treatment. One author (Kanski) notes that the absence of surface drusen associated with a large lesion is actually a risk factor for melanoma. In regard to the location of the lesion, anterior and posterior lesions both have qualities that can allow them to have a worse prognosis. Anterior lesions are typically not detected as easily or as early as posterior lesions; therefore, they are often found and treated much later, giving them a worse prognosis. However, if timing of detection is equal, posterior lesions (especially those closer to the optic nerve) typically pose a greater health risk for the patient."
+    },
+    {
+      "number": 5,
+      "stem": "Choroidal melanomas have the potential to metastasize to other organs of the body. Which of the following sites is MOST commonly affected?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lungs",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Colon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Liver",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Breast",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Heart",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The most common site of choroidal melanoma metastasis is the liver. The most common sites of metastasis from other sites to the choroid are the breast in women, and the bronchus in both men and women."
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "case_id": "IZiCIAnIkqiHnjXi7675",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "38-year-old Asian male; business analyst"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "itchy eyes"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 3 years ago; unremarkable; does not wear vision correction"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: LASIK"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: prostate cancer"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 11 mmHg, OS: 11 mmHg @ 1:30 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "122/82 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "78 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: red, itchy eyes and swollen eyelids",
+      "Location: OD, OS",
+      "Severity: severe",
+      "Nature of onset: acute",
+      "Duration: 2 hours",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: itching and swelling of eyelids",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/20-2",
+      "OS: VA distance: 20/20-2",
+      "lids/lashes/adnexa: see image 1 OD, see image 2 OS",
+      "conjunctiva: 1+ chemosis OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_FESBXDVIRVJYKIEY7739.PNG",
+      "AnsweredCases/images/KI_METGKXXRNYNMIFHO7740.PNG",
+      "AnsweredCases/images/KI_SGTTZUUBZDSSRGCB7741.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis of the patient's ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bilateral chalazia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Blepharitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Contact dermatitis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Angioedema",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Bacterial conjunctivitis",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Angioedema occurs as the result of mast cell degranulation and the release of other mediators, leading to increased vascular permeability, which in turn causes fluid and proteins to leak into deep subcutaneous spaces. Mast cell degranulation is instigated by many different causative factors and may involve both non-immunologic and immunologic mechanisms. If the condition is acute, it is expected to resolve within 7 to 21 days, reaching its climax within 1 to 3 days. Systemically, the patient may experience bronchospasms, rhinitis, and potentially anaphylaxis. If the condition is severe, the patient may experience bronchial asthma, syncope, and hypotension. The chronic form of angioedema will present intermittently and results in frequent exacerbations and remissions; these may occur for years before completely resolving. Patients with angioedema typically present with extreme eyelid swelling, accompanied by intense itching and occasional conjunctival chemosis. The reaction typically occurs within 30-60 minutes after contact with the offending agent, but it may be delayed by several hours in some cases. In rare instances, angioedema may be caused by exercise. There also exists a hereditary form of angioedema that is attributable to a deficit in an alpha globulin that is normally responsible for inhibiting C1 esterase. Bacterial conjunctivitis typically presents with a fairly rapid onset that usually begins unilaterally and then spreads to the other eye. Patients generally report a mucopurulent discharge that seals the eyelids shut in the morning. Clinical signs include crusting of the eyelashes and conjunctival injection, which will be worse at the inferior fornix and will improve towards the limbus. Corneal SPK may also be present. Haemophilus influenzae is the predominant cause of bacterial conjunctivitis in adults in warmer climates; Streptococcus pneumoniae is the most common cause in adults in cooler climates. Under normal circumstances, the most common isolate in adults is S. aureus, while in children under five years old, the most common culprit is H. influenzae. Contact dermatitis is a fairly common occurrence and transpires due to an allergic reaction to the topical application of make-up, medication, eye drops, nail polish, etc. Medications that frequently cause contact dermatitis include neomycin, dorzolamide, and chloramphenicol. The reaction may be delayed by a few days after exposure. The eyelids will initially swell and become itchy and erythematous. If the offending agent is not removed, the lid edema will subside, but the epidermis of the lids will become crusty and scaly. Chalazia generally occur a result of the presence of lipogranulomatous material that cannot be reabsorbed by the body. Chalazia typically cause little, if any, pain, and can grow to be quite large and last for a substantial period of time. The primary treatment for chalazia is the frequent application of warm compresses along with digital massage. Some practitioners prescribe oral antibiotics; however, this is more likely to treat concurrent meibomitis rather than the chalazion as little, if any, microbial activity is typically present in these cases. Although the tissue surrounding the mass will be elevated, the skin will likely not be itchy, and it is extremely rare to have chalazia on all 4 eyelids simultaneously. Although blepharitis will occasionally cause pruritus and redness of the lids, along with crusting of the lid margins, one would expect to observe flakes along the base of the eyelashes associated with exotoxin release by the bacteria."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate treatment of this patient's ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ocuflox® q.i.d. OU for seven days",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Warm compresses and eyelid massage q.i.d.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Blephamide® q.i.d. OU for seven days",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Zyrtec® q.d. and cool compresses",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Prednisolone acetate q.i.d. OU for seven days",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "The treatments for angioedema and contact dermatitis are similar in nature, and both conditions are best managed by first attempting to determine and remove the offending agent. However, in most cases, it is difficult to discern the root cause of the reaction; therefore, it is often best to prescribe patients palliative care. To hasten recovery and to alleviate symptoms, cool compresses may be applied to the affected site 4 to 6 times per day. Oral antihistamines may also help with symptomatology. Severe reactions may warrant oral corticosteroid use. If breathing is affected or if the patient is experiencing hypotension, an injection of epinephrine may be needed. In instances of contact dermatitis in which the skin is scaly and crusty, a topical steroid cream may be prescribed, such as dexamethasone 0.05% b.i.d. or t.i.d. for 5 days. An oral antihistamine such as Zyrtec® may also be added. Blephamide® is a combination of sulfacetamide and prednisolone. This medication works well in speeding up the resolution of signs and symptoms associated with blepharitis. However, it is important to remember that many people are sensitive to sulfacetamide and may experience a hypersensitivity reaction to this medication. Warm compresses and eye lid massage are recommended for meibomian gland dysfunction and are also used in the treatment of chalazia."
+    },
+    {
+      "number": 3,
+      "stem": "After the initiation of treatment, when should the patient follow-up with you?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A follow-up appointment is not needed unless symptoms worsen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3-4 weeks",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2-3 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 year",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "2-3 days",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "6 months",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Generally, this condition should improve within a few days. The patient should follow-up within a week to ensure symptomatology is resolving."
+    },
+    {
+      "number": 4,
+      "stem": "The patient's blood pressure measurement at this visit is categorized as which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypertensive crisis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stage II hypertension",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Normal",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stage I hypertension",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Pre-hypertension",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "According to the American Heart Association, a systolic reading below 120 and a diastolic number below 80 is considered “normal.” A systolic reading between 120-129 with a diastolic reading below 80 is classified as “elevated” and the patient should ensure that he is eating and exercising regularly. A systolic reading between 130-139 or a diastolic reading between 80-89 is considered “stage I hypertension” which needs to be addressed. A systolic number above 140 or a diastolic reading above 90 is categorized “stage II hypertension” and needs to be properly regulated. A systolic number above or equal to 180 or a diastolic reading above or equal to 120 is considered a “hypertensive crisis” and the patient needs to be hospitalized immediately. These numbers are based upon a person who only has hypertension and no other comorbid afflictions such as diabetes or cardiovascular disease. If other conditions are present, then blood pressure readings should ideally be lower than the above ranges."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following situations requires the need for a compounding pharmacist?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient needs counsel on the medication that you prescribed",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The patient requires a medication but is allergic to one of the inactive ingredients",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The patient needs to switch to a generic medication",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The patient is a minor and needs his/her parent present to pick up the prescribed medication",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Compounding pharmacists are very useful, particularly when a patient requires medication but is allergic to an inactive ingredient included in the manufactured form of the drug. A compounding pharmacist can achieve the same therapeutic effect by preparing a medication for the patient that includes the same dosage of the active ingredient without the offending agent. Patients who require strengths of a drug different from what is commercially available may also benefit from a compounding pharmacist. The pharmacist can increase or decrease the strength of the drug accordingly, based upon the patient's particular needs and metabolism. These pharmacists are also capable of mixing drugs together, allowing for increased patient compliance by decreasing the number of individual medications required by the patient. Lastly, if a different form of a medication is required, i.e. a suspension rather than a tablet, a compounding pharmacist can alter the delivery format to make it easier for the patient to obtain the required dosage."
+    }
+  ]
+}

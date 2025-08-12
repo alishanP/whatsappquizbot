@@ -1,0 +1,319 @@
+{
+  "case_id": "GosNTRksFOWOFZi10335",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "48-year-old black female; homemaker"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred and distorted vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 3 years ago; wore glasses for reading but lost them last year"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: cataracts"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "appendectomy (1 year ago)"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Tylenol® PRN"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: scoliosis, father: prostate cancer"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 16 mmHg, OS: 14 mmHg @ 2:15 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "102/78 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "56 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: vision is blurry at all distances and straight lines appear wavy",
+      "Location: OD, OS (OS worse than OD)",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 2 weeks",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: headaches and eye fatigue with prolonged reading",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/25",
+      "OS: VA distance: 20/100 (PHNI)",
+      "OD: -0.25 -0.25 x 120; VA distance: 20/25",
+      "OS: -0.50 DS; VA distance: 20/100",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: crocodile shagreen OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: similar to image 1",
+      "periphery: unremarkable",
+      "C/D: see image 1",
+      "macula: pigment epithelial detachment, see image 1",
+      "posterior pole: reddish-orange polyp-like lesion in peripapillary region, see image 1",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_KKBCLYNNHQSKMMO10399.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the clinical findings and the associated image, what is the MOST likely diagnosis of the patient's retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Exudative macular degeneration",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Polypoidal choroidal vasculopathy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Central serous retinopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Age-related peripapillary choroidal neovascularization",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Clinical signs of idiopathic polypoidal choroidal vasculopathy (PCV) include subretinal red-orange, polyp-like lesions that are present in the choroidal vasculature, and are typically observed in the peripapillary region (however, they may be observed in the macular area as well). Along with the vascular lesions, other associated signs may be present, such as subretinal or sub-RPE blood, vitreous hemorrhages, circinate subretinal exudates, subretinal fibrosis, subretinal fluid, choroidal neovascular membranes, and multiple serous pigment epithelial detachments. This retinal condition is more commonly observed in African-American and Asian populations and approximately 50% of cases resolve spontaneously. If, however, there are repeated bouts of bleeding and leakage, decreased visual acuity due to macular injury may result. Treatment includes observation, photodynamic therapy (PDT), intravitreal anti-VEGF injections, or combination therapy. PCV lesions can resemble a choroidal neovascular membrane; therefore, this condition is often initially mistaken for AMD. Some factors that can help distinguish between the two are that RPE detachments observed in PCV generally involve lipids, which are not characteristic of AMD. In addition, PCV patients typically will not possess the disciform scar that is commonly observed in patients with neovascular AMD. Lastly, indocyanine green angiography in a patient with AMD will not display evidence of choroidal vascular polypoidal terminals. Idiopathic polypoidal choroidal vasculopathy also usually occurs at a younger age without significant drusen or geographic atrophy. Although central serous retinopathy can present with pigment epithelial detachments, the polyp-like lesions will be absent, as will exudates, hemorrhages, and choroidal neovascular membranes."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following systemic conditions is MOST commonly observed in association with this retinal condition and may increase its severity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypertension",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hyperthyroidism",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Diabetes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hyperlipidemia",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Multiple sclerosis",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Research has shown that systemic hypertension is frequently associated with polypoidal choroidal vasculopathy and may increase its severity. Therefore, proper management of hypertension will help to limit the amount of retinal damage in patients with polypoidal choroidal vasculopathy."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following imaging techniques will allow for the best diagnostic evaluation of the lesions associated with this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluorescein angiography",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A-scan ultrasonography",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Indocyanine green angiography",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "B-scan ultrasonography",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Indocyanine green angiography (ICGA), with its ability to highlight choroidal vasculature, is the standard test for diagnosis of PCV. There are typically two different types of abnormal blood vessels observed in polypoidal choroidal vasculopathy; networks of vessels with terminal polyps or aneurysmal dilations of small caliber blood vessels (such as capillaries). The polypoidal endings may frequently be observed in groups; the appearance of which resembles bunches of grapes. Normal fluorescein angiography does not reveal the extent of the abnormal vessels in PCV because the fluorescence of the choriocapillaris will often mask the underlying lesions. ICGA fluoresces in the infrared spectrum (835 nm), which permits better evaluation of the choroidal vasculature. During ICGA, the polyps in PCV will present as focal hyperfluorescent spots initially. In later stages, a reversal pattern of the dye is observed, with the center of the lesion becoming hypofluorescent and the surrounding hyperfluorescent. Finally, in the very last stage of ICGA, there is a “wash-out” of the lesion that is observed in non-leaking PCV lesions."
+    },
+    {
+      "number": 4,
+      "stem": "Which 2 of the following populations have the highest predilection for developing this retinal condition? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asian",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "American-Indian",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Eastern European",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hispanic",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "African-American",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Caucasian",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Originally, this condition was thought to be observed predominantly in middle-aged black women, but more recent theories suggest that it occurs equally in males and females. It has also been shown that this condition often appears more frequently in people who are more darkly pigmented, particularly Asian populations, indicating a possible genetic correlation."
+    },
+    {
+      "number": 5,
+      "stem": "An elderly patient visits your office and you suspect that he is being abused. Which of the following actions should you take as an optometrist?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Report your suspicions to the patient's caretaker",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inform the appropriate agencies as dictated by state law",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Confront your patient and directly ask him if he is being abused",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Take no action as your suspicions may be unwarranted",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Reports your suspicions to the patient’s next of kin",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Teach the patient how to protect himself",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Although the definition of what qualifies as elderly abuse varies from state to state, according to the code of ethics and standards of professional conduct adopted by the American Optometric Association (AOA), optometrists have a duty to protect people who may be incapable of helping themselves. Optometrists are responsible for recognizing signs of abuse and neglect in children, the elderly, and dependent adults. If abuse is suspected, it must be reported to the appropriate agencies in accordance with state laws."
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "case_id": "TKjmAXvAEdgLyRVR5486",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "6-year-old white male; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "mother reports that the patient constantly squints"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "born without an iris in both eyes; last eye exam was when he was 6 months old by a specialist"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: born without irides, father: high hyperopia"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable, born full term; normal developmental milestones"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: asthma"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "unable to test due to lack of irides"
+      },
+      {
+        "label": "EOMs:",
+        "value": "see image 1"
+      },
+      {
+        "label": "Cover test:",
+        "value": "8 prism diopter constant left esotropia"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Stereo test:",
+        "value": "0\" by LANG II"
+      },
+      {
+        "label": "Dry retinoscopy",
+        "value": "* note: the esotropia is still present with full correction"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 17 mmHg, OS: 15 mmHg @ 8:30 am by iCare tonometer"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: squinting, photophobia, tearing",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: since he was a baby",
+      "Frequency: constant, worsening",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: mostly noticeable when he is watching television and when playing outside",
+      "Accompanying signs/symptoms: mother reports that he sits very close to the tv",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: hyperactivity",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person (age appropriate)",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/150, VA near: 20/100 @ 40 cm",
+      "OS: VA distance: 20/200, VA near: 20/150 @ 40 cm",
+      "OD: +7.50 -2.00 x 005; VA distance: 20/40 (PHNI)",
+      "OS: +7.75 -2.00 x 175; VA distance: 20/60 (PHNI)",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: see images 2 & 3 OD, OS",
+      "lens: clear, (+) visualization of zonules OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.35 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.35 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_PNGXXEDEIGVBCTXV5554.JPG",
+      "AnsweredCases/images/KI_KAOBUCZYCVYHJJVJ5555.JPG",
+      "AnsweredCases/images/KI_GDASCYLSBLOBYQKM5556.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "The genetic condition characterized by a lack of iris is known as which of the following terms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aniridia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Anisometropia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Aniseikonia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anisocoria",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Aniridia is the term used for the congenital condition characterized by a lack of an iris. It is genetically inherited and most cases are autosomal dominant in nature. There is no gender or race predilection, and typically, both eyes are affected. There are three different classes of aniridia; AN-1 has an autosomal dominant pattern and is not linked with systemic complications. AN-2 has a sporadic occurrence and possesses a 30% risk of the development of a Wilms tumor by the age of 5. AN-3 is the least common form and is recessively inherited. Patients with AN-3 typically possess an intellectual disability along with cerebellar ataxia. Due to the severity of a Wilms tumor, a careful case and family history in patients with aniridia must be performed. Anisocoria is characterized by a difference in pupil sizes. Anisometropia is defined as the condition in which the refractive error is unequal between the two eyes. Aniseikonia is defined as the condition in which there is a significant difference in perceived retinal images between the two eyes."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following ocular conditions has NOT been associated with the congenital lack of an iris?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glaucoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Keratoconus",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Foveal hypoplasia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nystagmus",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Lens opacities",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Strabismus",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Ocular signs and symptoms that have been associated with aniridia include photophobia, glare, decreased visual acuity, and amblyopia. Nystagmus, corneal pannus, foveal hypoplasia, and strabismus have also been correlated with aniridia. Additionally, in 28-50% of cases, glaucoma has been reported. Lens opacities have also been reported in 50-85% of cases of aniridia."
+    },
+    {
+      "number": 3,
+      "stem": "Considering the extraocular muscle observations, which cranial nerve is MOST likely affected in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CN IV",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CN III",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CN VI",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "CN V",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Many patients with aniridia exhibit rapid, pendular nystagmus attributable to foveal hypoplasia; however, in this case, nystagmus is absent which better allows for the isolation of the affected cranial nerve. There are 6 muscles and 3 cranial nerves that are responsible for eye movements (CN III, IV, and VI). In addition to pupillary function and innervation of the eyelid, CN III is responsible for 4 extraocular muscles: superior rectus, inferior rectus, medial rectus, and inferior oblique. CN IV is responsible for the superior oblique, while CN VI is responsible for the lateral rectus. Upon observation of image 1, you should note that there is a restriction in ABduction of the left eye, indicating an underaction of the lateral rectus. Following Hering's law of equal innervation, the right eye shows an equal overaction of the medial rectus. CN V, also known as the trigeminal nerve, has 3 branches: the ophthalmic branch, the maxillary branch, and the mandibular branch. The ophthalmic branch of the trigeminal is purely sensory and does not have any oculomotor function."
+    },
+    {
+      "number": 4,
+      "stem": "What is the MOST appropriate spectacle prescription for this patient at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "OD: +6.50 DS; OS: +6.75 DS",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "OD: +7.00 -1.00 x 005; OS: +7.25 -1.00 x 175",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "OD: +6.50 -2.00 x 005; OS: +7.75 -2.00 x 175",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "OD: +6.50 -2.00 x 005; OS: +6.75 -2.00 x 175",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "OD: +5.50 -1.00 x 005; OS: +5.75 -1.00 x 175",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "OD: +6.50 -1.50 x 005; OS: +6.75 -1.50 x 175",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "When prescribing spectacles, clear and equal retinal image sizes should be considered. Although there has been debate as to how much plus sphere power can be \"cut\" while still maintaining an optimal retinal image, we do know that no matter the magnitude, it must remain equal between both eyes. Additionally, it is recommended that full astigmatic power be retained in the final prescription."
+    },
+    {
+      "number": 5,
+      "stem": "When should the patient return to your office for a follow-up visit once new glasses have been prescribed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 months",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1 day",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No follow-up is required",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 week",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "12 months",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "6 months",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Due to the patient’s decreased visual acuity, high refractive error, strabismus, and poor vision without correction, it is important to have the patient return for a follow-up visit within 3 months of prescribing glasses to ensure improvement in visual acuity. Additionally, one must remember to check for any accommodative components regarding the esotropia, so re-evaluating binocular vision for improvement with correction is also important."
+    }
+  ]
+}

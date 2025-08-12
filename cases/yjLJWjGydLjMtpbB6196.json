@@ -1,0 +1,305 @@
+{
+  "case_id": "yjLJWjGydLjMtpbB6196",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "50-year-old white male; media director"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "referred by local optometrist for a glaucoma evaluation due to elevated intraocular pressure in the left eye"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 month ago; wears SV reading glasses only"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: cataract surgery"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "multivitamins"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "macrolides"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: heart disease"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 22 mmHg, OS: 27 mmHg @ 1:15 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "130/84 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: none; patient is asymptomatic",
+      "Location: OS",
+      "Severity: IOP was 20 mmHg OD and 29 mmHg OS at last exam",
+      "Nature of onset: unknown",
+      "Duration: unknown; was told by OD at his exam last month",
+      "Frequency: unknown",
+      "Exacerbations/remissions: unknown",
+      "Relationship to activity or function: unknown",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/25",
+      "OS: VA distance: 20/25",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: 1+ pigment deposition on endothelium OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, loss of pupillary ruff, iridodonesis OS",
+      "lens: clear OD, see image 1 OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 2",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 3",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_VPFPSIXAKXDIQWVM6248.PNG",
+      "AnsweredCases/images/KI_IEGINTIVGYIMABFT6262.PNG",
+      "AnsweredCases/images/KI_LGQNPLOVOTHJVQRR6263.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the MOST appropriate diagnosis based on the patient's clinical examination findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pseudoexfoliation syndrome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ocular hypertension",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pigment dispersion syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Normal tension glaucoma",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Primary open-angle glaucoma",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Based on the clinical examination findings, the most appropriate diagnosis for this patient is pseudoexfoliation syndrome (PEX). This condition is characterized by white, flaky deposits that can be observed on the anterior surface of the crystalline lens and the iris (see image 1). The material tends to deposit on the central and peripheral portions of the anterior lens, leaving a clear intermediate zone. There is also often characteristic loss of pupillary ruff due to the contact and rubbing of the iris against the lens. This causes pigment to be released from the iris which deposits on the corneal endothelium and in the trabecular meshwork. Patients with this condition may also have this dandruff-like material deposited in other parts of the body such as the heart, kidneys, lungs, and skin. Pseudoexfoliation differs from exfoliation syndrome in that the latter is caused by heat or infrared light-induced damage to the capsule of the lens. When compared to pigment dispersion syndrome (PDS), the pigment deposited on the corneal endothelium and in the trabecular meshwork tends to be patchy and less abundant in PEX; this is one of the differentiating features between pseudoexfoliation syndrome and PDS. Pseudoexfoliation syndrome tends to be asymmetric in its presentation, and often one eye shows signs prior to the development of signs in the fellow eye. Only when there is characteristic damage of the optic disc or nerve fiber layer, or a visual field defect develops, is it called pseudoexfoliative glaucoma."
+    },
+    {
+      "number": 2,
+      "stem": "Iridodonesis observed in the left eye is MOST likely indicative of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weak lens zonules, causing the lens to move against the iris",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Disinsertion of iris from the scleral spur",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Weak iris sphincter muscles",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Weak iris dilator muscles",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Iridodonesis, or a quivering iris, may be caused by a variety of conditions. A prior history of ocular trauma may cause the disinsertion of the iris from the scleral spur resulting in iridodonesis; however, this patient has no history of recent or past trauma. Weak sphincter or dilator muscles on their own cannot lead to iridodonesis. The cause of iridodonesis in a patient with pseudoexfoliation is due to weak zonules, which can lead to movement of the crystalline lens (phacodonesis) against the iris, giving the appearance of vibration of the iris. In patients with pseudoexfoliation syndrome, the exfoliative material contains proteolytic enzymes that become deposited onto the lens zonules. This weakens the zonules over time, causing lenticular movement and resulting iris movement."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following conditions is a possible secondary complication of the patient's ocular condition of the left eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central serous chorioretinopathy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Epiretinal membrane",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Posterior subcapsular cataract",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acute angle closure",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Retinal detachment",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Angle closure glaucoma is a possible secondary complication of pseudoexfoliation syndrome. Because the lens zonules tend to be weak in these patients, a forward movement of the lens-iris diaphragm (especially in the prone position) is possible. This increases the risk of an angle closure attack and subsequent glaucoma. Patients with pseudoexfoliation syndrome are also at a significantly higher risk of developing secondary open angle glaucoma due to the deposition of the exfoliative material in the trabecular meshwork, which can obstruct the outflow of aqueous. In contrast to primary open angle glaucoma, this disease tends to run a more aggressive clinical course with a higher IOP at onset, a faster rate of progression, worse response to medical therapy, and an increased need for surgical intervention."
+    },
+    {
+      "number": 4,
+      "stem": "If this patient is referred for cataract extraction with an intraocular lens implant, what should the patient be warned about that can occur at a higher rate than the average population?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased risk of post-surgical neuralgia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increased risk of post-surgical macular edema",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increased risk of retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increased risk of posterior capsular opacification",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Increased risk of dislocation of the lens implant",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "A patient with pseudoexfoliation syndrome, despite removal of the crystalline lens, can still produce pseudoexfoliative material, which can further weaken the zonules. The weakening of the lenticular zonules can lead to the dislocation of the intraocular lens implant, which is placed in the capsular bag. A patient with PEX and phacodonesis will commonly have a capsular tension ring inserted, and frequently, the IOL will either be placed in the sulcus or sutured in place to prevent dislocation."
+    },
+    {
+      "number": 5,
+      "stem": "Which one of the following statements is TRUE regarding the intraocular pressure (IOP) findings commonly observed in patients with this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intraocular pressure is elevated due to faster rates of aqueous production",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The intraocular pressure typically undergoes large diurnal fluctuations",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The intraocular pressure usually responds well to topical treatment",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Intraocular pressure is always asymmetric between the eyes",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Although this condition tends to present asymmetrically, intraocular pressure is not always asymmetric, and glaucoma can develop simultaneously in both eyes. The mean IOP in patients with pseudoexfoliation syndrome tends to be greater than that observed in patients with primary open angle glaucoma, normal tension glaucoma, and ocular hypertension. The aqueous humor is produced appropriately but does not drain as easily because the pseudoexfoliative material and pigment from the iris can block trabecular meshwork outflow. Intraocular pressure in these patients tends to fluctuate greatly, and high peaks in IOP are often observed if intraocular pressure is measured serially throughout the day. As mentioned previously, patients with pseudoexfoliative glaucoma tend to display a faster rate of progression, worse response to medical therapy, and an increased need for surgical intervention as compared to other glaucomas."
+    }
+  ]
+}

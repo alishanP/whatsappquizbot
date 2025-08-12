@@ -1,0 +1,356 @@
+{
+  "case_id": "KPUvlzRQQpZbQxh13481",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "42-year-old Hispanic female; flight attendant"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "decreased vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "occasional burning and stinging, mostly while working"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 3 years ago; unremarkable"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: corneal transplant"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "gastroenteritis"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Imodium®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "penicillin"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hypothyroidism, father: colon cancer"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "2 esophoria, near: 4 esophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 16 mmHg, OS: 16 mmHg @ 5:05 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "110/75 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "70 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurry vision at near",
+      "Location: OD, OS (OD worse than OS)",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 3 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse in dim illumination, better with bright lighting",
+      "Relationship to activity or function: notices when reading, using phone and iPad",
+      "Accompanying signs/symptoms: fatigue and eyestrain",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: cramping, diarrhea",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/30, VA near: 20/50 @ 40 cm",
+      "OS: VA distance: 20/30, VA near: 20/50 @ 40 cm",
+      "OD: +1.50 -1.00 x 025 add: +1.00; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: +0.75 -1.25 x 010 add: +1.00; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: narrow and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: normal",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: similar to image 1",
+      "macula: normal",
+      "posterior pole: similar to image 1",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_VGOULMEKNEYWOIP13547.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of the patient's right eye retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Choroidal nevus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Congenital hypertrophy of the retinal pigment epithelium",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Reactive hyperplasia of the retinal pigment epithelium",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Choroidal melanoma",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Congenital hypertrophy of the retinal pigment epithelium (CHRPE) is a common, benign retinal finding. It may appear as a darkly pigmented round or oval lesion of variable size that is flat and has well-defined borders. There may be areas of depigmentation within or surrounding the borders of the CHRPE. CHRPEs may form clusters or small groups of black or dark gray round/oval lesions resembling animal paw-prints (sometimes called \"bear track\" or \"bear paw\" lesions). Atypical CHRPEs may appear as oval shaped lesions that possess one hypopigmented margin, often described as a comet's tail appearance. A choroidal melanoma is the most common intraocular tumor encountered clinically. This condition typically presents in the 6th decade of life and is more frequently observed in individuals with lighter skin pigmentation. Symptoms are variable, ranging from flashes of light, floaters, visual field disturbances, and blurry vision, or a total lack of symptoms may exist. Clinical findings include a large retinal mass that may appear brown, gray-green, or yellow (amelanotic). Most lesions will be elevated and dome- or mushroom-shaped. Generally, choroidal melanomas are limited to the subretinal space, but they may extend through Bruch's membrane. The lesion may have an associated serous retinal detachment, or may present with a vitreous hemorrhage. Ultrasonography is valuable in detecting the potential elevation and thickness of the tumor. All pigmented lesions must be monitored for growth or change via dilated retinal exams and photo-documentation. Choroidal nevi are encountered fairly commonly as they are observed in roughly 5% of individuals. These lesions are likely present at birth, but may grow and become more noticeable during the pre-pubescent years. Nevi should not change after puberty; therefore, any growth thereafter is very suspicious. Clinical signs include a gray-green or bluish, circular lesion with borders that are well-defined. Surface drusen may be present with these lesions. Nevi that possess or are associated with any of the following characteristics are suspicious for malignancy: the patient is symptomatic (i.e., the patient reports metamorphopsia), the size is greater than 5 mm in diameter and/or the thickness is greater than 1 mm, lipofuscin is present on the surface of the lesion, the lesion is within 3 mm of the optic nerve, or there is an associated serous retinal detachment. The greater the number of suspicious characteristics present, the greater the chance that the lesion is actually a melanoma. Retinal pigment epithelium (RPE) hyperplasia is generally the result of some sort of trauma to the retina. RPE hyperplasia may occur at any location of the retina and will appear as black pigmented areas that may have irregular but sharp, well-defined borders, and they may be variable in size. RPE hyperplasia typically indicates stability."
+    },
+    {
+      "number": 2,
+      "stem": "Given the patient's history and retinal findings, what further testing should be performed at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "B-scan ultrasonography",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A colonoscopy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "No further testing is needed",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "An MRI of the chest area",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "A lung biopsy",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "An X-ray of the sacroiliac region",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "If there are four or more retinal lesions (especially bilaterally), if the lesions appear atypical, or if there is a family history of colon cancer, the patient should undergo a colonoscopy. Familial adenomatous polyposis (FAP) is a dominantly inherited condition in which polyps develop in the colon and rectal areas during adolescence. If the polyps are not treated, ALL patients will develop colon cancer; therefore, any patient who is at risk should have regular colonoscopy screenings. Some researchers have suggested that patients with FAP should undergo a total colectomy for prophylactic purposes. Research has demonstrated that up to 80% of patients with FAP possess atypical CHRPE at birth. Although this patient does not present with atypical CHRPE, she does have a strong family history of colon cancer and should therefore be referred for a colonoscopy."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following in-office tests would help you distinguish whether the lesions are located in the choroid or at the level of the retinal pigment epithelium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evaluation with a red-free filter",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "A-scan ultrasonography",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Watzke-Allen test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Threshold visual field",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "A red-free filter is useful for determining which layer of the retina is affected. A red-free filter will cause a lesion of the RPE to appear darker and more defined, while choroidal pigmentation will either become more difficult to visualize or invisible. Also, choroidal lesions tend to appear more gray/green, with borders that are more indistinct than those located at the level of the RPE. The Watzke-Allen test is a useful test in determining macular integrity in patients suspected of having a full-thickness macular hole. Visual fields have many important purposes but will not help to distinguish between a choroidal and an RPE lesion. An A-scan is used to determine the axial length of the eye, which is helpful in determining lens implant powers for cataract surgery, or monitoring young patients for myopia progression."
+    },
+    {
+      "number": 4,
+      "stem": "What is the MOST appropriate diagnosis of the patient's refractive error of the right eye and left eye, respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "OD: compound hyperopic astigmatism; OS: simple hyperopic astigmatism",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "OD: simple hyperopic astigmatism; OS: mixed astigmatism",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "OD: compound hyperopic astigmatism; OS: mixed astigmatism",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "OD: compound hyperopic astigmatism; OS: compound hyperopic astigmatism",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "OD: simple hyperopic astigmatism; OS: simple hyperopic astigmatism",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "OD: mixed astigmatism; OS: mixed astigmatism",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "A refractive error is categorized as compound hyperopic astigmatism when both principal meridians are hyperopic. Compound myopic astigmatism occurs when both principal meridians are myopic. Simple myopic astigmatism is the result of one emmetropic meridian and one myopic meridian. Simple hyperopic astigmatism occurs when one meridian is emmetropic and the other is hyperopic. A prescription is classified as mixed astigmatism when one principal meridian is myopic and the other is hyperopic."
+    },
+    {
+      "number": 5,
+      "stem": "At what age do the retinal lesions observed in image 1 typically present?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Between ages 60-90",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Between ages 20-40",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Between ages 40-60",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Between ages 10-20",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "At birth",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Between ages 1-10",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Hypertrophy of the retinal pigment epithelium is typically congenital, and therefore presents at birth."
+    },
+    {
+      "number": 6,
+      "stem": "Which area of the retina represents the MOST common site of these lesions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nasal quadrant",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inferior quadrant",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Temporal quadrant",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Superior quadrant",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Although CHRPE lesions may be located anywhere within the retina, the temporal quadrant is affected up to 70% of the time."
+    }
+  ]
+}

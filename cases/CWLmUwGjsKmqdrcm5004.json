@@ -1,0 +1,360 @@
+{
+  "case_id": "CWLmUwGjsKmqdrcm5004",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "18-year-old white female; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "red eyes"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; wears glasses for reading"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: strabismus"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "oral contraceptives"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "fluoroquinolones, macrolides, penicillin"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: pituitary adenoma, father: gout, hyperlipidemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "Preauricular nodes:",
+        "value": "negative lymphadenopathy (bilaterally)"
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 17 mmHg, OS: 17 mmHg @ 12:00 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "113/74 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: eyes are red and irritated; discharge",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: acute; started in right eye first, then moved to left eye yesterday",
+      "Duration: 3 days",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse in the morning",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: wakes up with eyelids stuck shut in the morning",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20",
+      "OS: distance: 20/20",
+      "lids/lashes/adnexa: see image 1 OD, OS similar to OD",
+      "conjunctiva: see image 1 OD, OS similar to OD",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.25 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.25 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_LSJWWLWZFDQBPYQB5070.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of the patient's anterior segment condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allergic conjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gonococcal conjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bacterial conjunctivitis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Epidemic keratoconjunctivitis (EKC)",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Superficial punctate keratitis",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Bacterial conjunctivitis typically presents with a fairly rapid onset that often begins unilaterally and then quickly spreads to the other eye. Patients generally report a mucopurulent discharge that seals the eyelids shut in the morning. Other clinical signs commonly include crusting of the eyelashes and conjunctival injection, which is usually worse in the inferior fornix and improves towards the limbus. Corneal superficial punctate keratitis may also be present. Haemophilus influenzae is the predominant cause of bacterial conjunctivitis in adults living in warmer climates, while Streptococcus pneumoniae is the most common cause in adults living in cooler climates. Under normal circumstances, the most common isolate in adults is S. aureus, while in children under five years old the common culprit is H. influenzae. Epidemic keratoconjunctivitis (EKC) will likely reveal tender preauricular nodes because the condition is viral in origin. Additionally, it is rare to see copious amounts of discharge with this type of infection. EKC typically causes watery discharge, conjunctival injection, and can also result in swelling of the eyelids. There are two main organisms that will cause hyperacute bacterial conjunctivitis. Both are variants of Neisseria. N. gonorrhoeae can be observed in neonates and is usually contracted from an infected mother when passing through the birth canal. This strain is also seen in adolescents and is usually contracted from an infected adult (and can be a sign of child abuse). Adults may develop hyperacute conjunctivitis via autoinoculation from genitalia that are infected. Optometrists are very unlikely to see N. meningitidis because these individuals tend to be hospitalized. This condition is very serious, as the Neisseria species can invade an intact cornea. Also, contraction of this infection must be reported to the CDC. Three tell-tale signs of hyperacute bacterial conjunctivitis are: ballooning of the lids, copious amounts of discharge, and swollen preauricular nodes. These patients should only be touched with gloves, and you should avoid ALL contact with your own eyes (consider wearing goggles). Treatment requires both oral and topical antibiotic use. Allergic conjunctivitis will likely present with the main symptoms of pruritus, chemosis, and erythematous lids, along with a watery discharge. Mucopurulent discharge will typically be absent in these patients."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate treatment for this patient's anterior segment condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polytrim® q.i.d. OU for 7 days",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "AzaSite® b.i.d. for 2 days then q.h.s. for 5 days",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Erythromycin ung b.i.d. OU for 7 days",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Preservative-free artificial tears q.i.d. OU for 7 days",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Moxeza® q.i.d. OU for 7 days",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Pataday® q.d. for 2 weeks",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "The patient stated that she is allergic to fluoroquinolones and macrolides. Erythromycin and azithromycin belong to a class of drugs called macrolides. Therefore, of the above options of antibiotics, only Polytrim® may be prescribed. Macrolides are effective antibiotics because they bind to the 50S subunit of bacterial ribosomes, thus interfering with bacterial protein synthesis. Fluoroquinolones (such as Moxeza® and Zymaxid®) are effective antibacterial agents because they inhibit DNA gyrase and thereby ultimately inhibit bacterial DNA synthesis."
+    },
+    {
+      "number": 3,
+      "stem": "After the initiation of treatment, when is an appropriate time to follow up with the patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 days",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Annually",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2 weeks",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 day",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "6 weeks",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "1 month",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Patients with bacterial conjunctivitis should be asked to return for a follow up visit around 2-3 days after the initiation of treatment to ensure that the patient does not have an allergic reaction to the medication and that the condition is improving. However, without intervention, bacterial conjunctivitis is generally self-limiting and will typically resolve on its own in roughly 10-14 days."
+    },
+    {
+      "number": 4,
+      "stem": "What patient education should be included during the initial visit with the patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient needs to avoid dairy products while using the prescribed medication as calcium will interfere with its effectiveness",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The condition is contagious and precautions (i.e. frequent hand washing) must be taken to ensure that it is not spread to others",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The patient cannot eat iron-rich foods while taking the prescribed medication",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The patient should not wear glasses as the lenses can serve as reservoirs for the pathogens",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "The patient should be evaluated by her primary care physician for associated systemic disease",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Bacterial conjunctivitis is highly contagious; therefore, the patient should attempt to isolate herself as much as possible for the first few days after the initiation of treatment if possible. Studies have shown that the offending pathogens may remain active for 24 to 48 hours after antibiotic therapy is commenced. The patient must also be informed of all of the necessary precautions such as frequent hand washing, and should be reminded to avoid touching her eyes. All towels and face cloths along with pillow cases that have come in contact with the patient's facial area should be washed and thoroughly dried in a heated dryer to ensure sterilization. In general, eye make-up and contact lenses should also be discarded (along with contact lens cases)."
+    },
+    {
+      "number": 5,
+      "stem": "This patient’s diagnosis is frequently observed in children in conjunction with which of the following conditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pharyngitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Frequent nose bleeds",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Otitis media",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Atopy",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Onycholysis",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Otitis-conjunctivitis syndrome was first recognized in the 1980s; it is due to the contraction of H. influenzae. Initially, children will present with conjunctivitis along with a low-grade fever and a mild upper respiratory infection. Otitis media will then typically develop several days later. Because of this phenomenon, some clinicians will prescribe oral antibiotics, in lieu of topicals, for children who present with bacterial conjunctivitis and are at a high risk of developing otitis media (such as those who are in a daycare setting). Onycholysis is a painless separation of the nail from the nail bed. Pharyngitis has a high correlation with adenoviral conjunctivitis and is commonly seen in children. When the two are observed concurrently, the condition is called pharyngoconjunctival fever ( or PCF)."
+    },
+    {
+      "number": 6,
+      "stem": "The patient returns to your office for a follow-up examination and you notice a new presentation of several peripheral subepithelial marginal infiltrates in both eyes. Which of the following medications would be the MOST appropriate addition to your original treatment plan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulfacetamide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trifluridine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fluorometholone",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ketorolac",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Olopatadine",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The development of marginal infiltrates observed at the follow-up visit indicates that the patient is experiencing a hypersensitivity reaction to staphylococcal exotoxins and cell wall proteins (staph is the most common form of bacterial conjunctivitis, so we will assume that this is the offending microbe in this case). This reaction causes deposition of antigen-antibody complexes in the peripheral cornea (antigen diffuses from the tear film, and antibody diffuses from the blood vessels), along with secondary lymphocytic infiltration. These infiltrates are considered sterile, and the lesions will culture negative for staph. A small circular lesion that is separated from the limbus by a clear zone is characteristic of a subepithelial infiltrate. If there is an epithelial defect, it is usually smaller than the infiltrate. Conjunctival injection is also typically greater in the area of the infiltrate. Without treatment, resolution will occur in 3-4 weeks, often leaving slight thinning and a superficial scar (usually without vascularization). These infiltrates are responsive to treatment with weak topical steroids (e.g. fluorometholone). Coexisting lid margin disease should also be treated with lid hygiene and topical antibiotics as necessary. Oral tetracycline may rarely be required for recurrent disease. Ketorolac is the trade name for Acular® and Acuvail® and is an NSAID. Olopatadine is the trade name for Patanol® and Pataday® and is used for allergic conjunctivitis. Trifluridine is the trade name for Viroptic®, which is an antiviral drop used in the treatment of herpes simplex keratitis. Sulfacetamide is another antibiotic, and in this particular case is not needed, as Polytrim® has already been prescribed."
+    }
+  ]
+}

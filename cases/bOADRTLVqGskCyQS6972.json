@@ -1,0 +1,331 @@
+{
+  "case_id": "bOADRTLVqGskCyQS6972",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "46-year-old white female; administrative assistant"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "difficulties with vision; referred by neurologist for baseline evaluation"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago; LASIK OU; wears PALs occasionally"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "intracranial tumor (diagnosed 2 weeks ago)"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "temporal restriction OD, nasal restriction OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 19 mmHg, OS: 19 mmHg @ 10:22 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "114/72 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "70 bpm, regular"
+      },
+      {
+        "label": "Threshold visual fields:",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: has been stumbling/bumping into things; difficulty reading, loses her place often",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 1 month",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: recently diagnosed with intracranial tumor",
+      "Accompanying signs/symptoms: vision appears dimmer",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: headaches",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time and place and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -0.75 -0.75 x 165 add: +1.25; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: plano -1.00 x 015 add: +1.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OD: -0.75 -0.50 x 160 add: +1.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: -0.25 -0.50 x 020 add: +1.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "OD: see image 1",
+      "OS: see image 2"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_SLRPWJCVMFWDBBWT7154.JPG",
+      "AnsweredCases/images/KI_UCMFHVLVBCIKGAUF7155.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Based upon the results of the threshold visual field test, which of the following BEST describes the patient's visual field defect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Right homonymous hemianopsia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Bitemporal hemianopsia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Left heteronymous hemianopsia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Right heteronymous hemianopsia",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Left homonymous hemianopsia",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Binasal hemianopsia",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "The threshold visual field shows a complete right homonymous hemianopsia. From this defect you may conclude that the affected area is in either the left optic tract or the left occipital area."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following represents the BEST choice of low vision therapy to achieve field expansion for this patient and help with her symptoms of bumping into things?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 diopters of base-in prism right eye, and 10 diopters of base-out prism left eye",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "10 diopters of base-out prism right eye, and 10 diopters of base-in prism left eye",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "10 diopters of base-in prism over each eye",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Two 40 diopter Fresnel prism segments, placed base-out over the left eye in the Peli fashion",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "10 diopters of base-out prism over each eye",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Two 40 diopter Fresnel prism segments, placed base-out over the right eye in the Peli fashion",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "True field expansion for patients with hemianopic visual field defects can be achieved using the Peli lens, a fitting philosophy by Dr. Eli Peli. To achieve the desired effect, two 40 prism diopter Fresnel prisms in small rectangular segments are used. For a right hemianopsia, they are placed on the right lens in the base-out direction. For a left hemianopsia, they are placed over the left lens in a base-out fashion. The segments should be placed 7 mm above and 7 mm below the middle of the pupil. The purpose of the prisms are to move light from the non-seeing field into the seeing field, thus alerting the patient of an object in the non-seeing field and providing a cue for the patient to scan the environment. Once a patient successfully learns how to use the Fresnel prisms, they can be replaced with special-order ground in 40 diopter prism segments. Ten base-out prism over each eye will only cause convergence. The option of placing 10 BO over the left eye and 10 BI over the right will cause a shift in the field, but it will not actually expand the field of view. This type of prism is sometimes used when a patient suffers from midline shift or hemi-field neglect."
+    },
+    {
+      "number": 3,
+      "stem": "Based upon your answer for the previous question, what is the amount of field expansion that you would expect to achieve with the prism treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 degrees",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "40 degrees",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5 degrees",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "10 degrees",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "When positioned correctly, the 40 diopter Fresnel prisms should provide approximately 20 degrees of field expansion (one degree for every 2 diopters of prism). Once the patient adapts to the Fresnel prisms, permanent prisms may be made into the lenses via special order through Chadwick Optical."
+    },
+    {
+      "number": 4,
+      "stem": "In addition to field expansion, what 3 other devices would this patient MOST likely benefit from? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reach-and-touch training with prism glasses",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "A lined bifocal",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "A hand-held telescope for distance spotting tasks",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Yellow filters for improving contrast",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "A 20 D stand magnifier for near tasks",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Cosmetic tinted contact lenses with a pinhole pupil",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "In patients with significant visual field defects, lined bifocals are typically preferred over progressive additional lenses. The patient also mentioned feeling like her vision was dimmer, so improving contrast would benefit her as well. This can be achieved with a yellow fit-over filter or with a yellow acetate sheet overlayed on top of reading material. When prescribing the Peli prismatic lens treatment, reach and touch training is needed to help the patient become aware of the spatial shift between an object's apparent location and its true location in space. The patient has excellent acuity and thus does not require the use of a telescope (which would only serve to further constrict her field of view). The patient is not complaining of photophobia, and her pupils are capable of regulating the amount of light that reaches the retina, thereby negating the need for a contact lens with a pinhole aperture. Also, because the patient is capable of adequate near vision with a reading add over her distance correction, she does not require the use of high magnification devices. These types of visual aids are best reserved for patients with poor macular function."
+    },
+    {
+      "number": 5,
+      "stem": "How would this patient's vision be classified?",
+      "options": [
+        {
+          "label": "A",
+          "text": "This patient is classified as legally blind based upon visual fields",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "This patient is classified as legally blind based upon visual efficiency",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "This patient is not classified as legally blind",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "This patient is classified as legally blind based upon visual acuity",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Legal blindness is a definition established by the federal government in the Social Security Act. It takes into account best corrected visual acuity in the better-seeing eye based upon a Snellen 20 ft chart. This patient's best corrected visual acuity is 20/20 in each eye; therefore, she is not legally blind based upon visual acuity. Legal blindness based upon visual fields is defined as a field in which the widest diameter subtends an angle no greater than 20 degrees. This patient's visual field is larger than 20 degrees, and thus she is not considered legally blind by this definition either."
+    }
+  ]
+}

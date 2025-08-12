@@ -1,0 +1,347 @@
+{
+  "case_id": "rjcclHAbPUlbIhHf3206",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "22-year-old Asian male; veterinary student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurry vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago; wears glasses full time"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: LASIK"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "congenital heart murmur"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: cardiovascular disease"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: orthophoria, near: 6 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 16 mmHg @ 1:25 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "113/73 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "67 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: difficulty with distance vision with current glasses",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 3 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at night; better with squinting",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -6.50 -0.75 x 180; VA distance: 20/30 -2",
+      "OS: -6.25 -0.50 x 176; VA distance: 20/30 +1",
+      "OD: -7.00 -1.25 x 175; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: -6.75 -1.00 x 173; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_JMUBUIGCUIHRCNSA3272.JPG",
+      "AnsweredCases/images/KI_PGJZOWDYDZPJSTBJ3273.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of the patient's optic nerve findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Morning glory syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Optic disc drusen",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tilted disc syndrome",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Optic disc coloboma",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Pseudopapilledema",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Optic nerve hypoplasia",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Tilted disc syndrome is typically a bilateral condition that is caused by an optic nerve that enters the eye at an oblique angle superiorly, resulting in elevation of the superior nerve tissue and ectasia of the inferior/inferonasal tissue. Other clinical features of this condition usually include myopic refractive error, situs inversus, fundus ectasia, and superior temporal visual field defects that do not generally respect the midline. Optic disc colobomas are a congenital phenomenon caused by incomplete closure of the embryonic fissure. Typically, this finding is not a cause for concern as there are very few risks associated with optic disc colobomas. It is common to observe visual field defects, but these tend to be stable. Clinically, a patient may experience decreased vision depending upon the extent and location of the coloboma. An optic nerve coloboma is generally observed within the nerve inferiorly, but may extend to the retina, choroid, iris, and lens. The vasculature of the retina is normally unaffected in these patients. Hypoplasia of the optic nerve is also a congenital condition in which the nerve is of a smaller diameter than that typically encountered within the general population. Optic nerve hypoplasia is normally observed in conjunction with central nervous system abnormalities such as those caused by fetal alcohol syndrome, dangerous drug-use during pregnancy (cocaine, quinine, etc.), or pregnancy at a young age. The patient may present with decreased vision, strabismus, astigmatism, an afferent pupillary defect (if the condition is monocular or asymmetrical), or a constricted visual field. The nerve will appear small and will commonly be surrounded by a ring of choroid (double ring sign). Treatment consists of management of any refractive error and amblyopia if present. Congenitally anomalous discs (also known as pseudo-papilledema) tend to appear as elevated discs with no physiological cup. They are typically yellow or gray in color, and the blood vessels emanate from the center of the disc. Occasionally, there may also be disc drusen or myelination of the nerve fiber layer. Morning glory anomaly is defined as a birth defect of the optic nerve in which there is a coloboma of the optic disc. The coloboma results in a funnel-shaped optic nerve head with a white dot in the center, an elevated ring of pigment surrounding the disc, and vessels that radiate out from the rim in ring-like spokes. Reflection from within the eye may give the appearance of a white pupil. Vision in the affected eye is usually severely impaired."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following visual field defects is MOST frequently associated with this patient’s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bilateral inferior-temporal defects",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bilateral superior-temporal defects",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Bilateral superior-nasal defects",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bilateral inferior-nasal defects",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "A patient who has tilted optic discs will generally display superior-temporal visual field defects that do not classically respect the midline. Occasionally, the visual field defects can appear similar to those of a person who suffers from a pituitary tumor. It is important to distinguish between these two as the latter condition requires prompt further evaluation and treatment."
+    },
+    {
+      "number": 3,
+      "stem": "What other ocular anomaly is MOST commonly associated with this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posterior subcapsular cataract",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Keratoconus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cystoid macular edema",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pars planitis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Situs inversus",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Patients with tilted disc syndrome also commonly possess situs inversus, which occurs when retinal blood vessels emerge from the disc and initially course nasally prior to assuming their natural destination temporally. Pars planitis, cystoid macular edema, cataracts, and keratoconus do not display an increased frequency with the presence of tilted optic discs."
+    },
+    {
+      "number": 4,
+      "stem": "Although this patient does not display any systemic associations, his ocular condition may present in conjunction with which of the following syndromes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crouzon syndrome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Sjogren syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Oculoglandular syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Horner syndrome",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Tilted disc syndrome has been reported in association with patients who suffer from craniofacial anomalies such as those observed in Crouzon and Apert syndromes. Crouzon syndrome is an autosomal dominant condition that results in proptosis due to shallow ocular orbits, maxillary hypoplasia, abnormal craniofacial formation, hypertelorism, and (potentially) strabismus. Because proptosis occurs in all individuals affected with this syndrome, it is also important to monitor these patients for exposure keratitis. Horner syndrome results from a disruption of the sympathetic innervation to the eye, due to a lesion or mass located either postganglionic or preganglionic. The classic triad of signs observed in a patient suffering from Horner syndrome is miosis, a small ptosis, and anhidrosis (lack of sweat) on one side of the head. Oculoglandular syndrome can be caused by a myriad of organisms and presents as a unilateral follicular conjunctivitis, along with lymphadenopathy on the same side as the affected eye. Causes include but are not limited to cat scratch disease, tularemia, syphilis, tuberculosis, sporotrichosis, mononucleosis, coccidioidomycosis, sarcoidosis, Hansen disease, mumps, actinomycosis, Listeria, and Herpes simplex. Sjogren syndrome is a concurrence of dry eye and dry mouth, either from destruction of tear and salivary glands, or from infiltration with lymphocytes. It is associated with autoimmune diseases of the rheumatic or collagen vascular variety."
+    },
+    {
+      "number": 5,
+      "stem": "When performing direct ophthalmoscopy, how will the refractive error of this patient (if left uncorrected) alter the image?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The image will be magnified",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The image will appear inverted",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The image will be minified",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The image will appear reversed",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Magnification while viewing through a direct ophthalmoscope is roughly 15x for an emmetrope, as is illustrated by the following formula: M = D(eye)/4; where M = magnification, and D(eye) = the dioptric power of the eye. 60/4 = 15x. A 7 D myope will have roughly 17x magnification; 67/4 = 16.75x."
+    },
+    {
+      "number": 6,
+      "stem": "If you were to measure the axial length of this patient's eye, what value would you MOST expect to see based on his examination findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "27 mm",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "21 mm",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "29 mm",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "25 mm",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "23 mm",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "The average axial length of the adult human eye is 24 mm. The eye grows rapidly in early childhood from approximately 18 mm at birth to 23 mm by the age of 3, at which point the axial length then increases by roughly 1 mm from age 3 to about age 13. Based upon visual optics principles, a 1 mm increase in axial length is known to correlate with a myopic shift of approximately 2-3 D. The spherical equivalent of this patient's refraction is close to -7.50 D in each eye. 7.5 (refractive error)/ 2.5 (average dioptric change per 1 mm) = 3. Therefore, you would expect this patient's axial length to be about 3 mm longer than average (24 mm). If the patient was a +7.50 D hyperope, you'd expect the axial length to be shorter than average by the same amount (around 21 mm). Without knowing this patient's refraction, evaluation of the fundus alone would allow for a rough approximation of his axial length. Eyes with tilted optic discs tend to have a higher myopic refractive error, and a longer axial length."
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "case_id": "rTApOugDBDiiTgcZ4020",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "47-year-old white female; secretary"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "interested in blepharoplasty"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "occasional ocular allergies, uses Pataday® PRN"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; wears PALs full time"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: macular degeneration"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypertension, smoker (30 years)"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Lopressor®, Nicoderm®, Pataday®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "codeine, seasonal allergies"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "OD: 8 mm in dim illumination, 5 mm in bright illumination, 4+ reaction to light; OS: 5 mm in dim illumination, 3 mm in bright illumination, 4+ reaction to light; (-) APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 4 exophoria, near: 4 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 17 mmHg, OS: 15 mmHg @ 2:25 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "121/78 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "76 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: eyelid is droopy; she is bothered by cosmesis",
+      "Location: OS upper eyelid",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 2 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none; no recent history of trauma, no other neurological symptoms",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: shortness of breath when running",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -2.00 -0.25 x 010 add: +1.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: -2.25 DS add: +1.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: see image 1 OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_CYHTLPLMAUSNWRSX4084.JPG",
+      "AnsweredCases/images/KI_RGKXJCPAKJRILHTA4085.JPG",
+      "AnsweredCases/images/KI_ZZGSTNJGCRXNWVMH5349.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the MOST likely diagnosis of this patient's eyelid and pupil findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pupil-involved third nerve palsy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Physiological anisocoria",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Horner syndrome",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Argyll Robertson pupil",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Adie tonic pupil",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Horner syndrome results from a disruption in the sympathetic innervation of the eye due to a lesion or mass located either post-ganglionically or pre-ganglionically. The classic triad of signs observed in a patient suffering from Horner syndrome is pupil miosis, a small ptosis (due to a disruption of sympathetic stimulation of Muller's muscle), and anhidrosis (lack of sweat) on one side of the head or body (depending on the location of the lesion). When evaluating these patients, be sure to test pupil size in both dim illumination and bright illumination, as the pupil miosis is usually more evident in dim lighting conditions. Pupil testing will also reveal unaffected light and near pupillary reactions. Patients may also present with a mild reverse ptosis of the lower lid on the affected side. Clinically, some patients report an improvement in near vision due to a decrease in pupil size. The affected eye may also demonstrate a lower intraocular pressure. Horner syndrome may also be congenital. A patient with a congenital Horner syndrome will display iris heterochromia. The affected eye will have a lighter appearing iris (this may also occur in a longstanding case of Horner syndrome). An Argyll Robertson pupil is a highly specific sign of late-stage syphilis. Patients with this condition will exhibit irregularly shaped pupils that are poorly responsive to light (if at all). However, the pupils will respond well to a near stimulus; therefore, light-near dissociation occurs with this condition. Earlier in the disease process, the pupils will appear miotic. Typically, both pupils are involved but they may be asymmetrically affected. In the later stages of syphilis, iris atrophy may occur. Even with the treatment of syphilis, the pupils will not return to normal. A patient with physiological anisocoria will display anisocoria that is equal under both dim and bright lighting conditions (or it may be somewhat greater in dim light). The patient will not display a ptosis, and the direct and consensual responses to light should be the same. If all of the results are normal, and physiological anisocoria is suspected, it is best to confirm the stability of the anisocoria by referring to previous photos of the patient. A patient presenting with a third nerve palsy and pupil involvement is usually suffering from an aneurysm. The patient will typically report a very bad headache and will likely suffer from diplopia due to extraocular muscle involvement. The eye will appear down and out with a dilated pupil, which may not be visible initially due to the presence of a large ptosis. Patients that present with a third nerve palsy and a blown pupil, with no history of vascular disease, must be sent to the emergency room immediately. A patient with an Adie tonic pupil (that is not long standing) will present with a pupil that is dilated and irregular; it will react poorly to light but will slowly constrict in response to near stimuli or convergence. A longstanding Adie pupil will slowly begin to constrict with time and will eventually appear smaller than the normal pupil."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following results would you expect to observe in this patient if 1% apraclonidine was instilled into each eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dilation of the left pupil, minimal to no change in right pupil size",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dilation of the right pupil, minimal to no change in left pupil size",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Equal dilation of both pupils",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "No dilation of either pupil",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Historically, topical 10% cocaine was used to identify the presence of Horner syndrome, and topical hydroxyamphetamine was used to aid in localizing a post-ganglionic lesion. Today, these agents are not practically available to optometrists; instead, 0.5% or 1.0% apraclonidine is used for pharmacologic testing of a suspected Horner syndrome. In patients with Horner syndrome, the affected pupil and levator muscle undergo denervation hypersensitivity. Apraclonidine is an alpha-2 adrenergic agonist that also acts as a weak alpha 1-adrenergic agonist as well. When the drop is instilled in a patient with Horner syndrome, it will cause dilation of the affected pupil and possibly elevation of the eyelid, without any change to the normal pupil or eyelid. These changes are so dramatic that a “reversal” occurs in which the normal pupil and lid will appear ptotic and myotic in comparison with the apraclonidine-positive eye. Therefore, apraclonidine testing can easily confirm the diagnosis of Horner syndrome; however, it is unable to localize the lesion."
+    },
+    {
+      "number": 3,
+      "stem": "If you had access to 10% cocaine drops, which of the following results would you expect in this patient if the cocaine test were to be performed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dilation of the right pupil, minimal to no change in left pupil size",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dilation of the left pupil, minimal to no change in right pupil size",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No dilation of either pupil",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Equal dilation of both pupils",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cocaine will block the reuptake of norepinephrine by sympathetic nerve endings at the synaptic cleft, leading to dilation of a normal pupil. In a patient with Horner syndrome, little to no norepinephrine is secreted by the sympathetic fibers; therefore, cocaine will not cause pupil dilation on the affected side because there is a lack of this neurotransmitter available."
+    },
+    {
+      "number": 4,
+      "stem": "Furthermore, if you instilled 1% hydroxyamphetamine into each of this patient’s eyes and BOTH eyes dilated, which of the following conclusions could you deduce from this result?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The condition is genetic",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "There is a pre-ganglionic lesion",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The condition is benign",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "There is a post-ganglionic lesion",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Hydroxyamphetamine results in the release of norepinephrine (NE) causing pupil dilation. If the lesion is pre-ganglionic (first or second order neuron), the affected pupil will dilate (along with the normal pupil). If the lesion is post-ganglionic (third-order neuron), the affected pupil will not become dilated because the nerves that release NE are damaged. In order to perform this test and achieve accurate results, all of the prior effects of the cocaine test must have worn off, otherwise interpretation of the findings may become skewed."
+    },
+    {
+      "number": 5,
+      "stem": "What is the MOST appropriate management for the patient's condition at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Send to emergency room immediately",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Refer for a chest x-ray",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Patch the right eye to ensure that amblyopia will not ensue",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer for VDRL and RPR laboratory testing",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "No further testing or treatment is required at this time",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Refer for blepharoplasty as the patient requested",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Current treatment/management protocols state that a Horner syndrome that can be attributed to isolated damage of a third order neuron does not require further investigation, while those caused by pre-ganglionic lesions should be referred for an MRI of the head and neck, and a CT scan of the thorax or a chest x-ray. However, because pharmacological testing can produce a false negative in some instances, it is best to evaluate all cases of Horner syndrome, regardless of whether they appear to be post- or pre-ganglionic. Causes of third order neuron damage include otitis media, cluster headaches, nasopharyngeal tumors, a mass in the cavernous sinus, or internal carotid artery dissection. Second-order neuron problems can be caused by carotid or aortic aneurysms, lesions of the neck, or Pancoast tumors. First-order neuron irregularities can stem from spinal cord tumors, syringomyelia, brain stem disease, or lateral medullary syndrome (Wallenberg syndrome)."
+    },
+    {
+      "number": 6,
+      "stem": "Which of the following side effects is MOST commonly associated with Pataday® use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Headache",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Photophobia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bradycardia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Euphoria",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Diplopia",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Tinnitus",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Topical antihistamines and mast cell stabilizers such as Pataday® (olopatadine) are commonly prescribed to relieve the symptoms associated with ocular allergies. They are a very effective class of medication due to their dual action mechanisms. Topical antihistamines that possess this dual action are Pataday®, Zaditor®, Optivar®, Lastacaft® and Elestat®. The aforementioned drops serve to alleviate ocular itching and redness by blocking H1 receptors and inhibiting mast cell and basophil degranulation. Side effects of topical antihistamine/mast cell stabilizers include stinging upon instillation, headaches, and adverse taste. Bradycardia, tinnitus, difficulty urinating, and feelings of euphoria have not been commonly reported with Pataday® use."
+    }
+  ]
+}

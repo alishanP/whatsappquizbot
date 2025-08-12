@@ -1,0 +1,330 @@
+{
+  "case_id": "PBAzoqXAvDMKSsweet72",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "36-year-old Asian female; computer programmer"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "concerned about growths on the eyes"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 3 years ago; wears glasses for night driving"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: prostate cancer"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: orthophoria, near: orthophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 18 mmHg, OS: 20 mmHg @ 12:25 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "102/81 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "75 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: small, yellowish growths on the white parts of her eyes",
+      "Location: OD, OS",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 2 years",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: occasional redness, dryness, and foreign body sensation (OS > OD)",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -0.75 DS; VA distance: 20/20",
+      "OS: -0.50 -0.50 x 175; VA distance: 20/20",
+      "OD: -0.75 -0.25 x 180; VA distance: 20/20",
+      "OS: -0.50 -0.25 x 180; VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: see image 1 OD, OS similar to OD",
+      "cornea: see image 1 OD, see images 2 and 3 OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: Mittendorf dot OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.35 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.35 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_BTRFQHDTVOWNCNJTT555.JPG",
+      "AnsweredCases/images/KI_MUVWEWAEAKBURHXCR556.PNG",
+      "AnsweredCases/images/KI_YEOJGTHUEQYHWBCKW557.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis of the patient's anterior segment condition of the RIGHT eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pterygium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Corneal farinata",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Crocodile shagreen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pinguecula",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Limbal girdle of Vogt",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Pterygia and pingueculae are ocular conditions that are both caused by excessive exposure to ultraviolet light or prolonged exposure to dry, windy, or dusty environments. The ocular surface reacts via proliferation of fibrovascular tissue onto the conjunctiva and, in the case of a pterygium, onto the cornea. Pterygia generally appear as elevated triangular growths (with their apexes pointing towards the pupil) and are more commonly found nasally than temporally. Surgical intervention is warranted in the event of excessive irritation, the presence of irregular astigmatism, if there is a risk of encroachment into the visual axis, or if the patient is unhappy with the cosmesis. Corneal farinata appear as small white specks located in the interpalpebral zone of the posterior stroma. This condition is generally bilateral and does not require treatment. Crocodile shagreen and limbal girdle of Vogt are also benign corneal findings commonly observed in the elderly. Crocodile shagreen appears in the peripheral cornea as polygonal white opacities. Limbal girdle of Vogt is typically noted at the 3 o'clock and 9 o'clock interpalpebral positions and presents as white crescent-shaped opacities."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST common etiology of the patient's anterior segment condition of the RIGHT eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excessive exposure to UV light",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Excessive eye rubbing",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Congenital anomaly",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Advancing age",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Repeated exposure to an allergen",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "A pinguecula will often develop in response to repeated overexposure to UV light and/or overly dry and dusty environments."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST appropriate diagnosis of the patient's anterior segment condition of the LEFT eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corneal dellen",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Corneal abrasion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pinguecula",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pterygium",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Acanthamoeba keratitis",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "A corneal dellen is a paralimbal thinning of corneal tissue adjacent to elevated tissue. In general, a dellen can develop alongside a pinguecula, pterygium, chemosis, the edge of a rigid gas permeable corneal contact lens, a bleb, or scar tissue from trauma or surgery. This condition arises from uneven tear film distribution, causing desiccation and thinning of the cornea. If present for an extended period of time, scar tissue may develop. A dellen will exhibit pooling of sodium fluorescein with a minimal amount of staining. There will not be an anterior chamber reaction, nor any visible infiltrates associated with corneal dellen formation. A patient who suffers from a corneal abrasion will usually report a high degree of pain, photophobia, excessive lacrimation, and will generally have difficulty opening the eyes. Patients with a corneal abrasion will also usually report some type of recent trauma to the eye. Acanthamoeba keratitis is a rare corneal infection that is often related to contact lens abuse, ocular trauma, or exposure to contaminated water. It may also occur in patients who clean their contact lenses with water or unpreserved contact lens solution. Early signs of this condition include epithelial mottling, which makes it very hard to distinguish from herpes simplex keratitis initially. Characteristic signs of this infection are a corneal ring infiltrate (which occurs later in the course of the condition) and severe pain that is highly out of proportion to the ocular signs. The prognosis for this infection improves if it is diagnosed and treated early. Acanthamoeba is very aggressive and difficult to treat in the later stages, and it carries a high risk of blindness. Treatment includes the use of topical agents such as Neosporin® (bacitracin, neomycin and polymyxin B) and Brolene® (dibrompropamidine isethionate) used in conjunction with one another. Due to the high potential of blindness, and the difficulty associated with managing this condition, it is best to refer these patients to a corneal specialist."
+    },
+    {
+      "number": 4,
+      "stem": "What is the MOST appropriate treatment of the patient's anterior segment condition of the LEFT eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neosporin® ophthalmic ointment four times daily",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Refer the patient to a corneal specialist",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Preservative-free artificial tears every two hours with bland ophthalmic ointment at night",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Application of a bandage contact lens",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Moxifloxacin ophthalmic solution four times daily",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Treatment of a corneal dellen includes copious amounts of lubrication, including unpreserved artificial tears, and the application of a bland ophthalmic ointment at night to rehydrate the area of concern and help promote healing. If the dellen is severe, a bandage contact lens may be used in conjunction with the above treatment. Because a corneal dellen is not due to an infectious process, and the corneal epithelium is typically not compromised, there is usually no need to prescribe a topical antibiotic."
+    },
+    {
+      "number": 5,
+      "stem": "After the initiation of treatment for the patient's LEFT eye condition, when should she return for a follow-up visit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 month",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6 months",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 day",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3 months",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "1 week",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "No follow-up is needed",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "A follow-up visit should generally occur within 1-7 days of the diagnosis of a corneal dellen unless there is extreme corneal thinning or other associated complications that would indicate the need for a referral or sooner follow up."
+    }
+  ]
+}

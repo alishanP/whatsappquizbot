@@ -1,0 +1,405 @@
+{
+  "case_id": "HfikswiBKkfkUygXLp82",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "15-year-old Filipino male; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "headaches and double vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: congenital cataracts"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "OTC multivitamins"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "cat dander, NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": "single vision near"
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 2 exophoria, near: 12 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Oculomotor system",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Accommodative system",
+        "value": ""
+      },
+      {
+        "label": "Vergence system",
+        "value": ""
+      },
+      {
+        "label": "Sensory system",
+        "value": ""
+      },
+      {
+        "label": "DEM test (percentile rank):",
+        "value": "horizontal: 60%, vertical: 60%, ratio: 55%, errors: 98%"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 22 mmHg, OS: 21 mmHg @ 2:32 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "101/71 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "70 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: binocular horizontal diplopia and headaches",
+      "Location: frontal headaches; diplopia at near",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 6 months",
+      "Frequency: daily",
+      "Exacerbations/remissions: worse after prolonged near work and at the end of the day, resolves with rest",
+      "Relationship to activity or function: reading, computer",
+      "Accompanying signs/symptoms: eyes feel like they are \"pulling\" when he reads; gets very sleepy when reading",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20, near: 20/20 @ 40 cm",
+      "OS: distance: 20/20, near: 20/20 @ 40 cm",
+      "OD: +0.50 DS, VA near: 20/20 @ 40 cm",
+      "OS: +0.50 DS, VA near: 20/20 @ 40 cm",
+      "Pursuits: normal",
+      "Saccades: normal",
+      "Fixations: none",
+      "OD: -0.25 DS, VA distance: 20/20",
+      "OS: -0.25 DS, VA distance: 20/20",
+      "Amplitudes: OD: 14 D, OS: 14 D, OU: 14 D",
+      "Facility (+/- 2.00): OD: 11 cycles/minute, OS: 11 cycles/minute, OU: 3 cycles per minute (difficulty clearing plus lenses binocularly)",
+      "NRA/PRA: +1.25 / -2.25",
+      "Monocular estimation method (MEM): OD: +0.50, OS: +0.50",
+      "NPC: 10 cm",
+      "Vergences: NFV @ distance: x / 6 / 3, NFV @ near: 12 / 22 / 15; PFV @ distance: 11 / 19 / 11, PFV @ near: x / 9 / 3",
+      "Facility: 8 base-out/8 base-in: 3 cycles/minute @ 40 cm (difficulty with base-out)",
+      "Worth 4 dot: far: no suppression, near: no suppression",
+      "Stereopsis: 50\" @ near",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: tr injection OD, OS",
+      "cornea: see image 1 OD, see image 2 OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_YFBLHGZXXYOOJAXG7449.JPG",
+      "AnsweredCases/images/KI_REAUMHZJQLKPJHLJ7450.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Based on the examination findings, what is the MOST likely cause of this patient's symptoms associated with prolonged near work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Basic exophoria",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Accommodative infacility",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Accommodative insufficiency",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Divergence excess",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Convergence insufficiency",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Based on the patient's clinical findings, the most likely diagnosis is convergence insufficiency. Characteristic exam findings for convergence insufficiency (CI) include the following: low exophoria or orthophoria at distance with a greater degree of exophoria at near (greater than 6 prism diopters difference between the distance and near phorias), an exophoric fixation disparity at near, a low AC/A ratio (measures the convergence induced by accommodation per unit of accommodation), a receded near point of convergence, reduced negative relative accommodation (NRA) findings, decreased vergence facility (greater degree of fusion difficulty with base-out prism), and decreased positive fusional vergence (PFV) ranges at near. Common symptoms include horizontal diplopia, general asthenopia, blur, fatigue with reading, lack of comprehension that worsens with time, the feeling that words \"move\" around on the page, and a pulling sensation of the eyes. All symptoms appear worse at the end of the day and increase in severity with prolonged near work. Among the vergence deficiencies, CI is the most common. Divergence excess is characterized by a higher degree of exophoria (or intermittent exotropia) at distance than at near (roughly a 10 prism diopter difference), a high AC/A ratio, decreased distance positive fusional vergence (PFV), and potentially poor second degree fusion at distance. Symptoms include suppression (in which the patient will likely be asymptomatic), covering or squinting an eye in bright light, and asthenopia. Patients with basic exophoria present with an exophoric position at distance and near that is relatively equal in size (within 5 prism diopters), decreased positive fusional vergence (PFV) ranges at both the distance and near, low vergence facility with more difficulty fusing base-out prism, decreased negative relative accommodation (NRA), and decreased binocular accommodative facility (with plus-powered lenses being more difficult to clear). Common symptoms include occasional diplopia at distance and near, headaches, and asthenopia. Accommodative insufficiency is the most common accommodative disorder. It is characterized by decreased amplitudes of accommodation, a lag of accommodation on MEM, and poor monocular facility (with minus-powered lenses being more difficult to clear). One may also potentially see decreased binocular accommodative facility (minus lenses being more difficult), and a reduced positive relative accommodation (PRA) finding. Symptoms include difficulty concentrating when reading, blurred vision, and eye strain. Accommodative infacility is the second most prevalent accommodative disorder. Exam findings usually include decreased monocular and binocular facility, and low NRA and PRA results. Patients will often complain of reduced distance vision following sustained periods of near work."
+    },
+    {
+      "number": 2,
+      "stem": "According to Sheard's criterion, which of the following fusional vergence ranges would allow the above patient to be asymptomatic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PFV @ near: 18 / 24 / 16",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "PFV @ near: 12 / 18 / 12",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "NFV @ near: 26 / 32 / 18",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "PFV @ near: 24 / 28 / 18",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "NFV @ near: 20 / 24 / 16",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "NFV @ near: 12 / 30 / 16",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Sheard's criterion states that in order for the patient to remain asymptomatic, the amount of the reserve fusional vergence (when the patient reports blur) must be twice that of the measured phoria. For the above patient, he has 12 prism diopters of exophoria at near and therefore needs at least 24 prism diopters of positive fusional vergence reserve in order to ensure that he remains asymptomatic. Sheard's criterion applies best to phorias of larger magnitudes."
+    },
+    {
+      "number": 3,
+      "stem": "If vision therapy was prescribed for 8 weeks and the patient was compliant with his home training, how would you expect his near phoria to change after this 8 week period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The near phoria should be eliminated",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The near phoria should remain the same",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The near phoria should decrease by roughly 6-8 prism diopters",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The near phoria should decrease by roughly 2-4 prism diopters",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "The near phoria should decrease by roughly 4-6 prism diopters",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Vision therapy will not change the level of the phoria, it will simply allow for better voluntary control over the phoria by promoting a better fusional reserve. The magnitude of a phoria may be altered via prisms or prescription eyeglasses; minus-powered lenses will generally lessen the degree of exophoria, while plus-powered lenses decrease the amount of esophoria present (when measured through the prescription lenses)."
+    },
+    {
+      "number": 4,
+      "stem": "Which 3 of the following vision therapy exercises would be MOST beneficial for your patient? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hart chart saccades",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Monocular lens clearing and sorting",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hart chart accommodative therapy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Brock string",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Pencil saccades",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Pencil push-ups",
+          "correct": true
+        },
+        {
+          "label": "G",
+          "text": "Eccentric circles free-space fusion cards",
+          "correct": true
+        }
+      ],
+      "answer": "G",
+      "explanation": "Pencil push-ups, a barrel card, and the Brock string are all methods used to initially demonstrate and help a patient ascertain an awareness of what it \"feels like\" to diverge/converge, as well as to promote and train voluntary convergence. Vectograms, the aperture rule, the Life Saver free-space fusion cards, eccentric circles free-space fusion cards, and computer orthoptics are higher level vision therapy procedures that serve to promote both positive and/or negative fusional ranges, depending on which area is deficient. Pencil saccades and Hart chart saccades promote improved accuracy of saccadic eye movements. Hart chart accommodative therapy and monocular lens clearing and sorting are techniques used to help improve a patient's awareness of accommodation. These are conducted with the goal of strengthening the patient's ability to voluntarily control their accommodative status."
+    },
+    {
+      "number": 5,
+      "stem": "What is the MOST likely reason that this patient performed better monocularly than binocularly on accommodative facility testing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient's abnormal saccadic eye movements cause a disruption of the binocular system",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The accommodative system can overcompensate for any observed phoria when tested monocularly",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The patient's accommodative capabilities are deficient, causing an increase in difficulty when both eyes view the targets together",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The vergence system is incorporated when testing binocular accommodative facility",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Accommodative facility testing, when tested monocularly, evaluates the accommodative capabilities of the individual exclusively. This patient does not have an accommodative problem; therefore, one would expect him to perform well on this particular part of the test. However, when the test is performed binocularly, the vergence system is also called into action. Because this patient has convergence insufficiency, one would expect him to perform poorly when tested binocularly. He should also display more difficulty with plus-powered lenses, because these lenses stimulate positive fusional vergence by relaxing the accommodative system."
+    },
+    {
+      "number": 6,
+      "stem": "How can the traditional manner of evaluating the near point of convergence (NPC) be altered to aid in the detection of subtle cases similar to the above patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Add red/green glasses and use a penlight as the near target",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Increase the size of the accommodative target from 20/20 to 20/40",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Add 4 base-out prism in front of the patient's dominant eye",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increase the room illumination",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Add +0.50 loose lenses OU over the patient’s habitual Rx",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Subtle cases of convergence insufficiency can be more easily detected by having the patient wear red/green glasses (which disrupt binocularity) and by using a penlight as a fixation point. The penlight is a very poor accommodative target, and with binocularity disrupted, patients with elusive cases of CI are more likely to display a receded NPC with this more sensitive methodology. Traditionally, the NPC is measured by instructing the patient to fixate on a small target (roughly 20/30) as it is moved closer to the patient's nose. The patient is asked to report when the target becomes double or blurry. If the patient does not report either, then the clinician is to monitor for loss of vergence capability (look for an eye to turn out). The point at which either the target doubles or one eye deviates is measured in centimeters. A finding of greater than 6 cm is considered suspect for CI. Several studies have purported that repeating the NPC 5 times will also help to tease out subtle cases of CI. A difference of greater than 1.5 cm between the first measurement and subsequent measurements is highly suspect of CI as a patient with CI is more likely to fatigue (resulting in a higher NPC value) as the test is repeated."
+    }
+  ]
+}

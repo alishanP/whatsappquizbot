@@ -1,0 +1,361 @@
+{
+  "case_id": "KtSrqwyuERNQhMO10541",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "21-year-old white male; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision at night"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago, does not wear glasses or contact lenses"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: glaucoma suspect"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "depression"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Wellbutrin®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "monoamine oxidase inhibitors"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hepatitis C"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 4 exophoria, near: 4 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Keratometry",
+        "value": ""
+      },
+      {
+        "label": "Dark room retinoscopy",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 12 mmHg, OS: 13 mmHg @ 5:50 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "104/70 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: difficulty with vision at night; trouble seeing street signs",
+      "Location: OD, OS",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 6 months",
+      "Frequency: every night",
+      "Exacerbations/remissions: occurs at night only; better/asymptomatic during the day",
+      "Relationship to activity or function: most noticeable when driving at night",
+      "Accompanying signs/symptoms: glare, issues with depth perception",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: depression",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20; near: 20/20 @ 40 cm",
+      "OS: distance: 20/20; near: 20/20 @ 40 cm",
+      "OD: plano - 0.25 x 178; VA distance: 20/20, VA: near: 20/20 @ 40 cm",
+      "OS: plano DS; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OD: 43.50 @ 080 / 43.75 @ 170; no distortion of mires",
+      "OS: 43.75 @ 180 / 44.00 @ 090; no distortion of mires",
+      "OD: -0.75 -0.25 x 180; VA distance: 20/20",
+      "OS: -0.75 DS; VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_ICZUGJUSTEYAOXP10611.PNG",
+      "AnsweredCases/images/KI_WOEBUZNJHUILLON10612.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the MOST appropriate diagnosis for the patient's complaint of decreased vision?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Accommodative infacility",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Degenerative myopia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Uncorrected astigmatism",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Induced myopia",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Accommodative insufficiency",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Nocturnal myopia",
+          "correct": true
+        },
+        {
+          "label": "G",
+          "text": "Pseudomyopia",
+          "correct": false
+        }
+      ],
+      "answer": "F",
+      "explanation": "Nocturnal or night myopia is caused by a change in the accommodative response during periods of low illumination. In the absence of a properly resolvable visual stimulus, the accommodative system may return to its resting posture (or dark focus), creating a more myopic refractive error. Night myopia can also occur secondary to mydriasis, which causes an increase in spherical aberration. Lastly, the Purkinje shift is thought to contribute to nocturnal myopia. The Purkinje shift is the switch from photopic vision (mediated by cones) to scotopic vision (rod-based vision). This phenomenon occurs most often in individuals aged 16-25. Symptoms include a decreased ability to read street signs at night, reduced depth perception, and an increase in perceived glare from oncoming traffic. Induced myopia refers to the event in which near-sightedness occurs secondary to a condition, such as fluctuating blood sugar levels, nuclear sclerosis of the lens, or due to a pharmacologic agent. Degenerative myopia is a condition in which there is a high level of myopia due to an increased axial length. The patient has a very mild refractive error; therefore, this is unlikely. Accommodative infacility or pseudomyopia typically presents as temporary decreased distance vision after engaging in prolonged near work."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following describes the MOST appropriate treatment for this patient's chief concerns?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discontinue current systemic medication",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vision therapy with emphasis on accommodation treatments",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Treatment of the underlying systemic condition",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Single vision distance glasses for full-time wear",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Single vision distance glasses for night driving",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Bifocal lenses to reduce the rate of myopia progression",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Single vision near glasses to relax the accommodative system",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Patients who suffer from nocturnal myopia will usually benefit from single vision minus-powered lenses that are treated with an anti-reflective coating in order to minimize symptoms of blur and glare with night driving. Patients who already wear glasses to neutralize myopia may require a second pair of stronger minus-powered lenses to be used specifically for night driving purposes. To evaluate for nocturnal myopia, visual acuity can be tested in low lighting levels, or dark room retinoscopy may be performed. Contrast sensitivity may also be assessed when a diagnosis of night myopia is suspected. Patients with induced myopia will benefit from removal of the offending agent or evaluation and treatment of the systemic cause. Vision therapy, reading glasses, the instillation of a cycloplegic agent, or a combination of the three may be used to alleviate symptoms associated with pseudomyopia."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following types of aberrations contributes the MOST to the patient's complaint of reduced visual acuity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trefoil",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Radial astigmatism",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Distortion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spherical aberration",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Coma",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Spherical aberration occurs when parallel light rays incident on the cornea and lens that are located further away from the visual axis are bent to a greater degree than axial rays, resulting in an image that comes to a point focus in front of the retinal plane. Research has demonstrated that spherical aberration is one of the primary factors associated with reduced visual acuity in nocturnal myopia. Lopez-Gil et al. measured that the refractive state of the eye was more myopic under photopic conditions when observers were shown a point source of light against a dark background as opposed to a black letters against a white background. This difference in the amount of observed myopia was attributable to spherical aberration. Spherical aberration can be minimized by decreasing the size of the aperture/pupil."
+    },
+    {
+      "number": 4,
+      "stem": "This patient currently uses Wellbutrin® to help manage his depression. Which of the following side effects is MOST commonly associated with this medication?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thoughts of suicide",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Deep vein thrombosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alopecia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bloody sputum",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Urinary incontinence",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Hypotension",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Wellbutrin® is a medication targeted at managing depression as well as seasonal affective disorder. People who take Wellbutrin® may experience side effects which include but are not limited to: tachycardia, confusion, hallucinations, suicidal thoughts, restlessness, erratic behavior or thoughts, insomnia, and skin reactions (such as rash). Studies have shown that Wellbutrin®, along with several other anti-depressant medications, increase the tendency of suicidal risk and behavior among children, adolescents, and young adults. There does not appear to be an increased risk for individuals older than 24 years of age."
+    },
+    {
+      "number": 5,
+      "stem": "The patient recently lost his mother in a car accident and began crying during the exam and asked you for a tissue. What is the MOST appropriate method to dispose of his soiled tissue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In a designated biohazard bin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "In a properly labeled medical waste container",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "In an incinerator",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "In a regular trash can",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "In an autoclave machine",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "A tissue soiled with tears, mucous, or other non-infectious secretions is not considered medical waste and may be disposed of in a regular trash can by the patient. Most states classify paper products that are soiled with non-liquid blood (as long as it is not contaminated with any infectious disease) as non-medical waste."
+    }
+  ]
+}

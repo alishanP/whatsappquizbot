@@ -1,0 +1,351 @@
+{
+  "case_id": "ZjPgvUvLfRORFUNM4862",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "48-year-old Asian female; currently unemployed"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 4 years ago; unremarkable"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: macular degeneration"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypertension, hyperlipidemia, type 2 diabetes (HbA1c: 6.5% 2 weeks ago, FBS: 102 mg/dL this morning), history of intravenous drug use"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Lipitor®, amitriptyline, Actos®, lisinopril"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: scoliosis, father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 4 exophoria, near: 8 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 14 mmHg @ 4:50 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "120/78 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "70 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: vision is blurry when reading",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 2 years",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse in dim illumination, better if she holds things further away",
+      "Relationship to activity or function: reading and computer use",
+      "Accompanying signs/symptoms: headaches and eye fatigue with prolonged near work",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/20, VA near: 20/40 @ 40 cm",
+      "OS: VA distance: 20/20, VA near: 20/40 @ 40 cm",
+      "OD: -0.25 DS add: +1.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: +0.25 -0.25 x 125 add: +1.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: 1+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 2",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 3",
+      "macula: see image 4",
+      "posterior pole: see image 3",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_HROWFPRUGGNRBGWB4928.JPG",
+      "AnsweredCases/images/KI_SQYBIYYWKZAKGXNC4929.JPG",
+      "AnsweredCases/images/KI_VQHRUQQZOKPILUWK4930.JPG",
+      "AnsweredCases/images/KI_BJFGIWQRWRIMKGET4931.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following substances is MOST likely to have caused the retinal deposits observed in images 1 through 4?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Talc",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Actos®",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amitriptyline",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lisinopril",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Lipitor®",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Cholesterol",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Talc retinopathy can occur with IV drug use of substances such as cocaine and heroin. Retinal vessel deposits typically result from the fillers that are added to these drugs. These substances often initially become caught in the lung tissue, resulting in pulmonary hypertension. In order to compensate for this, collateral vessels can develop and permit venous return that partially bypasses the lungs and travels directly to the heart. As the talc travels through the circulatory system, it can become trapped in the small retinal capillaries. Generally, visual acuity remains unaffected in these cases; however, the capillaries can become blocked, leading to areas of non-perfusion. Talc can also deposit in the small blood vessels of the lungs, liver, spleen, kidneys, and lymph nodes. Pulmonary complications may arise from talc deposits, such as edema and fibrosis. It is believed that if talc is present in the lungs, then significant foreign body damage to the tissue has already occurred. It is important to ensure pulmonary health; therefore, x-rays of the lungs should be ordered in these cases. If retinal ischemia is suspected, fluorescein angiography should be performed to evaluate for possible vascular leakage or non-perfusion."
+    },
+    {
+      "number": 2,
+      "stem": "Which 2 of the following additional tests should be ordered given the patient's retinal findings? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serum cholesterol levels",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chest x-ray",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Glycosylated hemoglobin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stool sample with culture",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Biopsy of retinal tissue",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Fluorescein angiography",
+          "correct": true
+        },
+        {
+          "label": "G",
+          "text": "Electrocardiogram",
+          "correct": false
+        }
+      ],
+      "answer": "F",
+      "explanation": "As mentioned previously, talc can also deposit in the small blood vessels of the lungs, liver, spleen, kidneys, and lymph nodes. Pulmonary complications may arise from talc deposits, such as edema and fibrosis. It is important to ensure pulmonary health; therefore, x-rays of the lungs should be ordered in this case. If retinal ischemia is suspected, fluorescein angiography should be performed to evaluate for possible vascular leakage or non-perfusion."
+    },
+    {
+      "number": 3,
+      "stem": "If the previous tests are performed and return with normal results, what immediate treatment should be recommended to the patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cryotherapy of the peripheral retina",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vitrectomy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No treatment is necessary",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Panretinal photocoagulation",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Consult with the patient’s physician to adjust her systemic medications",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Because the patient's visual acuity remains unaffected, and there are no apparent retinal complications, no treatment is necessary at this time. The patient should be evaluated by a pulmonary specialist; however, even in the absence of retinal complications caused by the deposition of talc, as there is likely to be some sort of pulmonary function deficiency. Also, it is important to ensure that the patient is no longer using drugs; the patient should be educated on the effects and complications caused by IV drug use. If the patient is abusing drugs, appropriate counseling should be sought."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following retinal complications may arise from the deposits observed in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central serous chorioretinopathy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Peripheral neovascularization",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cystoid macular edema",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Choroidal neovascular membrane",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Papilledema",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Pigment epithelial detachment",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Because the talc deposits can lead to retinal ischemia, the patient may develop hemorrhages, cotton wool spots, peripheral neovascularization, and vitreous hemorrhages, along with tractional retinal detachments (which may be mistaken for sickle cell retinopathy)."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following ocular complications has been associated with the use of amitriptyline?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Choroidal rupture",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Macular edema",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Peripheral neovascularization",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Optic nerve congestion",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Dry eyes",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Cataract formation",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Amitriptyline belongs to the class of medication known as tricyclic antidepressants, which is used in the management of depression. Its mechanism of action involves blocking the reuptake of serotonin and norepinephrine. This may cause any or all of the following side effects: weight gain, dry mouth, dry eyes, drowsiness, blurred vision, dizziness, urinary retention, fatigue, headache, increased appetite, confusion, constipation, tachycardia, hypotension, nausea, seizures, and photosensitivity. Due to the large number of possible side effects, newer alternative antidepressants are typically prescribed before tricyclic antidepressants, although the tricyclic line of therapy is still used when other options have failed."
+    }
+  ]
+}

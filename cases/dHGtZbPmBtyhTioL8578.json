@@ -1,0 +1,369 @@
+{
+  "case_id": "dHGtZbPmBtyhTioL8578",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "46-year-old Filipino male; nurse"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "red, irritated eye"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; pterygium OD; wears single vision distance glasses (removes for near vision)"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "multivitamin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 29 mmHg, OS: 17 mmHg @ 10:15 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "116/74 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      },
+      {
+        "label": "Optical coherence tomography (OCT)",
+        "value": ""
+      },
+      {
+        "label": "Threshold visual fields:",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: right eye is constantly red, irritated, and dry",
+      "Location: OD",
+      "Severity: mild/moderate",
+      "Nature of onset: gradual",
+      "Duration: 1 year",
+      "Frequency: constant, but severity waxes and wanes",
+      "Exacerbations/remissions: co-worker gave him steroid drops to help with symptoms; has been using them 2x per day for the past month in the right eye which has significantly helped the redness and irritation",
+      "Relationship to activity or function: flares up in dry or windy weather conditions",
+      "Accompanying signs/symptoms: intermittent blurry vision that improves with blinking",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -1.00 -1.50 x 165; VA distance: 20/20",
+      "OS: -0.75 -0.50 x 165; VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: 1+ injection nasal OD, normal OS",
+      "cornea: nasal pterygium 1.5 mm onto cornea OD, clear OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see images 1 and 3",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see images 2 and 4",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable",
+      "OD: see image 5",
+      "OS: see image 5",
+      "OD: see image 6",
+      "OS: see image 7"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_XPUWBRNINJXMSZCQ8641.PNG",
+      "AnsweredCases/images/KI_LVCWJDJJOTRLTTFN8642.PNG",
+      "AnsweredCases/images/KI_LUQQEDGYQTRSORNY8643.PNG",
+      "AnsweredCases/images/KI_BJAFIFSMFKKCHEHE8644.PNG",
+      "AnsweredCases/images/KI_MNDSJLWFIKMCKVOO8647.PNG",
+      "AnsweredCases/images/KI_YPNDUICKPAUKFNOB8645.PNG",
+      "AnsweredCases/images/KI_QYGYTEGLFWHJMZWI8646.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Considering the patient’s history and examination findings, what is the MOST likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Steroid-induced glaucoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Steroid-induced ocular hypertension",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Acute angle-closure glaucoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Primary open-angle glaucoma",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The use of corticosteroids may cause elevated intraocular pressure through any route of administration. This includes the use of oral steroids, chronic nasal and inhaled steroids, topical steroids (creams), and ocular use of steroids (drops, ointments, and sub-conjunctival or sub-tenon's injections). Individuals can vary greatly with respect to their sensitivity to corticosteroids. Several studies have shown that up to 36% of otherwise healthy individuals and up to 92% of POAG patients will have some type of increase in IOP in response to use of steroids. The presence of certain factors may help identify which patients might have a greater risk of responding to steroids. These elements include patients with a family history of POAG, angle recession, diabetes mellitus, high myopia, and connective tissue disease (rheumatoid arthritis in particular). The dosage, route of administration, frequency, and duration of exposure to the steroid usually determine the magnitude and duration of the IOP elevation (more potent steroids cause a faster and higher IOP increase). In susceptible individuals, administration of these medications can produce a clinical picture that closely resembles that of primary open-angle glaucoma; elevated IOP, decreased aqueous outflow facility, open angles, and eventually optic nerve cupping and visual field loss. However, the majority of individuals who develop an elevated IOP response secondary to corticosteroid use have normal optic nerves and visual fields, and therefore may not have glaucomatous damage. These patients can be classified as \"steroid responders\" or having \"steroid-induced ocular hypertension.\" If glaucomatous damage eventually ensues, as manifested in the optic nerve or on VF testing, it is only then that the patient truly can be said to have steroid-induced glaucoma. This diagnosis; however, can be confounded by the presence of other ocular conditions, such as a patient with narrow angles, pigment dispersion, physiologic optic nerve cupping, or previously diagnosed ocular hypertension. In this particular case, the patient appears to have large cups that may not follow the ISNT rule, but he does not demonstrate any visual field defects indicative of glaucoma. The optic nerve cupping is also symmetrical between the two eyes and OCT testing reveals an absence of nerve fiber layer defects; therefore, the large cups are likely physiological. Due to the fact that there is no evidence of glaucomatous damage, this patient should be classified as a \"steroid responder\" at this time. The elevation of IOP in steroid responders is related to pathophysiology localized in the trabecular meshwork (TM), which impedes aqueous outflow. Several hypotheses exist regarding changes that may occur in the TM; however, the exact mechanism is not completely understood. The most common explanation for this phenomenon is that use of steroids can cause an accumulation of glycosaminoglycans in the TM. Other explanations include inhibition of normal phagocytosis of foreign material by TM endothelial cells, and decreased synthesis of prostaglandins that typically regulate aqueous humor outflow. Frequently, the IOP elevation will resolve with discontinuation of the corticosteroid. However, if the patient is unable to completely stop the use of the steroid, the IOP may be altered by decreasing the potency of the steroid, or simply adding an IOP-lowering medication. Although, studies have shown that the increase in IOP may not be reversible after cessation of the steroid in some patients. Any time a patient plans to undergo corticosteroid therapy, a baseline examination and close follow-up are mandatory, because many steroid-induced glaucomas result from the inappropriate follow-up of prescribed steroids for minor therapeutic purposes. It also is important to remember to taper corticosteroids even in the presence of a steroid response."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following MOST closely represents the typical amount of time that it takes for a topical ocular corticosteroid to cause an elevation in the intraocular pressure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 day",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6 months",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 month",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1 hour",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "3 months",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Corticosteroid induced glaucoma was first described in 1950 when a study of steroid use and subsequent IOP elevation showed that 18-36% of healthy individuals and 46-92% of patients with primary open-angle glaucoma \"responded\" with an elevation of IOP over a course of 2-4 weeks. Other studies have also agreed that the average time it takes for a corticosteroid to cause an increase in IOP is close to 4 weeks. However, if the corticosteroid being utilized is of high potency, or is used at a very frequent rate, the rise in IOP can present sooner. In some cases, the rise in IOP can also be delayed for years. Thus, patients undergoing any steroid treatment must be examined on a regular basis."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following BEST describes the reasoning for the need to taper topical ocular corticosteroids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Avoid signs and symptoms of rebound ocular inflammation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Minimize the risk of adrenal insufficiency due to decreased production of natural cortisol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decrease the risk of posterior subcapsular cataract formation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Minimize the risk of developing steroid-induced elevation of IOP",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Prevent possible secondary ocular infections",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "When prescribing an ocular corticosteroid, the tapering schedule of the medication is just as important as the initial dose. It is imperative not to prematurely discontinue steroid medications, and to closely monitor the patient for signs of rebound inflammation during and after the tapering process. The mechanism for developing rebound inflammation stems from the fact that prolonged use of corticosteroids causes a reduction in the amount of mature circulating leukocytic elements. If the steroid is stopped abruptly, the immature cells can proliferate, producing large quantities of antibodies to the minimal residual antigen that still remains in the tissue. This physiologic action is what causes rebound inflammation. This exaggerated response is more commonly associated with systemic steroid use, but prolonged topical ocular therapy (usually longer than 1 month) can also induce this result. A typical steroid taper should begin once the inflammation is completely controlled. There are many different tapering schedules that may be implemented depending on the patient's condition, but classically, the dose of the steroid should be halved for each given time interval. For example, if you prescribed a steroid q.i.d. x 5 days, you could taper to b.i.d. x 5 days, then q.d. x 5 days. The longer the treatment period, or more frequent the dosage, the longer the taper will be. With long-term oral corticosteroid use, there is the risk of adrenal insufficiency if the steroid is not tapered properly. This is due to the fact that the adrenal glands decrease their normal production of natural cortisol when an individual is taking a dose of oral steroids. Tapering the steroid is important so that the adrenal glands can then start producing their normal amount of cortisol before complete cessation of the oral steroids."
+    },
+    {
+      "number": 4,
+      "stem": "Patients with significantly elevated intraocular pressures are at a higher risk of developing which of the following retinal vascular conditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central retinal vein occlusion",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ocular ischemic syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Branch retinal artery occlusion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Central retinal artery occlusion",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Branch retinal vein occlusion",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Patients who maintain significantly elevated IOP due to angle closure, ocular hypertension, or uncontrolled glaucoma appear to be at risk of developing a central retinal vein occlusion (CRVO) if the IOP remains elevated for a prolonged period of time. For this reason, the majority of clinicians tend to treat patients with an IOP above 30 mmHg, whether they have signs of glaucomatous damage or not. It is thought that elevated IOP causes compression of the venous system at the level of the optic nerve head, which can facilitate venous stasis and produce a vein occlusion. This numerical IOP cut-off value is rather arbitrary and goes against the common idea of not focusing too much on IOP in isolation; however, the current standard of practice is to treat ocular hypertensive patients with an IOP above 30 mmHg. Interestingly, there is also no definite evidence that suggests that lowering IOP will prevent the onset of vein occlusions. Patients with IOPs close to this threshold value should also have their central corneal thickness taken into consideration when determining whether or not to treat with IOP-lowering medications. A patient with an IOP of 27 mmHg and a central corneal thickness (CCT) of 450 microns likely has a greater risk of developing a vein occlusion than a patient with an IOP of 31 mmHg and a CCT of 650 microns."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following describes the BEST initial treatment for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refer for peripheral iridotomy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prescribe a prostaglandin analog",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Refer for laser trabeculoplasty",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Begin a taper of the corticosteroid medication",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Refer for anterior chamber paracentesis",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Prescribe oral capsules of acetazolamide",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "The first step in managing elevated intraocular pressure that can be attributed to a response to corticosteroid use is to discontinue the use of the steroid (if the underlying condition permits). In the majority of cases, pressures return to normal levels over a period of a few days to a few weeks. During this time, it may be necessary to utilize anti-glaucoma medications to control IOP if dangerously high; however, as with ocular hypertension, there may be no need to treat mildly elevated pressure if the optic nerve and visual field prove to be normal. If topical medications are unsuccessful in controlling the elevated IOP, and the optic nerve appears threatened, laser trabeculoplasty or filtering surgery may be considered. However, caution should be exercised before recommending an irreversible procedure in a condition that is commonly time-limited. In this case, after tapering of the steroid is implemented, close follow-up of the patient should be employed until the IOP returns to normal. Because there is no evidence of glaucomatous damage, and no immediate threat of a vein occlusion, other treatments are likely not necessary at this time."
+    },
+    {
+      "number": 6,
+      "stem": "The patient returns to your office for a follow-up visit and presents with signs of acute iritis in the right eye. Which of the following topical corticosteroids is LEAST likely to increase intraocular pressure and why?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dexamethasone; because it a ketone-based steroid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dexamethasone; because it is an ester-based steroid",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prednisolone acetate; because it is an ester-based steroid",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Loteprednol; because it is a ketone-based steroid",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Prednisolone acetate; because it is a ketone-based steroid",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Loteprednol; because it is an ester-based steroid",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "If a topical steroid is indicated in a patient who has a history of steroid-induced ocular hypertension or glaucoma, it is often sufficient to prescribe a weaker steroid (such as loteprednol) to control the signs and symptoms of an inflammatory reaction. Loteprednol is an ester-based corticosteroid, which tends to cause less pressure elevation for a given amount of anti-inflammatory effect, in comparison to ketone-based steroids (dexamethasone and prednisolone). If intraocular pressure is a persistent issue even with the use of a weaker steroid, the elevated IOP should then be treated in the same fashion as POAG, with anti-glaucoma medications, while remembering to also be cautious in prescribing a prostaglandin analog in the presence of ocular inflammation. In some cases, topical non-steroidal anti-inflammatory drugs (NSAIDs) may have significant potency to control cases of inflammation when used q.i.d. in lieu of a steroid."
+    }
+  ]
+}

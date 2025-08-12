@@ -1,0 +1,282 @@
+{
+  "case_id": "DJbYODwRSYFeVIHSx104",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "28-year-old Indian male; administrative assistant"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "eye pain"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 3 months ago, was treated for corneal abrasion OD after being struck in the eye with a tree branch while biking; wears SVD glasses for driving"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: glaucoma suspect"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Tums® PRN"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "tree nuts; NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: pituitary tumor, father: hypertension, hypercholesterolemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": "*following 1 drop of proparacaine 0.5% OD"
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 14 mmHg @ 9:00 am by non-contact tonometry"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: eye is very painful and sensitive to light, cannot open it",
+      "Location: OD",
+      "Severity: severe",
+      "Nature of onset: acute",
+      "Duration: started this morning",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: excessive tearing",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: occasional heartburn",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -1.00 DS; VA distance: 20/40 (PHNI)",
+      "OS: -1.25 DS; VA distance: 20/20",
+      "lids/lashes/adnexa: 1+ upper eyelid edema OD, unremarkable OS",
+      "conjunctiva: 2+ injection OD, normal OS",
+      "cornea: see image 1 OD, see image 2 OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_SAPZJYWLUGMJLOLK2821.JPG",
+      "AnsweredCases/images/KI_PIPEFHKUKAVTFYBC2822.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis of the patient's right eye anterior segment condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keratoconjunctivitis sicca",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex keratitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Corneal abrasion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bacterial corneal ulcer",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Radiation keratitis",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Recurrent corneal erosion",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "This patient is most likely experiencing a recurrent corneal erosion. This type of corneal defect frequently occurs in response to a previous corneal abrasion incurred by something organic (like a fingernail or a tree branch). The initial abrasion heals, but a short time afterwards, the patient will experience another episode without any incidence of new trauma. The second occurrence tends to transpire first thing in the morning, as the eyelids stick to the new and unstable epithelial tissue overnight and cause it to tear when the eyes open upon awakening A corneal abrasion occurs secondary to some type of history of trauma, foreign body, or injury; this was not the case with this particular patient. An ulcer is ruled out on the basis that there is no active infection or infiltration, and these more commonly occur in patients who wear contact lenses. Ultraviolet radiation keratitis occurs secondary to over-exposure to wavelengths of radiation that are between 260-280 nm. When the ocular surface is exposed, it essentially becomes \"sunburned\", leading to superficial punctate keratopathy (SPK), conjunctival injection, and a potential iridocyclitis. This condition tends to be bilateral in nature. Keratoconjunctivitis sicca (KCS) may cause symptoms such as discomfort, dryness, and foreign body sensation, and is typically a bilateral condition that tends to worsen throughout the day. Corneal findings will display superficial punctate keratitis that is limited to the epithelium, unless there is extreme desiccation of the cornea."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following represents the MOST appropriate initial topical treatment for the patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zirgan® ophthalmic gel 5 times daily, preservative-free artificial tears every 2 hours",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "FML® suspension 4 times daily, preservative-free artificial tears every 2 hours",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Polytrim® solution 4 times daily, Patanol® solution twice daily",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tetracaine ophthalmic solution every 4 hours",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Erythromycin ointment 4 times daily, preservative-free artificial tears every 2 hours",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The best way to treat a recurrent corneal erosion is through the use of a topical antibiotic to ensure sterility (as the cornea is exposed), as well as a bandage contact lens to speed up the healing process (if the area of the erosion is large). Hyperosmotic drops or artificial tears (preservative-free) should be prescribed for roughly 6-8 weeks (sometimes longer) to ensure healing and to allow for proper formation of hemidesmosomes that will help to alleviate future episodes. Other treatments include stromal micropuncture, debridement, phototherapeutic keratectomy (PTK), or oral tetracycline (which inhibits matrix metalloproteinases and allows for proper corneal healing). FML® is a mild topical steroid that is useful for treating ocular inflammation in the absence of infection. Unless there is an inflammatory process that is delaying and interfering with the healing process, RCEs are generally not treated with topical steroids, as this treatment can cause unnecessary ocular complications. Zirgan® is an effective antiviral agent used to manage and treat keratitis associated with the herpes simplex virus (HSV). Although Polytrim® is a good choice for an antibiotic, the use of Patanol® is unnecessary, as there is no indication of ocular allergies at this time. NEVER prescribe topical anesthetics to a patient unless it is absolutely necessary during the immediate postoperative period following PTK, PRK, or similar corneal surgeries. The associated risks, side effects, and complications far outweigh the beneficial relief of pain. If the patient is extremely uncomfortable, oral acetaminophen or a topical NSAID can be prescribed."
+    },
+    {
+      "number": 3,
+      "stem": "After treatment is initiated, when should the patient follow-up with you?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 month",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1 day",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1 week",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2 weeks",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "5 days",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The patient should be monitored every 1 to 2 days until the corneal defect is healed. It is important to observe the patient carefully for potential complications and ensure that the erosion is recovering appropriately. Anytime there is a large defect of the cornea, it is best to be conservative and monitor the patient closely so that if a problem develops it can be handled in a timely manner."
+    },
+    {
+      "number": 4,
+      "stem": "After his initial follow-up, the patient returns to your office stating that there is no improvement in his eye. Biomicroscopy reveals a corneal defect with loose epithelium and areas of heaping around the edges. What is the MOST appropriate treatment at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Add a preservative-free lubricating ointment to the current treatment regimen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Continue the current treatment regimen for a longer period of time",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A bandage contact lens",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Corneal debridement",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "When there is a large area of loosened epithelium or heaping of the tissue at the edges of the defect, it is best to debride the cornea (or refer for debridement if you are legally not permitted to perform the procedure). Debridement is performed via anesthetizing the cornea and using a sterile moistened cotton-tipped applicator or a cellulose sponge and forceps to remove the loose epithelium. The application of a bandage contact lens is worthwhile to promote proper healing of the cornea, but in the event of heaped-up epithelium, debridement should still be performed prior to the use of a contact lens for therapeutic purposes; otherwise, inadequate epithelial adhesions will form, placing the patient at risk for another episode. Maintaining the current treatment or adding a lubricating ointment will not effectively alter this improper healing sequence."
+    },
+    {
+      "number": 5,
+      "stem": "The patient calls your office to ask for the name of a good allergy drop for him and his wife to use because their eyes have been itchy. As the treating doctor, the call is forwarded to you and you speak directly to the patient. After naming several over-the-counter options to the patient, what 2 actions should you then take? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Follow-up with the patient via a phone call in 3 days",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Charge the patient for an emergency phone consultation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Write the day, time, advice given, and method of contact in the patient's chart",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Call the pharmacy to ensure that the patient purchased the appropriate drops",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Call the patient's primary care physician to notify them of the addition to the patient's current treatment regimen",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Any time that you give a patient medical advice (even over the phone) regarding medications or over-the-counter products, it is best to document the conversation in the patient's chart for legal purposes. Although the chance of the patient suffering any ill consequences from over-the-counter drops is low, he may accidentally purchase a completely different kind of ophthalmic preparation, and you need to be able to reference what counsel was given to the patient should any complications occur. Also, if the patient returns for a future office visit and sees another doctor, or states that the drops worked well but he forgot the name of the drops, you will want to have the information available to you or an associate. Although it takes more time, it is best to always be prudent and document everything. It is also always a good idea to follow-up with any patient recommendation with a telephone call or written communication to ensure the patient is being compliant with your instructions and is noting symptom relief. This contact should also be documented in your records."
+    }
+  ]
+}

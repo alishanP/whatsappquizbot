@@ -1,0 +1,355 @@
+{
+  "case_id": "ulcRPPWgIOhiFlvw3135",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "68-year-old Asian female; pharmacist"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago; wears PALs occasionally; cataract surgery OU 2 years ago; retinal detachment OS 20 years ago"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: cataracts"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "glucosamine, chondroitin, ginkgo biloba"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "sulfa-based medications, benzalkonium chloride"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypercholesterolemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Keratometry",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 11 mmHg, OS: 12 mmHg @ 3:50 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "116/72 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: cloudy vision; feels like looking through a \"dirty windshield\"",
+      "Location: left eye",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 3 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at night",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: glare from oncoming headlights; difficulty driving at night",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: tinnitus",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: +0.25 -1.00 x 180 add: +2.25; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: +0.50 -1.00 x 175 add: +2.25; VA distance: 20/60 (PH 20/50), VA near: 20/50 @ 40 cm",
+      "OD: 44.25 @ 170 / 45.00 @ 080; no distortion of mires",
+      "OS: 44.50 @ 180 / 45.25 @ 090; no distortion of mires",
+      "OD: +0.25 -1.00 x 175 add: +2.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: +0.25 -1.00 x 180 add: +2.50; VA distance: 20/50, VA near: 20/40 @ 40 cm",
+      "lids/lashes/adnexa: dermatochalasis OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: 1+ arcus, limbal girdle of Vogt OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: PCIOL; clear and centered OD, PCIOL; see image 1 OS",
+      "vitreous: PVD OD, OS",
+      "C/D: 0.20 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.20 H/0.25 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: old retinal tear with cryo scars superior temporal"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_ZUGXCAIKACTTWZEA3204.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the MOST likely cause of the patient’s decrease in visual acuity of the left eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posterior subcapsular cataract",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Posterior capsular opacification",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Posterior vitreous detachment",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Dermatochalasis",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Corneal arcus",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Posterior capsule opacification (PCO) is the most common postoperative complication following cataract surgery; it occurs in roughly 16-50% of patients. Symptoms often include blurring of vision, increased glare, diminished contrast sensitivity, and (potentially) monocular diplopia. Patients will commonly report that they feel as though their “cataract is coming back,” which is why this condition is also sometimes referred to as “secondary cataract.” PCO may occur 3-6 months or longer after surgery and most frequently arises when lens epithelial cells remain after the extraction of a cataract. These cells can proliferate, migrate to the posterior capsule, and differentiate, resulting in opacification of the intact posterior lens capsule. PCO has two forms: fibrous and pearl. Fibrous PCO occurs secondary to abnormal proliferation of lens epithelial cells, causing the formation of wrinkles and folds on the posterior capsule. Pearl PCO is responsible for the majority of PCO-related vision loss. Pearls are composed of normally differentiated lens epithelial cells that line the equatorial lens region. They appear like “clusters of grapes” or “soap bubbles” and are often referred to as Elschnig pearls. PCO is best visualized via slit lamp and retroillumination on a dilated eye. The patient's decrease in visual acuity cannot be attributable to nuclear sclerosis or posterior subcapsular cataracts, as these conditions can only occur in the natural crystalline lens and this patient has bilateral intraocular lens implants. Corneal arcus is caused by lipid deposition in the peripheral cornea. There remains a characteristic clear zone between the lipid and the limbus. Arcus does not generally interfere with vision. Dermatochalasis tends to be observed in elderly patients and presents as bilateral (but often asymmetric) droopy eyelids due to palpebral dermal redundancy. Significant dermatochalasis can cause an issue with superior peripheral vision, but does not often impact visual acuity. This patient's visual field remains unaffected. Also, if the vision loss was attributable to this condition, the patient's acuities would markedly improve with pinhole evaluation. The patient does not have any new retinal compromise noted on examination that could cause a decrease in visual acuity."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate treatment for the patient's left eye condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blepharoplasty",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "YAG iridotomy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Systemic control of cholesterol levels",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "No treatment is indicated at this time",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "IOL exchange",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Vitrectomy",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "YAG capsulotomy",
+          "correct": true
+        },
+        {
+          "label": "H",
+          "text": "Cataract surgery",
+          "correct": false
+        }
+      ],
+      "answer": "G",
+      "explanation": "A neodymium:yttrium-aluminum-garnet (Nd:YAG) capsulotomy is a common, non-invasive, and quick procedure that effectively creates an opening in the membrane covering the posterior aspect of an intraocular lens implant. The laser is typically set to ~1 mJ/pulse (which may be increased if necessary) and is focused centrally on the visual axis. A small opening is then made at this initial site, followed by others in a cruciate pattern until an aperture of 3 mm (or larger) is achieved. Shots placed along tension lines will result in the largest opening per pulse. Clinicians commonly have differences in their preferred technique for placing shots to create the posterior capsule opening. Following a YAG capsulotomy, patients are typically prescribed topical steroids to use three to four times daily for several days."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST common complication associated with this treatment option?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Infection",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cystoid macular edema",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hyphema",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Elevated intraocular pressure",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "There are no associated complications",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "The most commonly reported complication of YAG capsulotomy is a temporary rise in intraocular pressure. There are several possible explanations for this elevation in IOP which include deposition of debris in the trabecular meshwork, pupillary block, and an inflammatory swelling of the ciliary body or iris root. The incidence of this complication is variable in the literature; however, studies have consistently shown that a rise in IOP is more pronounced in patients with glaucoma, and those in which higher pulse energies are used. Other possible complications of YAG capsulotomy include movement/displacement of the IOL (along with subsequent refractive changes), IOL damage/pitting, uveitis, cystoid macular edema, retinal tear or detachment, pupillary block glaucoma, macular hole, retinal hemorrhage, recurrence of PCO, etc."
+    },
+    {
+      "number": 4,
+      "stem": "After performing the appropriate treatment, the patient returns for a follow-up exam. At that visit, her IOPs are 17 mmHg OD and 32 mmHg OS. Which of the following medications should be prescribed to manage her elevated intraocular pressure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alphagan-P®",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Cosopt®",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Diamox®",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Trusopt®",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Pilocarpine",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Of the listed options, the best choice for this patient is Alphagan-P®, as her medical and ocular history offers no contraindications for use of this medication. Alphagan-P® uses Purite® as its preservative (rather than BAK). Purite® breaks down into water and sodium chloride upon exposure to UV light, thereby purportedly offering less ocular irritation than would typically be experienced with the use of more traditional preservatives. Pilocarpine is not an option for this patient as she has suffered a previous retinal detachment, and pilocarpine use can increase the risk of developing a retinal detachment. Cosopt® is a combination of dorzolamide and timolol. Dorzolamide (Trusopt®) and Diamox® are carbonic anhydrase inhibitors and they both contain a sulfa group in their chemical formulas. This patient is allergic to sulfa medications; therefore, Cosopt® and Trusopt® are contraindicated, as is Diamox®."
+    },
+    {
+      "number": 5,
+      "stem": "Which (2) of the following are NOT considered individually identifiable health information, according to HIPAA? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Email address",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Medical record numbers",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vehicle identifiers",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phone number",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Eye color",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Initials",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "The Health Insurance Portability and Accountability Act (HIPAA) was created in order to protect patient's health information and the manner in which it is used and disclosed. Simultaneously, HIPAA ensures the continued ease of health information flow between healthcare practitioners and institutions without putting patients at risk. \"Individually identifiable health information” is information, including demographic data, that relates to: - the individual's past, present, or future physical or mental health or condition, - the provision of health care to the individual, or - the past, present, or future payment for the provision of health care to the individual, and that identifies the individual or for which there is a reasonable basis to believe it can be used to identify the individual. 18 individual identifiers include such things as full name (or last name and initial), address, birth date, Social Security number, phone number, email addresses, medical record numbers, vehicle identifiers, account numbers, etc. The Privacy Rule excludes from protected health information employment records that a covered entity maintains in its capacity as an employer, and education and certain other records subject to, or defined in, the Family Educational Rights and Privacy Act."
+    }
+  ]
+}

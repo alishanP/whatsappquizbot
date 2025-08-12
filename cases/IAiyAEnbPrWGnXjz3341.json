@@ -1,0 +1,360 @@
+{
+  "case_id": "IAiyAEnbPrWGnXjz3341",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "15-year-old Asian male; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "headaches and double vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "confuses colors"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: retinal scarring from toxoplasmosis"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "OTC multivitamins"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "pollen, NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 12 exophoria, near: 14 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Stereo test:",
+        "value": "70\" (Random dot)"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Vergence system",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 12 mmHg, OS: 13 mmHg @ 2:41 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "99/69 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "65 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: headaches and binocular horizontal diplopia",
+      "Location: frontal headaches; diplopia at distance and near",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: several years, but worse over the past 6 months",
+      "Frequency: daily",
+      "Exacerbations/remissions: worse after prolonged distance or near work and when tired; resolves after resting",
+      "Relationship to activity or function: computer, tablet, reading, television, taking notes from the board in school",
+      "Accompanying signs/symptoms: eyes feel like they are \"pulling\" when he reads, gets tired easily",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20, near: 20/20 @ 40 cm",
+      "OS: distance: 20/20, near: 20/20 @ 40 cm",
+      "OD: +0.50 -0.50 x 170; VA distance: 20/20",
+      "OS: +0.25 -0.50 x 010; VA distance: 20/20",
+      "NPC: 10 cm",
+      "Vergences: NFV @ distance: x / 10 / 6, NFV @ near: 12 / 22 / 15; PFV @ distance: 4 / 8 / 2, PVF @ near: x / 9 / 3",
+      "Facility: 8 base-out/8 base-in: 3 cycles/minute @ 40 cm (difficulty with base-out)",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_FHPZJWFRSMWLFSMM3411.JPG",
+      "AnsweredCases/images/KI_KQQBZQBQPJIHHZUF3412.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Based on this patient’s examination findings, what is the MOST likely cause of his symptoms associated with prolonged distance and near work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Accommodative insufficiency",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Divergence excess",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Basic exophoria",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Accommodative infacility",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Convergence insufficiency",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Basic esophoria",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Patients with basic exophoria present with an exophoric position at distance and near that is relatively equal in size (within 5 prism diopters), decreased positive fusional vergence (PFV) ranges at both the distance and near, low vergence facility with more difficulty fusing base-out prism, decreased negative relative accommodation (NRA), and decreased binocular accommodative facility (with plus-powered lenses being more difficult to clear). Common symptoms include occasional diplopia at distance and near, headaches, and asthenopia. Characteristic exam findings for convergence insufficiency (CI) include: low exophoria or orthophoria at distance with a greater degree of exophoria at near (greater than 6 prism diopters between the distance and near phorias), an exophoria fixation disparity at near, a low AC/A ratio (measures the convergence induced by accommodation per unit of accommodation), a receded near point of convergence, reduced negative relative accommodation (NRA) findings, decreased vergence facility (with a greater degree of fusion difficulty with base-out prism), and decreased positive fusional vergence (PFV) ranges at near. Common symptoms include horizontal diplopia, general asthenopia, blur, fatigue with reading, lack of comprehension that worsens with time, feeling like words are moving around the page, and a pulling sensation of the eyes. All symptoms typically appear to be worse at the end of the day and increase in severity with prolonged near work. Among the vergence deficiencies, CI is the most common. Divergence excess is characterized by a higher degree of exophoria (or intermittent exotropia) at distance than at near (roughly a 10 prism diopter difference), a high AC/A ratio, decreased distance positive fusional vergence (PFV), and (potentially) poor second degree fusion at distance. Symptoms include suppression (in this case the patient will likely be asymptomatic), covering or squinting an eye in bright light, and possibly asthenopia. Exam findings for basic esophoria include: esophoria at both distance and near that are fairly equal in magnitude (within 5 prism diopters of each other), a measured eso fixation disparity at far and near, an average AC/A ratio, decreased distance and near negative fusional vergence (NFV) ranges, decreased vergence facility (more difficulty with base-in prism fusion), a lag on MEM, decreased positive relative accommodation (PRA), and poor binocular accommodative facility (with difficulty clearing the minus-powered lenses). Symptoms of basic esophoria include horizontal diplopia, blur, and asthenopia, with the severity of the symptoms usually increasing towards the end of the day. Accommodative insufficiency is the most common accommodative disorder. It is characterized by decreased amplitudes of accommodation, a lag of accommodation on MEM, and poor monocular facility (with minus-powered lenses being more difficult to clear). Potentially, one may also observe decreased binocular accommodative facility (with minus lenses being more difficult), and a reduced positive relative accommodation (PRA) finding. Symptoms include difficulty concentrating when reading, blurred vision, and eye strain when reading. Accommodative infacility is the second most prevalent accommodative disorder. Exam findings often include decreased monocular and binocular facility, and low NRA and PRA results. Patients will typically complain of reduced distance vision following sustained periods of near work."
+    },
+    {
+      "number": 2,
+      "stem": "If you were to perform the Worth 4 dot test on the above patient (when symptomatic) with the red lens placed over his right eye, which of the following observations would you MOST likely expect him to report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 green circles only",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5 circles, with two red circles to the left of the 3 green circles",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "5 circles, with two red circles to the right of the 3 green circles",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "4 circles, with 2 red circles to the left of 2 green circles",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "4 circles, with 2 red circles to the right of 2 green circles",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "2 red circles only",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Because the patient suffers from basic exophoria and reports occasional horizontal diplopia, one would expect either crossed diplopia or binocular fusion of the targets (depending on the patient's level of fatigue). With the red lens placed over the right eye, if he is unable to fuse the targets he will report seeing two red circles to the left of 3 green circles. Given the patient's observation of diplopia and his possession of stereoacuity, it is highly unlikely that he would experience suppression. When performing the Worth 4 dot test, the red lens is generally placed in front of the right eye. Four dots are then projected on a screen. The two horizontal circles are green, the top circle is white, and the bottom circle is red (in most cases). Assuming the patient possesses simultaneous perception, the right eye alone views the bottom and the top circle as red and pink/red respectively. The left eye perceives three green circles (with the top circle being lighter green). Combined, both eyes together will view four circles; two should appear green, one lower should appear red, and the upper one will appear red/green. The perception of three green circles to the right of two red circles is indicative of crossed diplopia (exo deviation). The perception of three green circles viewed to the left of two red circles is indicative of uncrossed diplopia (eso deviation). The perception of three green circles alone is indicative of right eye suppression. If the patient reports viewing two red circles, this is indicative of suppression of the left eye."
+    },
+    {
+      "number": 3,
+      "stem": "Using the Von Graefe method to determine any amount of vertical phoria present, your patient reports that the targets are lined up horizontally with 2 base-up prism before the left eye. What can you conclude from these results?",
+      "options": [
+        {
+          "label": "A",
+          "text": "He has a right hypodeviation or a left hyperdeviation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "He has a left hypodeviation or a right hyperdeviation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "He has a right hypodeviation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "He has a left hypodeviation",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "He has a right hyperdeviation",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "He has a left hyperdeviation",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "When performing the Von Graefe method, a 4 base-up dissociating prism is placed before the left eye and an 18 base-in prism (biasing prism) is placed before the right eye. A single letter or target is then projected at far (or near). The patient should initially perceive two targets, with one being up and to the right and the other down and to the left (although this may vary if the patient has a significant vertical phoria). The 4 base-up prism is then slowly reduced (either via intermittent occlusion or no occlusion) until the patient reports that the two targets are directly beside one another (lined up horizontally). When the targets are aligned horizontally, the amount of prism before the left eye is recorded. If there is base-up prism in front of the left eye, then the deviation is described as either a right hyperdeviation or left hypodeviation in the amount equal to the neutralizing prism before the left eye. You cannot determine from this test alone if the right or left is the affected eye, or if the deviation is a phoria or tropia; a unilateral cover test will help distinguish these."
+    },
+    {
+      "number": 4,
+      "stem": "The patient reports that he has been told that he is color blind, but he is unsure what type of color vision deficit he suffers from. Which of the following color vision tests is able to differentiate between a dichromat and an anomalous trichromat?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ishihara color test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Farnsworth dichotomous test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Desaturated D-15 test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anomaloscope",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Pseudoisochromatic plates",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "The Nagel anomaloscope is the only clinical device capable of distinguishing a dichromat from an anomalous trichromat. The patient looks through an eyepiece and assesses a split field. The upper portion consists of a mixture of green and red (which are variable) with a fixed luminance. The lower portion of the field displays a yellow color, whose radiance can be manipulated. The wavelengths in both fields stimulate only the M- and L-cones, effectively rendering all persons dichromats. Normal trichromats are fairly consistent with the values to which they will assign both of the fields. How the wavelengths of the mixture field and the radiance values are manipulated by the patient allows the clinician to differentiate between a dichromat and an anomalous trichromat. Pseudoisochromatic plate tests (like Ishihara) are the most frequently used color tests in the clinical setting. They are relatively easy and quick to use. In essence, a figure (usually a symbol, number or letter) must be discerned from a background, using color as a cue to help create contours. Patients who suffer from a color defect will be unable to see the figure. The one drawback to this test is that very few renditions of this test offer the ability to detect blue-yellow deficits. The Farnsworth dichotomous test consists of 15 colored caps. The patient is asked to place the caps in order of a sequence of successive hues. The manner in which the caps are placed allows the clinician to determine if the patient is a deutan, protan, or tritan because each defect will cause a mix-up of the colors in a specific manner, according to the patient's respective confusion lines. The desaturated D-15 test is the same as the Farnsworth except that the hues are desaturated, making the test more difficult but enabling the clinician to detect certain pathologies such as glaucoma."
+    },
+    {
+      "number": 5,
+      "stem": "Assuming no refractive error, a patient with which of the following color vision anomalies would possess the POOREST level of acuity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Achromatopsia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Deuteranomaly",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Protanomaly",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Deuteranopia",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Tritanopia",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Tritanomaly",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Protanopia",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Complete achromatopsia or rod monochromatism is a rare occurrence in which the three types of cone photoreceptors do not function. Because the patient uses only rods to see, it is common to observe a visual acuity of 20/200 or worse, a central scotoma, photophobia, poor or no color discrimination, and eccentric viewing. Patients with this condition frequently manifest pendular nystagmus that may abate with time. The fundus of a patient with achromatopsia will appear normal. ERG results will display normal rod functioning but will completely lack a cone response. There are several classifications of color-vision defects; hereditary defects are the most common. The two broad categories are dichromacy and anomalous trichromacy. In dichromacy, one of the photopigments is missing; the type of dichromacy is categorized based on which photopigment is lacking. A deuteranope is missing chlorolabe; a tritanope is missing cyanolabe, and a protanope is missing erythrolabe. It is theorized that the missing photopigment is replaced by the photopigments that are present; otherwise, the person would likely suffer a deficit in visual acuity. Anomalous trichromats are in possession of all three photopigments, but the absorption spectrum of one of the pigments has been shifted. For a protanomalous trichromat, the spectrum for erythrolabe is shifted towards the shorter wavelengths. A deuteranomalous trichromat displays a shift of the maximum sensitivity of chlorolabe towards the longer wavelengths. Protans and deutans are said to be red-green colorblind, while tritans tend to mix up blues and yellows and are said to possess a blue-yellow defect. This type of color vision deficit is typically acquired rather than hereditary."
+    }
+  ]
+}

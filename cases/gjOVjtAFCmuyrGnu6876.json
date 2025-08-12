@@ -1,0 +1,337 @@
+{
+  "case_id": "gjOVjtAFCmuyrGnu6876",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "15-year-old Hispanic female; high school student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurry vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: diabetic retinopathy, cataracts"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "congenital hearing loss, delayed developmental milestones (walking), broken wrist (age 12)"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hypertension; father: type II diabetes"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions; with jerky movements OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "restricted in all quadrants OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 14 mmHg @ 2:13 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Threshold visual fields:",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurred vision at distance and near",
+      "Location: OD, OS",
+      "Severity: moderate to severe",
+      "Nature of onset: gradual",
+      "Duration: ~5 years",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at night and dim lighting conditions; stumbles and bumps into things",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: hearing impaired",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time and place and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/100, PH 20/50",
+      "OS: distance: 20/100, PH 20/50",
+      "OD: +4.25 -2.25 x 180; VA distance: 20/50, VA near: 20/40 @ 40 cm (+2.00 add, VA near: 20/25)",
+      "OS: +3.75 -1.75 x 010; VA distance: 20/50, VA near: 20/40 @ 40 cm (+2.00 add, VA near: 20/25)",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: see image 1",
+      "periphery: see image 1",
+      "C/D: 0.35 H/0.35 V",
+      "macula: normal",
+      "posterior pole: OS similar to OD",
+      "periphery: OS similar to OD",
+      "OD: see image 2",
+      "OS: see image 3"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_DQRAYVBMDEPEYFDS6943.PNG",
+      "AnsweredCases/images/KI_FZUZNFOZFOTEAELP6944.JPG",
+      "AnsweredCases/images/KI_FGKUMXSEBOXTUYTM6945.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST likely diagnosis for this patient considering her ocular findings and medical history?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gyrate atrophy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Choroideremia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Honeycomb degeneration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Usher syndrome",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Usher syndrome accounts for approximately one half of the cases of patients who are both visually and hearing impaired. There are three subtypes of Usher syndrome; the different clinical presentations of the three subtypes vary based upon the age of onset of vision loss, the severity of hearing loss, and the absence or presence of vestibular function. This patient was born with hearing loss and had delayed developmental milestones (walking), which alludes to balance problems and points toward type 1 Usher syndrome. Vestibular function is abnormal in type 1, but is normal in types 2 and 3. Vision loss with type 1 occurs during the first decade of life, whereas in types 2 and 3, vision loss is seen in the second decade of life. Patients with type 1 Usher syndrome have total to profound hearing loss that is non-progressive and present at birth; type 2 patients have moderate hearing loss, and type 3 possess progressive hearing loss that manifests after the development of early speech. Choroideremia shares many of the characteristics of retinitis pigmentosa (RP) but possesses a different fundus appearance. This condition is an X-linked recessive dystrophy affecting males. Females are carriers and may show RPE granulation in the mid-periphery; however, ERG testing and visual acuity remain normal. Choroideremia patients will exhibit night blindness, progressive visual field constriction, a decrease in central visual acuity, and abnormal ERG testing. Choroideremia presents with RPE stippling and progresses to diffuse atrophy of the choriocapillaris with age. Eventually, the sclera shows through and takes on an appearance similar to gyrate atrophy. RP-like visual field defects are seen with choroideremia, as the central vision is spared until later in the course of the disease. Choroideremia should be considered as a differential diagnosis for a male patient presenting with RP-like symptoms and fundus findings. Gyrate atrophy is an inherited autosomal recessive disorder; it initially presents as RPE and choroidal atrophy in the mid-peripheral fundus. It is estimated that 80-98% of patients have progressive myopia. Areas of the retina are hyper-pigmented near atrophic zones. Areas of atrophy tend to coalesce, and peripheral visual field loss usually worsens. Gyrate atrophy is associated with hyperornithinemia and reduced serum lysine levels."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following represents the MOST appropriate low vision treatment plan for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4x stand magnifier, yoked prism glasses, and an implantable telescope",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lined bifocal with +2.00D add, 2.2x telescope, mobility training, and genetic counseling",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Closed circuit television (CCTV), Max TV, and yellow filtered lenses",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mobility training, 6x telescope, 6x hand magnifier, referral for hearing aids",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Patients with Usher syndrome tend to have mildly reduced central visual acuity as well as constricted visual fields. These patients need magnification, but careful consideration must be made to not provide too much magnification, as there is an associated field of view loss as magnification is increased. For this reason, devices with higher magnification (such as the 6x telescope or hand magnifier) are not appropriate. A 2.2x telescope can be used to improve this patient’s distance visual acuity and can also be used in reverse manner as a field expander. While implantable telescopes are in the power range of 2.5x, they are not approved for RP patients, and this patient would not be able to take advantage of the benefit of using it in reverse fashion. Due to her decreased field and balance problems, mobility training should be recommended. Usher syndrome is a genetic condition whereby type 1 patients may eventually end up with severe vision loss; therefore, Braille instruction may be needed along with genetic counseling in order to determine which type of Usher syndrome the patient has, and to help with emotional acceptance of the condition. This patient's near vision is relatively good and she still has the ability to accommodate. Because of this, a CCTV is not necessary. Yoked prism glasses will not likely benefit her either, as she does not have sectoral field loss or midline shift."
+    },
+    {
+      "number": 3,
+      "stem": "Based upon your patient's entering uncorrected visual acuities, what is her just-noticeable difference (JND), and what spherical trial lenses would you begin with if performing a trial frame refraction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "JND: 2 D; trial lenses: +/- 1.00 D",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "JND: 1 D; trial lenses: +/- 0.50 D",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "JND: 1 D; trial lenses: +/- 1.00 D",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "JND: 2 D; trial lenses: +/- 0.50 D",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The just noticeable difference (JND) is calculated using the patient’s 20-foot visual acuities. In this case, her entering visual acuity is 20/100 in each eye. The denominator of the acuity is the increment of diopters in which she will be able to just detect a difference (simply move the decimal 2 places to the left). Therefore, in this case, the JND is 1.00 D and the spherical lenses you would initially present during trial frame refraction are half of the JND, or +/- 0.50 DS."
+    },
+    {
+      "number": 4,
+      "stem": "What is the inheritance pattern of this patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "X-linked recessive",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Autosomal dominant",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Autosomal recessive",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Usher syndrome has an autosomal recessive inheritance pattern. There are at least 10 different gene mutations that cause this condition. In order for a child to be born with Usher syndrome, each parent must be a carrier and possess identical gene mutations that are inherited by the offspring (one copy from each parent)."
+    },
+    {
+      "number": 5,
+      "stem": "Based upon the United States' definition of legal blindness, how would this patient's vision be classified?",
+      "options": [
+        {
+          "label": "A",
+          "text": "This patient is classified as legally blind based upon her visual fields",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "This patient is classified as legally blind based upon poor visual efficiency",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "This patient is classified as legally blind based upon her visual acuities",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "This patient is not classified as legally blind",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Legal blindness is a definition established by the United States government. It takes into account best corrected visual acuity in the better-seeing eye, and is based off of a Snellen 20-foot visual acuity. This patient's best corrected visual acuity is 20/50 in each eye; therefore, she is not legally blind based upon visual acuity measurements. However, legal blindness can also be based upon visual field restrictions. If a person displays a visual field measuring 20 degrees or less in the better-seeing eye, he/she would be classified as legally blind. The attached Humphrey 24-2 shows a visual field of approximately 12 degrees in each eye. Because of this, the patient can be classified as legally blind based upon her visual field measurements."
+    },
+    {
+      "number": 6,
+      "stem": "Which 3 of the following additional ocular findings would you MOST likely expect to see in a patient diagnosed with this retinal condition? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitreous cells",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dilated arterioles",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Posterior embryotoxon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Posterior subcapsular cataracts",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Narrow angles",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Hyperopia",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Waxy optic disc pallor",
+          "correct": true
+        }
+      ],
+      "answer": "G",
+      "explanation": "The classic clinical triad associated with retinitis pigmentosa is: 1- arteriolar attenuation (not dilation), 2- retinal bone-spicule pigmentation, and 3- waxy optic disc pallor. Other ocular findings associated with retinitis pigmentosa may occur at any time during the disease, some of which may be amenable to treatment. Additional signs include posterior subcapsular cataracts, myopia, and vitreous changes. Posterior subcapsular cataracts are commonly observed in all types of RP and may be removed via lensectomy to improve vision. Myopia (not hyperopia) is frequent in this population and should be monitored to allow for the best spectacle correction. Vitreous changes, such as posterior vitreous detachments and uveitis, are also commonly seen in patients with RP."
+    }
+  ]
+}

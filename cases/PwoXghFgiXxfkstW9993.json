@@ -1,0 +1,314 @@
+{
+  "case_id": "PwoXghFgiXxfkstW9993",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "71-year-old white male; retired military officer"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 3 years ago; early cataracts; wears trifocals full time"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: retinal detachment"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "benign prostatic hyperplasia, hypercholesterolemia"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Flomax®, Zocor®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: type II diabetes"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 13 mmHg @ 2:10 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "119/80 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "76 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: vision is blurry at all distances with current glasses",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 2-3 years",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -1.50 -0.25 x 065 add: +2.00; VA distance: 20/40, VA near: 20/40 @ 40 cm",
+      "OS: -2.00 -0.25 x 120 add: +2.00; VA distance: 20/40, VA near: 20/40 @ 40 cm",
+      "OD: -2.00 -0.50 x 070 add: +2.75; VA distance: 20/25, VA near: 20/25 @ 40 cm",
+      "OS: -2.25 -0.75 x 110 add: +2.75; VA distance: 20/25, VA near: 20/25 @ 40 cm",
+      "lids/lashes/adnexa: 1+ dermatochalasis OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: 2+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: 1+ nuclear sclerosis OD, OS",
+      "vitreous: posterior vitreous detachment OD, OS",
+      "C/D: 0.35 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.35 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_VMYIUUDWRJFVEWD10061.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "The patient has chosen the frame style shown in image 1, but would like to order it in a larger size of 52-20. How will you need to change the segment height in order to compensate for the larger A measurement if you only have the smaller size frame in your office?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decrease segment height by 1 mm",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "No adjustment in segment height is required",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increase segment height by 1 mm",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Decrease segment height by 2 mm",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Increase segment height by 2 mm",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "If no adjustment to the segment height is made when measurements are taken on a smaller frame, and lenses are then ground for a larger frame, the finished product will have a segment line that is placed too low. Therefore, an adjustment to the segment height must be made in order to maintain the proper position of the segment. Usually, a given frame will use the same pattern for all eye sizes, so if the eye size is increased by 2 mm across the A dimension (as in this case), there will effectively be 1 mm of lens material added to the edge in every direction. Consequently, the distance from the geometric center of the lens to the lower bevel will be increased by 1 mm. At the same time, the distance from the desired segment height to the lower bevel will also increase by 1 mm. Therefore, the segment height will need to be increased by 1 mm in order to maintain the same location of the upper line at the desired level. The opposite is true if the measurements are done on a frame that is larger than the patient desires. Rule of thumb: For an improper eye size, the height of the segment is corrected by 1/2 the difference between the sample size and the desired size. If the sample eye size is smaller, add this to the segment height; if the sample eye size is larger, subtract this number. As with any rule, there are some infrequent exceptions."
+    },
+    {
+      "number": 2,
+      "stem": "Where should the trifocal segment height be measured for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The lower edge of the pupil margin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The lower limbus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 mm below the lower edge of the pupil margin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2 mm above the lower lid margin",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "The center of the pupil",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "For trifocals, the lower pupil margin should be aligned with the zero mark of a vertically held ruler. The reading should be taken at the point where the scale intersects the level of the inside groove of the lower eyewire. According to Brooks and Borish, 1 mm should then be subtracted to compensate for pupil clearance during distance fixation of the eyes. Therefore, if the segment height for a trifocal is measured as 18 mm from the edge of the pupil to the lower eyewire groove, the net segment height ordered should be 17 mm."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following BEST describes the proper process for verifying the add power of a pair of bifocal or trifocal spectacles after you have verified the distance power with a lensometer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Turn the glasses around backward in the lensometer, re-measure the distance sphere power at a point above the optical center, and then measure the sphere power through the near segment",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Measure the sphere power through the near segment without turning the glasses around",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Turn the glasses around backward in the lensometer, and then measure the sphere power through the near segment",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Turn the glasses around backward in the lensometer, re-measure the distance sphere power through the optical center, and then measure the sphere power through the near segment",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "In order to measure the near addition power in a pair of multifocal spectacles (bifocal or trifocal), the glasses must be turned around backward in the lensometer so that the front of the lens is against the aperture of the lensometer and the temples are facing up (this will measure front vertex power). It is not uncommon for the measurement of the front vertex power and back vertex power to be different (the axis will also be the mirror image). Because of this, the distance front vertex power must be re-measured before measuring the power through the near segment, but it should not be measured at the optical center (OC). Instead, the distance front vertex power should be measured at a location above the OC (as far above the OC and inward as the point below the OC and inward where the add power will be measured). This adjustment ensures that any power variations caused by aberrations or lens thickness will be the same for distance and near measurements. The last step is to measure the power through the near segment. The add power is the difference between the front vertex distance and near powers. If the lens is spherocylindrical, the near add power is the difference between the distance sphere power and near sphere power."
+    },
+    {
+      "number": 4,
+      "stem": "Which 2 of the following statements are TRUE in regard to frame adjustments on a patient's face? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "If the right lens is too high, bend the right temple up",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "If the right lens is too far from the face, bring the left temple out",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "If the right lens is too close to the face, bring the right temple in",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "If the right lens is too low, bend the left temple down",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "If the temple spread of a pair of spectacles is uneven, or one side of the patient's head is somewhat wider than the other, it is possible that one lens will be closer to the face than the other. For example, if the right lens is too far from the patient's face, this could be due to the fact that either the right temple is not spread far enough, making that side fit too tightly, or that the left temple is too loose. The opposite is true if the right lens were to be sitting too close to the face. A simple rule of thumb for frame adjustment is: -If the right lens is in → move the right temple in (or left temple out) -If the left lens is in → move the left temple in (or right temple out) -If the right lens is out → move the right temple out (or left temple in) -If the left lens is out → move the left temple out (or right temple in) If the frame is not straight on the face, it could be because of incomplete standard alignment, or because one ear of the patient is positioned slightly higher than the other. The solution is the same regardless of the cause of the misalignment: -If the right lens is up → bend the right temple up (or left temple down) -If the left lens is up → bend the left temple up (or right temple down) -If the right lens is down → bend the right temple down (or left temple up) -If the left lens is down → bend the left temple down (or right temple up)"
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following BEST describes the refractive index and Abbe value of polycarbonate lenses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refractive index is 1.532; Abbe value is low",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Refractive index is 1.532; Abbe value is high",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Refractive index is 1.498; Abbe value is high",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refractive index is 1.586; Abbe value is low",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Refractive index is 1.498; Abbe value is low",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Refractive index is 1.586; Abbe value is high",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "The refractive indices of the most popular lens materials used in spectacles are: -CR-39 plastic: 1.498 -Crown glass: 1.523 -Trivex: 1.532 -Polycarbonate: 1.586 The Abbe value of a lens describes the amount of chromatic aberration for a given material. The higher the Abbe value, the less chromatic aberration is present in the lens, while a low Abbe value material is more likely to produce color fringes that may affect visual acuity in the lens periphery. Polycarbonate lenses have the lowest Abbe value and therefore the highest amount of chromatic aberration of lenses that are used in spectacles today (CR-39 and glass have the highest Abbe values). The following are Abbe values of commonly used lens materials: -Polycarbonate: 30 -Trivex: 43-45 -CR-39 plastic: 58 -Crown glass: 58"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "case_id": "yFFkiCAAwnCLQdEa8502",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "58-year-old black male; security guard"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "blunt ocular trauma OD (10 years ago), herpes simplex keratitis (unsure of eye, 5 years ago); last eye exam 4 years ago"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: glaucoma suspect"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypertension, hyperlipidemia, sleep apnea"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "hydrochlorothiazide, Lipitor®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "sulfa-based medications"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hypothyroidism, father: hypertension, hyperlipidemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 22 mmHg, OS: 23 mmHg @ 9:10 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Gonioscopy:",
+        "value": "open to ciliary body band, 1+ pigment inferior, (-) peripheral anterior synechiae, (-) angle recession OD, OS"
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "114/76 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "58 bpm, regular"
+      },
+      {
+        "label": "Threshold visual fields:",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: difficulty reading with current glasses; has to hold material too far away",
+      "Location: OD, OS",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 2 years",
+      "Frequency: constant",
+      "Exacerbations/remissions: vision is clear if he pushes near material away",
+      "Relationship to activity or function: only occurs with near tasks; distance vision is adequate",
+      "Accompanying signs/symptoms: eyestrain and fatigue",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: sleep apnea (uses CPAP)",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -3.25 -0.75 x 175 add: +1.50; VA distance: 20/20, VA near: 20/30 @ 40 cm",
+      "OS: -2.50 -1.25 x 010 add: +1.50; VA distance: 20/20, VA near: 20/30 @ 40 cm",
+      "OD: -3.25 -1.00 x 170 add: +2.00; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: -2.75 -1.00 x 008 add: +2.00; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: 1+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "OD: see image 3",
+      "OS: see image 4"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_IDDHRFLNOIIBJBUJ8574.PNG",
+      "AnsweredCases/images/KI_VYGTBZCNECLRDJYE8575.PNG",
+      "AnsweredCases/images/KI_CJTOZIGOUVIAYOAW8576.PNG",
+      "AnsweredCases/images/KI_TCIGUAVKILFWCCVW8577.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Considering the case history and examination findings, what is the MOST appropriate diagnosis for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pigment dispersion glaucoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Primary open angle glaucoma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Traumatic glaucoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Physiologic optic nerve cupping",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Normal tension glaucoma",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Angle recession glaucoma",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Ocular hypertension",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Primary open angle glaucoma (POAG) is a chronic, progressive disease that most often presents with characteristic signs of optic nerve head damage, retinal nerve fiber layer defects, and corresponding visual field loss. POAG primarily occurs in adults and is generally bilateral; however, it is very common to exhibit an asymmetric presentation. Although the majority of patients with POAG have elevated IOP, this measurement alone cannot be used to diagnose or dismiss the presence of glaucoma. 21 mmHg is commonly considered the upper limit of statistically normal IOP, yet close to 1/6th of patients with glaucoma have IOP levels that are consistently below 21. Moreover, some patients with IOP levels above 21 mmHg never show evidence of optic nerve damage or loss of visual function (this is considered ocular hypertension). Since this patient's IOP levels are above 21 mmHg, and he also shows glaucomatous optic nerve damage and visual field findings (without evidence of secondary causes), he can be classified as having primary open angle glaucoma. Patients with glaucomatous optic nerve damage and corresponding visual field defects that have IOPs consistently below a certain level (usually 21 mmHg) are considered to have normal tension glaucoma (or low tension glaucoma). In this case, the patient's IOPs are above 21 mmHg, therefore he does not fall into this class. Physiologic optic nerve cupping can be considered a diagnosis of exclusion once a search for evidence of glaucomatous damage has been thoroughly exhausted. Patients typically present with large cup-to-disc ratios, but further evaluation shows no other signs of glaucoma. IOPs are usually within normal ranges, no apparent visual field defects exist, and no abnormal thinning or notching is observed at the level of the optic nerve head. Secondary open angle glaucoma can be caused by a variety of elements that mechanically block the outflow of aqueous through the trabecular meshwork, which eventually results in elevated IOP. These substances include pigment released from the iris, exfoliative material from the crystalline lens, and blood cells. Secondary open angle glaucoma can also result from alterations in the structure and function of the trabecular meshwork that can be caused by such insults as inflammation, ischemia, and traumatic events. It is important to note that even though there may be pigment dispersion syndrome, or a history of angle recession from trauma, it is not considered glaucoma unless there is proven optic nerve head or visual field damage."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following represents the MOST common early pattern of a glaucomatous visual field loss?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enlarged blind spot",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inferior nasal step",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Inferior arcuate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Paracentral scotoma",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Superior arcuate",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Superior nasal step",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Characteristic findings in patients with glaucoma consist of damage to the optic nerve head, resulting in a retinal nerve fiber bundle defect. The configuration of nerve fibers served by the damaged bundle will correspond to a specific defect in the visual field. The earliest visual field changes that may suggest glaucomatous damage commonly consist of an increased variability of responses in an area that will eventually develop a defect. When a glaucomatous visual field defect does occur, it tends to initially present as a paracentral scotoma. Paracentral scotomas are typically small and relatively steep depressions that are most commonly observed just supero-nasal to the fovea. Approximately 70% of all early glaucomatous field defects can be characterized as a paracentral scotoma. This type of defect is due to damage of the papillomacular bundle which will respect the horizontal midline. It is important to remember that a single visual field test cannot definitively prove that a visual field defect exists. For this reason, interpretation of visual fields should not be performed in isolation, but rather in conjunction with other clinical findings (IOP, appearance of the optic nerve, RNFL thickness). According to Kanski's Clinical Ophthalmology, there is a set of minimal criteria for determining glaucomatous damage (also known as Anderson's criteria), which is summarized below: Glaucoma hemifield test that is \"outside normal limits\" on at least 2 consecutive occasions. A cluster of 3 or more non-edge points in a location typical for glaucoma, all of which are depressed on pattern standard deviation (PSD) at a P < 5% level, and one of which is depressed at a P <1% level, on 2 consecutive occasions. Corrected pattern standard deviation (CPSD) that occurs in less than 5% of normal individuals on two consecutive fields."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following BEST describes the etiology of increased intraocular pressure in the classic presentation of this patient’s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deposition of pigment within the trabecular meshwork",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increased aqueous production by active secretion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Resistance of outflow within the trabecular meshwork",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Increased aqueous production through ultrafiltration",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Damage to the trabecular meshwork from a history of trauma",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The elevated IOP observed in the classic presentation of POAG usually results from decreased outflow of aqueous fluid from the eye. Though the mechanism is not well understood, this elevation in IOP is thought to be due to resistance within the trabecular meshwork. It may be attributable to normal aging changes that can be found in the anterior chamber angle, iris, and ciliary body tissues of the eye. These changes can include loss of trabecular endothelial cells, thickening or fusion of trabecular lamellae, thickening of the scleral spur, increased extracellular plaque material in the angle, and a decreased ability of endothelial cells that line Schlemm's canal to form giant vacuoles."
+    },
+    {
+      "number": 4,
+      "stem": "After initiating treatment with topical IOP-lowering medications, when is the MOST appropriate time to follow-up with this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 month",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "3 months",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "6 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 day",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "1 week",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "After initiating topical IOP-lowering medications in a patient with open angle glaucoma, the patient should be seen approximately 4-6 weeks later to assess the efficacy of the drop. The follow-up interval is of course dependent upon the individual patient's glaucoma status. For example, in the presence of a markedly compromised optic nerve and/or very high intraocular pressure, the patient should be evaluated much sooner. At each follow-up visit it is important to determine compliance with the medication, establish whether the patient is experiencing any side effects, and inquire if the patient has any concerns about the treatment plan. Once the desired IOP target has been achieved, depending on the patient's condition, follow-up examinations can usually be reduced to every 3-6 months."
+    },
+    {
+      "number": 5,
+      "stem": "According to the American Optometric Association's Standards of Professional Conduct, \"An optometrist has the duty to involve the patient in care and treatment decisions in a meaningful way, with due consideration of the patient's needs, desires, abilities, and understanding, while safeguarding the patient's privacy.\" Which of the following terms BEST describes this statement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Justice",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Non-maleficence",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Patient autonomy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Beneficence",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The American Optometric Association (AOA) has adopted a Code of Ethics and Standards of Professional Conduct in order to guide optometrists in their professional and ethical duties as a health care provider. The content of these ethical documents is the result of continued relationships between the profession of optometry and the society that it serves. In this question, the statement is referring to a term known as patient autonomy. Non-maleficence refers to the duty of an optometrist to avoid acts that could potentially harm a patient (aka \"do no harm\"). Beneficence is a term that means \"do good\" and, in the profession of optometry, optometrists have the duty to proactively serve the needs of the patient and the public regarding eye, vision, and overall general health. According to the AOA, optometrists also have the duty to treat patients, colleagues, and society fairly and without prejudice; this idea is referred to as \"justice.”"
+    }
+  ]
+}

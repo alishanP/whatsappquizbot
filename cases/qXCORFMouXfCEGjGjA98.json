@@ -1,0 +1,285 @@
+{
+  "case_id": "qXCORFMouXfCEGjGjA98",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "38-year-old Asian male; computer engineer"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "troubles with new glasses"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 month ago; wears single vision distance glasses"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: LASIK surgery"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hypothyroidism"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": "material: crown glass; A measurement: 52 mm; DBL: 14 mm"
+      },
+      {
+        "label": "New spectacle Rx",
+        "value": "material: polycarbonate; see image 1 (frame is noted to be properly aligned and adjusted)"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: sees colored fringes around lights with new glasses",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: noticed when he picked up his new glasses",
+      "Duration: 2 weeks",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at night; symptoms are not apparent with his old glasses",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -4.75 DS; VA distance: 20/20",
+      "OS: -4.75 -0.25 x 178; VA distance: 20/20",
+      "OD: -5.00 DS; VA distance: 20/20",
+      "OS: -5.00 -0.25 x 178; VA distance: 20/20",
+      "OD: -5.00 DS; VA distance: 20/20",
+      "OS: -5.00 -0.25 x 180; VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_CXSZMTKDZEMLJLOO7455.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following is the MOST likely cause of the “colored fringes” reported by the patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A change in the material used to make his new lenses",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The patient is not looking through the optical centers of the lenses",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The patient has not yet adapted to the new prescription",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The new glasses are causing unwanted prism due to misalignment",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "This patient is most likely experiencing chromatic aberration with his new glasses. This phenomenon can occur when patients switch into a new lens material; particularly polycarbonate. Polycarbonate has many advantages, including impact resistance and a low specific gravity, but this material also possesses a low Abbe value (30), which makes it prone to chromatic aberration (especially if prism is involved). Most patients will not observe color fringes, or will eventually adapt to them; however, if they are exceptionally bothered by the chromatic aberrations, it is best to switch these patients into a lens material that offers a higher Abbe value. Crown glass boasts the overall highest Abbe value of 59, but this lens also has a high specific gravity and is prone to shatter, which does not make this lens the safest choice in most cases. The frame's PD matches the patient's PD and has an overall proper fit on the patient's face; therefore, there is no induced or unwanted prism present. There was a small change to the patient's overall prescription, which, if the patient is sensitive to change, may require a small amount of time for adjustment; however, this would not cause the appearance of colored fringes."
+    },
+    {
+      "number": 2,
+      "stem": "The patient states that he requires high-impact safety glasses for work. According to the American National Standards Institute (ANSI), what is the minimum center thickness allowable for high-impact prescription safety lenses made from polycarbonate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4.0 mm",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1.0 mm",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2.0 mm",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "3.0 mm",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "There is no minimum thickness",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "ANSI requirements state that in order for a prescription lens to be deemed as high-impact, it cannot measure less than 2.0 mm thick at its thinnest point, and it must pass the high-velocity impact test. Currently, only materials made from polycarbonate resins adhere to both of these requirements. Previously, lens materials had to be at least 3.0 mm thick; however, with the introduction of polycarbonate, safety lenses can now be made thinner."
+    },
+    {
+      "number": 3,
+      "stem": "The patient brings in a frame and asks you if it may be used for his prescription safety glasses. According to the American National Standards Institute (ANSI), what marking must be placed on the frame in order to identify that it has met the high-velocity impact safety standards?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Z87.1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Z87-2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Z87+",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Z87-2+",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Z87.1+",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Z87",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Rx frames that have successfully met the requirements for high-impact and high mass-velocity tests are marked with ”Z87-2+” (along with the manufacturer's trademark) on the front of the frame and both temples. Plano frames that have passed the high-impact test will have a “Z87+” marking. Basic impact rating markings are “Z87-2” for Rx frames, and “Z87” for non-Rx."
+    },
+    {
+      "number": 4,
+      "stem": "According to the Food and Drug Administration (FDA), all DRESS lenses must be able to pass the drop-ball test in order to evaluate impact resistance. What are the requirements of this test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A 1 inch steel ball weighing 1 oz dropped from a distance of 40 inches",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A 0.5 inch steel ball weighing 0.1 oz dropped from a distance of 15 inches",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A 5/8 inch steel ball weighing 0.56 oz dropped from a distance of 50 inches",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A 3/8 inch steel ball weighing 0.8 oz dropped from a distance of 60 inches",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "In order for a dress lens to be deemed impact-resistant (not shatter-proof) by the FDA, it must be capable of withstanding a 5/8 inch steel ball weighing 0.56 oz dropped from a distance of 50 inches. The lens must not fracture. If the lens is laminated and its lamina cracks but the lens does not, the lens is considered safe."
+    },
+    {
+      "number": 5,
+      "stem": "The patient also states that he occasionally requires side shields for his glasses during performance of his work duties. Which of the following maintains compliance with ANSI?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Attachment of high-velocity-compliant side shields to any basic frame",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The side shields are able to withstand an impact of 150 feet per second at three points",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The side shields of the safety frame must be permanent",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The side shields are to be made of metal to ensure durability",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "The side shields are able to withstand a 3/8 inch steel ball weighing 0.8 oz dropped from a distance of 60 inches",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "The side shields have a minimum thickness of 3.0 mm",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "ANSI states that the side shields must be placed onto a prescription safety frame designated with at least Z87-2 in order for the whole frame to be considered a “safety frame.” Furthermore, the placement of compliant side shields onto a basic frame will not then result in that frame being designated as a “safety frame.” The side shields may be removable and are not required to be a permanent fixture in order for the frame to be deemed a “safety frame.” The side shields must also be able to withstand an impact of 150 feet per second at three specified points."
+    }
+  ]
+}

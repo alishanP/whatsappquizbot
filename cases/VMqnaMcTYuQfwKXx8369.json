@@ -1,0 +1,320 @@
+{
+  "case_id": "VMqnaMcTYuQfwKXx8369",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "22-year-old Asian male; auctioneer"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 3 years ago; was told glasses wouldn't help"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: presumed ocular histoplasmosis, father: retinitis pigmentosa"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "Unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "fish oils, multivitamin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "penicillin"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: Grave disease, father: cardiovascular disease"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL; 1+ APD OS"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "full to finger counting OD, superior restriction OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 11 mmHg, OS: 12 mmHg @ 1:12 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "107/70 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "65 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurred vision; would like another opinion to see if glasses can improve vision",
+      "Location: OS",
+      "Severity: severe",
+      "Nature of onset: unsure",
+      "Duration: for as long as he can remember",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/25",
+      "OS: distance: 20/250 (PHNI)",
+      "OD: -0.25 -0.25 x 035; VA distance: 20/20",
+      "OS: +0.50 -0.75 x 015; VA distance: 20/250",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, inferior notch OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: see image 2"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_YFQHXDEXWDHRUJFU8435.PNG",
+      "AnsweredCases/images/KI_FEBFPDYCYAXFIZQS8436.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the patient’s fundus images, what is the MOST likely diagnosis of his left eye retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posterior staphyloma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chorioretinal coloboma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Degenerative myopia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Morning glory anomaly",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Retinal detachment",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "A chorioretinal coloboma is a congenital condition caused by an incomplete closure of the embryonic fissure that typically occurs at approximately week 6 of gestation. The inferior retina is affected, as this is the site of closure of the fissure. The optic nerve and/or the macula may be involved resulting in decreased visual acuity. An associated superior visual field defect is also typically observed. Chorioretinal colobomas may be unilateral or bilateral and are frequently seen in conjunction with microphthalmos. The affected area will appear white due to an absence of retinal and choroidal tissue, resulting in visible sclera that may be covered by a layer of blood vessels. The edges of a coloboma are distinct and may possess pigmentation demarcating the transitional area from the defect to normal retina. Posterior staphylomas are excavations or dips around the optic nerve or in the retina that occur secondary to a bulging of weakened sclera posteriorly. Morning glory anomaly is defined as a birth defect of the optic nerve in which there is a coloboma of the optic disc. The coloboma results in a funnel-shaped optic nerve head with a white dot in the center, an elevated ring of pigment surrounding the disc, and vessels that radiate out from the rim in ring-like spokes. Reflection from within the eye may give the appearance of a white pupil. Vision in the affected eye is usually severely impaired. Generally, degenerative myopia may occur when a patient's refractive error is greater than approximately -6.00 D. Typically, the myopic refractive error results from a long axial length. The fundus of a patient with degenerative myopia will often possess an optic nerve that is vertically elongated. Chorioretinal atrophy with an associated temporal myopic conus is frequently noted with the optic nerve as well. Additionally, the underlying choroidal vasculature will be more apparent in this condition."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following represents the MOST appropriate treatment for this patient's retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No treatment is necessary at this time; recommend glasses for protection purposes only",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Prescribe low-vision aids such as a hand-held telescope for distance spotting tasks",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Refer to a retinal specialist for the implantation of a scleral buckle",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Prescribe gas permeable contact lenses to slow down the progression of myopia",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Refer for cryotherapy of the affected area",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Chorioretinal colobomas tend to be stable and static with time and therefore do not require any intervention. Treatment only becomes necessary in the event of a subsequent rhegmatogenous retinal detachment. In this case, the retina is attached, which negates the need for either cryotherapy or the insertion of a scleral buckle. A coloboma is a congenital anomaly and therefore is not attributable to the progression of myopia. Because the patient is correctable to 20/20 in the other eye, there is no need to prescribe low-vision devices. However, spectacles with impact-resistant lenses should be discussed with this patient in order to protect the right eye, as the patient is essentially monocular."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following ocular complications is MOST likely to develop secondary to this patient’s retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inferior perforation of the globe",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Iris prolapse",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lens subluxation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rhegmatogenous retinal detachment",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Primary open-angle glaucoma",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Patients who have chorioretinal colobomas are at an increased risk for the development of a rhegmatogenous retinal detachment, and therefore should be educated regarding the signs and symptoms of this condition. The increased potential for the development of chorioretinal neovascularization also exists in these patients. Chorioretinal colobomas may involve the fundus only, or they may extend anteriorly and encompass the ciliary body, zonules and/or iris. If the zonules are involved, the portion of the lens that corresponds to the area of missing zonules may appear flattened."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following other ocular conditions is MOST frequently observed in conjunction with this patient’s retinal findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Microphthalmia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Iridocorneal endothelial syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Posterior subcapsular cataract",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "One and a half syndrome",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Keratoconus",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Colobomas may be observed in conjunction with microphthalmia. Occasionally, in the area of the coloboma, neuroectodermal tissue may protrude into the orbit and result in the development of a cyst. The cyst may remain small or it may enlarge, pushing the globe superiorly and causing the lower lid to bulge forward (termed microphthalmia with a cyst). One and a half syndrome is a rare condition affecting both eyes, in which one eye cannot move laterally at all, and the other can move only in an outward direction (with nystagmus upon abduction, which occurs on the side contralateral to the lesion); convergence and vertical movements are spared. For example, if the lesion was on the right side, neither eye would have the ability to look to the right, but the left eye would retain the ability to abduct (look left); however, it would display nystagmus in this direction of gaze. Keratoconus causes a thinning and bulging of the cornea that is generally located centrally/inferiorly. It is not an inflammatory condition, and most patients tend to be asymptomatic other than reporting decreased visual acuity. There appears to be a very high correlation between keratoconus and atopy. People who suffer from eczema, allergies, and hay fever tend to display a higher incidence of keratoconus than the rest of the general population. Iridocorneal endothelial syndrome is caused by an abnormal corneal endothelial layer, in which the formation of peripheral anterior synechiae occur. These abnormal adhesions may impede the outflow of aqueous, which may cause a resultant rise in IOP. This condition is typically unilateral."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following compounds may be added to amoxicillin in order to increase its effectiveness against bacteria that have demonstrated resistance to penicillin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Potassium clavulanate",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hydrochloride",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dichromic acid",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Etabonate",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Chlorthalidone",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Augmentin is resistant to beta-lactamase because it is composed of amoxicillin and potassium clavulanate, which is a potassium salt of clavulanic acid. Potassium clavulanate is a compound that inhibits the enzyme beta-lactamase. Clavulanic acid deactivates the enzyme, thereby preserving the beta-lactam ring of amoxicillin and allowing it to maintain its effectiveness in destroying the targeted bacteria."
+    }
+  ]
+}

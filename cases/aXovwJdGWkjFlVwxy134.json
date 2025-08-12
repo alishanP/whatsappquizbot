@@ -1,0 +1,299 @@
+{
+  "case_id": "aXovwJdGWkjFlVwxy134",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "26-year-old black male; optometry student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "1 week LASIK enhancement post-op; vision is great but has mild discomfort"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last comprehensive eye exam 1 month ago; LASIK OU 1 year ago, LASIK enhancement OU 1 week ago"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: chronic progressive external ophthalmoplegia"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "as indicated by LASIK surgeon; compliant with all meds"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "iodine"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: mesothelioma"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: foreign body sensation",
+      "Location: OD, OS",
+      "Severity: mild",
+      "Nature of onset: acute",
+      "Duration: 1 week",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at the end of the day and with extended computer use; improves with artificial tears",
+      "Relationship to activity or function: LASIK enhancement surgery",
+      "Accompanying signs/symptoms: eyes are slightly red",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20",
+      "OS: distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: trace injection OD, OS",
+      "cornea: see image 1 OD, see image 2 OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_KZTTEAKRSUHQNEHWS744.JPG",
+      "AnsweredCases/images/KI_IFMMVGQDJAMOUFWNT137.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis of the patient's right eye corneal findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Microbial keratitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Corneal foreign body",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Diffuse lamellar keratitis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Epithelial ingrowth",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Superficial punctate keratitis",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Epithelial ingrowth tends to develop several days to weeks post-LASIK surgery and initially presents along the flap edge interface. This condition is caused by the proliferation of surface epithelial cells into the corneal flap interface. A commonly accepted theory states that ingrowth may occur due to the interruption of contact inhibition; epithelial cells will not migrate as long as they are surrounded on all sides by other epithelial cells. Once this contact is disrupted by either a laser or blade, cell migration may become stimulated, causing the cells to move and fill in the perceived corneal defect. Ingrowth is more commonly encountered after enhancement surgeries. Risk factors for ingrowth are increased for patients who are slightly older, those with epithelial basement membrane dystrophy, those with a history of recurrent corneal erosions, those who frequently rub their eyes, diabetic patients, and those with blepharospasm. Surgical factors that increase ingrowth risk include hyperopic LASIK, over-manipulation of the flap, over-irrigation of the flap, flap edema, overuse of topical anesthetics, poor blades, button hole flaps, thin, torn or irregular flaps, unstable flaps, flap striae, a displaced flap, flap re-lift after the initial surgery, and LASIK performed over RK. Diffuse lamellar keratitis (sometimes referred to as the “sands of Sahara”) typically occurs two to five days post-LASIK. Initially, the patient will note a progressive decrease in visual acuity. Biomicroscopy will reveal diffuse inflammatory infiltrates located across the periphery of the surgical interface, but not penetrating the stroma, nor extending into the flap. Very early cases will display infiltrates along the edge of the flap. Generally, there will be little to no injection of the conjunctiva, the corneal surface will remain intact, and there will be no reaction in the anterior chamber. The patient usually does not initially notice any discomfort. As the condition progresses, the patient will continue to notice a decrease in acuity. A subjective refraction will usually display a shift to hyperopia with astigmatism. The number of granular infiltrates will increase and diffusely cover the flap interface, and a central haze will develop. With time, the central haze will become more condensed and may appear wave-like. Stromal folds may develop; however, some believe that this is actually not related to DLK but some other variant, and thus should not be classified as DLK. Either way, treatment is aggressive and consists of topical steroid drops every hour. If the infiltrates are severely condensed, the flap may have to be lifted, the interface debrided, and the flap irrigated to remove the infiltrates. If this condition is not detected and treated early, stromal melt with severe scarring and poor visual acuity could ensue. It is important to be able to distinguish between microbial keratitis and DLK, as the treatments differ for each. If you treat microbial keratitis with a steroid, you are only increasing the risk of infection as the steroid will suppress the body's ability to fight infectious organisms. Remember, in general, infections will cause redness and usually will not limit themselves to the surgical interface. Some form of discharge will likely be present, and the patient will generally note some type of discomfort or irritation."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate treatment of the patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refer back to the surgeon for treatment",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Have the patient return in 2 weeks and monitor carefully for change",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Add Ilotycin® q.h.s. OD and return in 1 week for follow-up",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Add Ilevro® b.i.d. OD and return in 1 week for follow-up",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Increase Pred Forte® to q.2.h. OD and return in 2-3 days for follow-up",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Increase preservative-free artificial tears to q.2.h OD and return in 1 week for follow-up",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "If the amount of epithelial ingrowth is small (1-2 mm) and limited to the periphery of the flap (with no changes to the overlying tissue), the patient may be monitored in 2-3 weeks to ensure that visual acuity remains unaffected and the ingrowth is static. In some cases, mild ingrowth observed in the early postoperative period may spontaneously resolve. The addition of any of the listed ophthalmic medications will generally not alter or affect epithelial ingrowth formation. A referral back to the operating surgeon for treatment is not necessary for small amounts of ingrowth, especially when the patient is asymptomatic; however, alerting the surgeon of the situation is a good idea."
+    },
+    {
+      "number": 3,
+      "stem": "At the follow-up visit, the patient reports that his vision is reduced in the right eye. You note a best corrected visual acuity of 20/40. Biomicroscopy reveals a worsening of the condition with more corneal involvement. What is the MOST appropriate treatment at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prescribe Restasis® ophthalmic emulsion b.i.d. OU",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increase Pred-Forte® 1% ophthalmic suspension to q.1.h. OD",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increase preservative-free artificial tears to q.1.h OD",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer back to the LASIK surgeon for flap lift and removal of aberrant cells",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Prescribe Zymaxid® ophthalmic solution q.i.d. OD",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Progression of epithelial ingrowth may cause irregular astigmatism and reduced visual acuity; this requires treatment. The flap must be re-lifted and the aberrant cells must be removed. Severe cases of ingrowth may cause a melting of the flap due to the release of collagenase and proteolytic enzymes by necrotic epithelial cells. The addition of any of the listed ophthalmic medications will generally not alter or affect ingrowth formation or regression."
+    },
+    {
+      "number": 4,
+      "stem": "Typical ophthalmic medications prescribed for use during the first week following LASIK surgery include which three of the following? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Topical steroid drops",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Bland ophthalmic ointment",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Artificial tears",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Topical hyperosmotic drops",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Mast cell stabilizer",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Topical antibiotic drops",
+          "correct": true
+        },
+        {
+          "label": "G",
+          "text": "Topical vasoconstrictor",
+          "correct": false
+        }
+      ],
+      "answer": "F",
+      "explanation": "Following LASIK surgery (whether initial treatment or enhancement), patients will be prescribed a topical antibiotic, which is usually initiated the day before surgery and used for one week after the completion of the procedure. A topical steroid to control inflammation is also generally prescribed four times a day for one week. Artificial tears (preservative-free) are recommended every few hours following the procedure. Depending on any other preexisting ocular conditions, or surgeon preference, other drops or dosage schedules may be employed."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following activities is prohibited the day before LASIK surgery?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Drinking alcoholic beverages",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Heavy lifting",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Running",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Wearing contact lenses",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Surfing",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Sleeping",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "Eating solid foods",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "There are no restrictions placed upon the ingestion of food or drink the day before the surgery; however, the consumption of alcohol the day of surgery is not recommended. The patient should absolutely not wear their contact lenses, since a clear, clean, and defect-free cornea is essential on the day of the surgery. Contact lenses can alter the shape of the cornea (and the prescription) which can subsequently alter the final visual outcome. There are no current restrictions on any type of physical activity per se, unless there is a chance that the cornea may become damaged or swollen, such that the final surgical outcome may be affected."
+    }
+  ]
+}

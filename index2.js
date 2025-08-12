@@ -3,12 +3,10 @@ require('dotenv').config();
 
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
-const { execFile } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 const { S3Client, PutObjectCommand } = require('@aws-sdk/client-s3');
 const puppeteer = require('puppeteer');
-const mammoth = require('mammoth');
 
 // ===== ENV =====
 const GROUP_ID = process.env.WHATSAPP_GROUP_ID || '120363404016981513@g.us';
@@ -19,8 +17,8 @@ const S3_BUCKET_NAME = process.env.S3_BUCKET_NAME;
 const AWS_ACCESS_KEY_ID = process.env.AWS_ACCESS_KEY_ID;
 const AWS_SECRET_ACCESS_KEY = process.env.AWS_SECRET_ACCESS_KEY;
 
-// Directory containing your .docx pairs like <id>_questions.docx and <id>_answers.docx
-const CASES_DIR = process.env.CASES_DIR || path.join(__dirname, 'cases'); 
+// Directory containing your triplets: <id>.json, <id>_questions.pdf, <id>_answers.pdf
+const CASES_DIR = process.env.CASES_DIR || path.join(__dirname, 'cases');
 
 // ===== AWS S3 =====
 const s3 = new S3Client({
@@ -28,7 +26,7 @@ const s3 = new S3Client({
   credentials: { accessKeyId: AWS_ACCESS_KEY_ID, secretAccessKey: AWS_SECRET_ACCESS_KEY },
 });
 
-async function uploadToS3(filePath, keyName, contentType = 'application/pdf') {
+async function uploadToS3(filePath, keyName, contentType = 'application/octet-stream') {
   const fileContent = fs.readFileSync(filePath);
   await s3.send(new PutObjectCommand({
     Bucket: S3_BUCKET_NAME,
@@ -43,9 +41,9 @@ async function uploadToS3(filePath, keyName, contentType = 'application/pdf') {
 const DATA_DIR = path.join(__dirname, 'data');
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 
-const USED_PATH = path.join(DATA_DIR, 'used_cases.json');                // { [groupId]: { used: [] } }
-const SCORE_PATH = path.join(DATA_DIR, 'scores.json');                   // { [groupId]: { [userId]: { correct, total, lifetimeCases } } }
-const DAILY_PATH = path.join(DATA_DIR, 'daily_cases.json');              // { [groupId]: { [YYYY-MM-DD]: number, lifetime: number } }
+const USED_PATH  = path.join(DATA_DIR, 'used_cases.json');   // { [groupId]: { used: [] } }
+const SCORE_PATH = path.join(DATA_DIR, 'scores.json');       // { [groupId]: { [userId]: { correct, total, lifetimeCases } } }
+const DAILY_PATH = path.join(DATA_DIR, 'daily_cases.json');  // { [groupId]: { [YYYY-MM-DD]: number, lifetime: number } }
 
 function loadJson(p) { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return {}; } }
 function saveJson(p, obj) { fs.writeFileSync(p, JSON.stringify(obj, null, 2)); }
@@ -107,15 +105,12 @@ function incrementDailyCases(groupId) {
 function getDailyStats(groupId) {
   const d = loadJson(DAILY_PATH);
   const key = todayStamp();
-  return {
-    today: d[groupId]?.[key] || 0,
-    lifetime: d[groupId]?.lifetime || 0,
-  };
+  return { today: d[groupId]?.[key] || 0, lifetime: d[groupId]?.lifetime || 0 };
 }
 
 // ===== STATE =====
 let restrictToUser = !!TARGET_USER;
-let currentCase = null; // { id, qDocPath, aDocPath, questions: [...], answersMap: {number:{letter,explanation?}}, qDocUrl, aDocUrl }
+let currentCase = null; // { id, qPdfPath, aPdfPath, questions, answersMap, qPdfUrl, aPdfUrl }
 let currentQuestionIndex = 0;
 let acceptingAnswers = false;
 
@@ -123,10 +118,16 @@ let acceptingAnswers = false;
 function listAvailableCaseIds() {
   if (!fs.existsSync(CASES_DIR)) return [];
   const files = fs.readdirSync(CASES_DIR);
-  const qDocs = files.filter(f => f.endsWith('_questions.docx'));
-  // Ensure an answers doc exists too
-  const ids = qDocs.map(f => f.replace('_questions.docx', ''))
-    .filter(id => fs.existsSync(path.join(CASES_DIR, `${id}_answers.docx`)));
+
+  // require triplets: <id>.json + <id>_questions.pdf + <id>_answers.pdf
+  const ids = files
+    .filter(f => f.endsWith('.json'))
+    .map(f => f.replace(/\.json$/,''))
+    .filter(id =>
+      fs.existsSync(path.join(CASES_DIR, `${id}_questions.pdf`)) &&
+      fs.existsSync(path.join(CASES_DIR, `${id}_answers.pdf`))
+    );
+
   return ids;
 }
 
@@ -134,109 +135,13 @@ function pickCaseForGroup(groupId) {
   const used = getUsedSet(groupId);
   const ids = listAvailableCaseIds().filter(id => !used.has(id));
   if (ids.length === 0) return null;
-  const idx = Math.floor(Math.random() * ids.length);
-  const id = ids[idx];
+  const id = ids[Math.floor(Math.random() * ids.length)];
   return {
     id,
-    qDocPath: path.join(CASES_DIR, `${id}_questions.docx`),
-    aDocPath: path.join(CASES_DIR, `${id}_answers.docx`),
+    jsonPath: path.join(CASES_DIR, `${id}.json`),
+    qPdfPath: path.join(CASES_DIR, `${id}_questions.pdf`),
+    aPdfPath: path.join(CASES_DIR, `${id}_answers.pdf`),
   };
-}
-
-// ===== DOCX PARSING (exact to your format) =====
-function parseQuestionsFromText(fullText) {
-  const lines = fullText.replace(/\r/g, '').split('\n').map(s => s.trimEnd());
-  const qHeader = /^Question\s+(\d+)\s*\/\s*(\d+)/i;
-
-  // Find first "Question X / Y" (the question block starts there)
-  let startIdx = lines.findIndex(l => qHeader.test(l));
-  if (startIdx === -1) return [];
-
-  const slice = lines.slice(startIdx);
-  const questions = [];
-  let i = 0;
-
-  while (i < slice.length) {
-    const m = slice[i].match(qHeader);
-    if (!m) { i++; continue; }
-    const number = parseInt(m[1], 10);
-    i++;
-
-    // Stem (until first option like 'a)')
-    const stem = [];
-    while (i < slice.length && !/^[a-e]\)/i.test(slice[i])) {
-      if (slice[i].length) stem.push(slice[i]);
-      i++;
-    }
-
-    // Options a) ... (up to 5, but accept 4)
-    const options = [];
-    while (i < slice.length && /^[a-e]\)/i.test(slice[i])) {
-      const label = slice[i].slice(0, 2).toLowerCase(); // 'a)'
-      const text = slice[i].slice(2).trim();            // keep raw; no “correct” tag here
-      options.push({ label: label[0], text });
-      i++;
-    }
-
-    if (stem.length && options.length >= 4) {
-      questions.push({ number, stem: stem.join('\n'), options });
-    }
-  }
-
-  // Ensure numeric order
-  questions.sort((a, b) => a.number - b.number);
-  return questions;
-}
-
-function parseAnswersFromText(ansText) {
-  const lines = ansText.replace(/\r/g, '').split('\n').map(s => s.trimEnd());
-  const qHeader = /^Question\s+(\d+)\s*\/\s*(\d+)/i;
-
-  // Split into blocks by Question header
-  const blocks = [];
-  let cur = [];
-  let curQ = null;
-  for (const ln of lines) {
-    const m = ln.match(qHeader);
-    if (m) {
-      if (curQ !== null) blocks.push({ q: curQ, lines: cur });
-      curQ = parseInt(m[1], 10);
-      cur = [ln];
-    } else {
-      cur.push(ln);
-    }
-  }
-  if (curQ !== null) blocks.push({ q: curQ, lines: cur });
-
-  const answers = {}; // { [qNum]: { letter, explanation } }
-  for (const block of blocks) {
-    // Find the correct option line: “… - Correct Answer”
-    let correctLetter = null;
-    let expStartIdx = -1;
-
-    for (let i = 0; i < block.lines.length; i++) {
-      const ln = block.lines[i];
-      const opt = ln.match(/^([a-e])\)\s*(.+)$/i);
-      if (opt && /\b-+\s*Correct\s*Answer\s*$/i.test(ln)) {
-        correctLetter = opt[1].toLowerCase();
-      }
-      if (/^Explanation\s*:?/i.test(ln)) {
-        expStartIdx = i + 1;
-        // don’t break; we still want to scan all option lines above
-      }
-    }
-
-    // Gather explanation text (everything after the “Explanation:” line)
-    let explanation = '';
-    if (expStartIdx >= 0) {
-      explanation = block.lines.slice(expStartIdx).join('\n').trim();
-    }
-
-    if (block.q != null && correctLetter) {
-      answers[block.q] = { letter: correctLetter, explanation };
-    }
-  }
-  return answers;
 }
 
 // ===== QUIZ FLOW =====
@@ -249,59 +154,73 @@ async function startNextCase(client, groupId, forUserId = null) {
 
   restrictToUser = !!forUserId;
 
-  // Parse docs
-  let questionsText, answersText;
+  // Load JSON (source of truth)
+  let caseJson;
   try {
-    questionsText = await docxToText(picked.qDocPath);
+    const raw = fs.readFileSync(picked.jsonPath, 'utf8');
+    caseJson = JSON.parse(raw);
   } catch (e) {
-    console.error('Failed to read questions docx:', e);
-    await client.sendMessage(groupId, '⚠️ Could not read the questions document for this case.');
+    console.error('Failed to read case JSON:', e);
+    await client.sendMessage(groupId, '⚠️ Could not read the case JSON.');
     return;
   }
 
-  try {
-    answersText = await docxToText(picked.aDocPath);
-  } catch (e) {
-    console.error('Failed to read answers docx:', e);
-    await client.sendMessage(groupId, '⚠️ Could not read the answers document for this case.');
-    return;
-  }
+  // Build questions & answersMap
+  const questions = (caseJson.questions || []).map(q => ({
+    number: q.number,
+    stem: q.stem,
+    options: (q.options || []).map(o => ({ label: (o.label || '').toLowerCase(), text: o.text || '' })),
+  }));
 
-  const questions = parseQuestionsFromText(questionsText);
-  const answersMap = parseAnswersFromText(answersText);
+  const answersMap = {};
+  for (const q of caseJson.questions || []) {
+    answersMap[q.number] = { letter: (q.answer || '').toLowerCase(), explanation: q.explanation || '' };
+  }
 
   if (!questions.length) {
-    await client.sendMessage(groupId, '⚠️ No questions were found at the bottom of the questions document.');
+    await client.sendMessage(groupId, '⚠️ No questions found in the case JSON.');
     return;
   }
 
-  // Upload the questions docx so participants can read the case (top of doc)
-  let qDocUrl = null;
+  // Upload the questions PDF so participants can read the case (full details)
+  let qPdfUrl = null;
   try {
-    const key = `cases/${picked.id}_questions.docx`;
-    qDocUrl = await uploadToS3(picked.qDocPath, key, 'application/vnd.openxmlformats-officedocument.wordprocessingml.document');
+    const key = `cases/${picked.id}_questions.pdf`;
+    qPdfUrl = await uploadToS3(
+      picked.qPdfPath,
+      key,
+      'application/pdf'
+    );
   } catch (e) {
     console.error('S3 upload (questions) error:', e);
   }
 
   currentCase = {
     id: picked.id,
-    qDocPath: picked.qDocPath,
-    aDocPath: picked.aDocPath,
+    qPdfPath: picked.qPdfPath,
+    aPdfPath: picked.aPdfPath,
     questions,
     answersMap,
-    qDocUrl,
-    aDocUrl: null,
+    qPdfUrl,
+    aPdfUrl: null,
   };
   currentQuestionIndex = 0;
 
   // Announce + link
   const header = `📄 *New Case:* ${currentCase.id}`;
-  const readLine = currentCase.qDocUrl ? `Read here: ${currentCase.qDocUrl}` : `Questions document is ready (local).`;
+  const readLine = currentCase.qPdfUrl ? `Read here: ${currentCase.qPdfUrl}` : `Questions PDF is ready (local).`;
   await client.sendMessage(groupId, `${header}\n${readLine}`);
 
   markUsed(groupId, currentCase.id);
   sendCurrentQuestion(client, groupId);
+}
+
+function promptSuffixFromOptions(options) {
+  // Build “Reply with A, B, C, …, or F”
+  if (!options || options.length === 0) return '';
+  const letters = options.map(o => o.label.toUpperCase());
+  if (letters.length === 1) return `_Reply with ${letters[0]}_`;
+  return `_Reply with ${letters.slice(0, -1).join(', ')}, or ${letters[letters.length - 1]}_`;
 }
 
 async function sendCurrentQuestion(client, groupId) {
@@ -314,7 +233,7 @@ async function sendCurrentQuestion(client, groupId) {
   const message =
     `*Q${currentQuestionIndex + 1}:* (Question ${q.number})\n` +
     `${q.stem}\n\n${optionsText}\n\n` +
-    `_Reply with A, B, C, D${q.options.length >= 5 ? ', or E' : ''}_`;
+    `${promptSuffixFromOptions(q.options)}`;
 
   await client.sendMessage(groupId, message);
   acceptingAnswers = true;
@@ -326,23 +245,23 @@ async function endOfCase(client, groupId, userId) {
   bumpUserCaseCount(groupId, userId);
   const stats = getDailyStats(groupId);
 
-  // Upload and send the answers doc (with all explanations)
-  if (!currentCase.aDocUrl) {
+  // Upload and send the answers PDF (with all explanations)
+  if (!currentCase.aPdfUrl) {
     try {
-      const key = `cases/${currentCase.id}_answers.docx`;
-      currentCase.aDocUrl = await uploadToS3(
-        currentCase.aDocPath,
+      const key = `cases/${currentCase.id}_answers.pdf`;
+      currentCase.aPdfUrl = await uploadToS3(
+        currentCase.aPdfPath,
         key,
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
+        'application/pdf'
       );
     } catch (e) {
       console.error('S3 upload (answers) error:', e);
     }
   }
 
-  const ansLine = currentCase.aDocUrl
-    ? `🧠 *Explanations*: ${currentCase.aDocUrl}`
-    : `🧠 Explanations document is ready (local).`;
+  const ansLine = currentCase.aPdfUrl
+    ? `🧠 *Explanations*: ${currentCase.aPdfUrl}`
+    : `🧠 Answers PDF is ready (local).`;
 
   await client.sendMessage(
     groupId,
@@ -402,7 +321,7 @@ client.on('message', async msg => {
   // Answer handling
   if (!acceptingAnswers || !currentCase) return;
 
-  // Restrict to target user if configured
+  // Restrict to target user if configured (group messages expose msg.author)
   if (restrictToUser) {
     const senderId = (msg.author || '').toLowerCase();
     if (senderId !== TARGET_USER) return;
@@ -411,35 +330,40 @@ client.on('message', async msg => {
   const q = currentCase.questions[currentQuestionIndex];
   const userAnswer = body.toLowerCase();
 
-  // normalize user input -> letter + text
+  // Allowed letters are dynamic based on options length
+  const allowedLetters = new Set(q.options.map(o => o.label)); // labels already lowercased
   let chosenLetter = null;
   let chosenText = userAnswer;
 
-  if (/^[a-e]$/.test(userAnswer)) {
+  // if user sends a single letter that exists in options, accept it
+  if (/^[a-z]{1,2}$/.test(userAnswer) && allowedLetters.has(userAnswer)) {
     chosenLetter = userAnswer;
     const opt = q.options.find(o => o.label === chosenLetter);
-    if (opt) chosenText = opt.text.toLowerCase();
+    if (opt) chosenText = (opt.text || '').toLowerCase();
   }
 
-  // Lookup correct letter from answers doc; fall back to matching text if needed
-  // In message handler, after we build `chosenLetter`:
-const answerInfo = currentCase.answersMap[q.number];
-const correctLetter = answerInfo?.letter;
+  const userId = TARGET_USER;                 // single-user mode
+  const sc = getUserScore(GROUP_ID, userId);  // fetch persisted score
+  sc.total = (sc.total || 0) + 1;
 
-let isCorrect = false;
-if (correctLetter && chosenLetter) {
-  isCorrect = (chosenLetter === correctLetter);
-} else if (correctLetter && !chosenLetter) {
-  const correctOpt = q.options.find(o => o.label === correctLetter);
-  isCorrect = !!correctOpt && (chosenText.trim().toLowerCase() === correctOpt.text.trim().toLowerCase());
-}
+  // Lookup correct letter from answers map
+  const answerInfo = currentCase.answersMap[q.number];
+  const correctLetter = answerInfo?.letter;
 
-if (isCorrect) {
-  sc.correct = (sc.correct || 0) + 1;
-  await msg.reply(`✅ Correct!`);
-} else {
-  await msg.reply(`❌ Incorrect. Correct answer: ${correctLetter ? correctLetter.toUpperCase() : '?'}.`);
-}
+  let isCorrect = false;
+  if (correctLetter && chosenLetter) {
+    isCorrect = (chosenLetter === correctLetter);
+  } else if (correctLetter && !chosenLetter) {
+    const correctOpt = q.options.find(o => o.label === correctLetter);
+    isCorrect = !!correctOpt && (chosenText.trim() === (correctOpt.text || '').toLowerCase().trim());
+  }
+
+  if (isCorrect) {
+    sc.correct = (sc.correct || 0) + 1;
+    await msg.reply(`✅ Correct!`);
+  } else {
+    await msg.reply(`❌ Incorrect. Correct answer: ${correctLetter ? correctLetter.toUpperCase() : '?'}.`);
+  }
 
   setUserScore(GROUP_ID, userId, sc);
   acceptingAnswers = false;

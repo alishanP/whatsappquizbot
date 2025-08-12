@@ -1,0 +1,329 @@
+{
+  "case_id": "yREbIbRPmJgaPzNb5697",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "32-year-old Asian female; waitress"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision and ocular discomfort"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; does not wear correction; had similar episode ~1 year ago, but it resolved on its own after 24 hours"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "paternal grandfather: cataracts"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "oral contraceptives"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hepatitis C"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 52 mmHg, OS: 12 mmHg @ 10:00 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "101/68 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "82 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: sees halos and rainbows around lights; experiencing mild eye pain",
+      "Location: OD",
+      "Severity: mild",
+      "Nature of onset: acute",
+      "Duration: 1 day",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/50 (PHNI)",
+      "OS: VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: trace injection OD, normal OS",
+      "cornea: see image 1 OD, clear OS",
+      "anterior chamber: trace cells (see image 2 OD), deep and quiet OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.35 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.35 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_SPBYISBMZXDNVQIX5761.JPG",
+      "AnsweredCases/images/KI_RDCKIFACXGCZWFMV5760.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis of the patient's right eye condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posner-Schlossman syndrome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Iritis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Acute angle-closure glaucoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pseudoexfoliation",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Posterior uveitis",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Posner-Schlossman syndrome (PSS) causes an acute IOP spike, usually unilaterally, that may last for hours to weeks, with recurrent episodes. Patients are often young and report decreased vision due to corneal edema, mild pain, and ocular redness. This syndrome is also known as glaucomatocyclitic crisis. Biomicroscopy will often reveal ciliary flush, a sluggish or dilated pupil, a mild anterior chamber reaction (potentially with keratic precipitates), corneal edema, open angles, and normal optic nerves. IOP readings will normally range from 40-60 mmHg. The etiology is still uncertain; some have postulated that it may be of viral origin. Many believe that the associated increase in IOP is due to a sudden decrease in aqueous outflow. Prostaglandins have been isolated from the aqueous humor of patients with this condition during an acute attack and thus have been implicated in Posner-Schlossman syndrome. Prostaglandins have been demonstrated to result in a breakdown of the blood-aqueous barrier, leading to the release of inflammatory cells and proteins that can impede aqueous outflow. Pseudoexfoliation appears as white, flaky material that deposits along the pupillary margin, the anterior surface of the lens, and on other structures of the anterior chamber. This condition is usually unilateral and is usually observed in the elderly with a concurrent cataract. Transillumination defects, if present, are limited to the iris sphincter region. The pseudoexfoliative material can accumulate in the trabecular meshwork, causing an increase in IOP, potentially leading to glaucoma. Patients with iritis, also known as anterior uveitis, will typically report photophobia, excessive lacrimation, pain, and diminished visual acuity. This condition is caused by inflammation of the iris, or of both the iris and the anterior portion of the ciliary body (iridocyclitis). Clinical signs include: keratic precipitates (which are variable in size and distribution depending upon the etiology of the iritis) deposited on the corneal endothelium, cells and flare (protein that has leaked from iris vessels into the anterior chamber), sluggish and slightly constricted pupils caused by swelling of the uveal tract, irregular pupil margins (if posterior synechiae are present), and in the event of granulomatous inflammation, iris nodules. An acute episode of anterior uveitis or chronic uveitis may cause the formation of posterior synechiae. Cells may also be present in the vitreous chamber; however, the number of cells in the anterior chamber should exceed the number observed in the vitreous cavity. Patients with iritis tend to have lower IOPs rather than elevated IOPs. Posterior uveitis is associated with inflammation of the choroid and retina posterior to the base of the vitreous. Patients with posterior uveitis will likely report a recent onset of floaters caused by cells and flare in the vitreous cavity, or they may complain of blurred vision due to choroiditis of the macular region, causing a central scotoma. There may be an associated spillover of cells into the anterior chamber, but the vitreous cells will outnumber those observed in the anterior chamber. Acute-angle closure glaucoma is typically a unilateral condition and is frequently attributable to pupillary block or plateau iris syndrome. Patients with this condition will often present with blurred vision, corneal edema, and ocular pain, along with conjunctival injection (Posner-Schlossman syndrome typically causes little-to-no conjunctival injection). Also, patients often present with a frontal headache, a fixed and dilated pupil, a shallow anterior chamber, nausea and vomiting, and an elevated IOP."
+    },
+    {
+      "number": 2,
+      "stem": "Considering this patient’s ocular condition, what findings would you expect to observe if gonioscopy were performed on the right eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An open angle",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "A heavily pigmented trabecular meshwork",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Neovascularization of the iris",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Plateau iris",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "A closed angle with only Schwalbe's line visible",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Peripheral anterior synechiae",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Performing gonioscopy in order to view the anterior chamber angle in a patient with Posner-Schlossman syndrome will reveal an open angle that is devoid of synechiae or heavy pigmentation of the trabecular meshwork; excessive pigmentation is characteristic in patients with pigment dispersion syndrome or pigmentary glaucoma. Patients with pseudoexfoliative glaucoma will typically display black pigment deposited onto the trabecular meshwork and anterior to Schwalbe's line, causing a wavy appearance of the Sampaolesi line."
+    },
+    {
+      "number": 3,
+      "stem": "Which 2 of the following represent the MOST appropriate treatment for the patient's right eye condition? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refer for lensectomy OD",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Timolol maleate 0.5% b.i.d. OD",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Prednisolone acetate 1% q.i.d. OD",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cyclopentolate 1% q.h.s. OD",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Lumigan® q.h.s. OD",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Refer for a laser peripheral iridotomy OD",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Initial treatment for patients presenting with Possner-Schlossman is directed towards controlling intraocular pressure and decreasing inflammation. Typical first-line medications include topical beta-blockers (such as timolol), alpha-agonists (such as brimonidine), and carbonic anhydrase inhibitors (such as dorzolamide). Prostaglandin analogs may be considered; however, this class is not typically firstline as there is evidence suggesting prostaglandins might exacerbate inflammation. Oral carbonic anhydrase inhibitors are occasionally used acutely to quickly lower the IOP. For controlling the inflammation, a topical steroid drop is indicated (such as prednisolone acetate). Topical NSAIDs may also be considered. Oral NSAIDS such as indomethacin may also be used to avoid a possible steroid-induced glaucoma and for their anti-prostaglandin properties, as elevated prostaglandin levels in the aqueous have been associated with attacks. Miotics and mydriatic agents are rarely used. In particular, pilocarpine should be avoided as this is thought to exacerbate a possible trabeculitis. PSS is a self-limiting condition; however, because there may be repeat episodes, it is important to monitor for damage to the optic nerve or for progression of any visual field defects. It is also essential to monitor the patient for primary open-angle glaucoma, which may be superimposed with PSS. Prescribing prophylactic treatment between episodes or performing anti-glaucoma surgical procedures have not been shown to prevent the development of future attacks and therefore are not warranted in the management of this condition."
+    },
+    {
+      "number": 4,
+      "stem": "After the initiation of treatment, when should the patient return to your office for a follow-up visit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 week",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-2 days",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "6 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3 weeks",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "1 year",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "3 months",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Patients with Posner-Schlossman syndrome should be followed every couple of days to ensure that the IOP returns back to baseline. If the IOP remains high, the treatment protocol should be altered accordingly."
+    },
+    {
+      "number": 5,
+      "stem": "The patient returns to your office 6 months later and wishes to be fit with colored contact lenses. Which of the following agencies regulates contact lenses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "State Board of Optometry (SBO)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Contact Lens Manufacturing Association (CLMA)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "American National Standards Institute (ANSI)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "American Optometric Association (AOA)",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Food and Drug Administration (FDA)",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Contact lenses are considered a medical device and, as such, are governed by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act. ANSI serves to create and uphold voluntary standards across many different consumer and government affairs, including ophthalmic materials, and the safety surrounding ophthalmic frames and lenses."
+    }
+  ]
+}

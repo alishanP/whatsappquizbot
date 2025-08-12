@@ -1,0 +1,393 @@
+{
+  "case_id": "qMoYcfqknfGDJMT12594",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "18-year-old Hispanic male; college student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "double vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; unremarkable"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "ibuprofen PRN (for headaches)"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: type II diabetes"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 14 esophoria, near: 2 esophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Oculomotor system",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Accommodative system",
+        "value": ""
+      },
+      {
+        "label": "Vergence system",
+        "value": ""
+      },
+      {
+        "label": "Sensory system",
+        "value": ""
+      },
+      {
+        "label": "DEM test (percentile rank):",
+        "value": "horizontal: 80%, vertical: 80%, ratio: 80%, errors: 90%"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 15 mmHg @ 4:40 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "125/78 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: occasional horizontal double vision when viewing distant objects",
+      "Location: OU",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 1 year",
+      "Frequency: intermittent",
+      "Exacerbations/remissions: worsens at the end of the day or when fatigued; improves with rest",
+      "Relationship to activity or function: noticed when he started college last year; mostly occurs when viewing the board in a large lecture hall",
+      "Accompanying signs/symptoms: headaches, eyestrain, fatigue",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: headaches",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20",
+      "OS: distance: 20/20",
+      "Pursuits: normal",
+      "Saccades: marked undershoots",
+      "Fixations: normal",
+      "OD: -0.25 -0.25 x 035; VA distance: 20/20; VA near: 20/20 @ 40 cm",
+      "OS: plano -0.50 x 140; VA distance: 20/20; VA near: 20/20 @ 40 cm",
+      "Amplitudes: OD: 12 D, OS: 12 D, OU: 13 D",
+      "Facility (+/- 2.00): OD: 12 cycles/minute, OS: 12 cycles/minute, OU: 9 cycles/minute",
+      "NRA/PRA: +2.25 / -2.25",
+      "Monocular estimation method (MEM): OD: plano, OS: plano",
+      "NPC: to the nose",
+      "Vergences: NFV @ distance: x / 3 / 1, NFV @ near: 11 / 22 / 10; PFV @ distance: 17 / 26 / 13, PFV @ near: 18 / 24 / 16",
+      "Facility: 8 base-out/8 base-in: 7 cycles/minute",
+      "Worth 4 dot: far: uncrossed diplopia, near: fusion/no suppression",
+      "Stereopsis: far: none, near: 25\"",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: similar to image 1",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_ENFXDWIVFHUAPSX12678.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the BEST diagnosis for the patient's symptoms of diplopia and headaches?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Basic esophoria",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6th cranial nerve palsy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Divergence paralysis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Divergence insufficiency",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Convergence excess",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "A diagnosis of divergence insufficiency is based on the following: • Esophoria that is greater at distance than near • Frequency of eso deviation is worse at distance than near • Eso fixation disparity at distance • Decreased second degree fusion at far (suppression or diplopia) • Low AC/A ratio • Decreased negative fusional vergence ranges at distance • Deviation is comitant (as opposed to a 6th nerve palsy) • Symptoms include headaches, eyestrain, and intermittent diplopia at distance ° Gradual in nature (not sudden) ° Symptoms worsen with fatigue and improve with rest Divergence insufficiency is the least common vergence condition (0.1% of the population). Because of this, it must be differentiated from other possible serious neurological disorders such as divergence paralysis or a 6th cranial nerve palsy. • In cases of a 6th nerve palsy, the eye cannot abduct on extraocular muscle evaluation ° A 6th nerve palsy is non-comitant when measured in all fields of gaze ° Negative fusional vergence ranges will likely be decreased at near as well as distance ° End-point nystagmus may be present • Divergence paralysis is an acute issue that is usually secondary to head trauma, multiple sclerosis, brainstem damage, etc. ° It occurs suddenly with marked esotropia at distance ° A-pattern eso deviation may be present • In both 6th nerve palsies and divergence paralysis, the eso deviation does not increase when the patient is tired or decrease when well rested. Papilledema may also appear. In these cases, patients may present with other neurological symptoms such as dizziness, lethargy, vomiting, irritability, gait disturbances, and distal paresthesia."
+    },
+    {
+      "number": 2,
+      "stem": "According to Sheard's criterion, which of the following BEST represents the amount of prism needed for this patient to maintain single and comfortable binocular vision?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7 prism diopters base-in",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4 prism diopters base-out",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "8 prism diopters base-out",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "7 prism diopters base-out",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "8 prism diopters base-in",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "4 prism diopters base-in",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Sheard's criterion states that the compensating relative fusional vergence reserve (blur point) should be at least twice the magnitude of the deviation in order to maintain comfortable binocular vision. ° Prism needed = 2/3 phoria - 1/3 compensating fusional vergence ° In this case: ° Prism needed = 2/3 (14) - 1/3 (3) ° Prism needed = 9.33 - 1 ° Prism needed = 8.33"
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following treatments has been proven to be MOST effective for patients with this diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Base-out prism at distance",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Additional minus lenses at distance",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vision therapy with divergence training",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vision therapy with convergence training",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Base-in prism at distance",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Additional plus lenses at distance",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "For this patient, prescribing glasses with the subjective refraction data will have virtually no effect on ocular alignment due to the low AC/A ratio associated with divergence insufficiency. ° If additional minus lenses are added to the distance prescription, this will actually increase the amount of the esophoria at distance, likely making the patient's symptoms worse ° This occurs because minus lenses stimulate accommodation, which also leads to convergence through the AC/A ratio ° If additional plus lenses are added to the distance prescription, they may decrease the amount of the esophoria; however, they will induce distance blur ° Because the AC/A ratio is low, in order to create a significant effect on the distance phoria, a substantial amount of plus is needed (which would lead to significant distance blur) Vision therapy for patients with divergence insufficiency is challenging, and the prognosis for these cases is typically worse than for those with other binocular vision conditions, such as divergence excess, convergence insufficiency, and convergence excess. ° It is very difficult to train divergence, especially at distance Therefore, treatment with prism is the best option for patients with divergence insufficiency. Patients may undergo a combination of prism and vision therapy; however, prism tends to be the more effective treatment. ° Because the deviation is eso, the patient will require base-out prism ° Base-in prism will only cause the deviation to get worse (should be used in exo deviations)"
+    },
+    {
+      "number": 4,
+      "stem": "You decide to begin vision therapy on this patient with Variable Tranaglyphs. When training divergence, what do you expect the patient to observe as you increase the divergence demand?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The target should appear to become smaller as it moves closer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The target should appear to become larger as it moves farther away",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The target should appear to become smaller as it moves farther away",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The target should appear to become larger as it moves closer",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "When training patients with Variable Tranaglyphs or Vectograms, it is important to ensure that they are aware of the proper vergence cues. ° As convergence increases, the target should appear to become smaller and move closer to the patient (small-in) ° Conversely, as divergence increases, the target should appear to become larger and move away from the patient (large-out) ° This is known as SILO (small-in, large-out) ° Some patients will see the opposite (SOLI; small-out, large-in) ° This is because they may be using apparent size cues instead of vergence cues ° You may use localization to help them remain aware of SILO"
+    },
+    {
+      "number": 5,
+      "stem": "When training divergence, what is the vergence demand using a Variable Tranaglyph when the separation is measured as 4 cm at a distance of 80 cm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 prism diopters base-out",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "10 prism diopters base-in",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "20 prism diopters base-in",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "5 prism diopters base-in",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "10 prism diopters base-out",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "5 prism diopters base-out",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "The equation to calculate vergence demand is: demand = target separation in centimeters/training distance in meters demand = 4 cm/0.80 m demand = 5 prism diopters Because divergence is being trained in the above patient, the demand will be base-in. If convergence was being trained, the demand would be base-out."
+    },
+    {
+      "number": 6,
+      "stem": "If a patient scores low on both the horizontal and vertical portions of the Developmental Eye Movement test (DEM), but the ratio and error scores are normal, what may be concluded regarding the patient's oculomotor function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal oculomotor function, normal automaticity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Abnormal oculomotor function, poor automaticity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Abnormal oculomotor function, normal automaticity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Normal oculomotor function, poor automaticity",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "The DEM test consists of 3 subtests that should be given in a specific order. Subtests A and B are the vertical components, and Subtest C is the horizontal component. ° The vertical time score is determined by adding the total time it takes to complete tests A and B ° This score determines the automaticity, or number calling ability ° Does not require oculomotor control for vertical eye movements ° The horizontal time score is determined by calculating the time it takes to complete test C, taking into consideration the presence of omission and addition errors ° Horizontal time = Test C time x [80/(80 - o + a)] (where o = omission, a = addition) ° This score evaluates number calling ability in a spatial array • Requires a sophisticated level of oculomotor control ° The total errors are calculated by adding the occurrence of all individual errors ° Total errors = (s + o + a + t errors) ° s = substitution, o = omission, a = addition, t = transposition ° The ratio score represents a convenient method for evaluating horizontal and vertical time simultaneously ° Ratio scores that are significantly greater than expected normal values suggest a much greater difficulty in number naming when horizontal eye movements are required ° If a patient scores low on the vertical subtest, this simply indicates a problem with naming numbers out loud (automaticity) ° If the horizontal subtests are also lower than expected, this could indicate that the patient has difficulty with automaticity and/or oculomotor dysfunction ° In these instances the ratio score helps differentiate the two • If ratio is normal -> patient has equal difficulty with horizontal and vertical subtests and the problem is automaticity • If the ratio is abnormal -> patient has more difficulty with the horizontal subtest as compared to the vertical subtest and the problem is both automaticity and oculomotor dysfunction"
+    }
+  ]
+}

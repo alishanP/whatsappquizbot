@@ -1,0 +1,366 @@
+{
+  "case_id": "BcONTfWxfgdPwcNq8718",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "37-year-old white female; teacher"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago; was told she had \"early cataracts\""
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: macular degeneration"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "arthritis, hyperlipidemia, hypertension"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "hydrochlorothiazide, simvastatin, nabumetone"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hypertension, father: type II diabetes"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 18 mmHg, OS: 17 mmHg @ 2:35 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "128/84 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      },
+      {
+        "label": "Amsler grid",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurred vision at distance",
+      "Location: OD, OS",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 1 year",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: difficulty driving at night due to glare from oncoming headlights",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: occasional joint pain",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: +7.25 -1.25 x 170; VA distance: 20/25",
+      "OS: +7.25 -0.25 x 008; VA distance: 20/40",
+      "OD: +7.00 -1.50 x 162; VA distance: 20/20",
+      "OS: +7.00 -0.75 x 015; VA distance: 20/30",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: 1+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: tr anterior cortical cataract OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.30 H/0.30 V",
+      "macula: see images 1 & 2",
+      "posterior pole: see images 1 & 2",
+      "periphery: unremarkable",
+      "C/D: 0.30 H/0.30 V",
+      "macula: see image 3 & 4",
+      "posterior pole: see image 3 & 4",
+      "periphery: unremarkable",
+      "OD: (-) metamorphopsia, (-) scotoma",
+      "OS: (+) central metamorphopsia"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_RAPPVDGCLEFAGBUR8785.PNG",
+      "AnsweredCases/images/KI_FYPQKENQFDYUFPPE8786.PNG",
+      "AnsweredCases/images/KI_HHKZAUGOTYHJEHKP8787.PNG",
+      "AnsweredCases/images/KI_KULNYCMXODCBQLZA8788.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the MOST appropriate diagnosis of the patient's retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Angioid streaks",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Choroideremia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Choroidal folds",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hyperopic chorioretinal degeneration",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Choroidal rupture",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Angioid streaks typically appear in the posterior pole as gray or reddish-brown linear bands that have a serrated appearance. They are commonly observed in a ring-like fashion around the margins of the optic disc, then radiate in a spoke-like or irregular pattern outward from the peripapillary region. They tend to run a convoluted course, in which the more peripheral the course of the streaks, the more tapered they become, eventually stopping abruptly. Angioid streaks are located deep within the retina, lying beneath the normal retinal blood vessels. It is for this reason that they can be subtle and easily overlooked initially; however, in later stages, their appearance is much more obvious. Other associated ocular findings in patients with angioid streaks include a mottled fundus appearance, which presents as yellowish, speckled pinpoint areas that are most apparent in the mid-peripheral retina (temporal to the macula). This finding is also known as \"peau d'orange\" or \"leopard skin-spotting,\" and in some cases this finding may precede the appearance of angioid streaks. Drusen of the optic disc is another common associated finding with angioid streaks, as well as small, white, pinpoint chorioretinal scars in the mid-peripheral retina, peripapillary chorioretinal atrophy, and reticular-like pigmentary changes in the peripheral retina. The images in this case show the subtle appearance of angioid streaks radiating from the optic nerve head (left eye worse than the right eye), which are better visualized with the autofluorescent images. Choroidal rupture may occur in patients with angioid streaks, but is not present in this particular case. It usually occurs following severe blunt trauma to the globe, and in association with intraretinal, subretinal or vitreous hemorrhaging. There are two commonly observed lesions in cases of choroidal rupture; indirect and direct. A direct choroidal rupture occurs at the site of injury, while an indirect choroidal rupture frequently presents as a crescent-shaped tear concentric to the optic disc that is remote from the site of impact. Patients with angioid streaks are at much higher risk of developing a choroidal rupture, even with very minor traumatic events. Chorioretinal degeneration associated with myopia (not hyperopia) can present with an appearance of \"lacquer cracks\" which are similar to angioid streaks. These occur when Bruch's membrane has reached its elastic stretch capability, resulting in formation of micro-dehiscences. Choroidal folds are undulations or wrinkles that can usually be localized to Bruch's membrane, the RPE, or the inner choroid. These folds may be idiopathic, or caused by certain ocular disorders such as orbital disease (retrobulbar mass or thyroid ophthalmopathy), a choroidal tumor, posterior scleritis, or ocular hypotony. Choroideremia is an x-linked recessive inherited disease in which atrophic patches of the RPE and choroid can be observed in the mid-peripheral and peripheral fundus. These patches eventually lead to widespread diffuse atrophy that spares the macula. These patients typically have poor vision and severely reduced visual fields."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following systemic diseases is MOST commonly associated with this patient’s diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marfan syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ehlers-Danlos syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paget disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sickle cell disease",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Pseudoxanthoma elasticum",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Approximately 50% of patients who present with angioid streaks have an associated systemic disease; the other 50% of cases are considered idiopathic. Pseudoxanthoma elasticum (PXE) is by far the most commonly associated systemic disease in these patients. In general, PXE is a rather uncommon, inherited, generalized connective tissue disorder, in which tissues of the body containing elastin are significantly affected. Up to 85% of patients with PXE will develop ocular complications, usually following the second decade of life. The combination of PXE and angioid streaks is referred to as \"Gronblad-Strandberg syndrome.\" Patients with PXE typically have characteristic signs of very loose skin folds and yellow skin papules that are commonly observed in the neck region, axillae, and on flexor aspects of joints. These patients also frequently suffer from cardiovascular disease caused by accelerated atherosclerosis, and have an increased risk of developing gastrointestinal bleeds, which can be life threatening. Ehlers-Danlos syndrome is another systemic condition that is occasionally associated with the presence of angioid streaks. It is a rare, usually dominantly inherited disorder of collagen in the body that is caused by a deficiency of hydroxylysine. Systemic features include thin, hyperelastic skin, hyperextensible joints, cardiovascular disease, and other systemic lesions. Besides angioid streaks, patients with Ehlers-Danlos syndrome can also develop other ocular conditions such as crystalline lens subluxation, blue sclera, high myopia, keratoconus, and retinal detachments. Angioid streaks also occur in about 2-10% of patients diagnosed with Paget disease. Paget disease is a chronic, progressive (inherited in some cases) disease that is characterized by an enlarged skull, bone pain, frequent bone fractures, hearing loss, and cardiovascular complications. The disease may be localized to a few bones, or it may be generalized. In some cases, patients are even asymptomatic; however, in late stages, significant vision loss can ensue due to optic nerve compression from enlarging bone. Lab testing in these patients will show an increased serum alkaline phosphatase and urine calcium level. Less common systemic disorders that may be associated with the formation of angioid streaks include sickle-cell disease, acromegaly, senile elastosis, lead poisoning, and Marfan syndrome."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following BEST describes the pathophysiology of this patient’s retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Breaks in the choriocapillaris, Bruch's membrane, and retinal pigment epithelium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Atrophy and thinning of the choroid and retinal pigment epithelium",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Small dehiscences in the collagenous and elastic portions of Bruch's membrane",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Grooves or striae involving the inner choroid, Bruch's membrane, and the outer sensory retina",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "No matter the etiology of angioid streaks in the retina, the pathophysiology is the same. Angioid streaks form as a result of small crack-like dehiscences (openings) in Bruch's membrane. For whatever reason, in these patients, the collagenous and elastic portions of Bruch's membrane tend to be thickened, calcified, and abnormally brittle. These small breaks in Bruch's membrane can also eventually lead to further ocular complications, such as the formation of a choroidal neovascular membrane, choroidal rupture, and foveal involvement by a streak, all which can lead to significant visual impairment. Choroidal ruptures are the result of larger breaks that involve the choriocapillaris, Bruch's membrane and the RPE. Choroidal folds are parallel grooves that involve the inner choroid, Bruch's membrane, RPE, and sometimes the outer sensory retina. Atrophy and thinning of the choroid and RPE is commonly observed in myopic chorioretinal degeneration and choroideremia."
+    },
+    {
+      "number": 4,
+      "stem": "Which 2 of the following ocular findings are commonly observed in association with this patient’s retinal condition? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peau d'orange",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Congenital cataracts",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Arteriolar attenuation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Optic nerve pallor",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Optic disc drusen",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Peripheral intraretinal hemorrhages",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Peau d'orange and optic disc drusen are common ocular findings in patients who present with angioid streaks. As previously described, peau d'orange is a mottled fundus appearance, which may be observed as yellowish, speckled pinpoint areas that are most apparent in the mid-peripheral retina, temporal to the macula (also known as \"leopard skin-spotting\"). In some cases, this retinal finding may precede the appearance of angioid streaks."
+    },
+    {
+      "number": 5,
+      "stem": "What is the MOST common cause of vision loss in patients diagnosed with this retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retinal pigment epithelial atrophy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Choroidal neovascular membrane",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Macular edema",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Intraretinal hemorrhaging",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Retinal detachment",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Visual impairment occurs in up to 70% of patients diagnosed with angioid streaks. Vision loss is typically a result of the development of a choroidal neovascular membrane (CNVM), choroidal rupture, and/or foveal involvement by a streak. By far the most common cause of decreased acuity in these patients is the presence of a choroidal neovascular membrane. When this occurs, thermal laser photocoagulation may be an effective form of treatment if the lesions are juxtafoveal or extrafoveal, though there is a significant risk of aggressive recurrence. In cases of a subfoveal CNVM, photodynamic therapy (PDT) may be the treatment of choice. In addition to choroidal neovascular membranes, patients with angioid streaks are also at a much higher risk of choroidal rupture and subsequent subretinal hemorrhaging. This may result from relatively minor ocular trauma, due to the fragility of eyes with angioid streaks. Therefore, patients should be warned against participating in contact sports, and advised to wear proper polycarbonate safety glasses when in situations where ocular trauma may occur. Vision loss can also result from foveal involvement by an angioid streak. In this case, the patient shows a decrease in best-corrected visual acuity in the left eye with central metamorphopsia on Amsler grid testing. These findings are likely due to the presence of a choroidal neovascular membrane. In order to verify this, a fluorescein angiography would be beneficial."
+    },
+    {
+      "number": 6,
+      "stem": "What is the MOST appropriate next step in the management of this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluorescein angiography",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Vitrectomy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Photodynamic therapy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Avastin® injection",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Monitor condition only",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Thermal photocoagulation",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Because this patient may show signs of a possible choroidal neovascular membrane (CNVM) in the left eye (decreased best-corrected visual acuity and positive central metamorphopsia), the most appropriate next step in the management of this patient is to obtain a fluorescein angiography (FA) to confirm (or rule-out) this diagnosis. The results of the FA will then determine what the best treatment is in this case. If the presence of a choroidal neovascular membrane is detected, focal laser photocoagulation would be indicated if the CNVM is juxtafoveal, while PDT or an anti-VEGF injection would be the treatment of choice if the CNVM is subfoveal. If the FA reveals that there is no choroidal neovascular membrane present, close monitoring of the patient is indicated. In patients who are suspected of having an associated systemic disease, an internist should be involved in the management of their condition."
+    }
+  ]
+}

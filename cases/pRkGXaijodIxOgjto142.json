@@ -1,0 +1,290 @@
+{
+  "case_id": "pRkGXaijodIxOgjto142",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "72-year-old white female; avid tennis player"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "sudden decreased vision and eye pain"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last comprehensive exam 4 months ago, cataract surgery OS 2 months ago, cataract surgery OD 4 days ago"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: presumed ocular histoplasmosis, father: cataracts"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "cardiovascular disease, hypertension, melanoma on back (removed 5 years ago)"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "coumadin, atenolol, Moxeza® q.i.d. OD, Ilevro® q.d. OD, Pred-Forte® q.i.d. OD"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "macrolides"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: gout"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 19 mmHg, OS: 18 mmHg @ 9:10 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "123/84 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "78 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: eye pain, swelling, redness, and blurred vision",
+      "Location: OD",
+      "Severity: severe",
+      "Nature of onset: acute",
+      "Duration: 1 day; started last night, but much worse when she woke up this morning",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: had cataract surgery 4 days ago",
+      "Accompanying signs/symptoms: headache, light sensitivity",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: occasional shortness of breath",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: lower back pain",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/400 (PHNI)",
+      "OS: VA distance: 20/25",
+      "lids/lashes/adnexa: 2+ lid edema OD, unremarkable OS",
+      "conjunctiva: 4+ injection, 2+ chemosis OD, normal OS",
+      "cornea: see image 1 OD, clear OS",
+      "anterior chamber: 4+ cells, hypopyon OD, deep and quiet OS",
+      "iris: normal OD, OS",
+      "lens: PCIOL, clear and centered OD, OS",
+      "vitreous: 3+ cells OD, clear OS",
+      "C/D: poor view",
+      "macula: poor view",
+      "posterior pole: poor view",
+      "periphery: poor view",
+      "C/D: 0.30 H/0.35 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_HNTMJZPCMEFHILBTZ145.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the patient’s history and examination findings, what is the MOST likely diagnosis of her right eye condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacterial conjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trachoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Endophthalmitis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Verruca",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Acanthamoeba keratitis",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Endophthalmitis is an extremely serious infection that can lead to blindness. Acute postoperative endophthalmitis may ensue 1 to several days following intraocular surgery. Despite current sterilization methods of preoperative instruments, treatment of pre-existing ocular/skin conditions prior to surgery, and the use of prophylactic antibiotics during and after surgery, the incidence of this condition remains at roughly 1:1000 cases. Acute postoperative endophthalmitis typically presents with a sudden onset of decreased vision and eye pain. Clinical signs include a severe anterior chamber reaction with various levels of hypopyon formation, a vitreous chamber reaction, lid erythema, chemosis, and conjunctival injection. If the infection is severe, views of the fundus may be limited or completely obstructed. Late-onset endophthalmitis may present several weeks to years after intraocular surgery, most commonly following cataract surgery. This condition is caused by the entrapment of a low virulent organism, usually Propionibacterium acnes, in the capsular bag. The patient will present with variable levels of decreasing vision and may complain of floaters that can be attributed to vitritis. There may be keratic precipitates on the posterior aspect of the cornea and plaque formation on the intraocular lens implant. A hypopyon is rarely encountered with late-onset endophthalmitis. Endophthalmitis may also occur secondary to trauma, or by the introduction of bacteria in an immunocompromised, severely ill patient, or an IV drug user. Acanthamoeba keratitis is a fairly rare condition that occurs in cases of contact lens abuse or ocular trauma, with exposure to contaminated water. It may also occur in patients who clean their contact lenses with water or unpreserved contact lens solution. Early signs of the condition include epithelial mottling, which makes it very hard to distinguish it from Herpes simplex. A detailed case history is helpful in the diagnosis of this pathogen. Characteristic signs of this infection include a corneal ring infiltrate (which occurs later in the course of the condition) and severe pain that is highly out of proportion to the ocular signs. The prognosis for this disease improves if it is diagnosed and treated early. Acanthamoeba is very aggressive and difficult to treat in the later stages, and it carries a high risk of blindness. Treatment includes the use of topical agents such as Neosporin® (bacitracin, neomycin, and polymyxin B) and Brolene (dibrompropamidine isethionate) used in conjunction with one another. Due to the high potential of blindness and difficulty associated with managing this condition, it is best to refer these patients to a corneal specialist. Bacterial conjunctivitis will typically present with a mucopurulent discharge that is worse in the morning. The degree of conjunctival injection present and the level of eye pain will be markedly less than that experienced with endophthalmitis. Visual acuity may be slightly reduced in these cases. Verruca is a common type of wart that may be observed on the lid margins or around the eye. Patients may experience a watery discharge, SPK, a follicular reaction, and lymphadenopathy if the virus sheds its cells into the eye. Treatment involves removal of the wart. Chlamydia causes two forms of conjunctivitis; trachoma and inclusion. Trachoma is more common in lesser-developed countries and can cause blindness if not treated appropriately. Trachoma has several stages, initially starting with mucopurulent discharge, lymphadenopathy, redness, small superior tarsal follicles, and mild superior pannus. This infection can eventually progress to involve significant scarring of the eyelid and cornea, causing extremely poor visual acuity. Treatment includes oral doxycycline, tetracycline, or erythromycin, along with topical tetracycline or erythromycin ointment."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate treatment for the above patient’s right eye condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Add Besivance® ophthalmic solution b.i.d. OD for seven days",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Add oral doxycycline and erythromycin ointment q.h.s. OD for two weeks",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Immediate referral to an ophthalmologist",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Increase Pred-Forte® to q.1.h. OD until inflammation improves",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Endophthalmitis requires an immediate referral to an ophthalmologist or retinal specialist capable of treating this condition. If the infection is very severe and the vision is severely decreased, then a pars plana vitrectomy may be warranted. In less severe cases, culture specimens are taken to determine the offending pathogen and intravitreal antibiotics are injected immediately. Typically, vancomycin (kills both coagulase-negative and coagulase-positive organisms) and amikacin or ceftazidime (both kill Gram-positive and Gram-negative organisms) are used in conjunction with each other. Topical antibiotics are also typically prescribed in addition to the above intravitreal injections."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST likely causative organism of the patient’s right eye condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Salmonella enterica",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Haemophilus influenzae",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Escherichia coli",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus epidermidis",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The most common cause of acute postoperative endophthalmitis is Staphylococcus epidermidis (roughly 68%), followed by S. aureus and Streptococcal species (22%), and Gram-negative species (6%). The most common cause of delayed postoperative endophthalmitis is P. acnes."
+    },
+    {
+      "number": 4,
+      "stem": "After undergoing treatment, the patient returns one year later and you notice that she has a mild case of bacterial conjunctivitis. Which of the following medications should NOT be prescribed to her at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Besivance®",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tobramycin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Moxeza®",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "AzaSite®",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Erythromycin and azithromycin belong to a class of drugs called macrolides. Macrolides are effective antibiotics because they bind to the 50S subunit of bacterial ribosomes, thus interfering with bacterial protein synthesis. However, the patient stated that she has an allergy to macrolides; therefore, AzaSite® should not be prescribed to her. Tobramycin, gentamicin, and neomycin are categorized as aminoglycosides, which serve as antimicrobials via two mechanisms. Aminoglycosides inhibit bacterial protein synthesis and cause the creation of openings in bacterial cell membranes, allowing for increased antibiotic uptake. Fluoroquinolones such as Moxeza® and Besivance® have a mechanism of action that inhibits DNA gyrase and therefore ultimately inhibits bacterial DNA synthesis."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following infections must be reported to the CDC (Centers for Disease Control and Prevention)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Herpes simplex",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Syphilis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Vaginal warts",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Epidemic keratoconjunctivitis (EKC)",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "According to the CDC, all healthcare providers and laboratories must report new cases of syphilis to local and state health departments. Gonorrhea and Chlamydia trachomatis must also be reported, along with many other serious types of infections that are easily spread and can produce long-term systemic effects."
+    }
+  ]
+}

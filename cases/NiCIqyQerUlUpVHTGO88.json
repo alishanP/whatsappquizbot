@@ -1,0 +1,362 @@
+{
+  "case_id": "NiCIqyQerUlUpVHTGO88",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "8-year-old Asian female; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "double vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: \"lazy eye\" and has worn glasses since age 5, maternal grandmother: glaucoma"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "allergies; normal birth history and developmental milestones"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Claritin®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "grass and pollen, NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: cardiovascular disease, type II diabetes"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 6 esophoria, near: 8 esophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Oculomotor system",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Accommodative system",
+        "value": ""
+      },
+      {
+        "label": "Vergence system",
+        "value": ""
+      },
+      {
+        "label": "Sensory system",
+        "value": ""
+      },
+      {
+        "label": "DEM test (percentile rank):",
+        "value": "horizontal: 50%, vertical: 50%, ratio: 50%, errors: 99%"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 16 mmHg, OS: 16 mmHg @ 4:10 pm by iCare tonometer"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: horizontal diplopia at both distance and near",
+      "Location: OU",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 6 months",
+      "Frequency: intermittent",
+      "Exacerbations/remissions: worse at the end of the day or when tired; better if she rests her eyes",
+      "Relationship to activity or function: mostly notices when watching television and viewing the board in class, or reading for prolonged periods of time",
+      "Accompanying signs/symptoms: headaches and eyestrain at the end of the day; is easily distracted when doing schoolwork",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/20",
+      "OS: VA distance: 20/20",
+      "Pursuits: normal",
+      "Saccades: normal",
+      "Fixations: normal",
+      "OD: plano DS; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: plano DS; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "Amplitudes: OD: 14 D, OS: 14 D, OU: 13 D",
+      "Facility (+/- 2.00): OD: 11 cycles/minute, OS: 12 cycles/minute, OU: 3 cycles/minute (difficulty clearing minus-powered lenses)",
+      "NRA/PRA: +2.75 / -1.00",
+      "Monocular estimation method (MEM): OD: +1.00, OS: +1.25",
+      "NPC: 2 cm",
+      "Vergences: NFV @ distance: x / 6 / 2, NFV @ near: x / 12 / 6, PFV @ distance: x / 20 / 15, PFV @ near: 18 / 32 / 24",
+      "Facility: 8 base-out/8 base-in: 2 cycles/minute (difficulty fusing base-in prism)",
+      "Worth 4 dot: far: no suppression, near: no suppression",
+      "Stereopsis: far: 120\", near: 80\"",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: see image 1 OD, normal OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.35 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 1 OD, normal OS",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_FGDNIBHUSKPBLAIX5695.JPG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Based on the patient’s chief concern and examination findings, what is the MOST likely cause of her symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Accommodative infacility",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Convergence excess",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Basic exophoria",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Accommodative insufficiency",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Basic esophoria",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Divergence insufficiency",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "Exam findings for a patient with basic esophoria include the following: esophoria at both distance and near that are equal in magnitude (or within 5 prism diopters of each other), a measured eso fixation disparity at far and near, an average AC/A ratio, decreased distance and near negative fusional vergence, decreased vergence facility (with more difficulty on base-in prism fusion), a lag on MEM, decreased positive relative accommodation, and poor binocular accommodative facility (with difficulty clearing the minus powered lenses). Symptoms of basic esophoria typically include horizontal diplopia, blur, and asthenopia, with the severity of these symptoms increasing towards the end of the day. Patients with basic exophoria will present with exophoria at distance and near that are relatively equal in size (within 5 prism diopters), decreased positive fusional vergence ranges at both distance and near, low vergence facility (with difficulty fusing base-out prism), decreased negative relative accommodation and decreased binocular accommodative facility (with plus-powered lenses being more difficult to clear). Common symptoms include occasional diplopia at distance and near, headaches, and asthenopia. Characteristic exam findings for convergence insufficiency (CI) include the following: low exophoria (or orthophoria) at distance with a greater degree of exophoria at near (greater than 6 prism diopters between the distance and near phorias), an exo fixation disparity at near, a low AC/A ratio, a receded near point of convergence, reduced negative relative accommodation findings, decreased vergence facility (with a greater degree of fusion difficulty on base-out prism), and decreased positive fusional vergence at near. Common symptoms include horizontal diplopia, general asthenopia, blur, fatigue with reading, lack of comprehension that worsens with time, the feeling that words “move” around on the page, and a pulling sensation of the eyes. All symptoms typically appear worse at the end of the day and also increase in severity with prolonged near work. Among the vergence deficiencies, CI is the most common. Divergence excess is characterized by a higher degree of exophoria (or intermittent exotropia) at distance than at near (roughly a 10 prism diopter difference), a high AC/A ratio, decreased distance positive fusional vergence, and (potentially) poor second degree fusion at distance. Symptoms include suppression (therefore the patient will likely be asymptomatic), covering or squinting an eye in bright light, and asthenopia. Accommodative insufficiency is the most common accommodative disorder and is characterized by decreased amplitudes of accommodation, a lag of accommodation on MEM, and poor monocular accommodative facility (with minus-powered lenses being more difficult to clear). Also, one may potentially observe decreased binocular accommodative facility (minus lenses being more difficult) and a reduced positive relative accommodation finding. Symptoms include difficulty concentrating when reading, blurred vision, and eye strain with near tasks. Accommodative infacility is the second most prevalent accommodative disorder. Exam findings include decreased monocular and binocular facility and low NRA and PRA results. Patients will often complain of reduced distance vision after sustained periods of near work."
+    },
+    {
+      "number": 2,
+      "stem": "What type of AC/A ratio is expected for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High AC/A ratio",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Average AC/A ratio",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The AC/A ratio is not relevant to this case",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Low AC/A ratio",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The AC/A ratio is defined as the degree of accommodative convergence per unit of accommodation. The AC/A is calculated using the following formula: IPD (cm) + N (m)(D'-D), where IPD = the interpupillary distance in centimeters, N = the test distance at near in meters, D' = the near deviation, and D = the distance deviation. Remember that an “exo” deviation requires a negative sign. A simple method to remember which conditions have which type of AC/A ratio is by their names. Any vergence disorder with the word “excess” will have a high AC/A ratio (i.e. convergence excess, divergence excess). Any vergence condition with the word “basic” will have an average AC/A ratio (i.e. basic esophoria, basic exophoria). A vergence anomaly containing the word “insufficiency” will have a low AC/A ratio (i.e. convergence insufficiency, divergence insufficiency). The AC/A ratio can be used to help determine the magnitude (if any) of plus-powered lenses to prescribe for a patient, and if this mode of treatment will be beneficial to the patient. The rule-of-thumb is that the higher the AC/A, the more effective the lenses will prove to be. For example, take a patient with a 60 mm IPD, 10 esophoria at distance, and orthophoria at near. Test distance is 40 cm and refraction is +0.50 DS OU. Will this patient benefit from prescription lenses? AC/A = 6.0 + 0.4 (0-10) = 2/1. Therefore, prescribing the +0.50 OU will change his phoria by 1 prism diopter (0.5 x 2). In order to eliminate his distance phoria of 10 prism diopters, one would have to prescribe +5.00 D, which will ultimately blur his vision. This patient would best benefit either from vision therapy or base-out prism."
+    },
+    {
+      "number": 3,
+      "stem": "Which 3 of the following tests directly examine the accommodative system? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive fusional vergence ranges",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stereopsis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Monocular amplitudes",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Monocular facility testing with +/- 2.00 D lenses",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Monocular estimation method",
+          "correct": true
+        },
+        {
+          "label": "F",
+          "text": "Second-degree fusion",
+          "correct": false
+        }
+      ],
+      "answer": "E",
+      "explanation": "MEM measures the accuracy of the accommodative response to a given target. Monocular amplitudes and monocular facilities also evaluate the performance of the accommodative system. PFC measures the interaction between the accommodative and the vergence system. Stereopsis is a product of binocular retinal disparity. Stereopsis is not a measure of accommodation, but it serves to evaluate the capability of the eyes to work in unison. Although accommodation must be accounted for when performing this test, stereopsis will not quantify any type of accommodative dysfunction. Stereopsis as a cue to depth works best if the objects are not too far away. In order for stereopsis to occur, the retinal disparity must be within a certain limit to result in a perception of depth. Second-degree fusion is the ability to superimpose like objects (not necessarily identical objects), with the end result being the perception of a single object that is a composition of the two separate images. The Worth 4 dot is an example of a test that evaluates second-degree fusion. Second-degree fusion helps determine if the eyes are capable of working together and does not measure accommodative capability."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following represents an example of shallow suppression of the right eye while performing the red lens test (red lens over the right eye)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient reports seeing two lights, one red and one white, with the white light being to the left of the red light",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The patient reports seeing one white light in moderate illumination and one white light in dim illumination",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The patient reports seeing one red light in moderate illumination and one pinkish light in dim illumination",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The patient reports seeing two lights, one red and one white, with the white light being to the right of the red light",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "The patient reports seeing one red light in moderate illumination and one red light in dim illumination",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "The patient reports seeing one pinkish light in moderate illumination and one pinkish light in dim illumination",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "The patient reports seeing one white light in moderate illumination and one pinkish light in dim illumination",
+          "correct": true
+        }
+      ],
+      "answer": "G",
+      "explanation": "The red lens test (as well as the Worth 4 dot) allows for the evaluation of the binocular system. While holding a red lens over the preferred eye, the patient is asked to look at a white circle (either projected or on a computer monitor) 6 meters (or simulated) away. The patient should report seeing a pinkish or red/white shimmering circle, which represents a composite image of the two eyes. If a white light is observed, the patient is suppressing the eye behind the red lens. If the patient reports seeing a red circle, she is suppressing the eye without the red lens. The test should be repeated at 40 cm using a penlight or transilluminator. If suppression occurs at 40 cm, it is quantified as peripheral suppression because the close proximity of the target produces a large image size that subtends an angle that covers a greater retinal area. Suppression at 6 m but not at 40 cm is classified as central suppression because less of the retina is involved due to a smaller image size. If the patient suppresses an eye in moderate but not dim illumination, the suppression is deemed to be shallow. However, if the suppression is present under both moderate and dim illumination, the suppression is categorized as deep."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following represents the MOST likely cause of the patient's right eye anterior segment findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posterior polymorphous dystrophy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Epicapsular stars",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Persistent pupillary membrane",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mittendorf dot",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Lattice dystrophy",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "A persistent pupillary membrane is a common congenital anomaly of the anterior segment. It represents remnants of the anterior tunica vasculosa lentis, which is a network of blood vessels that provides nutrition to the crystalline lens in a developing fetus. It typically undergoes regression in the sixth month and disappears completely by the eighth month of gestation. Occasionally, it does not fully disintegrate, resulting in the presence of cobweb-like strands that are attached to the iris. Rarely does this condition affect vision."
+    }
+  ]
+}

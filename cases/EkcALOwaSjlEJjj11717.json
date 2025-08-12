@@ -1,0 +1,323 @@
+{
+  "case_id": "EkcALOwaSjlEJjj11717",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "61-year-old white female; food service manager"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "loss of vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 5 years ago; amblyopia OS; wears PALs full time"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: retinal detachment"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "type II diabetes; last HbA1c: 8.7% (last month), FBS: 205 mg/dL (this morning), depression"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Glucophage® Avandia®, Glucotrol®, Wellbutrin®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: type II diabetes"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 13 mmHg @ 1:30 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "127/82 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "78 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: suddenly can't see out of the right eye",
+      "Location: OD",
+      "Severity: severe",
+      "Nature of onset: acute",
+      "Duration: 4 hours; noticed when she woke up this morning",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: +1.00 -0.50 x 080 add: +2.25; VA distance: CF @ 5 feet (PHNI)",
+      "OS: +5.25 -0.75 x 095 add: +2.25; VA distance: 20/400 (PHNI)",
+      "lids/lashes/adnexa: 1+ MGD OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: see image 1 OD, posterior vitreous detachment OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: 0.25 H/0.25 V",
+      "macula: normal",
+      "posterior pole: several dot/blot hermes along arcades",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_LZPHCQVNRMHCRBE11781.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis of the patient's right eye condition observed in image 1?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Preretinal hemorrhage",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vitreous hemorrhage",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ocular ischemic syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Valsalva retinopathy",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Central retinal vein occlusion",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Malignant hypertension",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The patient's right eye retinal image reveals a vitreous hemorrhage most likely occurring secondary to a history of longstanding diabetic retinopathy. Uncontrolled diabetes is the most common cause of vitreous hemorrhaging in adults (while trauma is the leading cause in young people). In these cases, bleeding into the vitreous occurs due to the leakage of blood from abnormal new blood vessel growth (neovascularization), as these vessels are weaker and more prone to breakage compared to the normal retinal vasculature. Patients presenting with a vitreous hemorrhage will typically complain of a sudden, painless decrease in visual acuity. Symptoms can range from a complete loss of vision (e.g. inability to perceive hand motion) to the appearance of black spots, cobwebs, or haziness of vision. Posterior segment evaluation will reveal red blood cells in the vitreous body that may also be detected in the anterior vitreous. In cases of severe hemorrhaging, the red reflex of the retina may be absent, there may be no observable view of the fundus, and a mild relative afferent pupillary defect may also be present. In mild to moderate cases, the fundus may be partially obscured. Depending on the etiology of the vitreous hemorrhage, there are usually other associated fundus abnormalities that can be observed in the ipsilateral and contralateral eye (this may also aid in the confirmation of the diagnosis). Other possible differential diagnoses of a vitreous hemorrhage are explained below: • Central retinal vein occlusion: diffuse retinal hemorrhages in all four quadrants of the retina with associated dilated and tortuous retinal veins ° Cotton-wool spots, retinal edema, optic disc edema, optociliary shunt vessels, and neovascularization may also be present • Preretinal hemorrhage: leakage of blood into either the subhyaloid space between the posterior vitreous face and retina, or beneath the internal limiting membrane ° Usually presents with a boat-shaped hemorrhage which obscures the underlying retina • Malignant hypertension: hard exudates in a macular star formation, optic nerve edema, flame-shaped retinal hemorrhages, retinal edema, and cotton-wool spots are commonly observed ° Requires immediate medical treatment • Valsalva retinopathy: single or multiple hemorrhages beneath the internal limiting membrane, most commonly noted in the area of the macula ° Usually associated with a history of heavy lifting, coughing, vomiting, or straining • Ocular ischemic syndrome: mid-peripheral retinal hemorrhages with dilated and irregular retinal veins ° Disc neovascularization may be present ° Patients commonly have a history of transient visual loss, transient ischemic attacks, or orbital pain"
+    },
+    {
+      "number": 2,
+      "stem": "Which 3 of the following are known as \"high-risk\" characteristics for patients with this retinal diagnosis? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Any degree of neovascularization of the optic disc (NVD) with an associated pre-retinal or vitreous hemorrhage",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Neovascularization elsewhere (NVE) with a size greater than 1/2 of the disc area when associated with a pre-retinal or vitreous hemorrhage",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Neovascularization within 1 disc diameter of the optic disc (NVD) with a size greater than 1/4 to 1/3 of the disc area",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Any retinal edema within 500 microns of the center of the fovea",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Retinal edema greater than 1 disc area in size and within 1 disc diameter of the center of the fovea",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "At least one quadrant of intraretinal microvascular abnormalities (IRMA)",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The following characteristics are important to remember in regard to severe non-proliferative diabetic retinopathy, clinically significant macular edema, and high-risk proliferative diabetic retinopathy. • Severe non-proliferative diabetic retinopathy: ° Any of the following in the absence of proliferative retinopathy • >20 intraretinal hemorrhages in each quadrant • 2 quadrants of venous beading • 1 quadrant of prominent intraretinal microvascular abnormalities (IRMA) • Clinically significant macular edema: ° Defined as any one of the following: • Retinal thickening within 500 microns (1/3 disc diameter) of the center of the fovea • Hard exudates within 500 microns of the center of the fovea, if associated with adjacent retinal thickening • Thickening of the retina with a size greater than 1 disc area, part of which is within 1 disc diameter of the foveal center • High-risk proliferative diabetic retinopathy: ° Includes one of the following observations: • NVD with a size greater than 1/4 to 1/3 of the optic disc • Any degree of NVD if an associated pre-retinal or vitreous hemorrhage is present • NVE greater than 1/2 the size of the optic disc when associated with a pre-retinal or vitreous hemorrhage ° This is the criteria that ophthalmologists use when determining if panretinal laser photocoagulation is indicated"
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following systemic conditions can cause a falsely low measurement of a patient's hemoglobin A1c level?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chronic opioid use",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Iron deficient anemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hyperbilirubinemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pregnancy",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Alcoholism",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "There are a few conditions that may cause the reading of a patient’s hemoglobin A1c (HbA1c) to measure either falsely high or falsely low, therefore altering the reliability of the test. • Conditions that falsely elevate A1c levels: ° Iron deficiency anemia ° Any process that slows erythropoiesis increases A1c by maintaining an older erythrocyte cohort in the blood plasma (e.g. aplastic anemia) ° Alcoholism ° Hyperbilirubinemia ° Certain medications (high doses of salicylates, chronic opioid use) • Conditions that falsely lower A1c levels: ° Any process that shortens the lifespan of erythrocytes (e.g. hemolytic anemia, chronic kidney or liver disease) ° Vitamins C and E (by inhibiting glycosylation of glucose to hemoglobin) ° Pregnancy ° Splenomegaly ° Rheumatoid arthritis ° Certain medications (antiretrovirals, ribavirin, and dapsone) ° Hypertriglyceridemia In these cases, HbA1c levels may still be used to monitor blood sugar levels in patients with diabetes by comparison to previous readings in the same patient; however, goal values must be altered to take these potential differences into consideration."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following is the BEST initial treatment option for this patient, considering her diagnosis and history of amblyopia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Monitor the condition for resolution",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pars plana vitrectomy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Panretinal photocoagulation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Intravitreal injection of Vitrase®",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Intravitreal injection of Avastin®",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The following considerations represent indications for a vitrectomy as the initial treatment of choice in certain cases of a unilateral vitreous hemorrhage secondary to proliferative diabetic retinopathy: • Patient's need for improved vision to function (usually a monocular patient or a patient whose fellow eye has severely reduced vision) • Non-clearing vitreous hemorrhage persisting for 3-6 months • Associated tractional retinal detachment (or combined rhegmatogenous and tractional retinal detachment) • Refractory diabetic macular edema • Severe premacular subhyaloid hemorrhage • Vitreopapillary traction • High-risk proliferative diabetic retinopathy with anterior segment neovascularization • Ghost-cell glaucoma In cases of severe vitreous hemorrhaging, panretinal photocoagulation cannot be performed due to obscuration of the retina by blood in the vitreous cavity. Vitrase® is purified bovine hyaluronidase that has been shown to promote absorption of a vitreous hemorrhage by causing the vitreous to liquefy, thereby promoting the clearance of blood; however, this treatment is not FDA-approved and is not widely used. In most cases of a vitreous hemorrhage secondary to diabetic retinopathy with none of the above associated findings, treatment involves close monitoring of the patient, as the condition commonly resolves without medical treatment within a period of a few months. Bed rest for the first few days is usually recommended in order to reduce the chance of recurrent bleeding, while also allowing the blood to begin to settle inferiorly, offering a better view of the fundus."
+    },
+    {
+      "number": 5,
+      "stem": "Which of the following classes of medication does Glucophage® belong to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulfonylureas",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Alpha-glucosidase inhibitors",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Meglitinides",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Biguanides",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Thiazolidinediones",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "• Biguanides: Metformin (Glucophage®, Fortamet®, Glumetza®, Riomet®) ° Act by increasing insulin sensitivity; molecular target is the AMP-dependent protein kinase (AMPPK) • Activate AMPPK to block the breakdown of fatty acids and also to inhibit hepatic gluconeogenesis and glycogenolysis ° Secondary effects of biguanides include increased activity of the insulin receptors, as well as an increase in the metabolic responsiveness by the liver and skeletal muscle ° Biguanides do not directly affect insulin secretion (and use is not associated with hypoglycemia) ° Biguanides are associated with the lowering of serum lipids and weight loss ° They have been shown to be useful in other conditions such as polycystic ovarian syndrome (PCOS) • Thiazolidinediones: Rosiglitazone, pioglitazone (Avandia®, Actos®) ° This class of medication (like biguanides) does not affect insulin secretion, but rather enhances the action of insulin at target tissues (not only in adipose tissue but also in liver and muscle) • Sulfonylureas: Glipizide, glyburide, glimepiride (Glucotrol®, DiaBeta®, Amaryl®) ° Stimulate secretion of insulin from pancreatic beta cells, increasing the level of circulating insulin to one that is sufficient to overcome the insulin resistance • May cause hypoglycemia from oversecretion of insulin and/or weight gain from increased insulin activity on adipose tissue • Alpha-glucosidase inhibitors: Acarbose, miglitol (Precose®, Glyset®) ° Block enzymes that help digest carbohydrates, slowing the rise in blood sugar (and reducing the impact of carbohydrates on blood sugar) • Meglitinides: Repaglinide, nateglinide (Prandin®, Starlix®) ° Similar to sulfonylureas in that they stimulate insulin release"
+    }
+  ]
+}

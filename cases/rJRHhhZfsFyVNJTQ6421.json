@@ -1,0 +1,379 @@
+{
+  "case_id": "rJRHhhZfsFyVNJTQ6421",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "10-year-old black male; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurry vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "parents also report his eyelids are often swollen and he complains of itchy eyes"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: glaucoma suspect"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "childrens multivitamin, Singulair®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "seasonal allergies; NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: orthophoria, near: orthophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Stereo test:",
+        "value": "200 (via Lang II)"
+      },
+      {
+        "label": "Color test:",
+        "value": "12/12 OD, OS (Ishihara color plates)"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Accommodative system",
+        "value": ""
+      },
+      {
+        "label": "Wet refraction:",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 17 mmHg, OS: 17 mmHg @ 2:30 pm by Tonopen"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: parents report that the patient has been complaining of blurred vision at near",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual (since he began 5th grade)",
+      "Duration: 6 months",
+      "Frequency: intermittent",
+      "Exacerbations/remissions: worse at the end of the day or after prolonged near work; better on weekends",
+      "Relationship to activity or function: playing video games, doing homework, reading",
+      "Accompanying signs/symptoms: occasional headaches above and around the eyes",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: runny nose",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: eczema",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: age appropriate orientation to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20, near: 20/25 @ 40 cm",
+      "OS: distance: 20/20, near: 20/25 @ 40 cm",
+      "OD: plano -0.25 x 180; VA distance: 20/20; VA near: 20/25 @ 40 cm",
+      "OS: plano DS; VA distance: 20/20, VA near: 20/25 @ 40 cm",
+      "NRA/PRA: +2.75 / -0.75",
+      "Monocular estimation method (MEM): +1.25 OD, OS",
+      "OD: +1.25 DS; VA distance: 20/20",
+      "OS: +1.25 DS; VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: trace conjunctival injection, 2+ papillae OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_OIZDWSAQAUTEZRMO6495.PNG",
+      "AnsweredCases/images/KI_WSZDAJEKFINTMRTG6496.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following prescriptions would be the MOST appropriate to prescribe for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "OD: +0.50 DS; OS: +0.50 DS; for near activities only",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "OD: +1.25 DS; OS: +1.25 DS; for full time wear",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "OD: +1.00 DS; OS: +1.00 DS; for near activities only",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "No spectacles are required for distance or near at this time",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "OD: +0.50 DS; OS: +0.50 DS; for full-time wear",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "OD: +1.75 DS; OS: +1.75 DS; for full time wear",
+          "correct": false
+        },
+        {
+          "label": "G",
+          "text": "OD: +1.75 DS; OS: +1.75 DS; for near activities only",
+          "correct": false
+        },
+        {
+          "label": "H",
+          "text": "OD: plano -0.25 x 180; OS: plano DS; for full-time wear",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "This patient’s chief complaint relates to difficulties with near vision following prolonged near activities (blurred vision and occasional headaches). Upon analyzing the patient's visual acuities, refraction (dry and wet), and binocular vision findings, you will find that there are a few abnormal findings that will help you determine his diagnosis and treatment options. Beginning with NRA/PRA, you should note that his PRA measurement is low, and his NRA measurement is slightly high (for a pre-presbyopic patient). Expected NRA values are typically between +2.00 to +2.50 D for any patient, and PRA levels for pre-presbyopic patients are usually anywhere between -2.37 to -3.37 D. This patient’s NRA is +2.75 (slightly elevated) and PRA is -0.75 (reduced). Additionally, this patient's MEM findings also show a \"lag\" of accommodation which typically indicates diagnosis of accommodative dysfunction (but can also mean under-corrected hyperopia, over-corrected myopia, esophoria with insufficient vergence, or presbyopia). MEM values are expected to be between +0.25 to +0.50 (+/- 0.25). Any value higher than +0.75 is considered a “lag” of accommodation, and any value below +0.25 indicates a “lead” of accommodation. Taking into consideration all of the patient's examination findings (entering visual acuities, symptoms, low PRA, lag on MEM, and wet retinoscopy findings), the patient would benefit from a hyperopic correction for near activities. Of the above options, +1.00 DS OU is the most appropriate prescription for this patient and should be prescribed for use during near visual tasks. +1.00 DS OU will balance the NRA/PRA findings and normalize the MEM findings, which should relieve the patient’s symptoms. Because the patient is asymptomatic with distance activities (and has good uncorrected distance visual acuities), the Rx is not required for full-time wear."
+    },
+    {
+      "number": 2,
+      "stem": "After reviewing the patient’s anterior segment findings, which of the following treatment options would be MOST appropriate in order to address his secondary complaint of itchy eyes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pataday® q.d.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Zirgan® q.5h",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pred Forte® t.i.d.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Moxeza® t.i.d.",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "AzaSite® b.i.d.",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Clinical findings from the case history (itchy eyes, asthma, runny nose, eczema), along with the slit-lamp findings (mild to moderate conjunctival papillae and conjunctival injection) are consistent with the presence of seasonal and atopic allergies (which was also noted in the patient’s medical history). Pataday®, is a topical ophthalmic antihistamine/mast cell stabilizer that is indicated for ocular itching related to allergic conjunctivitis. It is approved for use in the pediatric population over the age of 2; and is therefore the best treatment option for this patient of those listed above. Although Pred Forte® can be an effective treatment for combating ocular inflammation, as well as provide relief from itching, Pred Forte® would not be considered a first-line treatment due to the potential side effects that can be associated with the use of a topical ocular steroid."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following is NOT a common finding associated with vernal keratoconjunctivitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Preauricular lymphadenopathy",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Horner-Trantas dots",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cobblestone papillae",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Corneal \"shield ulcer\"",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Vernal keratoconjunctivitis is an ocular condition that usually occurs in children during the summer/spring seasons. It is mostly seen in the male population and often waxes and wanes for approximately 5-10 years and then tends to spontaneously resolve. There is commonly a family history association, and symptoms usually include intense itching. Clinical signs of vernal keratoconjunctivitis involve the presence of ropy discharge, giant cobblestone papillae, Horner-Trantas dots, and a corneal shield ulcer. In about 50% of patients, keratitis is present."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following topical ocular medications represents the MOST appropriate first line of treatment for the acute signs and symptoms associated with vernal keratoconjunctivitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Timolol® b.i.d.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vigamox® t.i.d.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alrex® q.i.d.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pataday® q.d.",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Preservative-free artificial tears q.2h",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Although Pataday® is an effective pre-treatment and long-term therapy for stabilizing ocular allergies, a mild topical steroid (such as Alrex®), would be most appropriate as a first line of treatment for managing the acute symptoms and signs of vernal keratoconjunctivitis. Alrex® (Loteprednol etabonate 0.2%) is a \"soft\" steroid that helps inhibit the production of arachidonic acid; subsequently reducing the production of the three eicosanoids that can lead to inflammation and are related to the signs of symptoms of this condition."
+    },
+    {
+      "number": 5,
+      "stem": "After initiating treatment, what is the MOST appropriate follow-up plan for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Return for follow-up in 1 year for a annual eye examination",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Return for follow-up in 1 week to check patient symptoms and slit-lamp findings",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Return for follow-up in 1 week to check patients symptoms and IOP",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Return for follow-up in 6 weeks for a dilated fundus examination",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Return for follow-up in 1 month for repeat cycloplegic refraction",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Patients who are prescribed steroids should return for a follow-up examination to not only check on their signs and symptoms, but to also monitor intraocular pressures in order to rule out the possibility of a steroid response. However, this patient was not placed on Alrex® but rather Pataday®, so an elevation in IOP is not of concern. Nonetheless, a follow-up is still important to ensure that Pataday® has been an effective treatment for the patient, and that the current plan does not need to be altered. An annual comprehensive examination is also recommended, but ensuring that the patient's allergic symptoms/signs have improved (or have resolved) prior to then is essential."
+    },
+    {
+      "number": 6,
+      "stem": "If you were to perform a scraping of the conjunctival secretions in a patient suspected of having allergic conjunctivitis, the presence of which type of cell would confirm your diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Monocytes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Basophils",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Eosinophils",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Allergic conjunctivitis is an ocular inflammatory condition that is triggered by IgE-induced mast cell and basophil degranulation that occurs in response to an antigen. These cells, once degranulated, release histamine, cytokines, leukotrienes, prostaglandins, interleukins, chemokines and other mediators (early phase), which produce the classic symptoms of itching and redness that are associated with allergic conjunctivitis. In the later phase of the allergic response, infiltration of inflammatory cells such as eosinophils, neutrophils, and lymphocytes also occur, with eosinophils predominating. Therefore, if the conjunctival secretions were to be stained, one would likely observe numerous eosinophils. Eosinophils are not typically present in the conjunctival scrapings of normal patients, so their presence is consistent with a diagnosis of allergic conjunctivitis."
+    }
+  ]
+}

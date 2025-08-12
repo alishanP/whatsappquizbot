@@ -1,0 +1,313 @@
+{
+  "case_id": "pVWsXkbCjEecYff10948",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "25-year-old white female; MBA student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "eye pain and photophobia"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 6 months ago; wears glasses only; had similar episode 2 years ago (OD)"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Claritin®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "seasonal allergies, NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 11 mmHg, OS: 11 mmHg @ 4:30 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "115/77 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "73 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: foreign body sensation and light sensitivity",
+      "Location: OS",
+      "Severity: moderate",
+      "Nature of onset: acute",
+      "Duration: 2 days",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: redness",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -0.50 -0.25 x 172; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: -1.00 DS; VA distance: 20/25, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: 2+ flakes on lashes OD, OS",
+      "conjunctiva: normal OD, see image 1 OS",
+      "cornea: clear OD, see image 1 OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.40 H/0.40 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.40 H/0.40 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_PRFXJZMQDGOYDMA11012.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the BEST diagnosis for this patient's left eye anterior segment condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marginal keratitis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Thygeson superficial punctate keratitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dellen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bacterial corneal ulcer",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Phlyctenulosis",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Clinical presentation of staphylococcal hypersensitivity keratitis (marginal keratitis) includes the following features: •Sterile marginal infiltrates that are most commonly located superiorly or inferiorly (near where the lid margin rests against the surface of the cornea) •There may be single or multiple infiltrates that are frequently concentric to the limbus °There is an intervening clear space between the limbus and the stromal infiltrate •Epithelial defects may be present overlying the lesion but are typically smaller than the infiltrate •Localized conjunctival injection is commonly noted in the area of the infiltrate •Anterior chamber is usually quiet; although patients may exhibit mild inflammation in some cases •There are usually associated signs of anterior blepharitis (flakes on lashes) •Patients typically present with symptoms of mild photophobia, mild pain, localized conjunctival redness, chronic eyelid crusting, foreign body sensation, and/or ocular dryness °There may also be a history of recurrent episodes, chalazia, or hordeola Sterile infiltrates may also occur in patients who wear contact lenses. These are typically very small (<1mm), peripheral, often multiple, non-staining, non-painful, and are not associated with corneal edema or anterior chamber inflammation. Patients with phlyctenulosis may present with many of the same symptoms as marginal keratitis; however, the clinical findings are different. A corneal phlycentule typically appears as a small, white nodule, initially found at the limbus. It is often associated with ulceration of the corneal epithelium. The lesion can migrate into the central cornea, leaving corneal scarring and neovascularization behind the leading edge of the phlyctenule. Bacterial corneal ulcers will present with a more severe appearance of redness, ocular pain, photophobia, decreased visual acuity, discharge, etc. A focal white opacity may be observed in the corneal stroma with an overlying epithelial defect that stains with fluorescein. There are other commonly associated characteristics such as stromal edema, anterior chamber reaction, folds in Descemet's membrane, and eyelid edema. A corneal dellen usually produces mild irritation and foreign body sensation. Slit-lamp evaluation will reveal corneal thinning (usually at the limbus), often in the shape of an ellipse, adjacent to an area of conjunctival or corneal elevation. Sodium fluorescein pooling will occur in the area (with minimal staining). There are no infiltrates, and no anterior chamber reaction; however, minimal conjunctival hyperemia may be observed. Thygeson superficial punctate keratitis (SPK) is typically a chronic bilateral condition with phases of exacerbations and remissions. Patients will usually present with mild to moderate foreign body sensation, tearing, and photophobia. Evaluation of the cornea will reveal macro-punctate gray-white corneal epithelial opacities that appear slightly elevated and often stain centrally with sodium fluorescein. There is usually no associated conjunctival hyperemia, corneal edema, or anterior chamber reaction in these cases."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following BEST describes the etiology of this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corneal hypoxia induced infiltration",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The etiology of this condition is unknown",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Corneal bacterial invasion in an area of epithelial compromise",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Poor spread of tear film over a focal area of the cornea",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Hypersensitivity reaction to staphylococcal bacteria exotoxins",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Marginal infiltrates are sterile lesions that will culture negative when tested, although Staphylococcal aureus bacteria are frequently found concurrently on the eyelid margins in the area of the infiltrates. Marginal keratitis is thought to be the result of a reaction against excessive staphylococcal exotoxins and cell wall proteins produced by bacteria on the eyelids. This debris causes deposition of antigen-antibody complexes in the peripheral cornea (antigen diffuses from the tear film, antibody from the blood vessels), along with secondary lymphocytic infiltration, leading to the appearance of a whitish subepithelial lesion that is separated from the limbus by a zone of clear cornea."
+    },
+    {
+      "number": 3,
+      "stem": "Which 2 of the following organisms can penetrate an intact corneal epithelium? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neisseria gonorrhoea",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Corynebacterium diphtheriae",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumonia",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "•Neisseria gonorrhoeae °Usually associated with a genital infection (which may be asymptomatic) °Can invade an intact corneal epithelium, provoking a severe corneal ulcer that may eventually lead to corneal perforation °Anterior uveitis with hypopyon may also occur with this type of infection •Corynebacterium diphtheriae °Very rare infection since the advent of wide-spread vaccination °Characterized by severe membranous conjunctivitis, along with pharyngitis, myocarditis, and muscle palsies °Can also penetrate an uncompromised corneal epithelium, with a high risk of ulceration and perforation Literature has also shown that N. meningitidis, Listeria, and Shigella can also penetrate an apparently normal corneal epithelium. All other organisms require damage to the epithelial layer in order to invade the cornea."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following describes the BEST initial medical treatment for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zymaxid® q.i.d. OS and Lotemax® q.i.d. OS",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Doxycycline 100 mg p.o. b.i.d.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Restasis® b.i.d. OS",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Moxeza® q1h OS and Cyclogyl® b.i.d. OS",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Preservative-free artificial tears q4h OS",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Treatment in cases of marginal keratitis begins by addressing concurrent blepharitis. This is completed by the use of warm compresses, eyelid hygiene, and a fluoroquinolone antibiotic q.i.d (an ointment such as bacitracin or erythromycin may also be used on the eyelids at night). For moderate to severe cases in which the patient is symptomatic, a low-dose, topical steroid (loteprednol 0.2% to 0.5% or prednisolone 0.25%) may be added to the antibiotic treatment q.i.d; or a combination medication such as Tobradex® may be utilized. (Wills Eye Manual advises never to use a steroid alone without antibiotic coverage in these cases.) This treatment should be maintained until the patient's symptoms improve, and then the steroid may slowly be tapered. If symptoms recur despite proper treatment and eyelid hygiene, addition of a systemic tetracycline (such as doxycycline) may be utilized for a period of several months until the ocular disease has been successfully controlled. Tetracyclines not only have an antimicrobial effect, but they also provide an anti-inflammatory component to the sebaceous glands. Topical cyclosporine (Restasis®) may also be helpful in longer-term control of ocular inflammation; however, these are typically not the initial medications of choice. Additionally, a nightly low-dose antibiotic ointment may be needed indefinitely to maintain proper eyelid hygiene. There are also in-office treatments that optometrists may utilize in cases of blepharitis to give an extra jump-start to cleansing the eyelids (such as Blephex®)."
+    },
+    {
+      "number": 5,
+      "stem": "If the patient’s condition was left untreated for a period of several weeks, which of the following would you MOST expect to occur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior uveitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Corneal perforation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Corneal ulceration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stromal keratitis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Resolution of lesion",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Marginal keratitis is a self-limiting condition in which the sterile infiltrate will eventually resolve over a period of 3-4 weeks if left untreated, although there may be a residual zone of mild corneal thinning in the area of the lesion with a faint superficial scar (usually without vascularization). However, these infiltrates respond very quickly to steroids, and will usually resolve within a few days if properly treated. It is very unlikely for these lesions to develop bacterial invasion that would lead to an ulcer or corneal perforation."
+    }
+  ]
+}

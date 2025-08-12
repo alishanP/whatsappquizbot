@@ -1,0 +1,331 @@
+{
+  "case_id": "wZrzOVisOhlCjpC14743",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "14-year-old white female; student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "referred by another optometrist for corneal collagen cross-linking evaluation"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "itchy eyes"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 month ago"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "seasonal allergies"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Zyrtec® PRN"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: breast cancer"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Topography:",
+        "value": "OD: see images 1 & 2, OS: see images 3 & 4"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 12 mmHg, OS: 12 mmHg @ 10:15 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "110/64 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "60 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: worsening vision at all distances",
+      "Location: OD, OS",
+      "Severity: moderate (OS worse than OD)",
+      "Nature of onset: gradual",
+      "Duration: 6 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: struggling at school with seeing the board and reading",
+      "Accompanying signs/symptoms: halos around lights; mostly at night",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: occasional runny nose and sinus congestion",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: +0.75 -0.75 x 090; VA distance: 20/40, PH 20/30",
+      "OS: +1.00 -1.00 x 105; VA distance: 20/70, PH 20/60",
+      "OD: +0.50 -1.50 x 085; VA distance: 20/30",
+      "OS: plano -3.00 x 110; VA distance: 20/60",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: faint Vogt striae OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_QVZAXCSUCRTFBKC14812.PNG",
+      "AnsweredCases/images/KI_NSHSLJSTYABEHVS14813.PNG",
+      "AnsweredCases/images/KI_FCGWBTTMQNXJTNU14814.PNG",
+      "AnsweredCases/images/KI_SYSOPYAWOBNIOND14815.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Based on the refractive data and corneal topographies, what is the BEST diagnosis for this patient's right and left eyes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Terrien's marginal degeneration",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Keratoconus",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pellucid marginal degeneration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Forme fruste keratoconus",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Keratoglobus",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Keratoconus is classically described as a bilateral, asymmetric, non-inflammatory, progressive disorder in which the cornea assumes a conical shape secondary to the loss of structural integrity, continued thinning, and protrusion of the corneal tissue. The hallmark signs of keratoconus are central or paracentral corneal stromal thinning, apical corneal protrusion, and the presence of irregular astigmatism. Clinical evaluation will often reveal an irregular \"scissors\" reflex on retinoscopy, and an \"oil droplet\" reflex using a direct ophthalmoscope. Slit-lamp examination of the anterior segment may show fine, vertical, deep striae within the corneal stroma (known as Vogt striae), which disappear when external pressure is applied to the globe. Additionally, iron deposits may be observed surrounding the base of the cone at the level of the corneal epithelium (Kayser ring). In advanced cases of keratoconus, bulging of the lower lid can be observed in downgaze (Munson sign), and ruptures in Descemet's membrane can occur, leading to an acute influx of aqueous into the cornea, resulting in hydrops. Corneal topography data in patients with keratoconus will show progressive inferior axial steepening and irregular astigmatism, with steep keratometry values that are usually greater than 48D in mild cases, and can be greater than 54D in both meridians in severe cases. Corneal pachymetry data will also show progressive corneal thinning corresponding to the area of the conical protrusion. Unlike keratoconus, the cornea in pellucid marginal corneal degeneration protrudes superior to the area of corneal thinning. The hallmark diagnostic sign of pellucid is the kissing birds/gull-wing pattern exhibited on corneal topography. In cases of keratoglobus, the ectasia is generalized, and abnormal corneal thinning occurs over the entire cornea. Patients with Terrien marginal degeneration show peripheral corneal thinning that can be localized or involve extensive portions of the cornea. Degeneration typically begins superiorly with anterior stromal opacities, leaving a clear area between the opacities and the limbus. And finally, a patient with forme-fruste keratoconus will have a topography that displays central or paracentral irregular astigmatism; however, clinically the patient will be asymptomatic."
+    },
+    {
+      "number": 2,
+      "stem": "Based on the patient's age and clinical findings, which eye(s) would benefit from undergoing corneal collagen cross-linking (CXL)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both eyes",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Neither eye",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Right eye only",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Left eye only",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "As with any surgical procedure, critical attention to patient selection is important in maximizing success and minimizing failure rates and potential postoperative complications. Because the principal purpose and most well-documented goal of CXL treatment is to halt the progression of corneal ectasia, it should be reserved for patients with progressive ectatic disease. However, CXL is indicated in children and adolescents at the time of their diagnosis, without the need of documented progression. Therefore, the patient in this case would be a candidate for surgery in both eyes. Additionally, the maximum corneal power that should be considered for CXL is 65D, as higher keratometric values are associated with increased failure rates. Furthermore, patients over the age of 35, and those with distance visual acuity of 20/25 or better, have a greater risk of visual acuity loss after CXL treatment. Also, in order to reduce the chance of UVA-induced corneal endothelial damage, a corneal thickness less than 400 microns was an exclusion criterion for CXL using the standard protocol. Therefore, the best candidates for CXL include those patients who are 35 years of age or younger, with eyes that show progression in adults or at the time of diagnosis in children, with moderate keratoconus (max K value less than 65D), a corneal thickness greater than 400 microns, and with visual acuities of 20/30 or worse."
+    },
+    {
+      "number": 3,
+      "stem": "After removal of the corneal epithelium in patients undergoing corneal collagen cross-linking,, what is the minimum residual corneal thickness required to maintain the integrity of the corneal endothelium (according to the standard protocol)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "400 microns",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "300 microns",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "200 microns",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "500 microns",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "250 microns",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "350 microns",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "The standard protocol for corneal collagen cross-linking requires a minimum corneal thickness of at least 400 um after removal of the corneal epithelium in order to prevent endothelial cell damage. It is extremely important to maintain the integrity of the corneal endothelium as it has low regenerative capacity. The endothelium has been shown to have a cytotoxic threshold of 4mW/cm2 when exposed to UVA light of 370 nm, but with the presence of riboflavin, this threshold dramatically reduces by 10-fold to 0.35 mW/cm2. Therefore, with a corneal thickness of at least 400 um, enough incident UV light is absorbed by the photosensitizer in the corneal stroma to reduce the radiant exposure of the endothelium to a level that is below its cytotoxic threshold. As previously mentioned, in the original treatment protocol patients with a corneal thickness of less than 400 um (once the epithelium is removed) did not qualify for treatment; however, newer studies have shown that if a hypo-osmolar riboflavin solution is used, corneal swelling could be induced intraoperatively to a thickness greater than 400 microns, potentially making it safe to proceed with CXL."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following is considered a relative contraindication for corneal collagen cross-linking?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glaucoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prior history of INTACS",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prior history of herpes keratitis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Prior history of LASIK",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Diabetes",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Relative contraindications for CXL include prior history of herpetic infections (to avoid potential viral reactivation), concurrent infection, severe corneal scarring or opacification, a history of poor wound healing, severe ocular surface disease, and a history of autoimmune disorders. However, if a patient is in need of CXL and has a prior history of herpetic infections; a pre and postoperative prophylactic treatment of oral acyclovir can be considered in an attempt to reduce risk."
+    },
+    {
+      "number": 5,
+      "stem": "When explaining corneal collagen cross-linking to the patient and her parents, which of the following statements BEST describes the ultimate goal of the procedure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To slow down or halt the progression of her eye disease",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "To improve her best corrected vision with her glasses",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "To prevent her from requiring rigid gas-permeable contact lenses",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "To allow her to be able to wear soft contact lenses",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "To correct her refractive error",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "To allow her to be a candidate for LASIK in the future",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Corneal collagen cross-linking is a treatment that targets aspects of the underlying pathophysiology of keratoconus and other corneal ectasias, rather than only temporarily alleviating the symptoms associated with these diseases. Results of many clinical trials completed on this procedure have concluded that cross-linking is effective in slowing down or halting the progression of ectasia, without causing significant side effects or complications. Additional positive corneal changes that have been observed following CXL include stiffening of the corneal tissue, flattening of the corneal curvature, and improvement in visual acuity."
+    }
+  ]
+}

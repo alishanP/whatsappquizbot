@@ -1,0 +1,329 @@
+{
+  "case_id": "ykOLFrbLBresqwd10270",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "28-year-old Asian female; human resource director"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "itchy, red eyes"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last comprehensive eye exam 5 years ago; no vision correction"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: fundus albipunctatus"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "oral contraceptives"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "pollens and ragweed; NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: melanoma"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 19 mmHg, OS:19 mmHg @ 4:45 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "108/78 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "68 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: eyes are often itchy, red, and watery",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: acute",
+      "Duration: 2 weeks",
+      "Frequency: daily",
+      "Exacerbations/remissions: worse towards the end of the day",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: swollen eyelids due to frequent eye rubbing",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20, near: 20/20 @ 40 cm",
+      "OS: distance: 20/20, near: 20/20 @ 40 cm",
+      "OD: plano -0.50 x 175; VA distance: 20/20",
+      "OS: -0.25 -0.25 x 010; VA distance: 20/20",
+      "lids/lashes/adnexa: trace erythema and edema of upper eyelid OD, OS",
+      "conjunctiva: 1+ bulbar injection and chemosis, 1+ inferior palpebral papillae OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.15 H/0.15 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: see image 1",
+      "C/D: 0.15 H/0.15 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_JXGWUFACFYIDYPJ10334.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis of the patient's retinal condition as observed in image 1?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gyrate atrophy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "RPE window defect",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Atrophic retinal hole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Geographic atrophy",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Cobblestone degeneration",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Attenuation of the retinal pigment epithelium may lead to loss of melanin granules, allowing for increased visibility of the underlying choroid. RPE defects, also known as \"window defects\", appear as yellow-white, well-demarcated, circular lesions that usually present in the mid-peripheral retina. These benign lesions will not present with any associated RPE hyperplasia or surrounding retinal edema. Acquired retinal conditions that can lead to RPE window defects may include vascular abnormalities, inflammation, age-related macular degeneration, Best disease, choroideremia, trauma, tumors, macular holes, rubella, and sub-RPE neovascularization. RPE window defects may also occur secondary to the use of certain medications such as thioridazine. Given the case history, the lack of retinal pathology, and the presentation of the lesion, this patient’s RPE defect is likely due to a physiological variation of the RPE. Gyrate atrophy is an inherited autosomal recessive disorder. It begins as RPE and choroidal atrophy with scalloped borders in the mid-peripheral fundus. It is estimated that 80-98% of patients also have progressive myopia. Areas of the retina are hyperpigmented near atrophic zones. With time, areas of atrophy may coalesce, and peripheral visual field loss increases. Gyrate atrophy is associated with hyperornithinemia (an amino acid defect in the mitochondria) and reduced serum lysine levels. This patient does not possess field loss, is not myopic, and the defect is unilateral. In addition, the patient did not report any signs of nyctalopia (night blindness), which is a common symptom in patients with this condition. Cobblestone degeneration, also known as pavingstone degeneration, is a thinning or atrophy of the peripheral retina, retinal pigment epithelium, and choriocapillaris. It is more commonly observed in myopic patients. The areas of atrophy appear circular and are white/yellow in color due to depigmentation. There is usually an associated halo of pigment surrounding the thinned areas. These lesions may coalesce together to form a large band of atrophy. The condition is typically observed bilaterally. The RPE defect observed in this patient does not possess RPE hyperplasia around its borders, which is characteristic of cobblestone degeneration. Additionally, the sclera may be visible in pavingstone degeneration, which is also not evident in this patient’s retinal image. Retinal holes will typically appear red or brown in color and are often surrounded by hyperplasia of the RPE, or by a cuff of retinal edema. Geographic atrophy is an advanced stage of dry age-related macular degeneration."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate treatment for the patient's retinal condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refer for genetic testing",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start AREDS II vitamin supplements",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Refer for cryotherapy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer for laser photocoagulation",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Monitor annually",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Although an RPE window defect may enlarge with age, intervention is not necessary as it will not lead to vision loss."
+    },
+    {
+      "number": 3,
+      "stem": "Given your suspected diagnosis based on the patient’s chief complaint and examination findings, which of the following topical ophthalmic preparations would be appropriate for once a day use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zaditor®",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Patanol®",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alrex®",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lastacaft®",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Cromolyn sodium",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Acular®",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Given the patient’s exam findings and chief complaint, she is most likely suffering from ocular allergies. Lastacaft® is a dual-acting medication that serves as an antihistamine and mast cell stabilizer and is indicated for once daily use. Patanol® and Zaditor® are also classified as dual-acting agents because they block H-1 receptor sites and stabilize mast cells. However, both of these medications are to be used twice daily for effective results. Cromolyn sodium stabilizes mast cells but does not possess the ability to block H-1 receptor sites. Mast cell stabilizers are useful for chronic allergic eye disease, but they have an associated lag time and therefore do not provide instant relief of symptoms. Cromolyn sodium is typically used four to six times daily. Alrex® is a mild steroid that provides relief from symptoms associated with ocular allergies, but it is typically prescribed to be used three to four times a day. Acular® is classified as a non-steroidal anti-inflammatory drug (NSAID) and is typically used four times daily. NSAIDs work well for mild to moderate bouts of allergic conjunctivitis."
+    },
+    {
+      "number": 4,
+      "stem": "If preauricular nodes were to be evaluated on this patient, which of the following results would you expect to observe?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unilateral, tender, palpable node",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bilateral, non-tender, palpable nodes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bilateral, tender, palpable nodes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bilateral, tender, non-palpable node",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Unilateral, non-tender, palpable node",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Bilateral, non-palpable, non-tender nodes",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "Again, given the patient’s exam findings and chief complaint, she is most likely experiencing symptoms related to allergic conjunctivitis. Allergic responses generally do not result in palpable or tender preauricular or submandibular nodes. If there is lymph node involvement, then a viral infection should be suspected."
+    },
+    {
+      "number": 5,
+      "stem": "If an optometrist has completed a residency in contact lenses, which of the following statements is TRUE regarding the standards of professional conduct adopted by the American Optometric Association?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The optometrist does not have to release a written copy of a specialty contact lens prescription",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Because the optometrist is more advanced in contact lenses, he or she may NOT charge insurance plans for medically necessary contact lenses",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The optometrist may advertise that he or she specializes in contact lenses",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Only optometrists who completed a residency in contact lenses should fit specialty contact lenses",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "The optometrist may charge a higher fee for a difficult contact lens fitting",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "According to the standards of professional conduct adopted by the American Optometric Association in regard to advertising, an optometrist may not profess specialization within a specific area of optometry. The optometrist may state that he or she has a special interest in a particular area but may not claim a specialty. When advertising, a clinician must publish his or her professional degree and may not deceive the public. Any optometrist, whether he or she does or does not possess residency training, may fit specialty contact lenses, and may bill for medically necessary contacts as long as the patient qualifies under the specific parameters published by the insurance carrier. Based on the FTC contact lens rule, optometrists must provide all patients with a copy of their contact lens prescription no matter if the lens is considered a specialty lens or not."
+    }
+  ]
+}

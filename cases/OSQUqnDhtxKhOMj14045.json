@@ -1,0 +1,330 @@
+{
+  "case_id": "OSQUqnDhtxKhOMj14045",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "48-year-old Hispanic male; horticulturist"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "trouble reading"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 4 years ago; growth on right eye, has been present since childhood"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: pterygium surgery"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypercholesterolemia, depression, anxiety"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "lovastatin, Wellbutrin®, Prozac®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: Alzheimer disease"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: orthophoria, near: 4 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Keratometry",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 16 mmHg @ 12:05 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "121/78 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "76 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurred near vision; difficulty reading",
+      "Location: OD, OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: 1 year",
+      "Frequency: constant",
+      "Exacerbations/remissions: vision improves with bright lighting or when holding material further away",
+      "Relationship to activity or function: near vision only; distance vision is good",
+      "Accompanying signs/symptoms: eye fatigue, headaches",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: depression, anxiety",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/25, VA near: 20/40 @ 40 cm",
+      "OS: VA distance: 20/25, VA near: 20/30 @ 40 cm",
+      "OD: 44.25 @ 176 / 43.75 @ 086; no distortion of mires",
+      "OS: 44.50 @ 180 / 44.00 @ 090; no distortion of mires",
+      "OD: plano -0.75 x 072 add: +1.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: -0.50 DS add: +1.50; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: see image 1 OD, OS similar to OD",
+      "conjunctiva: see image 2 OD, normal OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.25 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.20 H/0.20 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_HDXBBDIBFARYNZX14115.PNG",
+      "AnsweredCases/images/KI_YSJITJBMCHLMAWL14116.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis for the patient's anterior segment condition observed in image 1?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trichiasis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trichomegaly",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trichotillomania",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Polytrichosis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Poliosis",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Trichotillomania is a condition in which patients pull out hair, eyelashes, eyebrows, and/or pubic hair, causing observable areas of associated hair loss. This condition can present in both adults and children. Trichotillomania frequently coexists with other psychological conditions such as anxiety, addictive, and affective disorders. It is currently undecided whether this condition is a variant of obsessive-compulsive disorder, or if it is a disorder of its own accord. Patients with trichotillomania often report that hair pulling decreases or minimizes their feelings of anxiety, boredom, or tension. Many patients also report that hair pulling provides a pleasurable feeling rather than pain. Treatment includes pharmacological intervention, psychotherapy, or a combination of the two. Poliosis refers to a loss of lash pigmentation. Trichiasis is an inward turning of one or more eyelashes towards the globe. Polytrichosis or hypertrichosis refers to an abnormally high quantity of eyelashes. Trichomegaly describes the condition in which eyelashes are unusually long and lush."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST likely diagnosis of this patient's conjunctival condition observed in image 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Melanocytoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pigmented pinguecula",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Primary acquired melanosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Conjunctival nevus",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Conjunctival melanoma",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Conjunctival nevi typically occur unilaterally, and are most often found either adjacent to the limbal region, or in the caruncular area. These lesions can appear flat or elevated, and they generally present within the first two decades of life. This type of nevus usually has well-defined borders and is able to be manipulated such that it can be moved freely over the underlying sclera. Cystic spaces within these nevi are commonly observed and are a key diagnostic sign. The brown pigmentation of the lesion may vary from almost no pigment to a deep chocolate brown. Nevi may experience growth, along with a change in pigmentation during puberty. Signs of malignancy include vascularization, location (fornix, palpebral conjunctiva), growth onto the cornea, and/or rapid growth or change in pigmentation (especially if this occurs after puberty). Primary acquired melanosis (PAM) is found almost exclusively in middle-aged Caucasians. The condition is frequently unilateral. PAM without atypia is benign and is limited to the basal layer of the conjunctiva. PAM with atypia has a 50% chance of becoming malignant, and it extends to all layers of the conjunctiva. PAM usually appears after the age of 45 and is observed as flat brown lesions that can be moved over the sclera. PAM may change with time and can become larger or smaller, with increased or decreased levels of pigmentation. Areas that become elevated or vascularized should be suspected of malignancy. A melanocytoma is a congenital, evenly pigmented, black/dark brown lesion with well-demarcated borders that does not move freely over the scleral surface. Melanocytomas are slow-growing, and therefore may increase in size with time. A conjunctival melanoma is typically observed in middle-aged to elderly patients. Melanomatous lesions will usually appear elevated and vascularized. It is not uncommon to observe a large feeder vessel at the site of the lesion. Melanomas frequently occur at the limbus and are generally darkly pigmented, although they may also be amelanotic in nature. Melanomas can develop from primary acquired melanosis, from existing nevi, or spontaneously. Conjunctival melanomas may metastasize, most frequently to the preauricular nodes and the anterior cervical lymph nodes; therefore, palpation of these areas is crucial if a melanoma is suspected."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST appropriate treatment of this patient's conjunctival condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refer for excision with mitomycin C",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Refer for biopsy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Monitor every 6-12 months",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Refer for immediate exenteration",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Refer for CT scan of the orbits",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Although the potential for malignant transformation is rare, patients with nevi should be followed every 6 to 12 months via photo documentation to ensure stability and to monitor for any changes that may signal malignancy."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following should be included in your patient education regarding the lesion observed in image 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Do not use artificial tears with preservatives as these may irritate the lesion",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "There is a high mortality rate associated with this condition",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is normal for the right eye lesion to grow and change color over time",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ensure the use of sunglasses to protect the eyes from harmful ultraviolet light",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "If the left eye becomes red, return to the office immediately, as this can indicate that the lesion has spread",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Although the potential for malignant transformation is rare, the patient should be encouraged to wear sunglasses with UV protection to further reduce the chances of malignancy. There are no contraindications for this patient for using artificial tears with preservatives as long as he is not using them more frequently than four times daily, in which case he should use a preservative-free formulation. If the left eye became red, this would be attributable to a different etiology and unrelated to the nevus in the right eye. Conjunctival nevi do not spread from one eye to the other. If the lesion changed in size or color, this could indicate possible malignancy and should be further evaluated. As this condition is benign, there is not a high risk for mortality associated with conjunctival nevi."
+    },
+    {
+      "number": 5,
+      "stem": "The patient returns to pick up his new polycarbonate progressive lenses. Before you dispense them, you notice that the fitting markings are still present on the lenses. Which of the following agents can NOT be used to clean off the markings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Water",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dish soap",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Acetone",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Isopropyl alcohol",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Acetic acid",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Acetone (nail polish remover) can never be used to remove markings from polycarbonate lenses. Materials made from polycarbonate are sensitive to many types of solvents, and their use can lead to opacification of the lenses. Once it comes in contact with polycarbonate, acetone quickly diffuses into the plastic and causes small stress fractures. Dish soap, water, and acetic acid (vinegar) will not damage the lenses. Additionally, many lens cleaner sprays are composed of water, isopropyl alcohol, and soap."
+    }
+  ]
+}

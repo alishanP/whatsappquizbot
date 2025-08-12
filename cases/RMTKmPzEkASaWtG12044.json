@@ -1,0 +1,313 @@
+{
+  "case_id": "RMTKmPzEkASaWtG12044",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "24-year-old Hispanic male; software engineer"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "droopy eyelids; was brought to his attention by his girlfriend after looking at old photos"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last comprehensive eye exam 5 years ago; does not wear corrective lenses"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unknown (patient adopted)"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "anxiety"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Xanax®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "unknown"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "mildly depressed ductions in all fields of gaze OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: orthophoria, near: orthophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "mild superior field restriction OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 17 mmHg, OS: 16 mmHg @ 7:50 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "115/76 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "67 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: progressive drooping of upper eyelids",
+      "Location: OD, OS",
+      "Severity: mild-moderate",
+      "Nature of onset: gradual",
+      "Duration: 2 years",
+      "Frequency: constant",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: facial muscles occasionally feel weak",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: facial muscle weakness",
+      "Neuropsychiatric: trouble sleeping, anxiety",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20, near: 20/20 @ 40 cm",
+      "OS: distance: 20/20, near: 20/20 @ 40 cm",
+      "OD: +0.25 -0.25 x 098; VA distance: 20/20",
+      "OS: -0.25 DS; VA distance: 20/20",
+      "lids/lashes/adnexa: see image 1 OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.30 H/0.30 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: 3 DD choroidal nevus superior temporal"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_ZGZSKLNYZIGKVCD12111.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represents the patient’s MOST likely diagnosis given his history and exam findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kearns-Sayre syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chronic progressive external ophthalmoplegia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ophthalmoplegic migraine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Myasthenia Gravis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Oculopharyngeal dystrophy",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Horner's syndrome",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Chronic progressive external ophthalmoplegia (CPEO) typically occurs after the age of 20 and presents with bilateral ptosis that is often relatively symmetrical. Initially, patients may not be symptomatic and may not be aware of the ptosis until it is brought to their attention by others. With time, a progression of the ptosis may eventually impede vision if the visual axis becomes obstructed. As the condition progresses, ocular motility will become restricted with the superior gaze being affected first, followed by the lateral gaze. As the condition worsens, eye movements may become completely limited. Pupils are not affected in this condition and patients generally do not report diplopia because the condition is bilateral and relatively symmetrical. The symptomatology does not undergo diurnal variation. Patients may also note a concurrent weakness of ocular, facial, or limb muscles. Kearns-Sayre syndrome (KSS) is similar to CPEO and is often considered a subset of this condition. KSS occurs at a younger age than CPEO (prior to the age of 20) and additional clinical findings include degeneration of the retinal pigment epithelium, resulting in a 'salt and pepper' appearance of the posterior fundus. These patients may also be susceptible to heart block after the onset of the ocular symptoms, putting them at risk for sudden death. Patients with KSS may also experience deafness, delayed puberty, increased cerebrospinal fluid protein, mental retardation, nephropathy, and cerebellar ataxia. Ophthalmoplegic migraines typically occur in children younger than 10 years of age. As the headache resolves, transient extraocular muscle palsy occurs (most frequently of the 3rd nerve). This patient does not report headaches and does not fall into the correct age category to substantiate a diagnosis of an ophthalmoplegic migraine. Myasthenia gravis is ruled out because there is no diurnal variation of the ptosis. The patient reports no difficulty swallowing, which refutes a diagnosis of ocular pharyngeal dystrophy. The ptosis is bilateral with no pupil involvement, also effectively ruling out Horner syndrome."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate treatment for this patient's ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refer for an electrocardiogram",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Monitor the condition every six months",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Refer for blepharoplasty",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer for magnetic resonance imaging",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Refer for thyroid function tests",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "There currently is no specific treatment for CPEO; however, management of these patients' symptoms is important. For example, ocular lubricants should be used in the event of exposure keratopathy. If the ptosis is interfering with vision, a ptosis crutch or surgical intervention may be warranted, but careful observation for exposure keratopathy must be maintained. Reading glasses with base down prism may also be beneficial if the patient is suffering from a restriction of movement in the downward gaze."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following describes the MOST common inheritance pattern for this patient's ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mitochondrial",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "X-linked recessive",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Autosomal recessive",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Mitochondria possess a small amount of DNA that is contributed by the egg only and is therefore passed on by the mother. Both males and females can be afflicted with mitochondrial mutations, as can each generation of a family; however, mitochondrial conditions cannot be passed on by males. CPEO can also occasionally be inherited in an autosomal dominant fashion."
+    },
+    {
+      "number": 4,
+      "stem": "If 4% cocaine was instilled into each eye, which of the following results would you expect to observe for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dilation of the right pupil, no dilation of the left pupil",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Minimal to no dilation of either pupil",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Equal dilation of both pupils",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "No dilation of the right pupil, dilation of the left pupil",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The pupillary response in patients with chronic progressive external ophthalmoplegia remains unaffected; therefore, one should expect both pupils to dilate equally."
+    },
+    {
+      "number": 5,
+      "stem": "You notice that this patient's choroidal nevus may appear to be elevated and you wish to refer the patient to a retinal specialist for further evaluation. Which of the following should be included in your explanation to the patient of your need to refer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient should understand the high mortality rate associated with a melanoma that is left untreated",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The patient should be informed that there is a high likelihood of the need for a needle biopsy and he should be prepared for an invasive exploratory procedure",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The patient should be made aware that there is a very high risk of the nevus developing into a melanoma, especially without careful observation and follow-up",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The patient should be made aware that more testing is necessary and he must be sure to show up for his appointment with the specialist",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "It is important when discussing exam findings with patients that we, as clinicians, exercise veracity ('tell the truth') while withholding candor ('telling the whole truth') when deemed necessary. Ethically, practitioners should always tell the truth, but the patient does not require full disclosure of all the details surrounding the etiology and the potential complications of a nevus. Full disclosure would likely cause the patient undue stress, especially if the diagnosis is uncertain and potentially unlikely (and this patient has a history of anxiety already). It is essential that the patient is made aware of his condition and the appropriate referral is made. It is also imperative that the patient be made aware of the importance of following up with the specialist to ensure that he keeps his appointment. As primary care practitioners, we need to make our patients aware of the need for further testing, but it is not always necessary to fully disclose the procedures themselves, as many specialists employ different approaches in their evaluations and treatment options. In the majority of cases, candor is applied in our exam rooms, but if the need arises and it is in the best interest of the patient, veracity may be more appropriate."
+    }
+  ]
+}

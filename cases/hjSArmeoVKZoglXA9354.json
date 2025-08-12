@@ -1,0 +1,310 @@
+{
+  "case_id": "hjSArmeoVKZoglXA9354",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "36-year-old Hispanic female; attorney"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "returning for follow-up visit and fluorescein angiography"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 week ago; prior to that, last comprehensive exam was unremarkable 2 years ago; wears single vision distance glasses"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: strabismus, father: retinal detachment"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "type I diabetes (diagnosed 15 years ago), last HbA1c 9.1% (2 weeks ago), fasting blood sugar 165 mg/dL (this morning)"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "insulin; currently working with endocrinologist to adjust medication to improve blood sugar control"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: ovarian cancer"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 15 mmHg, OS: 15 mmHg @ 9:50 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "116/81 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "70 bpm, regular"
+      },
+      {
+        "label": "Additional info:",
+        "value": "several minutes after injecting the patient with fluorescein dye, she reports that she has difficulty breathing, her tongue and lips feel swollen, and her throat feels like it is closing"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: retinopathy observed at last visit; advised to return for fluorescein angiography",
+      "Location: OD, OS",
+      "Severity: severe",
+      "Nature of onset: unknown",
+      "Duration: comprehensive exam was 1 week ago",
+      "Frequency: n/a",
+      "Exacerbations/remissions: n/a",
+      "Relationship to activity or function: patient is diabetic with poorly controlled blood sugar",
+      "Accompanying signs/symptoms: blurred vision",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: depression",
+      "Endocrine: poorly controlled blood sugar",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -3.50 -1.25 x 082; VA distance: 20/60 (PHNI)",
+      "OS: -3.00 -1.50 x 112; VA distance: 20/60 (PHNI)",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: pinguecula OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_JDWNKVECSDRWFDDO9418.PNG",
+      "AnsweredCases/images/KI_QKETHORNBIUGNUQA9419.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following represent the MOST appropriate cause of the patient’s symptoms following the injection of fluorescein?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anaphylactic shock",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Orthostatic hypotension",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ketoacidosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vasovagal syncope",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Myocardial infarction",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Anaphylactic shock is defined as a severe, multi-system, acute, type I hypersensitivity allergic reaction that may be life-threatening. Signs of an allergic reaction include tingling, itching, hives, swelling of lips and tongue, constriction of the airway, vasodilation, myocardial depression, and a decrease in blood pressure. An anaphylactic shock response to injected fluorescein is extremely rare. A literature review reported that it occurs 0.3% of the time, and that over the past 55 years there have been 7 published fatalities. One case report recounted an incident of anaphylactic shock after topical instillation of sodium fluorescein; however, the patient had a history of previous anaphylactic episodes to other allergens. Therefore, it is essential for all practitioners to have quick and easy access to basic medical emergency supplies. More common non-life-threatening reactions to injected fluorescein include nausea, vomiting, and hives. Postural hypotension, also known as orthostatic hypotension, is a condition in which a patient’s blood pressure drops dramatically after a change in posture. Typically, when standing after sitting or lying down, one may experience dizziness, lightheadedness, or may even faint. The condition generally lasts a few seconds or minutes and then abates with no lasting effects. In the event that it is caused by dehydration, diabetes, or heart problems, treatment may be required. This condition is more frequently encountered in the elderly. Patients do not usually report difficulty breathing or swelling of the throat and lips. Ketoacidosis can occur during periods of starvation, low carbohydrate levels, when there is excessive breakdown of fats, or in uncontrolled diabetes. Carbohydrate catabolism is always favored over the formation of ketone bodies. When there is an excessive amount of acetyl-CoA present, ketone bodies are formed (for instance, acetone). When the body is starving, the brain uses ketones as a fuel source to maintain regulatory functions. The ketone bodies are acidic and can lower the pH of the blood. Warning signs include vomiting, flushed skin, difficulty breathing, and confusion. A key sign to watch and/or smell for is the presence of fruity breath. Ketoacidosis can lead to a diabetic coma or death. People with type I diabetes are more susceptible to ketoacidosis than those suffering from type II diabetes. Other than difficulty breathing, the patient in this case does not display typical signs of ketoacidosis. A myocardial infarction occurs secondary to a blockage of blood flow to the heart, causing damage to cardiac tissue. The most common symptom of a heart attack is chest pain. Patients may report difficulty breathing (as in this case), but the lips, tongue, and throat will not swell. Vasovagal syncope causes a person to faint; it can occur in response to extreme emotional stress or trauma, a heart problem, or heat exposure, to name a few. Again, with this condition, one will not experience swelling of the lips, throat, or tongue."
+    },
+    {
+      "number": 2,
+      "stem": "Considering the patient’s symptoms, what is the FIRST thing you should do in this situation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Have the patient place her hands above her head and stretch upwards as far as possible",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Have the patient place her head between her knees and breathe in and out of a paper bag",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Place the patient in an upright position and give her water",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Initiate cardiopulmonary resuscitation",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Place an ammonia ampule under the patient's nose",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Place the patient in a supine position while having a staff member call 9-1-1",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "If anaphylactic shock is suspected, it is important to first place the patient in a supine position to ensure that they do not fall and hurt themselves. As you are placing the patient in a supine position, it is important to have your staff call 9-1-1 simultaneously. Appropriate medical attention, which in most cases involves an injection of epinephrine, should be administered immediately to ensure timely treatment and the highest chances of successful medical intervention. In cases where the patient is vomiting, then the patient should be placed on his/her side. A patient suffering from vasovagal syncope can be roused by breaking an ammonia ampule and introducing it under the nose. Ammonia irritates mucous membranes, activating the inhalation reflex, and thereby increasing the respiration rate. If a patient has fainted or has experienced a significant drop in blood pressure, he/she should be placed in a supine position and should remain lying down. If the person states that he/she feels better, do not let him/her get up immediately because there is a risk of fainting again. The blood pressure must return to normal and remain stable for a while before the patient should stand up again."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST appropriate initial treatment for the patient in this situation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Injection of epinephrine into the patient's thigh",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Administration of 100% oxygen to the patient",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Administration of nitroglycerin spray",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Administration of oral Benadryl® tablets",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Give the patient orange juice or another high-sugar content beverage",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Have the patient continue to lay down until the blood pressure returns to normal for several minutes",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Epinephrine (EpiPen®) is injected intramuscularly to the upper lateral thigh to ensure rapid delivery. Epinephrine activates both alpha and beta-adrenergic receptors, causing an increase in peripheral vascular resistance, and also allows for an increase in blood pressure and coronary artery perfusion. Epinephrine also serves to reverse vasodilation and decrease urticaria and angioedema. For severe, life-threatening reactions, Benadryl® (diphenhydramine) will not work quickly enough. 9-1-1 should always be called immediately in the event of anaphylactic shock (even if you have epinephrine handy) as the effects of epinephrine may not last long enough or may not be strong enough, and the patient may still have progression of symptoms that can lead to apnea, syncope, and cardiac arrest. When a patient with diabetes suffers from a hypoglycemic event, orange juice may rapidly increase blood sugar levels; however, for the most part, diabetics need to limit their ingestion of juices due to their high sugar content. Nitroglycerin may be administered in the event of a myocardial infarction as it serves to relax the smooth muscles of the blood vessels. This medication should not be used if the patient has low blood pressure. Anticoagulants, antiplatelets, and medications that dissolve clots are also frequently used to treat heart attacks. While the treatment of anaphylactic shock may include oxygen delivery, immediate injection of epinephrine is the most appropriate initial treatment."
+    },
+    {
+      "number": 4,
+      "stem": "Given the patient's retinal findings, which of the following fluorescein angiography results would you expect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Areas of hypofluorescence corresponding with cotton wool spots, and hyperfluorescence where edema is present",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dot/blot hemorrhages and areas of neovascularization will appear hypofluorescent",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Areas with dot/blot hemorrhages will appear hyperfluorescent, and areas of neovascularization will appear hypofluorescent",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Areas of hyperfluorescence corresponding with cotton wool spots, as will areas of neovascularization",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "A quick summary of fluorescein angiography: -The outer one-third of the retina is supplied by the choriocapillaris which is fenestrated; therefore, fluorescein will readily diffuse through these vessels -The inner two-thirds of the retina is supplied by retinal blood vessels that possess tight endothelial junctions; these form the inner blood-retinal barrier and should not allow for leakage of fluorescein in a normal retina -Endothelial junctions become destroyed in diabetes cases, leading to leakage of fluorescein from retinal vessels -Dot/blot hemorrhages will block fluorescence locally because they are attributable to leakage of the retinal vasculature -Capillary nonperfusion will appear as areas of hypofluorescence -Leaky vessels will appear hyperfluorescent -Microaneurysms and areas of retinal edema will appear hyperfluorescent -Cotton wool spots will be hypofluorescent -Areas of neovascularization will appear hyperfluorescent"
+    },
+    {
+      "number": 5,
+      "stem": "The patient returns for a follow-up visit several months later and you note the following retinal findings in the right eye: scattered dot/blot hemorrhages and cotton wool spots in all four quadrants, venous beading in the superotemporal and inferotemporal quadrants, and intraretinal microvascular abnormalities in the superotemporal quadrant. Which of the following represents the correct classification for the patient's right eye retinal findings at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild non-proliferative diabetic retinopathy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Proliferative diabetic retinopathy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Moderate non-proliferative diabetic retinopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Severe non-proliferative diabetic retinopathy",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Non-proliferative diabetic retinopathy (NPDR) is divided into three categories: mild NPDR, moderate NPDR, and severe NPDR. Mild NDPR is associated with hard exudates (away from the macular region), microaneurysms, and isolated dot/blot hemorrhages. Moderate NPDR occurs when there is a greater degree of ischemia and vascular leakage, indicated by an increase in the number of hemorrhages, the presence of venous beading/tortuosity, cotton wool spots, and/or the presence of intraretinal microvascular abnormalities (IRMA). Severe NPDR is a worsening of moderate NPDR, with dot/blot hemorrhages and microaneurysms observed in all four quadrants of the retina, in addition to venous beading in at least two quadrants, and IRMA in at least one quadrant. Proliferative diabetic retinopathy (PDR) occurs with the development of new, abnormal, preretinal blood vessel growth and proliferation. Neovascularization may be observed at the optic nerve (neovascularization of the disc), greater than 1 disc diameter away from the disc (neovascularization elsewhere), and/or new blood vessel growth at the iris (rubeosis iridis). PDR is also associated with large preretinal hemorrhages (keel or boat-shaped) and proliferation of fibrovascular tissue that may lead to a tractional retinal detachment."
+    }
+  ]
+}

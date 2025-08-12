@@ -1,0 +1,336 @@
+{
+  "case_id": "UpDDzKjQWkKpSqY11782",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "58-year-old Filipino male; accountant"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurry vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 1 year ago; wears single vision reading glasses only"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypertension, hyperlipidemia"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "lisinopril, atorvastatin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypertension, hyperlipidemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 11 mmHg, OS: 11 mmHg @ 8:30 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "132/80 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "82 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: decreased vision at near with current glasses",
+      "Location: OD, OS",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 6 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: better if he holds reading material further away",
+      "Relationship to activity or function: near vision only; distance vision is adequate",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: VA distance: 20/20",
+      "OS: VA distance: 20/20",
+      "OD: +1.75 -0.50 x 172; VA near: 20/30 @ 40 cm",
+      "OS: +2.00 -0.25 x 180; VA near: 20/30 @ 40 cm",
+      "OD: plano -0.50 x 175 add: +2.25; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "OS: +0.25 -0.50 x 180 add: +2.25; VA distance: 20/20, VA near: 20/20 @ 40 cm",
+      "lids/lashes/adnexa: 1+ MGD OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: 1+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: 0.40 H/0.40 V",
+      "macula: normal",
+      "posterior pole: normal",
+      "periphery: unremarkable",
+      "C/D: 0.40 H/0.40 V",
+      "macula: normal",
+      "posterior pole: see images 1 & 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_QEWSIBBGUMLEUHL11849.PNG",
+      "AnsweredCases/images/KI_LIAYUFURSFJPKTB11850.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis for the patient's left eye retinal condition observed in images 1 and 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypertensive retinopathy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Branch retinal artery occlusion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ocular ischemic syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Diabetic retinopathy",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Branch retinal vein occlusion",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Hollenhorst plaque",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "This patient's retinal finding is consistent with a diagnosis of a Hollenhorst plaque. A Hollenhorst plaque is typically observed as a shiny, yellowish, refractile deposit that is commonly noted at the bifurcation of a retinal artery. It is often found on routine eye examinations and without any associated loss of vision. This is because the plaque is mainly composed of cholesterol and therefore tends to be malleable, often allowing for the passage of blood around the blockage. Patients presenting with a Hollenhorst plaque typically have associated atherosclerotic disease that may be accelerated by concurrent hypertension, diabetes mellitus, elevated serum levels of low-density cholesterol (LDL), obesity, smoking, and a sedentary lifestyle. A branch retinal artery occlusion (BRAO) may be accompanied by the presence of a concurrent Hollenhorst plaque; however, in patients wherein this is the case, ischemia of the retina ensues due to the blockage of blood flow to the area supplied by the artery. Patients are usually symptomatic, complaining of a unilateral, painless, abrupt loss of a portion of their visual field. Alternatively, a complete transient loss of vision may occur (amaurosis fugax). Retinal evaluation will reveal superficial opacification and an edematous appearance of the retina in the area of distribution of the affected branch retinal artery. Narrowing or box-carring of the retinal artery, segmentation of the blood column, or emboli are occasionally also observed in a branch retinal artery occlusion. Branch retinal vein occlusions also typically cause a unilateral painless loss of vision; however, retinal findings typically reveal superficial hemorrhages in a sector of the retina downstream from the area of occlusion of a retinal vein. There may also be associated cotton-wool spots, retinal edema, dilated and tortuous veins, or narrowing and sheathing of the adjacent retinal artery. A vein occlusion occurs secondary to compression of a retinal vein by an atherosclerotic artery at an arteriovenous crossing point. Branch retinal vein occlusions are typically due to uncontrolled hypertension. Patients presenting with hypertensive retinopathy tend to be asymptomatic (similar to those presenting with a Hollenhorst plaque), although they may experience decreased vision in more severe cases. Retinal findings of chronic hypertension include arteriovenous crossing changes, retinal arteriolar sclerosis, flame-shaped hemorrhages, cotton-wool spots, exudates, and arterial macroaneurysms. Occasionally, there may also be an associated central or branch retinal artery or vein occlusion, or a Hollenhorst plaque. Patients with ocular ischemic syndrome (carotid occlusive disease) usually present with decreased vision, periorbital or ocular pain, and a history of unilateral transient visual loss. Most patients are males between 50-80 years of age. Retinal evaluation commonly reveals dilated and irregular retinal veins, narrowed retinal arterioles, and mid-peripheral retinal hemorrhages. There may also be concurrent iris neovascularization or posterior segment neovascularization."
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following BEST describes the most likely origin of the retinal finding observed in images 1 and 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ulcerated atheromatous plaque from the aortic arch",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ulcerated atheromatous plaque from a coronary artery",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thrombus from the left side of the heart",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ulcerated atheromatous plaque from the carotid bifurcation",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Plaque material from calcified heart valves",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "An embolism observed in the retinal vasculature suggests the presence of foreign material in the involved blood vessel that may be composed of cholesterol, fibrin, or calcium. In the eye, the most common source of a retinal embolism is the ulceration and release of material from an atheromatous plaque at the carotid bifurcation. Less commonly, rupture of a plaque from the aortic arch area may also lead to a retinal embolism, and in all cases, a coronary source of the material should also be considered. Typically, the plaque lodges in a retinal artery that is narrower than the plug of material, or at the bifurcation of a retinal artery. Each type of emboli has certain characteristics that aid in diagnosis and management of the condition as described below: • Cholesterol emboli ° Appear as bright, refractile, golden to yellow-orange crystals ° Often located at bifurcation of retinal arteries ° Rarely cause significant obstruction of the arterioles and are frequently asymptomatic ° Often discovered on a routine eye examination ° Cholesterol plaques are malleable, which commonly allows for blood flow to course around the embolus and continue to supply the retinal tissue ° May result in fleeting loss of vision that lasts from seconds to several minutes (amaurosis fugax) due to temporary blockage of a retinal arteriole, followed by breaking up of the embolism ° Quick dislodging of the material often occurs without permanent visual impairment ° Plaques tend to move quickly and may not be present during an office visit ° Patients commonly have concurrent hypertension and elevated cholesterol levels • Calcific emboli ° May originate from atheromatous plaques in the ascending aorta, carotid arteries, or from calcified heart valves ° Usually appear as single, white plugs of material either on or close to the optic disc (may be overlooked) ° These types of emboli are more dangerous (as compared to the other two) because they may cause permanent occlusion ° More likely to block the central retinal artery or one of its main branches • Fibrin-platelet emboli ° Present as dull, gray, elongated particles ° Commonly observed in multiple areas and occasionally fill the entire lumen of an artery ° May cause a transient ischemic attack (TIA) with amaurosis fugax, and occasionally results in complete obstruction of a retinal artery • Other uncommon causes of retinal emboli: ° Giant cell arteritis ° Cardiac embolism (calcific emboli from aortic or mitral valves, vegetations from cardiac valves in bacterial endocarditis, thrombus, myxomatous material) ° Periarteritis ° Thrombophilic disorders ° Sickling hemoglobinopathies ° Retinal migraine"
+    },
+    {
+      "number": 3,
+      "stem": "Which 3 of the following tests should be performed on all patients presenting with this retinal condition? (Select 3)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluorescein angiography",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Magnetic resonance angiography",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fasting blood glucose and lipid panel",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Electrocardiogram",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Carotid artery ultrasound",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The presence of a retinal embolus indicates concurrent significant systemic vascular disease. Patients with this condition require referral to an internist, vascular surgeon, or cardiologist for further medical evaluation of the underlying etiology of their ocular condition. The mortality rate for patients with cholesterol emboli has been shown to be 15% within the first year of diagnosis, 29% by the third year, and 54% by the seventh year. The main cause of mortality in this population is cardiac death, therefore proper treatment and management by a medical specialist is extremely important, as the patient's risk for stroke, retinal vascular occlusive disease, myocardial infarction, and kidney failure is elevated. •All patients with signs/symptoms of a retinal embolus must undergo the following medical investigations: ° Pulse - to detect possible atrial fibrillation ° Blood pressure ° Carotid evaluation - by auscultation (to detect a bruit) and duplex scanning ° Electrocardiogram ° Blood testing - including complete blood count, fasting glucose and lipids, and erythrocyte sedimentation rate • Selected patients require additional testing as indicated: ° Echocardiogram ° Magnetic resonance angiography ° Blood testing - • Thrombophilia screen • Autoantibodies (anticardiolipin, lupus anticoagulant, ANA, anti-dsDNA, and ANCA) and homocysteine"
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following ranges of arterial stenosis are MOST likely to produce the sound of a carotid bruit on auscultation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 to 90% occlusion",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "40 to 99% occlusion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "30 to 50% occlusion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "20 to 75% occlusion",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "10 to 60% occlusion",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "A bruit is a \"whooshing\" sound that may be heard between quick beats of the heart (mid-systole), commonly representing irregular flow of blood around a thrombus in the carotid artery. However, many carotid bruits are discovered incidentally in an asymptomatic patient, and the presence of a bruit does not necessarily indicate artery stenosis. On the other hand, the absence of a bruit does not rule out the possibility of carotid artery occlusion because a bruit is unlikely to be heard if the stenosis blocks less than 40-50% of the diameter of the artery (as there is not enough turbulence to be heard), or more than 85-90% (as the flow may be too low). A higher pitch associated with a carotid bruit indicates a greater extent of occlusion of the artery."
+    },
+    {
+      "number": 5,
+      "stem": "What is the BEST ocular treatment for the patient at this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intravenous acetazolamide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Panretinal photocoagulation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Intravitreal anti-VEGF injection",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anterior chamber paracentesis",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Ocular indentation using a three-mirror contact lens",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Monitor the condition",
+          "correct": true
+        }
+      ],
+      "answer": "F",
+      "explanation": "No specific ocular therapy has been proven valuable in the treatment of a Hollenhorst plaque found in a branch retinal artery (and the same holds true if the plaque has resulted in a subsequent branch retinal artery occlusion). It is most important to report ocular findings to the patient's primary care physician and refer the patient for a vascular work-up within 48 to 72 hours so that treatment of the underlying condition may be re-evaluated. Ocular massage, anterior chamber paracentesis, and intravenous acetazolamide are all possible treatments for patients with a central retinal artery occlusion, so that the embolism may be dislodged, and further subsequent visual loss may be prevented (if at all possible). In cases where neovascularization develops (possible in CRAO, BRAO, BRVO, or ocular ischemic syndrome), panretinal photocoagulation may be indicated."
+    }
+  ]
+}

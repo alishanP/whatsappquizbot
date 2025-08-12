@@ -1,0 +1,358 @@
+{
+  "case_id": "tiFUJaTIMJAUnNP13906",
+  "total_questions": 6,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "76-year-old white male; retired military officer"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "visual hallucinations"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "worsening vision in both eyes with his current glasses"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "cataracts, dry age-related macular degeneration OU"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: macular degeneration"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypertension, hyperlipidemia, history of myocardial infarction"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Lipitor®, Coumadin®, Zestril®"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: type II diabetes, father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 18 mmHg, OS: 19 mmHg @ 9:45 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "128/84 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "64 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: patient has been experiencing visual hallucinations; sees faces in plants on his patio and cartoon-like animals in his house; he is not afraid of these images and he knows that they are not real",
+      "Location: OD, OS",
+      "Severity: mild-moderate",
+      "Nature of onset: gradually increasing in frequency",
+      "Duration: 3 months",
+      "Frequency: once per week; lasts for about 1 minute",
+      "Exacerbations/remissions: none",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: visual hallucinations",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -4.00 -1.75 x 165 add: +3.00; VA distance: 20/400 (PHNI)",
+      "OS: -3.50 -1.00 x 020 add: +3.00; VA distance: 20/200 (PH 20/150)",
+      "OD: -4.50 -1.25 x 165 add: +3.00; VA distance: 20/400, VA near: 20/400 @ 33 cm",
+      "OS: -4.00 -1.50 x 020 add: +3.00; VA distance: 20/150, VA near: 20/150 @ 33 cm",
+      "lids/lashes/adnexa: 2+ dermatochalasis OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: 2+ arcus OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: 2+ nuclear sclerosis OD, OS",
+      "vitreous: PVD OD, OS",
+      "C/D: 0.25 H/0.25 V",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: 0.25 H/0.25 V",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_JJTTPVEUMJQQTJE13972.PNG",
+      "AnsweredCases/images/KI_TQNWFDMBBMYJWHK13973.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Which of the following diagnoses BEST describes the etiology of the patient's visual hallucinations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Charles Bonnet syndrome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Anton syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Schizophrenia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Delirium",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Alzheimer disease",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Acute psychosis",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Charles Bonnet syndrome (CBS) is a disorder that involves visual hallucinations in visually impaired individuals. In order to be classified as having CBS, a patient must have intact cognition with no history of psychiatric disorders, neurologic abnormalities, drug abuse, toxic, metabolic, or infectious etiologies, or dementia. Additionally, patients with CBS do not experience hallucinations in any other sensory modalities (hearing, smell, etc.), and they have the ability to retain insight into the unreal nature of the hallucinations. Patients are not typically disturbed or frightened by the hallucinations, but they may be reluctant to tell other family members or physicians due to the fear of being labeled as having dementia and referred for inappropriate psychiatric care. Common characteristics of Charles Bonnet syndrome: • Patients are typically elderly with acquired visual loss • Loss of vision in these patients is usually bilateral • Diagnosis of exclusion (no history of cognitive impairment) • Patients are aware of the unreal nature of the hallucinations (this is a major differentiating factor between CBS and senile dementia) • Patients do not have hallucinations of other sensory modalities • Hallucinations are easy to identify and commonly have strange and amusing characteristics • Images are seen in finer detail than real objects, given the patient's level of visual impairment • Episodes may last from seconds to hours • Duration may be from days to years • The hallucinatory episodes can occur in clusters, or with regular frequency • They tend to be self-limiting and generally diminish in frequency over time • Patients may experience simple or complex hallucinations"
+    },
+    {
+      "number": 2,
+      "stem": "Which of the following ocular conditions has the HIGHEST association with these types of visual hallucinations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glaucoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diabetic retinopathy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Optic neuritis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Age-related macular degeneration",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Corneal scars",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Cataracts",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "The most commonly reported ocular disease that has been associated with Charles Bonnet syndrome (CBS) is age-related macular degeneration (AMD); however, any ocular pathology or surgical procedure that leads to loss of vision can precipitate CBS. These include cataracts, corneal disease, glaucoma, macular holes, central retinal artery occlusions, retinal detachment, optic neuritis, retinitis pigmentosa, diabetic retinopathy, and even post-enucleation. Given the fact that macular degeneration is the most common cause of central vision loss, it is not surprising that it has the highest association with CBS. There have also been reports of CBS in patients who have experienced damage to the connections between the eye and occipital cortex via cerebral disease. In these cases, patients had accompanying visual field loss (often homonymous hemianopsias), and the reported visual hallucinations occurred in the area of newly acquired visual field loss."
+    },
+    {
+      "number": 3,
+      "stem": "What is the MOST common type of visual hallucination in a patient with this diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Buildings",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Shapes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trees",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Animals",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Faces",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The most commonly reported visual hallucinations in patients diagnosed with Charles Bonnet syndrome are those of people and faces. These facial images are usually unfamiliar to the patient and are of strangers that the patient does not recognize. The faces also typically wear friendly expressions and therefore do not evoke an unpleasant emotional response in the patient. Individuals commonly further describe the faces as having wide, unblinking eyes that make frequent eye contact with the viewer, prominent teeth, and they are often wearing hats with elaborate costumes. Most patients feel as though the hallucinations are amusing and quite enjoyable once they have gotten accustomed to them. It is important to educate patients and reassure them that the hallucinations that they are experiencing are normal sequelae of their vision loss and are not related to senile dementia."
+    },
+    {
+      "number": 4,
+      "stem": "Which of the following is LEAST likely to cause visual hallucinations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recreational drug use",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Parkinson disease",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Intracranial tumors",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lack of exercise",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Sleep deprivation",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "All of the following conditions may cause visual hallucinations: • Toxic/metabolic disorders ° Hallucinogenic agents ° Drug and alcohol withdrawal syndromes ° Medications with toxic side effects ° Metabolic encephalopathies (due to endocrine disturbances, vitamin deficiency, inflammatory and infectious diseases, cardiopulmonary insufficiency, etc.) • Psychiatric disorders ° Acute psychosis ° Affective disorder ° Delirium ° Schizophrenia • Neurologic disorders ° Parkinson disease ° Migraine ° Dementia ° Epilepsy ° Brain-stem lesions ° Hemispheric lesions ° Narcolepsy-cataplexy syndrome • Miscellaneous conditions: ° Sensory and sleep deprivation ° Intense emotional states (grief, stress) ° Hypnopompic and hypnagogic states ° Charles Bonnet syndrome"
+    },
+    {
+      "number": 5,
+      "stem": "Which 2 of the following images can be considered simple visual hallucinations? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Striped cat",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Floating bubbles",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Redwood tree",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Checkerboard pattern",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Cartoon character",
+          "correct": false
+        }
+      ],
+      "answer": "D",
+      "explanation": "Visual hallucinations in patients with Charles Bonnet syndrome (CBS) may be either simple or complex in nature. Simple hallucinations include images of colored shapes, such as stars or other geometric shapes, as well as repeating patterns. In contrast, complex visual hallucinations have much more detailed shapes and recognizable forms. These types of images can include faces, people, figures, and common objects, which are typically observed in greater detail than the level of acuity of the patient. In addition to these characteristic images, it is not uncommon for visual hallucinations in CBS to be miniature in size, an effect called \"Lilliputian hallucinations."
+    },
+    {
+      "number": 6,
+      "stem": "What can be included in the education of patients with this condition to help reduce the appearance of visual hallucinations when they occur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Walk toward the hallucination",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decrease lighting conditions",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Relaxation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rapid blinking",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Several situations have been shown to increase the occurrence of visual hallucinations associated with Charles Bonnet syndrome. These include social or physical isolation, dimly lit conditions, and evening hours when relaxation and drowsiness tend to occur. Due to the fact that these visual hallucinations are typically amusing and of low significance or annoyance to the patient, simply reassuring and educating the patient of the benign nature of the condition is often adequate, and further treatment is not usually indicated. However, some patients have reported certain techniques that have been effective in reducing the duration of visual hallucinations. These methods involve rapid blinking, closure of the eyes, improved lighting, walking away from the images, and participating in diversionary activities. Additionally, increasing personal interactions, socialization, and forming strong social networks is also encouraged in patients wishing to decrease the frequency of recurrences."
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "case_id": "WcOevDDEKvVBAHh12746",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "3-year-old American Indian female; preschool student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "occasional eye turn"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "1st eye exam"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "paternal uncle: strabismus"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable; normal birth history and developmental milestones"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: type II diabetes"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity (Lea Symbols)",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: 16 prism diopter intermittent, left esotropia (frequency 8/10) near: 18 prism diopter intermittent, left esotropia (frequency 7/10)"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Gross observation:",
+        "value": "see image 1"
+      },
+      {
+        "label": "Wet retinoscopy",
+        "value": "2 gtts of 1% cyclopentolate instilled 5 minutes apart"
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 11 mmHg, OS: 11 mmHg @ 8:05 am by via Tonopen"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: patient's mother reports that her daughter's eye occasionally turns inward",
+      "Location: OS",
+      "Severity: moderate",
+      "Nature of onset: gradual",
+      "Duration: first noticed when she was 1 year old",
+      "Frequency: intermittent; occurring more often recently",
+      "Exacerbations/remissions: worse when tired or at the end of the day",
+      "Relationship to activity or function: prolonged near activities",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/30, near: 20/25 @ 40 cm",
+      "OS: distance: 20/80, near: 20/60 @ 40 cm",
+      "OD: +3.50 -0.50 x 170 (gross retinoscopy findings with 67 cm working distance)",
+      "OS: +6.25 -1.25 x 160 (gross retinoscopy findings with 67 cm working distance)",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: normal OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see images 2 & 3",
+      "macula: see images 2 & 3",
+      "posterior pole: see images 2 & 3",
+      "periphery: unremarkable",
+      "C/D: see images 3 & 4",
+      "macula: see images 3 & 4",
+      "posterior pole: see images 3 & 4",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_NMSVDMAXSIBMBUL12811.PNG",
+      "AnsweredCases/images/KI_YUSVBOLQJAMABHJ12812.PNG",
+      "AnsweredCases/images/KI_VSROYIZTBMMFNSN12813.PNG",
+      "AnsweredCases/images/KI_RJJOCRUONRFNHRJ12814.PNG",
+      "AnsweredCases/images/KI_TYGBLOBGCSCGJAX12815.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the GROSS wet retinoscopy findings for this patient, what are the NET retinoscopy findings for the right and left eye, respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "OD: +2.50 -0.50 x 170; OS: +5.25 -1.25 x 160",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "OD: +3.00 -0.50 x 170; OS: +5.75 -1.25 x 160",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "OD: +3.50 -0.50 x 170; OS: +6.35 -1.25 x 160",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "OD: +5.00 -0.50 x 170; OS: +7.75 -1.25 x 160",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "OD: +2.00 -0.50 x 170; OS: +4.75 -1.25 x 160",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "The gross retinoscopy findings refer to the overall initial retinoscopy results before the working distance has been accounted for. In order to determine the net findings, one must subtract the reciprocal of the working distance in meters from the spherical portion of the gross findings. The reciprocal of the working distance in this case is: 1/0.67 = 1.50 D. 1.50 D is then subtracted from the spherical portion of the gross retinoscopy findings to determine the net results."
+    },
+    {
+      "number": 2,
+      "stem": "If you were to perform the Bruckner reflex test on this patient, which of the following results would you expect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The reflex of both eyes would be equally bright",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The left eye would display a brighter reflex",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The reflex of both eyes would be equally dim",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The right eye would display a brighter reflex",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Bruckner reflex test is performed by dimming the room lights, sitting in front of the patient, and directing the light from your direct ophthalmoscope (on the largest aperture setting) at the bridge of the patient's nose. The patient is then asked to fixate on the light. Asymmetry between the brightness of the reflexes may be caused by strabismus, anisometropia, anisocoria, and certain pathologies, such as a large retinal detachment or retinoblastoma. In the event of strabismus, the deviated eye will appear brighter because more light is reflected from the retinal periphery."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following methods of visual acuity testing for toddlers typically offers the MOST accurate measurement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Landolt Cs",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Lea symbols",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Allen figures",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lighthouse cards",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Landolt Cs or tumbling Es typically offer the most accurate method of determining visual acuity in young children. Studies have shown that when compared to Landolt Cs, Lea symbols with crowding bars overestimated visual acuity by roughly two logMAR lines. However, keep in mind that Landolt Cs and tumbling Es still overestimate acuity due to a limited number of variables. With both methods, there is a 25% chance the patient will guess correctly. Ultimately, letters are the most accurate optotype to use; however, this is not always feasible, especially in young children. Of the picture-based optotypes listed, Lea symbols will overestimate visual acuity the least. Research has demonstrated that if using picture-based optotypes, the most accurate method of determining visual acuity is single Lea symbol presentation with crowding bars. Allen figures may overestimate or underestimate (if the patient is unfamiliar with the images) a patient's true visual acuity level. Because of this, amblyopia may sometimes go undetected. Lighthouse cards also have a tendency to overestimate visual acuity. Some of the symbols used are vastly different from each other so that even if they are significantly blurred, one can still discern the shape and correctly identify it."
+    },
+    {
+      "number": 4,
+      "stem": "If you were to perform a fixation preference test on this patient, which of the following results would you MOST likely expect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient will not likely cooperate due to the difficult nature of the test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "After uncovering the right eye, the patient will change fixation from the left eye to the right eye",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "After uncovering the right eye, the patient will maintain fixation with the left eye",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The patient will alternate fixation equally between the eyes",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "The fixation preference test is typically reserved for non-verbal patients and serves as a screening test for amblyopia. The basic principle behind the test is that if amblyopia is present, a toddler will prefer to fixate on an object with the non-amblyopic eye. A target is presented to the toddler and the clinician will typically note that the child fixates on the target with the non-deviated eye. The preferred eye is then temporarily occluded forcing the deviated eye to fixate on the target. The occluder is then removed and the results are recorded. If the toddler re-fixates with the preferred eye then it is highly likely that the non-preferred eye is amblyopic (the toddler prefers a clear image instead of a blurry one). Maintaining fixation with the non-preferred eye for more than 5 seconds, through a blink or while pursuing it when the target is slowly moved, suggests that there is no amblyopia present. Similarly, if the child alternates fixation between the eyes equally in order to view the target, then it may be deduced that amblyopia is absent. The fixation preference test is a good predictor of amblyopia in large-angle tropias, but it may lead to an over-diagnosis in patients with small-angle strabismus with monofixation syndrome. For patients with small-angle deviations or with straight eyes (no strabismus), the vertical prism test (aka the induced tropia test, or the 10 diopter fixation test) is more appropriate and will yield more accurate results."
+    },
+    {
+      "number": 5,
+      "stem": "Considering developmental milestones, given this patient's age, which of the following drawings would you expect her to be able to reproduce?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A square",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A heart",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A vertical line",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A diamond",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "A star",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Children's motor skills increase with exposure, time and experience. A 3-year-old child is able to recognize different shapes but is not usually capable of drawing them yet; however, a 3-year-old child should be able to draw a vertical line. By 4 to 6 years of age, most children are adept enough to draw a square and a triangle. A diamond shape is typically reproducible by a child who is 6 or 7 years of age."
+    }
+  ]
+}

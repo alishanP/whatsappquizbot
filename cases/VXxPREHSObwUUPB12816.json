@@ -1,0 +1,329 @@
+{
+  "case_id": "VXxPREHSObwUUPB12816",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "64-year-old white male; banker"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "loss of vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; wears PALs full time"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "father: wet macular degeneration"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "hypertension, hyperlipidemia, asthma, myocardial infarction (2 years ago)"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "Atenolol®, Lipitor®, albuterol, baby aspirin"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "mother: hypertension, osteoarthritis, father: hypertension, hyperlipidemia"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Habitual spectacle Rx",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Keratometry",
+        "value": ""
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 12 mmHg @ 1:30 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "120/78 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "74 bpm, regular"
+      },
+      {
+        "label": "Threshold visual fields:",
+        "value": ""
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: sudden decrease in vision",
+      "Location: OD",
+      "Severity: severe",
+      "Nature of onset: acute",
+      "Duration: 2 days",
+      "Frequency: constant",
+      "Exacerbations/remissions: vision appears worse at night",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: floaters, diminished color vision",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: occasional shortness of breath",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: -1.75 -0.50 x 090 add: +2.25; VA distance: 20/200 (with eccentric viewing) PHNI",
+      "OS: -3.00 -0.25 x 100 add: +2.25; VA distance: 20/40 PHNI",
+      "OD: 42.50 @ 090 / 42.00 @ 180; no distortion of mires",
+      "OS: 42.25 @ 110 / 42.00 @ 020; no distortion of mires",
+      "OD: -2.00 -0.50 x 090 add: +2.50; VA distance: 20/200, VA near: 20/200 @ 40 cm",
+      "OS: -3.25 -0.25 x 110 add: +2.50; VA distance: 20/40, VA near: 20/40 @ 40 cm",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: trace injection OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: 1+ nuclear sclerosis, trace posterior subcapsular cataract OD, 1+ nuclear sclerosis, 2+ posterior subcapsular cataract OS",
+      "vitreous: 1+ cells, 2+ vitreous haze OD, OS",
+      "C/D: 0.25 H / 0.25 V",
+      "macula: choroidal neovascular membrane",
+      "posterior pole: similar to OS (see image 1)",
+      "periphery: unremarkable",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "OD: see image 2",
+      "OS: see image 3"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_ZIKNUQQMWIXJADK12877.PNG",
+      "AnsweredCases/images/KI_BWHSQMOYGDUDGLZ12878.PNG",
+      "AnsweredCases/images/KI_BDBYAMGOBVRZFYI12879.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Given the examination findings, what is the MOST likely diagnosis of the patient's retinal condition observed in image 1?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vogt-Koyanagi-Harada syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sarcoidosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Birdshot chorioretinopathy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Serpiginous choroidopathy",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Neurosyphilis",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Birdshot chorioretinopathy is a rare autoimmune condition that affects the choroid and retina. Typically, this condition occurs bilaterally and is characterized by symmetrical, cream-colored flecks that are located surrounding the optic disc and radiate out towards the periphery. Birdshot can be accompanied by vitritis, retinal vasculopathy, subretinal neovascularization, cystoid macular edema, geographic atrophy, and a macular serous detachment. A visual defect is common and typically takes the form of peripheral field constriction or an enlarged blind spot; however, a central scotoma may be present if the condition is associated with a choroidal neovascular membrane or a macular scar. Patients may report decreased visual acuity, difficulty with night vision, and diminished color perception. Diagnostic criteria for birdshot chorioretinopathy: Required characteristics include: - Disease in both eyes - 3 or more peripapillary birdshot lesions (cream-colored, irregular or elongated, choroidal lesions with long axis radiating from optic disc) - 1+ or less anterior vitreous cells - 2+ or less vitreous haze Supportive findings: - HLA-A29 positive - Retinal vasculitis - Cystoid macular edema (CME) Exclusion criteria: - Keratic precipitates - Posterior synechiae - Other causes (i.e. infectious, neoplastic, inflammatory) Serpiginous choroidopathy is an uncommon, idiopathic, and bilateral progressive disease of the choroid. It is characterized by gray-white to yellow-white subretinal infiltrates with hazy borders that typically become brighter with time. As in birdshot, the infiltrates initially appear surrounding the optic disc, but instead of radiating out to the periphery, they gradually spread out in a snake-like pattern towards the macula. Typically, there is an associated vitritis, but it is also common to have a mild anterior uveitis. Sarcoidosis is a granulomatous inflammatory condition that is most commonly observed in African-American women between 20 to 40 years of age. Ocular involvement is observed in roughly 25 to 50% of individuals with this condition. Ocular manifestations include: iritis with large mutton-fat-like keratic precipitates (most common finding), iris nodules, conjunctival nodules, dry eyes, enlargement of the lacrimal gland, posterior synechiae, cataracts, posterior uveitis, secondary glaucoma, sheathing of the peripheral retinal vasculature (\"candle-wax drippings\"), macular edema, fundus granulomas, and neovascularization of the disc and retina."
+    },
+    {
+      "number": 2,
+      "stem": "Which Human Leukocyte Antigen (HLA) is MOST likely associated with this patient’s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "HLA-B51",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "HLA-A29",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "This condition is not associated with HLA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "HLA-B27",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "HLA-DR4",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "HLA-A29 is present in 95% of cases of birdshot chorioretinopathy, which suggests this condition is an autoimmune disease. HLA-B27 is associated with ankylosing spondylitis and reactive arthritis HLA-DR4 is found to have a higher prevalence in Japanese patients with Vogt-Koyanagi-Harada syndrome. HLA-B51 is commonly found in patients with Behcet disease."
+    },
+    {
+      "number": 3,
+      "stem": "Which of the following represents the BEST initial treatment option given this patient’s diagnosis? (Select 2)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Topical corticosteroids",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Oral corticosteroids",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Oral acyclovir",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "No treatment is indicated",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Topical cyclopentolate",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "Anti-VEGF injection",
+          "correct": true
+        },
+        {
+          "label": "G",
+          "text": "Penicillin G injection",
+          "correct": false
+        }
+      ],
+      "answer": "F",
+      "explanation": "In most cases, if left untreated, patients will experience a progressive decline in visual function. - Due to the choroidal neovascular membrane in the right eye, an anti-VEGF injection is recommended - For acute flares of birdshot chorioretinopathy, oral steroids are commonly prescribed - For chronic disease management, immunomodulatory therapy is recommended; this includes cyclosporin A, mycophenolate mofetil, azathioprine, methotrexate, adalimumab, or infliximab Topical steroids are used to treat anterior uveitis. Depending upon the severity, this medication is usually dosed q.1.h. until there is a significant improvement in anterior segment cells and flare, then it is tapered until fully resolved. Cyclopentolate is commonly used in the treatment of anterior uveitis to help with patient comfort by decreasing ciliary spasm. Oral acyclovir is used to treat herpes keratitis, while penicillin G is used to treat syphilis."
+    },
+    {
+      "number": 4,
+      "stem": "What is the MOST likely cause of the patient's decreased best-corrected visual acuity in the left eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dry eye syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Keratoconus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dry age-related macular degeneration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cataract",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "Cataracts are the most likely cause of a patient's decrease in best-corrected visual acuity in the left eye. Posterior subcapsular cataracts (PSC) are lens opacities that are the result of cellular migration from the equator to the posterior pole. This type of cataract tends to affect visual acuity to a greater degree than other types of cataracts due to the fact that it is closest to the posterior nodal point of the eye and is usually located at or near the visual axis. Patients with PSCs will typically complain of decreased acuity in bright light and, to a lesser degree, in low light. This asymmetrical disruption of visual acuity in varying light levels stems from changes in pupil size. In bright light the pupils constrict, creating a small aperture that is covered by the opacification. In low lighting conditions, the pupils dilate, allowing for greater lens exposure, most of which is not opacified (or at least to a lesser degree), commonly resulting in improved vision in low light. Dry eye syndrome can cause a reduction in best-corrected visual acuity, but in this case there were no signs during the examination that indicated that the patient suffers from dry eyes. Keratoconus is a progressive disorder in which the cornea has an irregular cone shape. It typically begins in puberty and continues to progress with time. It is usually bilateral. This patient also does not show any signs of keratoconus. Dry age-related macular degeneration is characterized as a slow progressive disease in which drusen and/or geographic atrophy of the RPE can be observed. This patient’s macula does not show any of these findings."
+    },
+    {
+      "number": 5,
+      "stem": "With appropriate treatment for the retinal condition and cataract surgery, what is the visual prognosis for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Good OD and OS",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Good OD, limited OS",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Limited OD, good OS",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Poor OD and OS",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Due to the presence of a choroidal neovascular membrane in the right eye, visual prognosis may be limited. Generally, in birdshot chorioretinopathy, visual improvement often occurs with proper treatment; therefore, the left eye has the potential to resolve. The patient does; however, also have visually significant cataracts; therefore, cataract surgery is indicated (once the retinal inflammation has resolved) and will likely improve visual acuity if the surgery is successful and without complications."
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "case_id": "asLtMVfxsnDYuACc9218",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "25-year-old white male; mail carrier"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "itchy eyes"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; does not wear correction"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "none"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "caffeine"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 13 mmHg, OS: 14 mmHg @ 12:00 pm by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "100/75 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "66 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: eyelids are itchy and irritated",
+      "Location: OD, OS",
+      "Severity: mild",
+      "Nature of onset: gradual",
+      "Duration: 3 weeks",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at night",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: mild redness and tearing",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/20; near: 20/20 @ 40 cm",
+      "OS: distance: 20/20; near: 20/20 @ 40 cm",
+      "OD: +0.25 -0.25 x 013; VA distance: 20/20",
+      "OS: +0.25 DS; VA distance: 20/20",
+      "lids/lashes/adnexa: see image 1 OD, see image 2 OS",
+      "conjunctiva: 1+ injection with palpebral follicles OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 3",
+      "macula: see image 3",
+      "posterior pole: see image 3",
+      "periphery: unremarkable",
+      "C/D: see image 4",
+      "macula: see image 4",
+      "posterior pole: see image 4",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_TGQSQNHACUMMPTLA9284.PNG",
+      "AnsweredCases/images/KI_VZTMBIIOUROEYWTR9285.PNG",
+      "AnsweredCases/images/KI_QWZAYPDUULBEGHPF9286.PNG",
+      "AnsweredCases/images/KI_FEALIFFMFCGVQHCP9287.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate diagnosis of the patient's ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phthiriasis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ticks",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Demodex",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mites",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Phthiriasis palpebrarum is caused by Phthirus pubis (also known as pubic lice or crabs). Phthirus pubis is a very small organism measuring about 2 mm long with a broad, flat body. Slit lamp examination may reveal P. pubis clinging to the base of an eyelash or buried within the eyelid margin, small brown deposits on the lid margin (feces), dried blood along the base of the eyelashes, small circular translucent nits (eggs), conjunctival injection and follicles, potential preauricular lymphadenopathy, and in extreme cases, marginal keratitis. Maculae ceruleae may also be observed, appearing as dermal blue spots that are produced at the feeding site by the saliva of lice. Demodex is a mite that is frequently found on the dermis, especially near sebaceous glands. Studies suggest that 90-95% of people over the age of 45 possess some form of Demodex. Most patients with this condition are asymptomatic. In moderate cases, the clinician may observe mild inflammation and keratin sleeves along the bases of the eyelashes, while the patient may report itching and mild ocular irritation. In the event of a more severe ocular infestation, biomicroscopy may reveal thickening of the lid margins, erythema, conjunctival injection, and trichiasis; all of which are typically a result of concurrent blepharitis and meibomian gland dysfunction. If treatment is not initiated, patients may experience corneal neovascularization, along with marginal infiltrates. Symptoms are typically worse in warm weather and infestations are not limited to hair bearing areas of the body. Mites are incredibly small (0.3 to 0.4 mm) and are unlikely to be viewed without magnification. Ticks are part of the arachnid family and are typically found in grassy, wooded areas living on many bird and animal hosts. Tick bites are generally not serious, but the ticks may carry diseases such as Lyme disease, Rocky Mountain spotted fever, Tularemia, and Colorado tick fever (among others) that they can pass along to their hosts. Indications of these diseases may include flu-like symptoms, fatigue, muscle aches, nausea, and vomiting."
+    },
+    {
+      "number": 2,
+      "stem": "What is the MOST appropriate initial treatment for this ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Application of Kwell® shampoo to the lid margins and surrounding ocular structures",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Exposure of the organisms to extreme heat",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Removal of the organisms with jeweler's forceps",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Application of petroleum jelly ophthalmic ointment q.h.s. to the eyelid margins",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Cleansing of the eyelid margins with diluted tea tree oil",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Proper treatment of P. pubis includes mechanical removal of all nits and lice with jeweler's forceps, followed by placing them onto an alcohol wipe which is then immediately disposed of. Most clinicians will then prescribe a bland ophthalmic ointment such as bacitracin, which serves to smother the lice. The ointment is applied t.i.d. for 10-14 days after removal of all visible lice and eggs. Other topical treatments such as malathion, mercury oxide, fluorescein, and pilocarpine have been shown to be effective, in addition to physical treatments such as cryotherapy, and argon laser photocoagulation; however, mechanical removal followed by ophthalmic ointment is the most widely utilized option. Anti-lice shampoos are not approved for ocular use and cannot be applied to the eye due to their high potential for ocular surface toxicity."
+    },
+    {
+      "number": 3,
+      "stem": "What other counseling should be included in your patient education considering this patient’s ocular condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All clothes, bath towels, and bedding must be laundered and dried on high heat and then sealed in a bag for 14 days",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "He is required to wear sunglasses and bandage contact lenses to ensure that this condition fully resolves",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The condition can lead to severe permanent corneal damage if he is not compliant with the treatment",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is essential that he stays in isolation for two weeks given the extremely contagious nature of his condition",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "The eggs laid by a louse will hatch every 7 to 10 days; therefore, after laundering all bedding, towels, and clothes in the washer and dryer (with a temperature of at least 131 degrees Fahrenheit for 5 or more minutes), all contaminated items should be placed into a sealed air-tight plastic bag. The patient should also be cautioned about transmission of the condition and should avoid sharing any combs, towels, bedding etc. with others. The patient should be informed that partners from any sexual encounters over the previous month should be evaluated for infestation and possible treatment. The patient and his partner should also not engage in sexual activity until they both have been treated and are clear of any infestation. If the condition is left untreated, his ocular symptoms will become more uncomfortable, but he is not at risk for suffering any damage to his corneas."
+    },
+    {
+      "number": 4,
+      "stem": "After the initiation of treatment, when should the patient return to your office for a follow-up visit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7 days",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6 months",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 month",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "14 days",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "1 day",
+          "correct": true
+        }
+      ],
+      "answer": "E",
+      "explanation": "Because the Phthirus eggs may be hard to see, any missed nits will hatch daily; therefore, it is suggested that patients be monitored every day to ensure complete removal of eggs and lice."
+    },
+    {
+      "number": 5,
+      "stem": "Given this diagnosis, what additional referrals should be made to ensure optimal results?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Referral to a neurologist",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Referral to an ophthalmologist",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Referral to his primary care physician",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Referral to the centers for disease control and prevention (CDC)",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Referral to a dermatologist",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Once a diagnosis of Phthiriasis is made, it is important to refer the patient to his primary care physician. Additional sexually transmitted diseases, along with the possibility of Phthirus infestation of other areas of the body needs to be ruled out and/or treated. If the patient tests positive either for a concurrent sexually transmitted disease or pubic lice, he should inform recent sexual partners to ensure that they are properly treated as well."
+    }
+  ]
+}

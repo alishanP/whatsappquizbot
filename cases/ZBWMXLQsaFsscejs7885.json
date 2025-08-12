@@ -1,0 +1,319 @@
+{
+  "case_id": "ZBWMXLQsaFsscejs7885",
+  "total_questions": 5,
+  "details": {
+    "pairs": [
+      {
+        "label": "Demographics",
+        "value": "23-year-old American Indian female; college student"
+      },
+      {
+        "label": "Chief complaint",
+        "value": "blurred vision"
+      },
+      {
+        "label": "History of present illness",
+        "value": ""
+      },
+      {
+        "label": "Secondary complaints/symptoms",
+        "value": "none"
+      },
+      {
+        "label": "Patient ocular history",
+        "value": "last eye exam 2 years ago; was prescribed glasses but never wears them"
+      },
+      {
+        "label": "Family ocular history",
+        "value": "mother: glaucoma suspect, maternal grandfather: macular degeneration"
+      },
+      {
+        "label": "Patient medical history",
+        "value": "unremarkable"
+      },
+      {
+        "label": "Medications taken by patient",
+        "value": "oral contraceptives"
+      },
+      {
+        "label": "Patient allergy history",
+        "value": "NKDA"
+      },
+      {
+        "label": "Family medical history",
+        "value": "father: hypertension"
+      },
+      {
+        "label": "Review of systems",
+        "value": ""
+      },
+      {
+        "label": "Mental status",
+        "value": ""
+      },
+      {
+        "label": "Clinical findings",
+        "value": ""
+      },
+      {
+        "label": "Uncorrected visual acuity",
+        "value": ""
+      },
+      {
+        "label": "Pupils:",
+        "value": "PERRL, negative APD"
+      },
+      {
+        "label": "EOMs:",
+        "value": "full, no restrictions OU"
+      },
+      {
+        "label": "Cover test:",
+        "value": "distance: orthophoria, near: 10 exophoria"
+      },
+      {
+        "label": "Confrontation fields:",
+        "value": "full to finger counting OD, OS"
+      },
+      {
+        "label": "Subjective refraction",
+        "value": ""
+      },
+      {
+        "label": "Slit lamp",
+        "value": ""
+      },
+      {
+        "label": "IOPs:",
+        "value": "OD: 14 mmHg, OS: 13 mmHg @ 8:00 am by Goldmann applanation tonometry"
+      },
+      {
+        "label": "Fundus OD",
+        "value": ""
+      },
+      {
+        "label": "Fundus OS",
+        "value": ""
+      },
+      {
+        "label": "Blood pressure:",
+        "value": "115/78 mmHg, right arm, sitting"
+      },
+      {
+        "label": "Pulse:",
+        "value": "67 bpm, regular"
+      }
+    ],
+    "bullets": [
+      "Character/signs/symptoms: blurry vision at all distances",
+      "Location: OD, OS",
+      "Severity: mild-moderate",
+      "Nature of onset: gradual",
+      "Duration: 3 months",
+      "Frequency: constant",
+      "Exacerbations/remissions: worse at night, better when she turns her head to the right",
+      "Relationship to activity or function: none",
+      "Accompanying signs/symptoms: none",
+      "Constitutional/general health: denies",
+      "Ear/nose/throat: denies",
+      "Cardiovascular: denies",
+      "Pulmonary: denies",
+      "Dermatological: denies",
+      "Gastrointestinal: denies",
+      "Genitourinary: denies",
+      "Musculoskeletal: denies",
+      "Neuropsychiatric: denies",
+      "Endocrine: denies",
+      "Hematologic: denies",
+      "Immunologic: denies",
+      "Orientation: oriented to time, place, and person",
+      "Mood: appropriate",
+      "Affect: appropriate",
+      "OD: distance: 20/30, near: 20/20 @ 40 cm",
+      "OS: distance: 20/30, near: 20/20 @ 40 cm",
+      "OD: -0.25 -1.25 x 062; VA distance: 20/20",
+      "OS: plano -1.50 x 170; VA distance: 20/20",
+      "lids/lashes/adnexa: unremarkable OD, OS",
+      "conjunctiva: nasal pinguecula OD, OS",
+      "cornea: clear OD, OS",
+      "anterior chamber: deep and quiet OD, OS",
+      "iris: normal OD, OS",
+      "lens: clear OD, OS",
+      "vitreous: clear OD, OS",
+      "C/D: see image 1",
+      "macula: see image 1",
+      "posterior pole: see image 1",
+      "periphery: unremarkable",
+      "C/D: see image 2",
+      "macula: see image 2",
+      "posterior pole: see image 2",
+      "periphery: unremarkable"
+    ],
+    "images": [
+      "AnsweredCases/images/KI_UHYIBUOJNIKEDUEZ7951.PNG",
+      "AnsweredCases/images/KI_MKFZAUUPPMTFDTLM7952.PNG"
+    ]
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "What is the MOST appropriate classification of the patient's right eye and left eye refractive errors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "OD: simple myopic astigmatism; OS: mixed astigmatism",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "OD: compound myopic astigmatism; OS: compound myopic astigmatism",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "OD: compound myopic astigmatism; OS: simple astigmatism",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "OD: mixed astigmatism; OS: mixed astigmatism",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "OD: simple myopic astigmatism; OS: simple myopic astigmatism",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "OD: mixed astigmatism; OS: compound myopic astigmatism",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "Compound myopic astigmatism occurs when both principal meridians are myopic. Simple myopic astigmatism is the result of one emmetropic meridian and one myopic meridian. A prescription is classified as mixed astigmatism when one principal meridian is myopic and the other is hyperopic."
+    },
+    {
+      "number": 2,
+      "stem": "If you were to perform the modified Thorington technique to measure this patient's near phoria, which of the following results would you expect to observe if the Maddox rod is to be placed over the right eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A red vertical streak observed to the right of the spot of light",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A red horizontal streak observed to the left of the spot of light",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A red horizontal streak observed to the right of the spot of light",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A red vertical streak observed to the left of the spot of light",
+          "correct": true
+        }
+      ],
+      "answer": "D",
+      "explanation": "The modified Thorington technique is performed by placing the test card at 40 cm. A Maddox rod is introduced over the right eye (or left eye) with its axis oriented horizontally. The eye with the Maddox rod is occluded while a penlight is directed through the hole in the center of the card. The patient should report seeing a light and some letters and numbers. It is important that these targets should remain clear throughout the entire test. Unocclude the eye with the Maddox rod (right eye). The patient should now see a red vertical streak that is superimposed upon the Thorington card. Direct the patient's gaze towards the spot of light and ask the patient to note which letters or numbers the horizontal streak is closest to. Flash the penlight on and off, each time asking the patient to inform you where the streak was located. Continue flashing the penlight until two consistent responses are obtained. If the patient has an exo deviation, s/he will report seeing a vertical streak to the left of the spot of light (Maddox rod over the right eye). If the Maddox rod is over the left eye, the streak will be observed to the right of the spot of light. Each optotype represents one prism diopter."
+    },
+    {
+      "number": 3,
+      "stem": "You decide to evaluate the patient’s near vergence ranges. According to Sheard's criterion, which of the following findings would likely ensure that this patient remains asymptomatic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Negative fusional convergence (NFC): 10/16/8",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Positive fusional convergence (PFC): 22/28/16",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Positive fusional convergence (PFC): 8/18/10",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Negative fusional convergence (NFC): 15/20/12",
+          "correct": false
+        }
+      ],
+      "answer": "B",
+      "explanation": "Sheard's criterion states that in order for a patient to remain asymptomatic, the amount of the reserve fusional vergence (when the patient reports blur) must be twice that of the measured phoria. This patient has 10 prism diopters of exophoria at near and therefore needs at least 20 prism diopters of positive fusional vergence reserve to ensure that she remains asymptomatic. Sheard's criterion applies best to phorias of larger magnitudes."
+    },
+    {
+      "number": 4,
+      "stem": "If you perform the astigmatic clock dial on the patient’s right eye, which of the following lines would she MOST likely report to appear bolder, blacker, and sharper?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3-9 line",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-7 line",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2-8 line",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "5-11 line",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "6-12 line",
+          "correct": false
+        },
+        {
+          "label": "F",
+          "text": "4-10 line",
+          "correct": false
+        }
+      ],
+      "answer": "C",
+      "explanation": "The astigmatic clock dial is a technique utilized to test for astigmatism. This method is based on the fact that a target (in our case a black line) that lies parallel to a line focus that is closest to the retina of an eye with astigmatism will appear to be clearer than a line that lies perpendicular to it. Accordingly, the black line of the astigmatic dial that is closest to the least ametropic meridian of an astigmatic eye will appear clearest. The line that is the least in-focus will be located 90 degrees away from this location. Typically, in order to determine the corresponding axis of astigmatism utilizing the clock dial, one must multiply the smallest number of the clearest clock position by 30 degrees. In this case, we must work backwards. The patient's axis of astigmatism is 62 degrees. 62/30 = 2.0666 or 2. Therefore, the 2-8 line will appear clearest to the patient. In general, the line perpendicular to the clearest line is the least clear, as this corresponds to the second principal meridian of the eye. Remember, the principal meridians of the eye are 90 degrees apart. In order for the astigmatic clock dial to work properly, accommodation must be controlled, otherwise the astigmatic interval will shift either forwards or backwards, causing the perception of the clearest line to be altered. Accommodation can be controlled either by fogging (the addition of plus lenses in the phoropter) or, as a last resort, cycloplegia."
+    },
+    {
+      "number": 5,
+      "stem": "Given the patient's prescription, which of the following keratometry readings would you MOST expect for the right and left eye, respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "OD: 44.50 @ 065 / 45.25 @ 155; OS: 44.75 @ 170 / 46.75 @ 080",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "OD: 43.00 @ 060 / 41.75 @ 150; OS: 42.50 @ 171 / 41.00 @ 081",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "OD: 46.00 @ 070 / 44.75 @ 140; OS: 46.25 @ 165 / 44.75 @ 075",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "OD: 41.25 @ 090 /42.75 @ 180; OS: 41.00 @ 160 / 42.50 @ 070",
+          "correct": false
+        }
+      ],
+      "answer": "A",
+      "explanation": "Javal's rule can be used to predict the magnitude of refractive astigmatism based upon keratometry readings. The formula is: refractive astigmatism = (1.25 x the difference in keratometry readings) +/- 0.50 D. If the astigmatism is with-the-rule, 0.50 D is subtracted; if the astigmatism is against-the-rule, 0.50 D is added to the results. If the astigmatism is oblique, 0.50 D is dropped from the equation. Grosvenor et al. (1988) later proposed that dropping the 1.25 factor from the equation yields more accurate results and modified the formula to: refractive astigmatism = the difference in keratometry readings +/- 0.50 D (added or subtracted based upon whether the astigmatism is with- or against-the-rule). Oblique astigmatism simply is thought to be equal to the oblique corneal toricity. Therefore, given the above patient's refractive findings, and taking into account the findings of Grosvenor et al., the closest match would be: OD: 44.50 @ 065 / 45.25 @ 155; OS: 44.75 @ 170 / 46.75 @ 080. The right eye displays 0.75 D of against-the-rule corneal toricity; adding 0.50 (from Grosvenor's work) yields 1.25 D of astigmatism. The left eye depicts 2.00 D of with-the-rule corneal toricity. 2.00 - 0.50 = 1.50 D (remember that the flatter meridian represents the axis of astigmatism)."
+    }
+  ]
+}
