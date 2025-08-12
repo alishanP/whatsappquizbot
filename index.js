@@ -207,7 +207,7 @@ async function endOfCase(client, groupId, userId) {
     groupId,
     `📦 *Case complete!*\n` +
     `• Cases done *today*: ${stats.today}\n` +
-    `• Cases done *lifetime*: ${stats.lifetime}\n`
+    `• Cases done *lifetime*: ${stats.lifetime}`
   );
   // move on
   setTimeout(() => startNextCase(client, groupId, TARGET_USER), 2500);
