@@ -44,4 +44,4 @@ COPY . .
 RUN mkdir -p /app/.wwebjs_auth /app/pdfs
 
 ENV NODE_ENV=production
-CMD ["node", "index2.js"]
+CMD ["node", "index3.js"]

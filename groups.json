@@ -1,0 +1,17 @@
+[
+  {
+    "group_id": "120363404016981513@g.us",
+    "allowed_users": ["221487537590429@lid"],
+    "cases_dir": "./cases"
+  },
+  {
+    "group_id": "120363420361667280@g.us",
+    "allowed_users": ["221487537590429@lid"],
+    "cases_dir": "./cases"
+  },
+  {
+    "group_id": "120363419083171916@g.us",
+    "allowed_users": ["447491453219@c.us"],          
+    "cases_dir": "./cases"   
+  }
+]
